@@ -4,38 +4,46 @@
 <!--		For manuscripts currently under review <a href="preprints.html">click here</a>-->
 		</p>
 
+		<p>Kousathanas, A., Pairo-Castineira, E., Rawlik, K., Stuckey, A., Odhams, C. A., and colleagues [includes COVID-19 Host Genetics Initiative consortium authorship] (2022)<br>
+		<b>Whole genome sequencing reveals host factors underlying critical Covid-19</b><br>
+		<i>Nature</i> <b>doi</b>: 10.1038/s41586-022-04576-6 (<a href="abstracts/kousathanas_etal_2022.html">abstract</a> <a href="https://www.nature.com/articles/s41586-022-04576-6">pdf</a>)
+
 		<p>Stevens, E. J., Morse, D. J., Bonini, D., Duggan, S., Brignoli, T., Recker, M., Lees, J. A., Croucher, N. J., Bentley, S., Wilson, D. J., Earle, S. G., Dixon, R., Nobbs, A., Jenkinson, H., van Opijn, T., Thibauld, D., Wilkinson, O. J., Dillingham, M. S., Carlile, S., McLoughlin, R. M. and R. C. Massey (2022)<br>
 		<b>Targeted control of pneumolysin production by a mobile genetic element in <i>Streptococcus pneumoniae</i></b><br>
-		<i>Microbial Genomics</i>, in press (<a href="http://www.danielwilson.me.uk/abstracts/stevens_etal_2022.html">abstract</a>)
+		<i>Microbial Genomics</i> <b>doi</b>: 10.1099/mgen.0.000784 (<a href="abstracts/stevens_etal_2022.html">abstract</a> <a href="https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.000784">pdf</a>)
+
+		<p>Muloi, D. M., Wee, B. A., McClean, D. M. H., Ward, M. J., Pankhurst, L., Phan, H., Ivens, A. C., Kivali, V., Kiyong'a, A., Ndinda, C., Gitahi, N., Ouko, T., Hassell, J. M., Imboma, T., Akoko, J., Murungi, M. K., Njoroge, S. M., Muinde, P., Nakamura, Y., Alumasa, L., Furmaga, E., Kaitho, T., &Ouml;hgren, E. M., Amanya, F., Ogendo, A., Wilson, D. J., Bettridge, J. M., Kiiru, J., Kyobutungi, C., Tacoli, C., Kang’ethe, E. K., Davila, J. D., Kariuki, S., Robinson, T. P., Rushton, J., Woolhouse, M. E. J. and E. M. F&egrave;vre (2022)<br>
+		<b>Population genomics of <i>Escherichia coli</i> in livestock-keeping households across a rapidly developing urban landscape</b><br>
+		<i>Nature Microbiology</i> <b>7</b>: 581-589 (<a href="abstracts/muloi_etal_2022.html">abstract</a> <a href="https://www.nature.com/articles/s41564-022-01079-y">pdf</a>)
 
 		<p>The COVID-19 Host Genetics Initiative (2021)<br>
 		<b>Mapping the human genetic architecture of COVID-19</b><br>
-		<i>Nature</i> <b>doi</b>: 10.1038/s41586-021-03767-x (<a href="http://www.danielwilson.me.uk/abstracts/covid19hgi_2021.html">abstract</a> <a 
+		<i>Nature</i> <b>doi</b>: 10.1038/s41586-021-03767-x (<a href="abstracts/covid19hgi_2021.html">abstract</a> <a 
 href="https://www.nature.com/articles/s41586-021-03767-x">pdf</a>)
 
 		<p>Lin, S.-K., De Maio, N., Pedergnana, V., Wu, C.-H., Th&eacute;z&eacute;, J., 
 		Wilson, D. J., Barnes, E. and M. A. Ansari (2021)<br>
 		<b>Using host genetics to infer the global spread and evolutionary history of 
 		HCV subtype 3a</b><br>
-		<i>Virus Evolution</i> <b>doi</b>: 10.1093/ve/veab065 (<a href="http://www.danielwilson.me.uk/abstracts/lin_etal_2021.html">abstract</a> <a 
+		<i>Virus Evolution</i> <b>doi</b>: 10.1093/ve/veab065 (<a href="abstracts/lin_etal_2021.html">abstract</a> <a 
 		href="https://academic.oup.com/ve/advance-article/doi/10.1093/ve/veab065/6317967
 		">pdf</a>)
 
 		<p>Earle, S. G., Lobanovska, M., Lavender, H., Tang, C., Exley, R. M., Ramos-Sevillano, E.,  Browning, D., Kostiou, V., Harrison, O. B., Bratcher, H. B., Varani, G., Tang, C. M.,  Wilson, D. J. and M. C. J. Maiden (2021)<br>
 		<b>Genome-wide association studies reveal the role of polymorphisms affecting factor H binding protein expression in host invasion by <i>Neisseria meningitidis</i></b><br>		
-		<i>PLOS Pathogens</i> <b>17</b>: e1009992 (<a href="http://www.danielwilson.me.uk/abstracts/earle_etal_2021.html">abstract</a> <a href="https://www.medrxiv.org/content/10.1101/2021.01.08.21249443v1">preprint</a> <a href="https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1009992">pdf</a>)
+		<i>PLOS Pathogens</i> <b>17</b>: e1009992 (<a href="abstracts/earle_etal_2021.html">abstract</a> <a href="https://www.medrxiv.org/content/10.1101/2021.01.08.21249443v1">preprint</a> <a href="https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1009992">pdf</a>)
 
 		<p>Arning, N., Sheppard, S., Bayliss, S., Clifton, D. A. and D. J. Wilson (2021)<br>
 		<b>Machine learning to predict the source of campylobacteriosis using whole genome data</b><br>
-		<i>PLOS Genetics</i> <b>17</b>: e1009436 (<a href="http://www.danielwilson.me.uk/abstracts/arning_etal_2021.html">abstract</a> <a href="https://www.biorxiv.org/content/10.1101/2021.02.23.432443v1">preprint</a> <a href="https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1009436">pdf</a>)
+		<i>PLOS Genetics</i> <b>17</b>: e1009436 (<a href="abstracts/arning_etal_2021.html">abstract</a> <a href="https://www.biorxiv.org/content/10.1101/2021.02.23.432443v1">preprint</a> <a href="https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1009436">pdf</a>)
 
 		<p>Young, B. C., Wu, C.-H., Charlesworth, J., Earle, S., Price, J. R., Gordon, N. C., Cole, K., Dunn, L., Liu, E., Oakley, S., Godwin, H., Fung, R., Miller, R., Knox, K., Votintseva, A., Quan, T. P., Tilley, R., Scarborough, M., Crook, D. W., Peto, T. E., Walker, A. S., Llewelyn, M. J. and D. J. Wilson (2021)<br>
 		<b>Antimicrobial resistance determinants are associated with <i>Staphylococcus aureus</i> bacteraemia and adaptation to the hospital environment: a bacterial genome-wide association study</b><br>
-		<i>Microbial Genomics</i> <b>doi</b>: 10.1099/mgen.0.000700 (<a href="http://www.danielwilson.me.uk/abstracts/young_etal_2021.html">abstract</a> <a href="https://www.medrxiv.org/content/10.1101/2021.01.13.21249734v1">preprint</a> <a href="https://doi.org/10.1099/mgen.0.000700">pdf</a>)
+		<i>Microbial Genomics</i> <b>doi</b>: 10.1099/mgen.0.000700 (<a href="abstracts/young_etal_2021.html">abstract</a> <a href="https://www.medrxiv.org/content/10.1101/2021.01.13.21249734v1">preprint</a> <a href="https://doi.org/10.1099/mgen.0.000700">pdf</a>)
 
                 <p>Gill, J. L., Hedge, J., Wilson, D. J. and R. C. MacLean (2021)<br>
                 <b>Evolutionary processes driving the rise and fall of <i>Staphylococcus aureus</i> ST239, a dominant hybrid pathogen</b><br>
-                <i>mBio</i> in press. <i>bioRxiv</i> <b>doi</b>: 10.1101/2021.01.10.426095 (<a href="http://www.danielwilson.me.uk/abstracts/gill_etal_2021.html">abstract</a> <a href="https://www.biorxiv.org/content/10.1101/2021.01.10.426095v1">preprint</a>)
+                <i>mBio</i> in press. <i>bioRxiv</i> <b>doi</b>: 10.1101/2021.01.10.426095 (<a href="abstracts/gill_etal_2021.html">abstract</a> <a href="https://www.biorxiv.org/content/10.1101/2021.01.10.426095v1">preprint</a>)
 
 		<p>D. J. Wilson (2021)<br>
 		<b>The L&eacute;vy combination test</b><br>
@@ -43,7 +51,7 @@ href="https://www.nature.com/articles/s41586-021-03767-x">pdf</a>)
 
 		<p>Armstrong, J., Rudkin, J. K., Allen, N., Crook, D. W., Wilson, D. J., Wyllie, D. H. and A. M. O'Connell (2020)<br>
 		<b>Dynamic linkage of COVID-19 test results between Public Health England's Second Generation Surveillance System and UK Biobank</b><br>
-		<i>Microbial Genomics</i> <b>doi</b>: 10.1099/mgen.0.000397 (<a href="http://www.danielwilson.me.uk/abstracts/armstrong_etal_2020.html">abstract</a> <a href="https://doi.org/10.6084/m9.figshare.12091455">preprint</a> <a href="https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.000397">pdf</a>)
+		<i>Microbial Genomics</i> <b>doi</b>: 10.1099/mgen.0.000397 (<a href="abstracts/armstrong_etal_2020.html">abstract</a> <a href="https://doi.org/10.6084/m9.figshare.12091455">preprint</a> <a href="https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.000397">pdf</a>)
 
 		<p>The COVID-19 Host Genetics Initiative (2020)<br>
 		<b>The COVID-19 Host Genetics Initiative, a global initiative to elucidate the role of host genetic factors in susceptibility and severity of the SARS-CoV-2 virus pandemic</b><br>
@@ -51,11 +59,11 @@ href="https://www.nature.com/articles/s41586-021-03767-x">pdf</a>)
 
 		<p>The Severe Covid-19 GWAS Group [includes COVID-19 Host Genetics Initiative consortium authorship] (2020)<br>
 		<b>Genomewide Association Study of Severe Covid-19 with Respiratory Failure</b><br>
-		<i>New England Journal of Medicine</i> <b>383</b>: 1522-1534 (<a href="http://www.danielwilson.me.uk/abstracts/ellinghaus_etal_2020.html">abstract</a> <a href="https://www.nejm.org/doi/10.1056/NEJMoa2020283">pdf</a>)
+		<i>New England Journal of Medicine</i> <b>383</b>: 1522-1534 (<a href="abstracts/ellinghaus_etal_2020.html">abstract</a> <a href="https://www.nejm.org/doi/10.1056/NEJMoa2020283">pdf</a>)
 
 		<p>Pairo-Castineira, E., Clohisey, S., Klaric, L., Bretherick, A. D., Rawlik, K., and colleagues [includes COVID-19 Host Genetics Initiative consortium authorship] (2020)<br>
 		<b>Genetic mechanisms of critical illness in Covid-19</b><br>
-		<i>Nature</i> <b>doi</b>: 10.1038/s41586-020-03065-y (<a href="http://www.danielwilson.me.uk/abstracts/pairo-castineira_etal_2020.html">abstract</a> <a href="https://www.nature.com/articles/s41586-020-03065-y">pdf</a>)
+		<i>Nature</i> <b>doi</b>: 10.1038/s41586-020-03065-y (<a href="abstracts/pairo-castineira_etal_2020.html">abstract</a> <a href="https://www.nature.com/articles/s41586-020-03065-y">pdf</a>)
 
 <p>The CRyPTIC Consortium (2021)<br>
 <b>Genome-wide association studies of global <i>Mycobacterium tuberculosis</i> resistance to thirteen antimicrobials in 10,228 genomes</b><br>
