@@ -1,3 +1,3 @@
 		<h2>Page Not Found</h2>
-		<p>Sorry that page was not found at <a href="http://www.danielwilson.me.uk" target="_top">
+		<p>Sorry that page was not found at <a href="index.html" target="_top">
 				www.danielwilson.me.uk</a>. Use the navigation bar to choose a link.</p>

@@ -1,6 +1,6 @@
 		<h2>Publications and Preprints</h2>
 
-		<p>My ORCID is <a href="http://orcid.org/0000-0002-0940-3311">0000-0002-0940-3311</a>. My ResearcherID is <a href="http://www.researcherid.com/rid/C-1463-2019">C-1463-2019</a>. My Google Scholar profile is <a href="http://scholar.google.co.uk/citations?user=0FD9NekAAAAJ&hl=en">0FD9NekAAAAJ</a>.
+		<p>My ORCID is <a href="https://orcid.org/0000-0002-0940-3311">0000-0002-0940-3311</a>. My ResearcherID is <a href="https://www.researcherid.com/rid/C-1463-2019">C-1463-2019</a>. My Google Scholar profile is <a href="https://scholar.google.co.uk/citations?user=0FD9NekAAAAJ&hl=en">0FD9NekAAAAJ</a>.
 <!--		For manuscripts currently under review <a href="preprints.html">click here</a>-->
 		</p>
 
