@@ -2,7 +2,7 @@ harmonicmeanp.txt	Daniel Wilson Software - harmonicmeanp
 contact.txt	Daniel Wilson Contact Details
 cv.txt	Daniel Wilson CV
 index.txt	Daniel Wilson Homepage
-notfound.txt	Daniel Wilson - Page Not Found
+404.txt	Daniel Wilson - Page Not Found
 publications.txt	Daniel Wilson Publications
 research.txt	Daniel Wilson Research Interests
 software.txt	Daniel Wilson Software
