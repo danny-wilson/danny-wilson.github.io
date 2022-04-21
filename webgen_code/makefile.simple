@@ -1,0 +1,8 @@
+webgen : main.o
+	g++ -w -o3 -o webgen main.o
+
+main.o : main.cpp
+	g++ -w -o3 -c -o main.o main.cpp
+
+clean :
+	rm main.o
