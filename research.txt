@@ -1,6 +1,6 @@
 <h2>Research interests</h2>
 
-<p><b>For information on Bugbank, a project that aims to integrate infection data into UK Biobank, visit <a href="bugbank.html">this page</a>.</b></p>
+<p><b>For information on Bugbank, a project that aims to integrate infection data into UK Biobank, visit <a href="https://www.bugbank.uk">this page</a>.</b></p>
 
 <p>The goal of my group's research in pathogen population genomics is to reveal the evolutionary forces and phenotypic constraints shaping pathogen genomes by developing innovative new statistical methods based on evolutionary theory, population genetics and computational inference. Our ambition is to contribute towards a complete understanding - evolutionary, epidemiological and molecular - as to why bacteria cause disease so that scientists can reduce the global burden of disease by developing more effective strategies for prevention and treatment. For an introduction to recent advances in the rapidly emerging field of bacterial pathogen population genomics, see for example <a href="https://www.danielwilson.me.uk/abstracts/wilson_2012.html">Wilson (2012) <i>PLoS Pathogens</i> 8: e1002874</a>.</p>
 
