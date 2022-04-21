@@ -22,7 +22,7 @@
 		pipelines that implement a multifaceted approach to mapping bacterial phenotypes. You can download
 		our tools here.</p>
 		
-<a href="preprints.html">Preprint</a><br>
+<a href="abstracts/earle_etal_2016.html">Paper</a><br>
 <a href="https://github.com/sgearle/bugwas">Download R package</a><br>
 <a href="https://github.com/jessiewu/bacterialGWAS">Download bacterial GWAS pipeline</a><br>
 <a href="https://github.com/janepipistrelle/bacterial_GWAS_tutorial/blob/master/tutorial.rmd">Bacterial GWAS pipeline tutorial</a>
