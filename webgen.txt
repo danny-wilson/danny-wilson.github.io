@@ -1,4 +1,3 @@
-bugbank.txt	Daniel Wilson Research - Bugbank
 harmonicmeanp.txt	Daniel Wilson Software - harmonicmeanp
 contact.txt	Daniel Wilson Contact Details
 cv.txt	Daniel Wilson CV
