@@ -1,0 +1,37 @@
+<h2>Microbial isolation in English participants in the UK Biobank cohort: 
+comparison with the general population</h2>
+<p>Hilton, B., Wilson, D. J., O'Connell A. M., Ironmonger, D., Rudkin, J. K, 
+Allen, N., Oliver, I. and D. Wyllie (2020)<br>
+<i>medRxiv</i> <b>doi</b>:10.1101/2020.03.18.20038281 (<a href="https://www.medrxiv.org/content/10.1101/2020.03.18.20038281v1">preprint</a>)
+
+<p><b>Background</b>: Our understanding of the genetic and environmental risk 
+factors for serious bacterial infectious disease in ageing populations remains 
+incomplete. Utilising the UK Biobank (UKB), a prospective cohort study of 
+500,000 men and women aged 40-69 years at recruitment (2006-2010), could help 
+address this.</p>
+
+<p><b>Objectives</b>: To assess the feasibility of linking an England-wide 
+dataset of microbiological isolations to UK Biobank participants, and to 
+characterise microbial isolation from UK Biobank participants.</p>
+
+<p><b>Methods</b>: 
+Positive microbiological isolations from patients in England, as recorded in 
+the Public Health England Second Generation Surveillance System (SGSS), were 
+linked to UK Biobank participants using pseudonymised identifiers.</p>
+
+<p><b>Results</b>: By 
+January 2015, the ascertainment of laboratory reports from UK Biobank 
+participants by SGSS was estimated at 98%. 4.5% of English UK Biobank 
+participants had a positive microbiological isolate in 2015; Escherichia coli, 
+other Enterobacteriaceae and Staphylococcus aureus were the most common 
+isolates. Half the UKB isolates were obtained from 12 microbiology 
+laboratories, and 70% from 21 laboratories. Incidence rate ratios for microbial isolation, which is indicative of serious infection, from the UK Biobank cohort 
+relative to the comparably aged general population ranged from 0.6 to 1 for 
+different organisms, compatible with the previously described healthy 
+participant bias in UKB. </p>
+
+<p><b>Conclusions</b>: Data on microbial isolations can be 
+linked to UKB participants from January 2015 onwards. This linked data would 
+offer new opportunities for research into infectious disease in older 
+individuals.
+</p>

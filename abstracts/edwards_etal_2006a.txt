@@ -1,0 +1,26 @@
+<h2>Population genetic estimation of the loss of genetic diversity during horizontal transmission of 
+HIV-1</h2>
+
+<p>Edwards, C. T. T., E. C. Holmes, D. J. Wilson, R. P. Viscidi, E. J. Abrams, R. 
+					E. Phillips and A. J. Drummond (2006)<br>
+<i>BMC Evolutionary Biology</i> <B>6</B>: 28. (<a 
+href="http://www.biomedcentral.com/content/pdf/1471-2148-6-28.pdf" target="_blank">pdf</a>)</p>
+
+<p><b>Background</b>
+Genetic diversity of the human immunodeficiency virus type 1 (HIV-1) population within an individual is 
+lost during transmission to a new host. The demography of transmission is an important determinant of 
+evolutionary dynamics, particularly the relative impact of natural selection and genetic drift immediately 
+following HIV-1 infection. Despite this, the magnitude of this population bottleneck is unclear.</p>
+
+<p><b>Results</b>
+We use coalescent methods to quantify the bottleneck in a single case of homosexual transmission and find 
+that over 99% of the <i>env</i> and <i>gag</i> diversity present in the donor is lost. This was consistent 
+with the 
+diversity present at seroconversion in nine other horizontally infected individuals. Furthermore, we 
+estimated viral diversity at birth in 27 infants infected through vertical transmission and found there to 
+be no difference between the two modes of transmission.</p>
+
+<p><b>Conclusion</b>
+Assuming the bottleneck at transmission is selectively neutral, such a severe reduction in genetic 
+diversity has important implications for adaptation in HIV-1, since beneficial mutations have a reduced 
+chance of transmission.</p>

@@ -1,0 +1,107 @@
+		<h2>Publications</h2>
+		<p>Fledel-Alon, A., Wilson, D. J., Broman, K., Wen, X., Ober, C., Coop, G. and M. Przeworski (2009)<br>
+			<b>Broad-scale recombination patterns underlying proper disjunction in humans.</b><br>
+			<i>PLoS Genetics</i>, in press.
+
+		<p>Brehony, C., Wilson, D. J. and M. C. J. Maiden (2009)<br>
+			<b>Variation of the factor-H binding protein of <i>Neisseria meningitidis</i>.</b><br>
+			<i>Microbiology</i>, in press.
+
+		<p>Mullner, P., Spencer, S. E. F., Wilson, D. J., Jones, G., Noble, A. D., Midwinter, A. C., Collins-Emerson, J. M., Carter, P., Hathaway, S. and N. P. French (2009)<br>
+			    <b>Assigning the source of human campylobacteriosis in New Zealand: a comparative genetic and epidemiological approach.</b><br>
+			    <i>Infection, Genetics and Evolution</i>, in press.
+
+		<p>Wilson, D. J., Gabriel, E., Leatherbarrow, A. J. H., Cheesbrough, J., Gee, S., Bolton, E., Fox, A., Hart, C. A., Diggle, P. J. and P. Fearnhead (2009)<br>
+			   <b>Rapid evolution and the importance of recombination to the gastro-enteric pathogen <i>Campylobacter jejuni</i>.</b><br>
+			   <i>Molecular Biology and Evolution</i> <B>26</B>: 385-397. (<a href="abstracts/wilson_etal_2008b.html">abstract</a> <a href="http://mbe.oxfordjournals.org/cgi/reprint/26/2/385">pdf</a>)
+
+                <p>Sheppard, S. K., Dallas, J. F., Strachan, N. J. C., MacRae, M., McCarthy, N. D., Wilson, D. J., Gormley, F. J., Falush, D., Ogden, I. D., Maiden, M. C. J. and K. J. Forbes (2009)<br>
+                           <b><i>Campylobacter</i> genotyping to determine the source of human infection.</b><br>
+                           <i>Clinical Infectious Diseases</i> <B>48</B>: 1072-1078. (<a href="abstracts/sheppard_etal_2009.html">abstract</a> <a href="http://www.journals.uchicago.edu/doi/pdf/10.1086/597402">pdf</a>)
+
+		<p>Wilson, D. J., E. Gabriel, A. J. H. Leatherbarrow, J. Cheesbrough, S. Gee, E. Bolton, A. Fox, P. Fearnhead, C. A. Hart and P. J. Diggle (2008)<br>
+			<b>Tracing the source of campylobacteriosis.</b><br>
+			<i>PLoS Genetics</i> <B>4</B>: e1000203. (<a href="abstracts/wilson_etal_2008a.html">abstract</a> <a href="http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1000203">pdf</a> <a href="abstracts/plosgenetics.pdf">press-release</a>)</p>
+		<p>Wilson, D. J. and G. McVean (2006)<br>
+			<b>Estimating diversifying selection and functional constraint in the presence of 
+				recombination.</b><br>
+			<i>Genetics</i> <B>172</B>: 1411-1425. (<a href="abstracts/wilson_mcvean_2006.html">abstract</a> 
+<a href="http://www.genetics.org/cgi/reprint/172/3/1411" target="_blank">pdf</a>
+			<a href="software.html">software</a>)</p>
+		<p>Falush, D., M. Torpdahl, X. Didelot, D. F. Conrad, D. J. Wilson and M. Achtman (2006)<br>
+			<b>Mismatch induced speciation in <i>Salmonella</i>: model and data.</b><br>
+			<i>Philosophical Transactions of the Royal Society B</i> <b>361</b>: 2045-2053. (<a href="abstracts/falush_etal_2006.html">abstract</a> <a href="http://www.journals.royalsoc.ac.uk/openurl.asp?genre=article&id=doi:10.1098/rstb.2006.1925">pdf</a>)</p>
+		<p>Edwards, C. T. T., E. C. Holmes, O. G. Pybus, D. J. Wilson, R. P. Viscidi, 
+			E. J. Abrams, R. E. Phillips and A. J. Drummond (2006)<br>
+			<b>Evolution of the HIV-1 envelope gene is dominated by purifying selection.</b><br>
+			<i>Genetics</i> <B>174</B>: 1441-1453. (<a href="abstracts/edwards_etal_2006b.html">abstract</a> <a href="http://www.genetics.org/cgi/content/abstract/174/3/1441" target="_blank">pdf</a>)</p>
+		<p>Edwards, C. T. T., E. C. Holmes, D. J. Wilson, R. P. Viscidi, E. J. Abrams, R. 
+			E. Phillips and A. J. Drummond (2006)<br>
+			<b>Population genetic estimation of the loss of genetic diversity during horizontal 
+				transmission of HIV-1.</b><br>
+			<i>BMC Evolutionary Biology</i> <B>6</B>: 28. (<a href="abstracts/edwards_etal_2006a.html">abstract</a> <a href="http://www.biomedcentral.com/content/pdf/1471-2148-6-28.pdf" target="_blank">pdf</a>)</p>
+		<p>Wilson, D. J., D. Falush and G. McVean (2005)<br>
+			<B>Germs, genomes and genealogies.</B><br>
+			<I>Trends in Ecology and Evolution</I> <B>20</B>: 39-45. (<a href="abstracts/wilson_falush_mcvean_2005.html">abstract</a> <a href="http://www.sciencedirect.com/science?_ob=MImg&amp;_imagekey=B6VJ1-4DPGXJ6-1-1&amp;_cdi=6081&amp;_user=126524&amp;_orig=browse&amp;_coverDate=01%2F01%2F2005&amp;_sk=999799998&amp;view=c&amp;wchp=dGLbVlb-zSkWb&amp;md5=524e525ae9261a3235cb262a38bf0a9d&amp;ie=/sdarticle.pdf"
+				target="_blank">pdf</a>)</p>
+		<p>Wilson, D. J. and D. Falush (2005)<br>
+			<b>The genetic structure of human pathogens.</b><br>
+			In <I>Encyclopedia of Genetics, Genomics, Proteomics and Bioinformatics</I> edited 
+			by L. B. Jorde, P. F. R. Little, M. J. Dunn and S. Subramaniam. Wiley, New 
+			York. (<a href="abstracts/wilson_falush_2005.html">abstract</a>)</p>
+		<p>Jolley, K. A., D. J. Wilson, P. Kriz, G. McVean and M. C. J. Maiden (2005)<br>
+			<B>The influence of mutation, recombination, population history and selection on 
+				patterns of genetic diversity in <I>Neisseria meningitidis</I>.</B><br>
+			<I>Molecular Biology and Evolution</I> <B>22</B>: 562-569. (<a href="abstracts/jolley_etal_2005.html">abstract</a> <a href="http://mbe.oupjournals.org/cgi/reprint/22/3/562" target="_blank">pdf</a>)</p>
+		<p>Claus, H., M. C. J. Maiden, D. J. Wilson, N. D. McCarthy, K. A. Jolley, R. 
+			Urwin, F. Hessler, M. Frosch and U. Vogel (2005)<br>
+			<B>Genetic analysis of meningococci carried by children and young adults.</B><br>
+			<I>Journal of Infectious Diseases</I> <B>191</B>: 1263-1271. (<a href="abstracts/claus_etal_2005.html">abstract</a> <a href="http://www.journals.uchicago.edu/doi/abs/10.1086/428590"
+				target="_blank">pdf</a>)</p>
+		<p>Yazdankhah, S. P., P. Kriz, G. Tzanakaki, J. Kremastinou, J. Kalmusova, M. 
+			Musilek, T. Alvedstad, K. A. Jolley, D. J. Wilson, N. D. McCarthy, D. A. 
+			Caugant and M. C. J. Maiden (2004)<br>
+			<B>Distribution of Serogroups and Genotypes among Disease-Associated and Carried 
+				Isolates of <I>Neisseria meningitidis</I> from the Czech Republic, Greece, and 
+				Norway.</B><br>
+			<I>Journal of Clinical Microbiology</I> <B>42</B>: 5146-5153. (<a href="abstracts/yazdankhah_etal_2004.html">abstract</a> <a href="http://jcm.asm.org/cgi/reprint/42/11/5146.pdf" target="_blank">pdf</a>)</p>
+
+		<h2>Presentations</h2>
+		<p>Wilson, D. J., E. Gabriel, H. Leatherbarrow, P. Diggle, A. Fox and P. Fearnhead<br>
+			Tracing the host species of human food-borne infections.
+			<i>XIth Congress of the European Society for Evolutionary Biology</i>, Uppsala, Sweden,
+			August 2007. </p>
+		<p>Wilson, D. J., E. Gabriel, H. Leatherbarrow, P. Diggle, A. Fox and P. Fearnhead<br>
+			Tracing the host species of human food-borne infections.
+			<i>Society for Molecular Biology and Evolution</i>, Nova Scotia, Canada,
+			June 2007. </p>			
+		<p>Wilson, D. J., E. Gabriel, P. Fearnhead, P. Diggle, A. Leatherbarrow and A. Fox<br>
+			Evolution and epidemiology of the human food-poisoner <i>Campylobacter jejuni</i>. 
+			<i>Population Genetics Group Meeting</i>, Manchester, UK, January 2007.</p>
+		<p>Wilson, D. J. and P. Fearnhead<br>
+			Approximate likelihood-based computation and the genetic epidemiology of
+			<i>Campylobacter</i>. <i>Stochastic Computation in the Biological Sciences</i>,
+			Isaac Newton Institute, Cambridge, UK, November 2006.</p>
+		<p>Wilson, D. J. and G. McVean<br>
+			Diversifying selection and functional constraint. <i>Xth Congress of the European 
+				Society for Evolutionary Biology</i>, Krakow, Poland, August 2005. <a href="presentations/krakow.ppt">
+				View slides</a></p>
+		<p>Wilson, D. J., K. Jolley, R. Urwin, H. Claus, F. Hessler, M. Frosch, U. Vogel, 
+			M. C. J. Maiden and G. McVean<br>
+			Geographic differentiation in <I>Neisseria meningitidis. 14th International 
+				Pathogenic Neisseria Conference</I>, Milwaukee, WI, September 2004. <a href="presentations/milwaukee3.ppt">
+				View poster</a></p>
+		<p>Wilson, D. J. and G. McVean<br>
+			Diversifying selection and functional constraint. Estimating the dN/dS ratio 
+			for gene sequences in the presence of recombination. <I>London Mathematical Society 
+				Symposium on Mathematical Genetics</I>, Durham, UK, July 2004. <a href="presentations/durham2.ppt">
+				View poster</a></p>
+		<p>Wilson, D. J., G. McVean and M. C. J. Maiden<br>
+			Towards testing the epidemic clone model of bacterial populations <I>Society for 
+				Molecular Biology and Evolution</I>, Newport Beach, CA, June 2003. <a href="presentations/SMBE3.ppt">
+				View poster</a></p>
+
+               <h2>Thesis</h2>
+                <p>Wilson, D. J. (2005)<br>
+                        <b>Multilocus sequence analysis of the pathogen <i>Neisseria meningitidis</i>.</b><br>
+                        <a href="thesis/thesis.html">View website</a></p>

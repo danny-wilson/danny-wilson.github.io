@@ -1,0 +1,12 @@
+<h2>Transmission of <i>Staphylococcus aureus</i> between health-care workers, the environment, and patients in an intensive care unit: a longitudinal cohort study based on whole-genome sequencing</h2>
+Price, J. R., Cole, K., Bexley, A., Kostiou, V., Eyre, D. W., Golubchik, T., Wilson, D. J., Crook, D. W., Walker, A. S., Peto, T. E. A., Llewelyn, M. J. and J. Paul (2017)<br>
+<i>Lancet Infectious Diseases</i> <b>17</b>: 207-214. (<a href="http://www.thelancet.com/journals/laninf/article/PIIS1473-3099(16)30413-3/fulltext">pdf</a>)
+
+<p><b>Background</b><br>
+Considerable efforts are made to prevent nosocomial transmission of Staphylococcus aureus. Healthcare-workers (HCWs) have been implicated in outbreaks but lack of evidence from non-outbreak situations means that routine HCW screening and S. aureus eradication are controversial.</p>
+<p><b>Methods</b><br>
+We performed a prospective observational study to determine how often S. aureus is transmitted from HCWs or the environment to patients on an intensive care/high dependency unit (ICU/HDU) where standard infection control measures were in place. Over fourteen months we systematically sampled HCWs, the environment and patients. Whole-genome sequencing data were used to define subtypes (<=40 single nucleotide variants (SNVs)) and infer recent transmission.</p>
+<p><b>Findings</b><br>
+198 HCWs, 39 environmental locations and 1854 patients were sampled and 1819 isolates sequenced. S. aureus was detected in 29.5-39.7% HCWs at single four-weekly time-points and in 58.1% at least once. Monthly environmental sampling identified S. aureus in 7.7-50.0% of samples. During the study, 605 genetically distinct subtypes were identified (median SNV difference 273 (IQR 162-399)) at a rate of 38 (range 34-42) per month. Only 25 instances of transmission to patients were detected; seven from HCWs, two from the environment, 16 from other patients. </p>
+<p><b>Interpretation</b><br>
+In the presence of standard infection control measures HCWs infrequently act as sources of transmission to patients. S. aureus epidemiology in ICU/HDU is characterised by continuous ingress of distinct subtypes rather than transmission of genetically-related strains.</p>

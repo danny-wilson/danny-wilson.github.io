@@ -1,0 +1,27 @@
+<h2>Evolutionary dynamics of <i>Staphylococcus aureus</i> during progression from carriage to disease</h2>
+<p>Young, B. C., Golubchik, T., Batty, E. M., Fung, R., Larner-Svennson, H., Votintseva, A., Miller, R. R., Godwin, H., Knox, K., Everitt, R. G., Iqbal, Z., Rimmer, A. J., Cule, M., Ip C. L. C., Didelot, X., Harding, R. M., Donnelly, P. J., Peto, T. E., Crook, D. W., Bowden, R. and D. J. Wilson (2012)<br>
+<i>Proceedings of the National Academy of Sciences USA</i> <b>109</b>: 4550-4555. (<a href="http://www.pnas.org/content/109/12/4550.full">pdf</a> <a href="http://f1000.com/14021986">F1000</a>)
+
+<p>Whole genome sequencing offers new insights into the evolution of bacterial
+pathogens and the etiology of bacterial disease. <i>Staphylococcus aureus</i> is a major
+cause of bacteria-associated mortality and invasive disease, and is carried
+asymptomatically by 27% of adults. 80% of bacteremias match the carried strain.
+However, the role of evolutionary change in the pathogen during the progression
+from carriage to disease is incompletely understood. Here we use high-throughput
+genome sequencing to discover the genetic changes that accompany the transition
+from nasal carriage to fatal bloodstream infection in an individual colonized with
+methicillin-sensitive <i>S. aureus</i> (MSSA). We found a single, cohesive population
+exhibiting a repertoire of 30 single nucleotide polymorphisms (SNPs) and four
+insertion/deletion (indel) variants. Mutations accumulated at a steady rate over a 13
+month period, except for a cluster of mutations preceding the transition to disease.
+Although bloodstream bacteria differed by just eight mutations from the original
+nasally carried bacteria, half of those mutations caused truncation of proteins,
+including a premature stop codon in an AraC-family transcriptional regulator that
+has been implicated in pathogenicity. Comparison to evolution in two asymptomatic
+carriers supported the conclusion that clusters of protein-truncating mutations are
+highly unusual. Our results demonstrate that bacterial diversity in vivo is limited
+but nonetheless detectable by whole genome sequencing, enabling the study of
+evolutionary dynamics within the host. Regulatory or structural changes that occur
+during carriage may be functionally important for pathogenesis, so identifying those
+changes is a crucial step in understanding the biological causes of invasive bacterial
+disease.</p>

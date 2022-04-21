@@ -1,0 +1,30 @@
+		<img align="right" src="omegaMap/smallgraphs.jpg">
+		<h2><a href="omegaMap/permute.html"><img src="new.bmp" align="center" border="0"></a>omegaMap</h2>
+		<p><FONT color="red"><b>Important:</b> View <a href="omegaMap/versions.html">Bugs and version
+			information</a> for the latest list of known issues and fixes.</FONT></p>
+		<p>omegaMap is a program for detecting natural selection and recombination in DNA 
+			or RNA sequences. It is based on a model of population genetics and molecular 
+			evolution. The signature of natural selection is detected using the dN/dS ratio 
+			(which measures the relative excess of non-synonymous to synonymous 
+			polymorphism) and the signature of recombination is detected from the patterns 
+			of linkage disequilibrium. The model and the method of estimation are described 
+			in</p>
+		<p>Wilson, D. J. and G. McVean (2006)<br>
+			<b>Estimating diversifying selection and functional constraint in the presence of 
+				recombination.</b><br>
+			<i>Genetics</i> doi:10.1534/genetics.105.044917. (<a href="omegaMap/abstract.html">abstract</a>
+			<a href="http://www.genetics.org/cgi/content/abstract/genetics.105.044917v1?ck=nck">
+				pdf</a>)</p>
+		<p>From here you can download the documentation, ready-to-use executables and 
+			source code.</p>
+		<ul>
+			<li>
+				<a href="omegaMap/documentation.html">Download documentation</a></TD>
+			<li>
+				<a href="omegaMap/executables.html">Download ready-to-use executables</a></TD>
+			<li>
+				<a href="omegaMap/sourcecode.html">Download source code</a><td>
+			<li>
+				<a href="omegaMap/versions.html">Bugs and version information</a><td>
+			</li>
+		</ul>

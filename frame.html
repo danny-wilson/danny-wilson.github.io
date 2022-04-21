@@ -1,0 +1,42 @@
+<html>
+<!--This html page frames other pages. It uses javascript, and is only called
+	from other pages when javascript is enabled.
+//-->
+<head>
+	<SCRIPT LANGUAGE=JAVASCRIPT TYPE="TEXT/JAVASCRIPT">
+	<!--
+	if(window != top) top.location.href = location.href
+
+	origURL = parent.document.URL
+	pos = origURL.indexOf('?')
+	if(pos==-1) contentURL = "home.html"
+	else contentURL = origURL.substring(pos+1, origURL.length)
+	if(contentURL=="index.html") contentURL="home.html"
+	if(contentURL=="") contentURL="home.html"
+	pageHead = "Daniel Wilson"
+	if(contentURL=="home.html") pageHead = "Daniel Wilson Home"
+	if(contentURL=="software.html") pageHead = "Daniel Wilson Software"
+	if(contentURL=="research.html") pageHead = "Daniel Wilson Research"
+	if(contentURL=="publications.html") pageHead = "Daniel Wilson Publications"
+	if(contentURL=="cv.html") pageHead = "Daniel Wilson CV"
+	if(contentURL=="contact.html") pageHead = "Daniel Wilson Contact Details"
+
+	document.write('<title>'+pageHead+'</title>')	
+	//-->
+	</script>
+</head>
+
+	<SCRIPT LANGUAGE=JAVASCRIPT TYPE="TEXT/JAVASCRIPT">
+	<!--
+	origURL = parent.document.URL
+	pos = origURL.indexOf('?')
+	if(pos==-1) contentURL = "home.html"
+	else contentURL = origURL.substring(pos+1, origURL.length)
+	if(contentURL=="index.html") contentURL="home.html"
+	if(contentURL=="") contentURL="home.html"
+
+	document.write('<frameset rows="120,*,130" framespacing="0" frameborder="no" border="0" bordercolor="#FF0000"><frame src="http://www.danielwilson.me.uk/navigation.html" name="topFrame" scrolling="NO"><frame src="' + contentURL +'" name="mainFrame"><frame src="http://www.danielwilson.me.uk/footer.html" name="bottomFrame" scrolling="NO"></frameset>')
+	//-->
+	</script>
+<p><a href="http://www.danielwilson.me.uk/index.html">Daniel Wilson Homepage</a></p>
+</html>

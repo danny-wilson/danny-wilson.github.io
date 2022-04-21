@@ -1,0 +1,147 @@
+		<h2>Publications</h2>
+
+		<p>My Google Scholar profile can be found <a href="http://scholar.google.co.uk/citations?user=0FD9NekAAAAJ&hl=en">here</a>.</p>
+
+		<p>Dearlove, B. L. and D. J. Wilson (2013)<br>
+				<b>Coalescent-based methods for infectious disease: a meta-analysis of hepatis C virus epidemiology.</b><br>
+				<i>Philosophical Transactions of the Royal Society B</i> <b>368</b>: 20120314. (<a href="abstracts/dearlove_wilson_2013.html">abstract</a> <a href="http://rstb.royalsocietypublishing.org/content/368/1614/20120314.full">pdf</a>)
+
+		<p>Eyre, D. W., Cule, M. L., Griffiths, D., Crook, D. W., Peto, T. E. A., Walker, A. S and D. J. Wilson (2013)<br>
+			 <b>Detection of mixed infection from bacterial whole genome sequence data
+			 allows assessment of its role in <i>Clostridium difficile</i> transmission.</b><br>
+			 <i>PLoS Computational Biology</i>  <b>9</b>: e1003059. (<a href="abstracts/eyre_etal_2013.html">abstract</a> <a href="http://www.ploscompbiol.org/article/info:doi/10.1371/journal.pcbi.1003059">pdf</a>)
+
+		<p>Golubchik, T., Batty, E. M., Miller, R. R., Farr, H., Young, B. C., Larner-Svennson, H., Fung, R., Godwin, H., Knox, K., Votintseva, A., Everitt, R. G., Street, T., Cule, M., Ip, C. L. C., Didelot, X., Peto, T. E. A., Harding, R. M., Wilson, D. J., Crook, D. W. and R. Bowden (2013)<br>
+			<b>Within-host evolution of <i>Staphylococcus aureus</i> during asymptomatic carriage.</b><br>
+			<i>PLoS ONE</i> <b>8</b>: e61319. (<a href="abstracts/golubchik_etal_2013.html">abstract</a> <a href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0061319">pdf</a>)
+
+		<p>Eyre, D. W., Cule, M. L., Wilson, D. J., Griffiths, D., Vaughan, A., O'Connor, L., Ip, C. L. C., Golubchik, T., Batty, E. M., Didelot, X., Piazza, P., Bowden, R., Dingle, K. E., Harding, R. M., Crook, D. W., Wilcox, M. H., Peto, T. E. A. and A. S. Walker (2013)<br>
+		<b>Diversity of <i>C. difficile</i> infection by whole genome sequencing.</b><br>
+		<i>New England Journal of Medicine</i>, in press. (<a href="abstracts/eyre_etal_2013b.html">abstract</a>)
+
+		<p>Batty, E. M., Wong, T. H. N., Trebes, A., Argoud, K., Attar, M., Buck, D., Ip, C. L. C., Golubchik, T., Cule, M., Bowden, R., Manganis, C., Klenerman, P., Barnes, E., Walker, A. S., Wyllie, D., Wilson, D. J., Dingle, K. E., Peto, T. E. A., Crook, D. W. and P. Piazza (2013)<br>
+		<b>A modified RNA-Seq approach for whole genome sequencing of RNA viruses from faecal and blood samples.</b><br>
+		<i>PLoS ONE</i>, in press. (<a href="abstracts/batty_etal_2013.html">abstract</a>)
+
+		<p>Young, B. C., Golubchik, T., Batty, E. M., Fung, R., Larner-Svennson, H., Votintseva, A., Miller, R. R., Godwin, H., Knox, K., Everitt, R. G., Iqbal, Z., Rimmer, A. J., Cule, M., Ip C. L. C., Didelot, X., Harding, R. M., Donnelly, P. J., Peto, T. E., Crook, D. W., Bowden, R. and D. J. Wilson (2012)<br>
+		     	 <b>Evolutionary dynamics of <i>Staphylococcus aureus</i> during progression from carriage to disease.</b><br>
+			 <i>Proceedings of the National Academy of Sciences USA</i> <b>109</b>: 4550-4555. (<a href="abstracts/young_etal_2012.html">abstract</a> <a href="http://www.pnas.org/content/109/12/4550.full">pdf</a> <a href="http://f1000.com/14021986">F1000</a>)
+
+		<p>D. J. Wilson (2012)<br>
+		      	 <b>Insights from genomics into bacterial pathogen populations.</b><br>
+			 <i>PLoS Pathogens</i> <b>8</b>: e1002874. (<a href="abstracts/wilson_2012.html">abstract</a> <a href="http://www.plospathogens.org/article/info%3Adoi%2F10.1371%2Fjournal.ppat.1002874">pdf</a>)
+
+		<p>Didelot, X., Bowden, R., Wilson, D. J., Peto, T. E. A. and D. W. Crook (2012)<br>
+			  <b>Transforming clinical microbiology with bacterial genome sequencing.</b><br>
+			  <i>Nature Reviews Genetics</i> <b>13</b>: 601-612. (<a href="abstracts/didelot_etal_2012.html">abstract</a> <a href="http://www.nature.com/nrg/journal/v13/n9/pdf/nrg3226.pdf">pdf</a>)
+
+		<p>Young, B. C. and D. J. Wilson (2012)<br>
+				<b>On the evolution of virulence during <i>Staphylococcus aureus</i> nasal carriage.</b><br>
+				<i>Virulence</i> <b>3</b>: 454-456. (<a href="abstracts/young_wilson_2012.html">abstract</a> <a href="http://www.landesbioscience.com/journals/virulence/article/21189/">pdf</a>)
+
+		<p>Eyre, D. W., T. Golubchik, N. C. Gordon, R. Bowden, P. Piazza, E. M. Batty, C. L. C. Ip, D. J. Wilson, X. Didelot, L. O'Connor, R. Lay, D. Buck, A. Kearns, A. Shaw, J. Paul, M. Wilcox, P. J. Donnelly, T. E. A. Peto, A. S. Walker and D. W. Crook (2012)<br>
+			   <b>A pilot study of rapid benchtop sequencing of <i>Staphylococcus aureus</i> and <i>Clostridium difficile</i> for outbreak detection and surveillance.</b><br>
+			   <i>BMJ Open</i> <b>2</b>: e001124. (<a href="abstracts/eyre_etal_2012.html">abstract</a> <a href="http://bmjopen.bmj.com/content/2/3/e001124.full.pdf+html">pdf</a>)
+
+		<p>Walker, T. M., Ip, C. L. C., Harrell, R. H., Evans, J. T., Kapatai, G., Dedicoat, M. J., Eyre, D. W., Wilson, D. J., Hawkey, P. M., Crook, D. W., Parkhill, J., Harris, D., Walker, A. S., Bowden, R., Monk, P., Smith, E. G. and T. E. A. Peto (2012)<br>
+				<b>Whole-genome sequencing to delineate <i>Mycobacterium tuberculosis</i> outbreaks: a retrospective observational study.</b><br>
+				<i>Lancet Infectious Diseases</i> doi:10.1016/S1473-3099(12)70277-3. (<a href="abstracts/walker_etal_2012.html">abstract</a> <a href="http://www.thelancet.com/journals/laninf/article/PIIS1473-3099%2812%2970277-3/fulltext">pdf</a>)
+
+		<p>Didelot, X., Eyre, D. W., Cule, M., Ip, C. L. C., Ansari, A., Griffiths, D., Vaughan, A., O'Connor, L., Golubchik, T., Batty, E. M., Piazza, P., Wilson, D. J., Bowden, R., Donnelly, P. J., Dingle, K. E., Wilcox, M., Walker, A. S., Crook, D. W., Peto, T. E. A. and R. M. Harding (2012)<br>
+			    	<b>Microevolutionary analysis of <i>Clostridium difficile</i> genomes to investigate transmission.</b><br>
+				<i>Genome Biology</i> <b>13</b>: R118. (<a href="abstracts/didelot_etal_2012b.html">abstract</a> <a href="http://genomebiology.com/2012/13/12/R118/abstract">pdf</a>)
+
+		<p>Wilson, D. J., R. D. Hernandez, P. Andolfatto and M. Przeworski (2011)<br>
+			   <b>A population genetics-phylogenetics approach to inferring natural selection in coding sequences.</b><br>
+			   <i>PLoS Genetics</i> <b>7</b>: e1002395. (<a href="abstracts/wilson_etal_2011.html">abstract</a> <a href="http://www.plosgenetics.org/article/info:doi/10.1371/journal.pgen.1002395">pdf</a> <a href="http://f1000.com/13492992">F1000</a>)
+
+		<p>Muellner, P., Marshall, J. C., Spencer, S. E. F., Noble, A. D., Shadbolt, T., Collins-Emerson, J. M., Midwinter, A. C., Carter, P. E., Pirie, R., Wilson, D. J., Campbell, D. M., Stevenson, M. A. and N. P. French (2011)<br>
+			     <b>Utilizing a combination of molecular and spatial tools to assess the effect of a public health intervention.</b><br>
+			     <i>Preventive Veterinary Medicine</i> <b>102</b>: 242-253. (<a href="abstracts/muellner_etal_2011.html">abstract</a> <a href="http://www.sciencedirect.com/science/article/pii/S0167587711002376">pdf</a>)
+	      	<p>Sheppard, S. K., Dallas, J. F., Wilson, D. J., Strachan, N. J. C., McCarthy N. D., Jolley, K. A., Colles, F. M., Rotariu, O., Ogden, I. D., Forbes, K. J. and M. C. J. Maiden (2010)<br>
+		 	  <b>Evolution of an agriculture-associated disease causing <i>Campylobacter coli</i> clade: evidence from national surveillance data in Scotland.</b><br>
+			  <i>PLoS ONE</i> <B>5</B>: e15708. (<a href="abstracts/sheppard_etal_2010.html">abstract</a> <a href="http://www.plosone.org/article/info:doi/10.1371/journal.pone.0015708">pdf</a>)
+
+		<p>Sousa, T. N., Tarazona-Santos, E. M., Wilson, D. J., Madureira, A. P., Falcao, P. R. K., Fontes, C. J. F., Gil, L. H. S., Ferreira, M. U., Carvalho, L. H. and C. F. A. Brito (2010)<br>
+			  <b>Genetic variability and natural selection at the ligand domain of the Duffy binding protein in Brazilian <i>Plasmodium vivax</i> populations.</b><br>
+			  <i>Malaria Journal</i> <b>9</b>: 334. (<a href="abstracts/sousa_etal_2010.html">abstract</a> <a href="http://www.malariajournal.com/content/pdf/1475-2875-9-334.pdf">pdf</a>)
+
+		<p>Gabriel, E., Wilson, D. J., Leatherbarrow, A. J., Cheesbrough, J., Gee, S., Bolton, E., Fox, A., Fearnhead, P., Hart, C. A. and P. J. Diggle (2010)<br>
+			  <b>Spatio-temporal epidemiology of <i>Campylobacter jejuni</i> enteritis, in an area of Northwest England, 2000-2002.</b><br>
+			  <i>Epidemiology and Infection</i> <B>138</B>: 1384-1390. (<a href="abstracts/gabriel_etal_2010.html">abstract</a> <a href="http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=7873635">pdf</a>)
+
+		<p>Mullner, P., Shadbolt, T., Collins-Emerson, J. M., Midwinter, A. C., Spencer, S. E. F., Marshall, J., Carter, P. E., Campbell, D. M., Wilson, D. J., Hathaway, S., Pirie, R. and N. P. French (2010)<br>
+			    <b>Molecular and spatial epidemiology of human campylobacteriosis - source association and genotype-related risk factors.</b><br>
+			    <i>Epidemiology and Infection</i> <B>138</B>: 1372-1383. (<a href="abstracts/mullner_etal_2009b.html">abstract</a> <a href="http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=7873590">pdf</a>)
+
+		<p>Fledel-Alon, A., Wilson, D. J., Broman, K., Wen, X., Ober, C., Coop, G. and M. Przeworski (2009)<br>
+			<b>Broad-scale recombination patterns underlying proper disjunction in humans.</b><br>
+			<i>PLoS Genetics</i> <B>5</B>: e1000658. (<a href="abstracts/alon_etal_2009.html">abstract</a> <a href="http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1000658">pdf</a>)
+
+		<p>Brehony, C., Wilson, D. J. and M. C. J. Maiden (2009)<br>
+			<b>Variation of the factor H-binding protein of <i>Neisseria meningitidis</i>.</b><br>
+			<i>Microbiology</i> <B>155</B>: 4155-4169. (<a href="abstracts/brehony_wilson_maiden_2009.html">abstract</a> <a href="http://mic.sgmjournals.org/cgi/content/abstract/155/12/4155">pdf</a>)
+
+		<p>Mullner, P., Spencer, S. E. F., Wilson, D. J., Jones, G., Noble, A. D., Midwinter, A. C., Collins-Emerson, J. M., Carter, P., Hathaway, S. and N. P. French (2009)<br>
+			    <b>Assigning the source of human campylobacteriosis in New Zealand: a comparative genetic and epidemiological approach.</b><br>
+			    <i>Infection, Genetics and Evolution</i> <B>9</B>: 1311-1319. (<a href="abstracts/mullner_etal_2009a.html">abstract</a> <a href="http://www.sciencedirect.com/science?_ob=MImg&_imagekey=B6W8B-4X908TF-2-5&_cdi=6650&_user=5745&_orig=search&_coverDate=09%2F22%2F2009&_sk=999999999&view=c&wchp=dGLbVzz-zSkzk&md5=2f9a79bef6f00470acd1a38a784cb310&ie=/sdarticle.pdf">pdf</a>)
+
+		<p>Wilson, D. J., Gabriel, E., Leatherbarrow, A. J. H., Cheesbrough, J., Gee, S., Bolton, E., Fox, A., Hart, C. A., Diggle, P. J. and P. Fearnhead (2009)<br>
+			   <b>Rapid evolution and the importance of recombination to the gastro-enteric pathogen <i>Campylobacter jejuni</i>.</b><br>
+			   <i>Molecular Biology and Evolution</i> <B>26</B>: 385-397. (<a href="abstracts/wilson_etal_2008b.html">abstract</a> <a href="http://mbe.oxfordjournals.org/cgi/reprint/26/2/385">pdf</a> <a href="http://www.f1000biology.com/article/id/1158735">F1000</a>)
+
+                <p>Sheppard, S. K., Dallas, J. F., Strachan, N. J. C., MacRae, M., McCarthy, N. D., Wilson, D. J., Gormley, F. J., Falush, D., Ogden, I. D., Maiden, M. C. J. and K. J. Forbes (2009)<br>
+                           <b><i>Campylobacter</i> genotyping to determine the source of human infection.</b><br>
+                           <i>Clinical Infectious Diseases</i> <B>48</B>: 1072-1078. (<a href="abstracts/sheppard_etal_2009.html">abstract</a> <a href="http://www.journals.uchicago.edu/doi/pdf/10.1086/597402">pdf</a>)
+
+		<p>Wilson, D. J., E. Gabriel, A. J. H. Leatherbarrow, J. Cheesbrough, S. Gee, E. Bolton, A. Fox, P. Fearnhead, C. A. Hart and P. J. Diggle (2008)<br>
+			<b>Tracing the source of campylobacteriosis.</b><br>
+			<i>PLoS Genetics</i> <B>4</B>: e1000203. (<a href="abstracts/wilson_etal_2008a.html">abstract</a> <a href="http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1000203">pdf</a> <a href="abstracts/plosgenetics.pdf">press-release</a>)</p>
+		<p>Wilson, D. J. and G. McVean (2006)<br>
+			<b>Estimating diversifying selection and functional constraint in the presence of 
+				recombination.</b><br>
+			<i>Genetics</i> <B>172</B>: 1411-1425. (<a href="abstracts/wilson_mcvean_2006.html">abstract</a> 
+<a href="http://www.genetics.org/cgi/reprint/172/3/1411" target="_blank">pdf</a>
+			<a href="software.html">software</a>)</p>
+		<p>Falush, D., M. Torpdahl, X. Didelot, D. F. Conrad, D. J. Wilson and M. Achtman (2006)<br>
+			<b>Mismatch induced speciation in <i>Salmonella</i>: model and data.</b><br>
+			<i>Philosophical Transactions of the Royal Society B</i> <b>361</b>: 2045-2053. (<a href="abstracts/falush_etal_2006.html">abstract</a> <a href="http://www.journals.royalsoc.ac.uk/openurl.asp?genre=article&id=doi:10.1098/rstb.2006.1925">pdf</a>)</p>
+		<p>Edwards, C. T. T., E. C. Holmes, O. G. Pybus, D. J. Wilson, R. P. Viscidi, 
+			E. J. Abrams, R. E. Phillips and A. J. Drummond (2006)<br>
+			<b>Evolution of the HIV-1 envelope gene is dominated by purifying selection.</b><br>
+			<i>Genetics</i> <B>174</B>: 1441-1453. (<a href="abstracts/edwards_etal_2006b.html">abstract</a> <a href="http://www.genetics.org/cgi/content/abstract/174/3/1441" target="_blank">pdf</a>)</p>
+		<p>Edwards, C. T. T., E. C. Holmes, D. J. Wilson, R. P. Viscidi, E. J. Abrams, R. 
+			E. Phillips and A. J. Drummond (2006)<br>
+			<b>Population genetic estimation of the loss of genetic diversity during horizontal 
+				transmission of HIV-1.</b><br>
+			<i>BMC Evolutionary Biology</i> <B>6</B>: 28. (<a href="abstracts/edwards_etal_2006a.html">abstract</a> <a href="http://www.biomedcentral.com/content/pdf/1471-2148-6-28.pdf" target="_blank">pdf</a>)</p>
+		<p>Wilson, D. J., D. Falush and G. McVean (2005)<br>
+			<B>Germs, genomes and genealogies.</B><br>
+			<I>Trends in Ecology and Evolution</I> <B>20</B>: 39-45. (<a href="abstracts/wilson_falush_mcvean_2005.html">abstract</a> <a href="http://www.sciencedirect.com/science?_ob=MImg&amp;_imagekey=B6VJ1-4DPGXJ6-1-1&amp;_cdi=6081&amp;_user=126524&amp;_orig=browse&amp;_coverDate=01%2F01%2F2005&amp;_sk=999799998&amp;view=c&amp;wchp=dGLbVlb-zSkWb&amp;md5=524e525ae9261a3235cb262a38bf0a9d&amp;ie=/sdarticle.pdf"
+				target="_blank">pdf</a>)</p>
+		<p>Wilson, D. J. and D. Falush (2005)<br>
+			<b>The genetic structure of human pathogens.</b><br>
+			In <I>Encyclopedia of Genetics, Genomics, Proteomics and Bioinformatics</I> edited 
+			by L. B. Jorde, P. F. R. Little, M. J. Dunn and S. Subramaniam. Wiley, New 
+			York. (<a href="abstracts/wilson_falush_2005.html">abstract</a>)</p>
+		<p>Jolley, K. A., D. J. Wilson, P. Kriz, G. McVean and M. C. J. Maiden (2005)<br>
+			<B>The influence of mutation, recombination, population history and selection on 
+				patterns of genetic diversity in <I>Neisseria meningitidis</I>.</B><br>
+			<I>Molecular Biology and Evolution</I> <B>22</B>: 562-569. (<a href="abstracts/jolley_etal_2005.html">abstract</a> <a href="http://mbe.oupjournals.org/cgi/reprint/22/3/562" target="_blank">pdf</a>)</p>
+		<p>Claus, H., M. C. J. Maiden, D. J. Wilson, N. D. McCarthy, K. A. Jolley, R. 
+			Urwin, F. Hessler, M. Frosch and U. Vogel (2005)<br>
+			<B>Genetic analysis of meningococci carried by children and young adults.</B><br>
+			<I>Journal of Infectious Diseases</I> <B>191</B>: 1263-1271. (<a href="abstracts/claus_etal_2005.html">abstract</a> <a href="http://www.journals.uchicago.edu/doi/abs/10.1086/428590"
+				target="_blank">pdf</a>)</p>
+		<p>Yazdankhah, S. P., P. Kriz, G. Tzanakaki, J. Kremastinou, J. Kalmusova, M. 
+			Musilek, T. Alvedstad, K. A. Jolley, D. J. Wilson, N. D. McCarthy, D. A. 
+			Caugant and M. C. J. Maiden (2004)<br>
+			<B>Distribution of Serogroups and Genotypes among Disease-Associated and Carried 
+				Isolates of <I>Neisseria meningitidis</I> from the Czech Republic, Greece, and 
+				Norway.</B><br>
+			<I>Journal of Clinical Microbiology</I> <B>42</B>: 5146-5153. (<a href="abstracts/yazdankhah_etal_2004.html">abstract</a> <a href="http://jcm.asm.org/cgi/reprint/42/11/5146.pdf" target="_blank">pdf</a>)</p>
+
+               <h2>Thesis</h2>
+                <p>Wilson, D. J. (2005)<br>
+                        <b>Multilocus sequence analysis of the pathogen <i>Neisseria meningitidis</i>.</b><br>
+                        <a href="thesis/thesis.html">View website</a></p>

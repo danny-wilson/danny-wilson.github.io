@@ -1,0 +1,19 @@
+<h2>A pilot study of rapid benchtop sequencing of <i>Staphylococcus aureus</i> and <i>Clostridium difficile</i> for outbreak detection and surveillance.</h2>
+<p>Eyre, D. W., T. Golubchik, N. C. Gordon, R. Bowden, P. Piazza, E. M. Batty, C. L. C. Ip, D. J. Wilson, X. Didelot, L. O'Connor, R. Lay, D. Buck, A. Kearns, A. Shaw, J. Paul, M. Wilcox, P. J. Donnelly, T. E. A. Peto, A. S. Walker and D. W. Crook (2012)<br>
+<i>BMJ Open</i> <b>2</b>: e001124. (<a href="http://bmjopen.bmj.com/content/2/3/e001124.full.pdf+html">pdf</a>)
+
+
+<p><b>Objectives</b> To investigate the prospects of newly available benchtop sequencers to provide rapid whole-genome data in routine clinical practice. Next-generation sequencing has the potential to resolve uncertainties surrounding the route and timing of person-to-person transmission of healthcare-associated infection, which has been a major impediment to optimal management.
+
+<p><b>Design</b> The authors used Illumina MiSeq benchtop sequencing to undertake case studies investigating potential outbreaks of methicillin-resistant <i>Staphylococcus aureus</i> (MRSA) and <i>Clostridium difficile</i>.
+
+<p><b>Setting</b> Isolates were obtained from potential outbreaks associated with three UK hospitals.
+
+<p><b>Participants</b> Isolates were sequenced from a cluster of eight MRSA carriers and an associated bacteraemia case in an intensive care unit, another MRSA cluster of six cases and two clusters of <i>C difficile</i>. Additionally, all <i>C difficile</i> isolates from cases over 6 weeks in a single hospital were rapidly sequenced and compared with local strain sequences obtained in the preceding 3 years.
+
+<p><b>Main outcome measure</b> Whole-genome genetic relatedness of the isolates within each epidemiological cluster.
+
+<p><b>Results</b> Twenty-six MRSA and 15 <i>C difficile</i> isolates were successfully sequenced and analysed within 5 days of culture. Both MRSA clusters were identified as outbreaks, with most sequences in each cluster indistinguishable and all within three single nucleotide variants (SNVs). Epidemiologically unrelated isolates of the same spa-type were genetically distinct (>=21 SNVs). In both <i>C difficile</i> clusters, closely epidemiologically linked cases (in one case sharing the same strain type) were shown to be genetically distinct (>=144 SNVs). A reconstruction applying rapid sequencing in <i>C difficile</i> surveillance provided early outbreak detection and identified previously undetected probable community transmission.
+
+<p><b>Conclusions</b> This benchtop sequencing technology is widely generalisable to human bacterial pathogens. The findings provide several good examples of how rapid and precise sequencing could transform identification of transmission of healthcare-associated infection and therefore improve hospital infection control and patient outcomes in routine clinical practice.
+</p>

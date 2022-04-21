@@ -1,0 +1,5 @@
+<h2>ClonalFrameML: efficient inference of recombination in whole bacterial genomes.</h2>
+<p>Didelot, X. and D. J. Wilson (2015)<br>
+<i>PLoS Computational Biology</i> <b>11</b>: e1004041. (<a href="http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004041">pdf</a>)
+
+<p>Recombination is an important evolutionary force in bacteria, but it remains challenging to reconstruct the imports that occurred in the ancestry of a genomic sample. Here we present ClonalFrameML, which uses maximum likelihood inference to simultaneously detect recombination in bacterial genomes and account for it in phylogenetic reconstruction. ClonalFrameML can analyse hundreds of genomes in a matter of hours, and we demonstrate its usefulness on simulated and real datasets. We find evidence for recombination hotspots associated with mobile elements in <i>Clostridium difficile</i> ST6 and a previously undescribed 310kb chromosomal replacement in <i>Staphylococcus aureus</i> ST582. ClonalFrameML is freely available at <a href="http://clonalframeml.googlecode.com/">http://clonalframeml.googlecode.com/</a>.</p>

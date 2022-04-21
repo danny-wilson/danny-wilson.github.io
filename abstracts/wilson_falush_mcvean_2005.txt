@@ -1,0 +1,14 @@
+<h2>Germs, genomes and genealogies</h2>
+
+<p>Wilson, D. J., D. Falush and G. McVean (2005)<br>
+<I>Trends in Ecology and Evolution</I> <B>20</B>: 39-45. (<a 
+href="http://www.sciencedirect.com/science?_ob=MImg&amp;_imagekey=B6VJ1-4DPGXJ6-1-1&amp;_cdi=6081&amp;_user=126524&amp;_orig=browse&amp;_coverDate=01%2F01%2F2005&amp;_sk=999799998&amp;view=c&amp;wchp=dGLbVlb-zSkWb&amp;md5=524e525ae9261a3235cb262a38bf0a9d&amp;ie=/sdarticle.pdf"
+						target="_blank">pdf</a>)</p>
+
+<p>Genetic diversity in pathogen species contains information about evolutionary and epidemiological 
+processes, including the origins and history of disease, the nature of the selective forces acting on 
+pathogen genes and the role of recombination in generating genetic novelty. Here, we review recent 
+developments in these fields and compare the use of population genetic, or population-model based, 
+approaches to phylogenetic, or population-model free, methodologies. We show how simple epidemiological 
+models can be related to the ancestral, or coalescent, process underlying samples from pathogen species, 
+enabling detailed inference about pathogen biology from patterns of molecular variation.</p>

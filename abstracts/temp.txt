@@ -1,0 +1,1072 @@
+<h2>Broad-scale recombination patterns underlying proper disjunction in humans.</h2>
+<p>Fledel-Alon, A., Wilson, D. J., Broman, K., Wen, X., Ober, C., Coop, G. and M. Przeworski (2009)<br>
+<i>PLoS Genetics</i> <B>5</B>: e1000658. (<a href="http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1000658">pdf</a>)</p>
+
+<p>Although recombination is essential to the successful completion of human meiosis, it remains unclear how tightly the process is regulated and over what scale. To assess the nature and stringency of constraints on human recombination, we examined crossover patterns in transmissions to viable, non-trisomic offspring, using dense genotyping data collected in a large set of pedigrees. Our analysis supports a requirement for one chiasma per chromosome rather than per arm to ensure proper disjunction, with additional chiasmata occurring in proportion to physical length. The requirement is not absolute, however, as chromosome 21 seems to be frequently transmitted properly in the absence of a chiasma in females, a finding that raises the possibility of a back-up mechanism aiding in its correct segregation. We also found a set of double crossovers in surprisingly close proximity, as expected from a second pathway that is not subject to crossover interference. These findings point to multiple mechanisms that shape the distribution of crossovers, influencing proper disjunction in humans.</p>
+
+<h2>A modified RNA-Seq approach for whole genome sequencing of RNA viruses from faecal and blood samples</h2>
+<p>Batty, E. M., Wong, T. H. N., Trebes, A., Argoud, K., Attar, M., Buck, D., Ip, C. L. C., Golubchik, T., Cule, M., Bowden, R., Manganis, C., Klenerman, P., Barnes, E., Walker, A. S., Wyllie, D., Wilson, D. J., Dingle, K. E., Peto, T. E. A., Crook, D. W. and P. Piazza (2013)<br>
+<i>PLoS ONE</i> <b>8</b>: e66129 (<a href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0066129">pdf</a>)
+
+<p>To date, very large scale sequencing of many clinically important RNA viruses has been complicated
+by their high population molecular variation, which creates challenges for polymerase chain reaction
+and sequencing primer design. Many RNA viruses are also difficult or currently not possible to
+culture, severely limiting the amount and purity of available starting material.
+Here, we describe a simple, novel, high-throughput approach to Norovirus and Hepatitis C virus
+whole genome sequence determination based on RNA shotgun sequencing (also known as RNA-Seq).
+We demonstrate the effectiveness of this method by sequencing three Norovirus samples from
+faeces and two Hepatitis C virus samples from blood, on an Illumina MiSeq benchtop sequencer.
+More than 97% of reference genomes were recovered. Compared with Sanger sequencing, our method
+had no nucleotide differences in 14,019 nucleotides (nt) for Noroviruses (from a total of 2 Norovirus
+genomes obtained with Sanger sequencing), and 8 variants in 9,542nt for Hepatitis C virus (1 variant
+per 1,193nt). The three Norovirus samples had 2, 3, and 2 distinct positions called as heterozygous,
+while the two Hepatitis C virus samples had 117 and 131 positions called as heterozygous. To
+confirm that our sample and library preparation could be scaled to true high-throughput, we prepared
+and sequenced an additional 77 Norovirus samples in a single batch on an Illumina HiSeq 2000
+sequencer, recovering >90% of the reference genome in all but one sample. No discrepancies were
+observed across 118,757nt compared between Sanger and our custom RNA-Seq method in 16
+samples. By generating viral genomic sequences that are not biased by primer-specific amplification
+or enrichment, this method offers the prospect of large-scale, affordable studies of RNA viruses which
+could be adapted to routine diagnostic laboratory workflows in the near future, with the potential to
+directly characterize within-host viral diversity.</p>
+<h2>Sequence-based methods for detecting and monitoring pathogens</h2>
+<p>Bowden, R., Crook, D. W., Didelot, X., Peto, T. E. and D. J. Wilson<br>
+Commissioned by <i>Nature Reviews Genetics</i>. (<a href="../preprints/bowden_etal_preprint.pdf">pdf</a>)
+
+<p>Unlike in human genomics, where sequencing of hundreds of genomes is still prohibitively expensive for most researchers, whole-genome sequencing of bacteria has recently emerged as a cost-effective and convenient approach for many problems in microbiology.  Genomic sequencing by next-generation methods can be used at small scales as a routine laboratory tool, for example to check the integrity of an experimental strain.  Applied at large scales, it provides the ultimate resolution for studying population structure, uncovering the origins of outbreaks and identifying specific transmission events, and provides a basis for unraveling the relationships between phenotype and genotype. The massive capacity of next-generation sequencing also has the potential to transform the study of complex heterogeneous samples such as environmental and clinical samples.  Next-generation sequencing is revolutionizing microbiology research and will soon be applied to (routine) clinical microbiology practice, where it could replace many complex techniques with a single basic workflow that could also enhance the testing of clinical samples.</p>
+<h2>Rapid antibiotic-resistance predictions from genome sequence data for <i>Staphylococcus aureus</i> and <i>Mycobacterium tuberculosis</i></h2>
+<p>Bradley, P., Gordon, N. C., Walker, T. M., Dunn, L., Heys, S., Huang, B., Earle, S. G., Pankhurst, L. J., Anson, L., de Cesare, M., Piazza, P., Votintseva, A. A., Golubchik, T., Wilson, D. J., Wyllie, D., Diel, R., Niemann, S., Feuerriegel, S., Kohl, T. A., Ismail, N., Omar, S. V., Smith, E. G., Buck, D., McVean, G., Walker, A. S., Peto, T. E. A., Crook, D. W. and Z. Iqbal (2015)<br>
+<i>Nature Communications</i> <b>6</b>: 10063 (<a href="http://www.nature.com/ncomms/2015/151221/ncomms10063/full/ncomms10063.html">pdf</a>).
+
+<p>Rapid and accurate detection of antibiotic resistance in pathogens is an urgent need, affecting 
+both patient care and population-scale control. Microbial genome sequencing promises much, 
+but many barriers exist to its routine deployment. Here, we address these challenges, using a de 
+Bruijn graph comparison of sample and curated knowledge-base, for detection of species and 
+minor resistant populations, and resistance-profile prediction. This is implemented in a package, 
+Mykrobe predictor, for <i>S. aureus</i> and <i>M. tuberculosis</i>, and runs in under three minutes on a 
+laptop from raw data. For <i>S. aureus</i>, we train and validate in 495/471 samples respectively, 
+finding error rates comparable to gold-standard phenotypic methods, with sensitivity/specificity 
+of 99.3%/99.5% across 12 drugs. For <i>M. tuberculosis</i>, we identify species and predict resistance 
+with specificity of 98.5% (training/validating on 1920/1609 samples). Sensitivity of 82.6% is 
+limited by current understanding of genetic mechanisms. Finally, we demonstrate feasibility of 
+an emerging single-molecule sequencing technique.</p>
+
+<h2>Variation of the factor H-binding protein of <i>Neisseria meningitidis</i>.</h2>
+<p>Brehony, C., Wilson, D. J. and M. C. J. Maiden (2009)<br>
+<i>Microbiology</i> <B>155</B>: 4155-4169. (<a href="http://mic.sgmjournals.org/cgi/content/abstract/155/12/4155">pdf</a>)</p>
+
+<p>There is currently no comprehensive meningococcal vaccine, due to difficulties in immunising against organisms expressing serogroup B capsules. To address this problem, sub-capsular antigens, particularly the outer membrane proteins (OMPs), are being investigated as candidate vaccine components. If immunogenic, however, such antigens are often antigenically variable and knowledge of the extent and structuring of this diversity is an essential part of vaccine formulation. Factor H-binding protein (fHbp) is one such protein and is included in two vaccines under development.  A survey of the diversity of the fHbp gene and the encoded protein in a representative sample of meningococcal isolates confirmed that variability in this protein is structured into two or three major groups, each with a substantial number of alleles that have some association with meningococcal clonal complexes and serogroups. A unified nomenclature scheme was devised to catalogue this diversity. Analysis of recombination and selection on the allele sequences demonstrated that the parts of the gene are subject to positive selection, consistent with immune selection on the protein generating antigenic variation, particularly in the C-terminal region of the peptide sequence.  The highest levels of selection were observed in regions corresponding to epitopes recognised by previously described bactericidal monoclonal antibodies.</p>
+
+<h2>SimBac: simulation of whole bacterial genomes with homologous recombination.</h2>
+<p>Brown, T., Didelot, X., Wilson, D. J. and N. De Maio (2016)<br>
+<i>Microbial Genomics</i> doi:10.1099/mgen.0.000044. (<a href="http://mgen.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.000044">pdf</a>)
+						    		 
+<p>Bacteria can exchange genetic material, or acquire genes found in the environment. This process, generally known as bacterial recombination, can have a strong impact on the evolution and phenotype of bacteria, for example causing the spread of antibiotic resistance across clades and species, but can also disrupt phylogenetic and transmission inferences. With the increasing affordability of whole genome sequencing, the need has emerged for an efficient simulator of bacterial evolution to test and compare methods for phylogenetic and population genetic inference, and for simulation-based estimation. We present SimBac, a whole-genome bacterial evolution simulator that is roughly two orders of magnitude faster than previous software and includes a more general model of bacterial evolution, allowing both within- and between-species homologous recombination. Since methods modeling bacterial recombination generally focus on only one of these two modes of recombination, the possibility to simulate both allows for a general and fair benchmarking. SimBac is available from <a href="http://github.com/tbrown91/SimBac">http://github.com/tbrown91/SimBac</a> and is distributed as open source under the terms of the GNU General Public License.</p>
+<h2>Genetic analysis of meningococci carried by children and young adults</h2>
+
+<p>Claus, H., M. C. J. Maiden, D. J. Wilson, N. D. McCarthy, K. A. Jolley, R. 
+					Urwin, F. Hessler, M. Frosch and U. Vogel (2005)<br>
+<I>Journal of Infectious Diseases</I> <B>191</B>: 1263-1271. (<a 
+href="http://www.journals.uchicago.edu/doi/abs/10.1086/428590" target="_blank">pdf</a>)</p>
+
+<p><b>Background.</b>  <i>Neisseria meningitidis</i> is a diverse commensal bacterium that occasionally 
+causes severe 
+invasive disease. The relationship between meningococcal genotype and capsular polysaccharide, the 
+principal virulence factor and vaccine component, was investigated in carried meningococci isolated from 
+8000 children and young adults in Bavaria, Germany.</p>
+
+<p><b>Methods.</b>  Of the 830 meningococci isolated (carriage rate, 10.4%) by microbiological techniques, 
+822 were 
+characterized by serogrouping, multilocus sequence typing, and genetic analysis of the capsule region. 
+Statistical and population genetic analyses were applied to these data.</p>
+
+<p><b>Results.</b>  The rapid increase in carriage rates with age of carrier, the low prevalence of 
+hyperinvasive 
+meningococci, and the relative prevalence of the 4 disease-associated serogroups were consistent with 
+earlier observations. There was no genetic structuring of the meningococcal population by age of carrier 
+or sampling location; however, there was significant geographic structuring of the meningococci isolated 
+in civil, but not military, institutions. The rate of capsule gene expression did not vary with age of 
+carrier or meningococcal genotype, except for serogroup C, for which increased expression was associated 
+with ST-11 (formerly ET-37) complex meningococci.</p>
+
+<h2>Draft genome sequences of 64 type strains of 50 species and 25 subspecies of the genus <i>Staphylococcus</i> Rosenbach 1884</h2>
+<p>Cole, K., Foster, D., Russell, J. E., Golubchik, T., Llewelyn, M., Wilson, D. J., Crook, D., Paul, J. and The Modernising Medical Microbiology Consortium (2019)<br>
+<i>Microbiology Resource Announcements</i>, in press.
+
+<p>Members of the genus <i>Staphylococcus</i> have been isolated from humans, animals, and the environment. Accurate identification using whole-genome sequencing requires access to data derived from type strains. We provide sequence data for type strains of all species in the genus, which at the time of writing have standing in nomenclature.
+</p>
+<h2>Combining genomics and epidemiology to analyse bi-directional transmission of <i>Mycobacterium bovis</i> in a multi-host system.</h2>
+<p>Crispell, J., Benton, C. H., Balaz, D., De Maio, N., Akhmetova, A., Allen, A., Biek, R., Breadon, E. L., Dale, J., Hewinson, G., Lycett, S. J., Nunez-Garcia, J., Skuce, R. A., Trewby, H., Wilson, D. J., Zadoks, R. N., Delahay, R. J. and R. R. Kao (2019)<br>
+<i>eLife</i>, in press.
+
+<p>Quantifying pathogen transmission in multi-host systems is difficult, as exemplified in bovine tuberculosis (bTB) systems, but crucial for disease control. The agent of bTB, <i>Mycobacterium bovis</i>, persists in cattle populations around the world, often where potential wildlife reservoirs are present. However, the relative contribution of different host species to bTB persistence is generally unknown. In the United Kingdom, the role of badgers in the persistence of infection in cattle is highly contentious, despite decades of research and control efforts. Here, we apply Bayesian phylogenetic and machine-learning approaches to bacterial genome data to quantify the role of badgers and cattle in <i>M. bovis</i> infection dynamics in an endemic area. Our results are consistent with a maintenance role of the sampled badger population and if representative, suggest control operations targeting cattle and badgers simultaneously are required. In addition, we provide the first directional estimates of inter-species transmission rates for M. bovis, which estimated badger-to-cattle transmission occurred 9.8 times more frequently than cattle-to-badger transmission, on average, in the sampled system.</p>
+<h2>Prediction of susceptibility to first-line tuberculosis drugs by DNA sequencing</h2>
+<p>The CRyPTIC Consortium and the 100,000 Genomes Project (2018)<br>
+<i>New England Journal of Medicine</i> <b>379</b>: 1403-1415 (<a href="https://www.nejm.org/doi/10.1056/NEJMoa1800474">pdf</a>)
+
+<p>BACKGROUND: The World Health Organization recommends drug-susceptibility testing of Mycobacterium tuberculosis complex for all patients with tuberculosis to guide treatment decisions and improve outcomes. Whether DNA sequencing can be used to accurately predict profiles of susceptibility to first-line antituberculosis drugs has not been clear.</p>
+
+<p>METHODS: We obtained whole-genome sequences and associated phenotypes of resistance or susceptibility to the first-line antituberculosis drugs isoniazid, rifampin, ethambutol, and pyrazinamide for isolates from 16 countries across six continents. For each isolate, mutations associated with drug resistance and drug susceptibility were identified across nine genes, and individual phenotypes were predicted unless mutations of unknown association were also present. To identify how whole-genome sequencing might direct first-line drug therapy, complete susceptibility profiles were predicted. These profiles were predicted to be susceptible to all four drugs (i.e., pansusceptible) if they were predicted to be susceptible to isoniazid and to the other drugs or if they contained mutations of unknown association in genes that affect susceptibility to the other drugs. We simulated the way in which the negative predictive value changed with the prevalence of drug resistance.</p>
+
+<p>RESULTS: A total of 10,209 isolates were analyzed. The largest proportion of phenotypes was predicted for rifampin (9660 [95.4%] of 10,130) and the smallest was predicted for ethambutol (8794 [89.8%] of 9794). Resistance to isoniazid, rifampin, ethambutol, and pyrazinamide was correctly predicted with 97.1%, 97.5%, 94.6%, and 91.3% sensitivity, respectively, and susceptibility to these drugs was correctly predicted with 99.0%, 98.8%, 93.6%, and 96.8% specificity. Of the 7516 isolates with complete phenotypic drug-susceptibility profiles, 5865 (78.0%) had complete genotypic predictions, among which 5250 profiles (89.5%) were correctly predicted. Among the 4037 phenotypic profiles that were predicted to be pansusceptible, 3952 (97.9%) were correctly predicted.</p>
+
+<p>CONCLUSIONS: Genotypic predictions of the susceptibility of M. tuberculosis to first-line drugs were found to be correlated with phenotypic susceptibility to these drugs. (Funded by the Bill and Melinda Gates Foundation and others.).</p>
+
+<h2>Natural mutations in a <i>Staphylococcus aureus</i> virulence regulator attenuate cytotoxicity but permit bacteremia and abscess formation.</h2>
+<p>Das, S., Lindemann, C., Young, B. C., Muller, J., &Ouml;sterreich, B., Ternette, N., Winkler, A.-C., Paprotka, K., Reinhardt, R., F&ouml;rstner, K. U., Allen, E., Flaxman, A., Yamaguchi, Y., Rollier, C. S., Van Diemen, P., Bl&auml;ttner, S., Remmele, C. W., Selle, M., Dittrich, M., M&uuml;ller, T., Vogel, J., Ohlsen, K., Crook, D., Massey, R., Wilson, D. J., Rudel, T., Wyllie, D. H., and M. J. Fraunholz (2016)<br>
+<i>Proceedings of the National Academy of Sciences USA</i> <b>113</b>: E3101-E3110. (<a href="http://www.pnas.org/content/early/2016/05/13/1520255113">pdf</a>)
+
+<p><i>Staphylococcus aureus</i> is a major bacterial pathogen, which causes severe blood and tissue infections that frequently emerge by autoinfection with asymptomatically carried nose and skin populations. However, recent studies report that bloodstream isolates differ systematically from those found in the nose and skin, exhibiting reduced toxicity towards leukocytes. In two patients, an attenuated toxicity bloodstream infection evolved from an asymptomatically carried high-toxicity nasal strain by loss-of-function mutations in the rsp transcription factor. Here, we report that rsp knockout mutants lead to global transcriptional and proteomic reprofiling, and exhibit the greatest signal in a genome-wide screen for genes influencing <i>S. aureus</i> survival in human cells. This effect is likely to be mediated in part via SSR42, a long non-coding RNA. We show that rsp controls SSR42 expression, is induced by hydrogen peroxide, and is required for normal cytotoxicity and hemolytic activity. Rsp inactivation in laboratory- and bacteremia-derived mutants attenuates toxin production, but upregulates other immune subversion proteins and reduces lethality during experimental infection. Crucially, inactivation of rsp preserves bacterial dissemination, as it affects neither formation of deep abscesses in mice, nor survival in human blood. Thus, we have identified a spontaneously evolving attenuated-cytotoxicity, non-hemolytic <i>S. aureus</i> phenotype, controlled by a pleiotropic transcriptional regulator/non-coding RNA virulence regulatory system, capable of causing <i>S. aureus</i> bloodstream infections. Such a phenotype could promote deep infection with limited early clinical manifestations, raising concerns that bacterial evolution within the human body may contribute to severe infection.</p>
+<h2>Rapid host switching in generalist <i>Campylobacter</i> strains erodes the signal for tracing human infections.</h2>
+<p>Dearlove, B. L., Cody, A. J., Pascoe, B., M&eacute;ric, G., Wilson, D. J. and S. K. Sheppard (2016)<br>
+<i>ISME Journal</i> <b>10</b>: 721-9. (<a href="http://www.nature.com/ismej/journal/vaop/ncurrent/full/ismej2015149a.html">pdf</a>)
+
+
+<p><i>Campylobacter jejuni</i> and <i>Campylobacter coli</i> are the biggest causes of bacterial gastroenteritis in the developed world, with human infections typically arising from zoonotic transmission associated with infected meat. Because <i>Campylobacter</i> is not thought to survive well outside the gut, host-associated populations are genetically isolated to varying degrees. Therefore, the likely origin of most strains can be determined by host-associated variation in the genome. This is instructive for characterizing the source of human infection. However, some common strains, notably isolates belonging to the ST-21, ST-45 and ST-828 clonal complexes, appear to have broad host ranges, hindering source attribution. Here whole-genome sequencing has the potential to reveal fine-scale genetic structure associated with host specificity. We found that rates of zoonotic transmission among animal host species in these clonal complexes were so high that the signal of host association is all but obliterated, estimating one zoonotic transmission event every 1.6, 1.8 and 12 years in the ST-21, ST-45 and ST828 complexes, respectively. We attributed 89<span class="mb">&#x00025;</span> of clinical cases to a chicken source, 10<span class="mb">&#x00025;</span> to cattle and 1<span class="mb">&#x00025;</span> to pig. Our results reveal that common strains of <i>C. jejuni</i> and <i>C. coli</i> infectious to humans are adapted to a generalist lifestyle, permitting rapid transmission between different hosts. Furthermore, they show that the weak signal of host association within these complexes presents a challenge for pinpointing the source of clinical infections, underlining the view that whole-genome sequencing, powerful though it is, cannot substitute for intensive sampling of suspected transmission reservoirs.</p>
+<h2>Coalescent-based methods for infectious disease: a meta-analysis of hepatitis C virus epidemiology</h2>
+<p>Dearlove, B. L. and D. J. Wilson (2013)<br>
+<i>Philosophical Transactions of the Royal Society B</i> <b>368</b>: 20120314. (<a href="http://rstb.royalsocietypublishing.org/content/368/1614/20120314.full">pdf</a> <a href="http://code.google.com/p/beast-mcmc/">BEAST</a>)
+		      
+<p>Genetic analysis of pathogen genomes is a powerful approach to investigating the population dynamics andepidemic history of infectious diseases. However, the theoretical underpinnings of the most widely used,coalescent methods have been questioned, casting doubt on their interpretation. The aim of this paper is todevelop robust population genetic inference for compartmental models in epidemiology. Using a generalapproach based on the theory of metapopulations, we derive coalescent models under SI, SIS and SIRdynamics. We show that exponential and logistic growth models are equivalent to SI and SIS modelsrespectively when co-infection is negligible. Implementing SI, SIS and SIR models in BEAST, we conduct ameta-analysis of hepatitis C epidemics, and show that we can directly estimate the basic reproductive number(<i>R</i><sub>0</sub>) and prevalence under SIR dynamics. We find that differences in genetic diversity between epidemicscan be explained by differences in underlying epidemiology (age of the epidemic and local populationdensity) and viral subtype. Model comparison reveals SIR dynamics in three globally restricted epidemics,but most are better fit by the simpler SI dynamics. In summary, metapopulation models provide a general andpractical framework for integrating epidemiology and population genetics for the purposes of joint inference.</p>
+<h2>New routes to phylogeography: a Bayesian structured coalescent approximation.</h2>
+<p>De Maio, N., Wu, C.-H., O'Reilly, K. M. and D. J. Wilson (2015)<br>
+<i>PLoS Genetics</i> <b>11</b>: e1005421 (<a href="http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1005421">pdf</a>)
+
+<p>Phylogeographic methods aim to infer migration trends and the history of sampled lineages from genetic data. Applications of phylogeography are broad, and in the context of pathogens include the reconstruction of transmission histories and the origin and emergence of outbreaks. Phylogeographic inference based on bottom-up population genetics models is computationally expensive, and as a result faster alternatives based on the evolution of discrete traits have become popular. In this paper, we show that inference of migration rates and root locations based on discrete trait models is extremely unreliable and sensitive to biased sampling. To address this problem, we introduce BASTA (BAyesian STructured coalescent Approximation), a new approach implemented in BEAST2 that combines the accuracy of methods based on the structured coalescent with the computational efficiency required to handle more than just few populations. We illustrate the potentially severe implications of poor model choice for phylogeographic analyses by investigating the zoonotic transmission of Ebola virus. Whereas the structured coalescent analysis correctly infers that successive human Ebola outbreaks have been seeded by a large unsampled non-human reservoir population, the discrete trait analysis implausibly concludes that undetected human-to-human transmission has allowed the virus to persist over the past four decades. As genomics takes on an increasingly prominent role informing the control and prevention of infectious diseases, it will be vital that phylogeographic inference provides robust insights into transmission history.</p>
+
+<h2>SCOTTI: Efficient reconstruction of transmission within outbreaks with the structured coalescent.</h2>
+<p>De Maio, N., Wu, C.-H. and D. J. Wilson (2016)<br>
+<i>PLoS Computational Biology</i> <b>12</b>: e1005130. (<a href="http://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1005130">pdf</a> <a href="http://arxiv.org/abs/1603.01994">preprint</a>)
+
+<p>Exploiting pathogen genomes to reconstruct transmission represents a powerful tool in the fight against infectious disease. However, their interpretation rests on a number of simplifying assumptions that regularly ignore important complexities of real data, in particular within-host evolution and non-sampled patients. Here we propose a new approach to transmission inference called SCOTTI (Structured COalescent Transmission Tree Inference). This method is based on a statistical framework that models each host as a distinct population, and transmissions between hosts as migration events. Our computationally efficient implementation of this model enables the inference of host-to-host transmission while accommodating within-host evolution and non-sampled hosts. SCOTTI is distributed as an open source package for the phylogenetic software BEAST2. We show that SCOTTI can generally infer transmission events even in the presence of considerable within-host variation, can account for the uncertainty associated with the possible presence of non-sampled hosts, and can efficiently use data from multiple samples of the same host, although there is some reduction in accuracy when samples are collected very close to the infection time. We illustrate the features of our approach by investigating transmission from genetic and epidemiological data in a Foot and Mouth Disease Virus (FMDV) veterinary outbreak in England and a <i>Klebsiella pneumoniae</i> outbreak in a Nepali neonatal unit. Transmission histories inferred with SCOTTI will be important in devising effective measures to prevent and halt transmission.</p>
+<h2>The bacterial sequential Markov coalescent</h2>
+<p>De Maio, N. and D. J. Wilson (2017)<br>
+<i>Genetics</i> <b>206</b>: 333-343. (<a href="http://www.genetics.org/content/early/2017/03/02/genetics.116.198796">pdf</a>)
+
+<p>Bacteria can exchange and acquire new genetic material from other organisms directly and via the environment. This process, known as bacterial recombination, has a strong impact on the evolution of bacteria, for example leading to the spread of antibiotic resistance across clades and species, and to the avoidance of clonal interference. Recombination hinders phylogenetic and transmission inference because it creates patterns of substitutions (homoplasies) inconsistent with the hypothesis of a single evolutionary tree. Bacterial recombination is typically modelled as statistically akin to gene conversion in eukaryotes, i.e., using the coalescent with gene conversion (CGC). However, this model can be very computationally demanding as it needs to account for the correlations of evolutionary histories of even distant loci. So, with the increasing popularity of whole genome sequencing, the need has emerged for a faster approach to model and simulate bacterial genome evolution. We present a new model that approximates the coalescent with gene conversion: the bacterial sequential Markov coalescent (BSMC). Our approach is based on a similar idea to the the sequential Markov coalescent (SMC), an approximation of the coalescent with crossover recombination. However, bacterial recombination poses hurdles to a sequential Markov approximation, as it leads to strong correlations and linkage disequilibrium across very distant sites in the genome. Our BSMC overcomes these difficulties, and shows a considerable reduction in computational demand compared to the exact CGC, and very similar patterns in simulated data. We implemented our BSMC model within new simulation software FastSimBac. In addition to the decreased computational demand compared to previous bacterial genome evolution simulators, FastSimBac provides more general options for evolutionary scenarios, allowing population structure with migration, speciation, population size changes, and recombination hotspots. FastSimBac is available from https://bitbucket.org/nicofmay/fastsimbac and is distributed as open source under the terms of the GNU General Public Licence. Lastly, we use the BSMC within an Approximate Bayesian Computation (ABC) inference scheme and suggest that parameters simulated under the exact CGC can correctly be recovered, further showcasing the accuracy of the BSMC. With this ABC we infer recombination rate, mutation rate, and recombination tract length of <i>Bacillus cereus</i> from a whole genome alignment.</p>
+<h2>Bayesian reconstruction of transmission within outbreaks using genomic variants</h2>
+<p>De Maio, N.,	Worby, C. J., Wilson, D. J. and	N. Stoesser (2018)<br>
+<i>PLoS Computational Biology</i> <b>14</b>: e1006117. (<a href="https://www.biorxiv.org/content/early/2017/11/08/213819">preprint</a> <a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006117">pdf</a>)
+
+<p>Pathogen genome sequencing can reveal details of transmission histories and is a powerful tool in the fight against infectious disease. In particular, within-host pathogen genomic variants identified through heterozygous nucleotide base calls are a potential source of information to identify linked cases and infer direction and time of transmission. However, using such data effectively to model disease transmission presents a number of challenges, including differentiating genuine variants from those observed due to sequencing error, as well as the specification of a realistic model for within-host pathogen population dynamics. Here we propose a new Bayesian approach to transmission inference that explicitly models evolution of pathogen populations in an outbreak, transmission (including transmission bottlenecks), and sequencing error. Our approach enables the inference of host-to-host transmission from pathogen sequencing data and epidemiological data. By assuming that genomic variants are unlinked, our method does not require the computationally intensive and unreliable reconstruction of individual haplotypes. Using simulations we show that our method is robust in most scenarios and can accurately infer transmission events by efficiently combining information from genetic and epidemiological sources; thanks to its realistic model of pathogen evolution and the inclusion of epidemiological data, our method is also more accurate than existing approaches. The software implementing our method is distributed as an open source package (<a href="https://bitbucket.org/nicofmay/badtrip">https://bitbucket.org/nicofmay/badtrip</a>) for the phylogenetic software BEAST2. We apply our method to reconstruct transmission history at the early stages of the 2014 Ebola outbreak, showcasing the power of within-host genomic variants to reconstruct transmission events.</p>
+<h2>Whole-genome sequencing to determine transmission of <i>Neisseria gonorrhoeae</i>: an observational study.</h2>
+<p>De Silva, D., Peters, J., Cole, K., Cole, M. L., Cresswell, F., Dean, G., Dave, J., Thomas, D. R., Foster, K., Waldram, A., Wilson, D. J., Didelot, X., Grad, Y. H., Crook, D. W., Peto, T. E. A., Walker, A. S., Paul, J. and Eyre, D. W (2016)<br>
+<i>Lancet Infectious Diseases</i>, in press (<a href="http://www.thelancet.com/journals/laninf/article/PIIS1473-3099(16)30157-8/fulltext">pdf</a>)
+
+<p><b>Background</b><br>
+New approaches are urgently required to address increasing rates of gonorrhoea and the emergence and global spread of antibiotic-resistant Neisseria gonorrhoeae. We used whole-genome sequencing to study transmission and track resistance in N gonorrhoeae isolates.</p>
+
+<p><b>Methods</b><br>
+We did whole-genome sequencing of isolates obtained from samples collected from patients attending sexual health services in Brighton, UK, between Jan 1, 2011, and March 9, 2015. We also included isolates from other UK locations, historical isolates from Brighton, and previous data from a US study. Samples from symptomatic patients and asymptomatic sexual health screening underwent nucleic acid amplification testing; positive samples and all samples from symptomatic patients were cultured for N gonorrhoeae, and resulting isolates were whole-genome sequenced. Cefixime susceptibility testing was done in selected isolates by agar incorporation, and we used sequence data to determine multi-antigen sequence types and penA genotypes. We derived a transmission nomogram to determine the plausibility of direct or indirect transmission between any two cases depending on the time between samples: estimated mutation rates, plus diversity noted within patients across anatomical sites and probable transmission pairs, were used to fit a coalescent model to determine the number of single nucleotide polymorphisms expected.</p>
+
+<p><b>Findings</b><br>
+1407 (98%) of 1437 Brighton isolates between Jan 1, 2011, and March 9, 2015 were successfully sequenced. We identified 1061 infections from 907 patients. 281 (26%) of these infections were indistinguishable (ie, differed by zero single nucleotide polymorphisms) from one or more previous cases, and 786 (74%) had evidence of a sampled direct or indirect Brighton source. We observed multiple related samples across geographical locations. Of 1273 infections in Brighton (including historical data), 225 (18%) were linked to another case elsewhere in the UK, and 115 (9%) to a case in the USA. Four lineages initially identified in Brighton could be linked to 70 USA sequences, including 61 from a lineage carrying the mosaic penA XXXIV allele, which is associated with reduced cefixime susceptibility.</p>
+
+<p><b>Interpretation</b><br>
+We present a whole-genome-sequencing-based tool for genomic contact tracing of N gonorrhoeae and demonstrate local, national, and international transmission. Whole-genome sequencing can be applied across geographical boundaries to investigate gonorrhoea transmission and to track antimicrobial resistance.</p>
+
+<p><b>Funding</b><br>
+Oxford National Institute for Health Research Health Protection Research Unit and Biomedical Research Centre.</p>
+<h2>Transforming Clinical Microbiology with Bacterial Genome Sequencing</h2>
+<p>Didelot, X.,	 Bowden,  R., Wilson, D. J., Peto, T. E. A. and D. W. Crook (2012)<br>
+<i>Nature Reviews Genetics</i> <b>13</b>: 601-612. (<a href="http://www.nature.com/nrg/journal/v13/n9/pdf/nrg3226.pdf">pdf</a>)
+
+<p>Whole-genome sequencing of bacteria has recently emerged as a cost-effective and convenient approach for addressing many microbiological questions. Here, we review the current status of clinical microbiology and how it has already begun to be transformed by using next-generation sequencing. We focus on three essential tasks: identifying the species of an isolate, testing its properties, such as resistance to antibiotics and virulence, and monitoring the emergence and spread of bacterial pathogens. We predict that the application of next-generation sequencing will soon be sufficiently fast, accurate and cheap to be used in routine clinical microbiology practice, where it could replace many complex current techniques with a single, more efficient workflow.</p>
+<h2>Microevolutionary analysis of <i>Clostridium difficile</i> genomes to investigate transmission</h2>
+Didelot, X., Eyre, D. W., Cule, M., Ip, C. L. C., Ansari, A., Griffiths, D., Vaughan, A., O'Connor, L., Golubchik, T., Batty, E. M., Piazza, P., Wilson, D. J., Bowden, R., Donnelly, P. J., Dingle, K. E., Wilcox, M., Walker, A. S., Crook, D. W., Peto, T. E. A. and R. M. Harding (2012)<br>
+<i>Genome Biology</i> <b>13</b>: R118. (<a href="http://genomebiology.com/2012/13/12/R118/abstract">pdf</a>)
+
+<p><b>Background</b><br>
+The control of <i>Clostridium difficile</i> infection (CDI) is a major international healthcare
+priority, hindered by a limited understanding of transmission epidemiology for these
+bacteria. However, transmission studies of bacterial pathogens are rapidly being
+transformed by the advent of next generation sequencing.</p>
+
+<p><b>Results</b><br>
+Here we sequence whole <i>C. difficile</i> genomes from 486 CDI cases arising over 4
+years in Oxfordshire. We show that we can estimate the times back to common
+ancestors of bacterial lineages with sufficient resolution to distinguish whether direct
+transmission is plausible or not. Time depths were inferred using a within-host
+evolutionary rate that we estimated at 2.3 mutations per genome per year based on
+serially isolated genomes (with 95% credibility interval 1.6-3.0). The subset of
+plausible transmissions was found to be highly associated with pairs of patients
+sharing time and space in hospital. Conversely, the majority (81%) of pairs of
+genomes matched by conventional typing and isolated from patients within a month
+of each other were too distantly related to be direct transmissions.</p>
+
+<p><b>Conclusions</b><br>
+Our results confirm that nosocomial transmission between symptomatic CDI cases
+contributes far less to current rates of CDI acquisition than has been widely assumed,
+which clarifies the importance of future research into other transmission routes, for
+example from asymptomatic carriers. With the costs of DNA sequencing rapidly
+falling and its use becoming more and more widespread, genomics will revolutionize
+our understanding of the transmission of bacterial pathogens.</p>
+<h2>Within-host evolution of bacterial pathogens</h2>
+<p>Didelot, X., Walker, A. S., Peto, T. E., Crook, D. W. and D. J. Wilson (2016)<br>
+<i>Nature Reviews Microbiology</i> <b>14</b>: 150-162. (<a href="http://www.nature.com/nrmicro/journal/vaop/ncurrent/full/nrmicro.2015.13.html">pdf</a>).
+
+<p>Whole-genome sequencing has opened the way for investigating the dynamics and genomic evolution of bacterial pathogens during the colonization and infection of humans. The application of this technology to the longitudinal study of adaptation in an infected host - in particular, the evolution of drug resistance and host adaptation in patients who are chronically infected with opportunistic pathogens - has revealed remarkable patterns of convergent evolution, suggestive of an inherent repeatability of evolution. In this Review, we describe how these studies have advanced our understanding of the mechanisms and principles of within-host genome evolution, and we consider the consequences of findings such as a potent adaptive potential for pathogenicity. Finally, we discuss the possibility that genomics may be used in the future to predict the clinical progression of bacterial infections and to suggest the best option for treatment.</p>
+
+<h2>Bayesian inference of ancestral dates on bacterial phylogenetic trees.</h2>
+<p>Didelot, X., Croucher, N. J., Bentley, S. D., Harris, S. R. and D. J. Wilson (2018)<br>
+<i>Nucleic Acids Research</i> <b>46</b>: e134. (<a href="https://academic.oup.com/nar/article/46/22/e134/5089898">pdf</a>)
+
+<p>The sequencing and comparative analysis of a collection of bacterial genomes from a single species or lineage of interest can lead to key insights into its evolution, ecology or epidemiology. The tool of choice for such a study is often to build a phylogenetic tree, and more specifically when possible a dated phylogeny, in which the dates of all common ancestors are estimated. Here, we propose a new Bayesian methodology to construct dated phylogenies which is specifically designed for bacterial genomics. Unlike previous Bayesian methods aimed at building dated phylogenies, we consider that the phylogenetic relationships between the genomes have been previously evaluated using a standard phylogenetic method, which makes our methodology much faster and scalable. This two-step approach also allows us to directly exploit existing phylogenetic methods that detect bacterial recombination, and therefore to account for the effect of recombination in the construction of a dated phylogeny. We analysed many simulated datasets in order to benchmark the performance of our approach in a wide range of situations. Furthermore, we present applications to three different real datasets from recent bacterial genomic studies. Our methodology is implemented in a R package called BactDating which is freely available for download at <a href="https://github.com/xavierdidelot/BactDating">https://github.com/xavierdidelot/BactDating</a>.</p>
+<h2>ClonalFrameML: efficient inference of recombination in whole bacterial genomes.</h2>
+<p>Didelot, X. and D. J. Wilson (2015)<br>
+<i>PLoS Computational Biology</i> <b>11</b>: e1004041. (<a href="http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004041">pdf</a>)
+
+<p>Recombination is an important evolutionary force in bacteria, but it remains challenging to reconstruct the imports that occurred in the ancestry of a genomic sample. Here we present ClonalFrameML, which uses maximum likelihood inference to simultaneously detect recombination in bacterial genomes and account for it in phylogenetic reconstruction. ClonalFrameML can analyse hundreds of genomes in a matter of hours, and we demonstrate its usefulness on simulated and real datasets. We find evidence for recombination hotspots associated with mobile elements in <i>Clostridium difficile</i> ST6 and a previously undescribed 310kb chromosomal replacement in <i>Staphylococcus aureus</i> ST582. ClonalFrameML is freely available at <a href="http://clonalframeml.googlecode.com/">http://clonalframeml.googlecode.com/</a>.</p>
+<h2>Effects of control interventions on <i>Clostridium difficile</i> infection in England: an observational study.</h2>
+<p>Dingle, K. E., Didelot, X., Quan, T. P., Eyre, D. W., Stoesster, N., Golubchik, T., Harding, R. M., Wilson, D. J., Griffiths, D., Oakley, S. J., the Modernising Medical Microbiology Informatics Group, Fawley, W. N., Freeman, J., Morris, K., Martin, J., Howard, P., Gorbach, S., Goldstein, E. J. C., Citron, D. M., Hopkins, S., Hope, R., Johnson, A. P., Wilcox, M. H., Peto, T. E. A., Walker, A. S. and D. W. Crook (2017)<br>
+<i>Lancet Infectious Diseases</i> <b>17</b>: 411-421. (<a href="http://www.thelancet.com/journals/laninf/article/PIIS1473-3099(16)30514-X/fulltext">pdf</a>)
+
+<p><b>Background</b><br>
+The control of Clostridium difficile infections is an international clinical challenge. The incidence of C difficile in England declined by roughly 80% after 2006, following the implementation of national control policies; we tested two hypotheses to investigate their role in this decline. First, if C difficile infection declines in England were driven by reductions in use of particular antibiotics, then incidence of C difficile infections caused by resistant isolates should decline faster than that caused by susceptible isolates across multiple genotypes. Second, if C difficile infection declines were driven by improvements in hospital infection control, then transmitted (secondary) cases should decline regardless of susceptibility.</p>
+<p><b>Methods</b><br>
+Regional (Oxfordshire and Leeds, UK) and national data for the incidence of C difficile infections and antimicrobial prescribing data (1998-2014) were combined with whole genome sequences from 4045 national and international C difficile isolates. Genotype (multilocus sequence type) and fluoroquinolone susceptibility were determined from whole genome sequences. The incidence of C difficile infections caused by fluoroquinolone-resistant and fluoroquinolone-susceptible isolates was estimated with negative-binomial regression, overall and per genotype. Selection and transmission were investigated with phylogenetic analyses.</p>
+<p><b>Findings</b><br>
+National fluoroquinolone and cephalosporin prescribing correlated highly with incidence of C difficile infections (cross-correlations >0.88), by contrast with total antibiotic prescribing (cross-correlations <0.59). Regionally, C difficile decline was driven by elimination of fluoroquinolone-resistant isolates (approximately 67% of Oxfordshire infections in September, 2006, falling to approximately 3% in February, 2013; annual incidence rate ratio 0.52, 95% CI 0.48-0.56 vs fluoroquinolone-susceptible isolates: 1.02, 0.97-1.08). C difficile infections caused by fluoroquinolone-resistant isolates declined in four distinct genotypes (p<0.01). The regions of phylogenies containing fluoroquinolone-resistant isolates were short-branched and geographically structured, consistent with selection and rapid transmission. The importance of fluoroquinolone restriction over infection control was shown by significant declines in inferred secondary (transmitted) cases caused by fluoroquinolone-resistant isolates with or without hospital contact (p<0.0001) versus no change in either group of cases caused by fluoroquinolone-susceptible isolates (p>0.2).</p>
+<p><b>Interpretation</b><br>
+Restricting fluoroquinolone prescribing appears to explain the decline in incidence of C difficile infections, above other measures, in Oxfordshire and Leeds, England. Antimicrobial stewardship should be a central component of C difficile infection control programmes.</p>
+<h2>Identifying lineage effects when controlling for population structure improves power in bacterial association studies</h2>
+<p>Earle, S. G., Wu, C.-H., Charlesworth, J., Stoesser, N., Gordon, N. C., Walker, T. M., Spencer, C. C. A., Iqbal, Z., Clifton, D.A., Hopkins, K. L., Woodford, N., Smith, E. G., Ismail, N., Llewelyn, M. J., Peto, T. E., Crook, D. W., McVean, G., Walker, A. S. and D. J. Wilson (2016)<br>
+<i>Nature Microbiology</i> 16041 (<a href="http://www.nature.com/articles/nmicrobiol201641">pdf</a> <a href="http://arxiv.org/abs/1510.06863">preprint</a> <a href="http://www.danielwilson.me.uk/files/bugwas_si.pdf">supplement</a>)
+
+<p>Bacteria pose unique challenges for genome-wide association studies (GWAS) because of strong structuring into distinct strains and substantial linkage disequilibrium across the genome. While methods developed for human studies can correct for strain structure, this risks considerable loss-of-power because genetic differences between strains often contribute substantial phenotypic variability. Here we propose a new method that captures lineage-level associations even when locus-specific associations cannot be fine-mapped. We demonstrate its ability to detect genes and genetic variants underlying resistance to 17 antimicrobials in 3144 isolates from four taxonomically diverse clonal and recombining bacteria: <i>Mycobacterium tuberculosis</i>, <i>Staphylococcus aureus</i>, <i>Escherichia coli</i> and <i>Klebsiella pneumoniae</i>. Strong selection, recombination and penetrance confer high power to recover known antimicrobial resistance mechanisms, and reveal a candidate association between the outer membrane porin <i>nmpC</i> and cefazolin resistance in <i>E. coli</i>. Hence our method pinpoints locus-specific effects where possible, and boosts power by detecting lineage-level differences when fine-mapping is intractable.</p>
+<h2>Evolutionary trade-offs underlie the multi-faceted virulence of <i>Staphylococcus aureus</i>.</h2>
+<p>Laabei, M., Uhlemann, A.-C., Lowy, F. D., Austin, E. D., Yokoyama, M., Ouadi, K., Feil, E., Thorpe, H. A., Williams, B., Perkins, M., Peacock, S. J., Clarke, S. R., Dordel, J., Holden, M., Votintseva, A. A., Bowden, R., Crook, D. W., Young, B. C., Wilson, D. J., Recker, M. and R. C. Massey (2015)<br>
+<i>PLoS Biology</i> <b>13</b>: e1002229. (<a href="http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002229">pdf</a>)
+
+<p>Bacterial virulence is a multifaceted trait where the interactions between pathogen and host factors affect the severity and outcome of the infection. Toxin secretion is central to the biology of many bacterial pathogens and is widely accepted as playing a crucial role in disease pathology. To understand the relationship between toxicity and bacterial virulence in greater depth, we studied two sequenced collections of the major human pathogen <i>Staphylococcus aureus</i> and found an unexpected inverse correlation between bacterial toxicity and disease severity. By applying a functional genomics approach, we identified several novel toxicity-affecting loci responsible for the wide range in toxic phenotypes observed within these collections. To understand the apparent higher propensity of low toxicity isolates to cause bacteraemia, we performed several functional assays, and our findings suggest that within-host fitness differences between high- and low-toxicity isolates in human serum is a contributing factor. As invasive infections, such as bacteraemia, limit the opportunities for onward transmission, highly toxic strains could gain an additional between-host fitness advantage, potentially contributing to the maintenance of toxicity at the population level. Our results clearly demonstrate how evolutionary trade-offs between toxicity, relative fitness, and transmissibility are critical for understanding the multifaceted nature of bacterial virulence.</p>
+
+<h2>Population genetic estimation of the loss of genetic diversity during horizontal transmission of 
+HIV-1</h2>
+
+<p>Edwards, C. T. T., E. C. Holmes, D. J. Wilson, R. P. Viscidi, E. J. Abrams, R. 
+					E. Phillips and A. J. Drummond (2006)<br>
+<i>BMC Evolutionary Biology</i> <B>6</B>: 28. (<a 
+href="http://www.biomedcentral.com/content/pdf/1471-2148-6-28.pdf" target="_blank">pdf</a>)</p>
+
+<p><b>Background</b>
+Genetic diversity of the human immunodeficiency virus type 1 (HIV-1) population within an individual is 
+lost during transmission to a new host. The demography of transmission is an important determinant of 
+evolutionary dynamics, particularly the relative impact of natural selection and genetic drift immediately 
+following HIV-1 infection. Despite this, the magnitude of this population bottleneck is unclear.</p>
+
+<p><b>Results</b>
+We use coalescent methods to quantify the bottleneck in a single case of homosexual transmission and find 
+that over 99% of the <i>env</i> and <i>gag</i> diversity present in the donor is lost. This was consistent 
+with the 
+diversity present at seroconversion in nine other horizontally infected individuals. Furthermore, we 
+estimated viral diversity at birth in 27 infants infected through vertical transmission and found there to 
+be no difference between the two modes of transmission.</p>
+
+<p><b>Conclusion</b>
+Assuming the bottleneck at transmission is selectively neutral, such a severe reduction in genetic 
+diversity has important implications for adaptation in HIV-1, since beneficial mutations have a reduced 
+chance of transmission.</p>
+<h2>Evolution of the HIV-1 envelope gene is dominated by purifying 
+selection</h2>
+
+<p>Edwards, C. T. T., E. C. Holmes, O. G. Pybus, D. J. Wilson, R. P. 
+Viscidi, 
+					E. J. Abrams, R. E. Phillips and 
+A. J. Drummond (2006)<br>
+<i>Genetics</i> <B>174</B>: 1441-1453. (<a 
+href="http://www.genetics.org/cgi/content/abstract/174/3/1441" 
+target="_blank">pdf</a>)</p>
+
+<p>The evolution of the human immunodeficiency virus (HIV-1) during 
+chronic infection involves the rapid, continuous turnover of genetic 
+diversity. However, the role of natural selection, relative to random 
+genetic drift, in governing this process is unclear. We tested a 
+stochastic model of genetic drift using partial envelope sequences sampled 
+longitudinally in 28 infected children. In each case the Bayesian 
+posterior (empirical) distribution of coalescent genealogies was estimated 
+using Markov chain Monte Carlo methods. Posterior predictive simulation 
+was then used to generate a null distribution of genealogies assuming 
+neutrality, with the null and empirical distributions compared using four 
+genealogy-based summary statistics sensitive to nonneutral evolution. 
+Because both null and empirical distributions were generated within a 
+coalescent framework, we were able to explicitly account for the 
+confounding influence of demography. From the distribution of corrected 
+<i>P</i>-values across patients, we conclude that empirical genealogies 
+are more 
+asymmetric than expected if evolution is driven by mutation and genetic 
+drift only, with an excess of low-frequency polymorphisms in the 
+population. This indicates that although drift may still play an important 
+role, natural selection has a strong influence on the evolution of HIV-1 
+envelope. A negative relationship between effective population size and 
+substitution rate indicates that as the efficacy of selection increases, a 
+smaller proportion of mutations approach fixation in the population. This 
+suggests the presence of deleterious mutations. We therefore conclude that 
+intrahost HIV-1 evolution in envelope is dominated by purifying selection 
+against low-frequency deleterious mutations that do not reach 
+fixation.</p>
+
+<h2>Mobile elements drive recombination hotspots in the core genome of <i>Staphylococcus aureus</i>.</h2>
+<p>Everitt, R. G., Didelot, X., Batty, E. M., Miller, R. R., Knox, K., Young, B. C., Bowden, R., Auton, A., Votintseva, A., Larner-Svensson, H., Charlesworth, J., Golubchik, T., Ip, C. L. C., Godwin, H., Fung, R., Peto, T. E. A., Walker, A. S., Crook, D. W. and D. J. Wilson (2014)<br>
+<i>Nature Communications</i> <b>5</b>: 3956. (<a href="http://www.nature.com/ncomms/2014/140523/ncomms4956/full/ncomms4956.html">pdf</a>)
+
+<p>Horizontal gene transfer is an important driver of bacterial evolution, but genetic exchange in the core genome of clonal species, including the major pathogen <i>Staphylococcus aureus</i>, is incompletely understood. Here we reveal widespread homologous recombination in <i>S. aureus</i> at the species level, in contrast to its near-complete absence between closely related strains. We discover a patchwork of hotspots and coldspots at fine scales falling against a backdrop of broad-scale trends in rate variation. Over megabases, homoplasy rates fluctuate 1.9-fold, peaking towards the origin-of-replication. Over kilobases, we find core recombination hotspots of up to 2.5-fold enrichment situated near fault lines in the genome associated with mobile elements. The strongest hotspots include regions flanking conjugative transposon ICE<i>6013</i>, the staphylococcal cassette chromosome (SCC) and genomic island nu-Sa-alpha. Mobile element-driven core genome transfer represents an opportunity for adaptation and challenges our understanding of the recombination landscape in predominantly clonal pathogens, with important implications for genotype-phenotype mapping.</p>
+<h2>Sequential Monte Carlo with transformations.</h2>
+<p>Everitt, R. G., Culliford, R., Medina-Aguayo, F., D.	J. Wilson (2019)<br>
+<i>Statistics and Computing</i>, in press. (<a href="https://arxiv.org/abs/1612.06468">preprint</a> <a href="http://link.springer.com/article/10.1007/s11222-019-09903-y">pdf</a>)
+
+<p>This paper introduces methodology for performing Bayesian inference sequentially on a sequence of posteriors on spaces of different dimensions. We show how this may be achieved through the use of sequential Monte Carlo (SMC) samplers (Del Moral et al., 2006, 2007), making use of the full flexibility of this framework in order that the method is computationally efficient. In particular, we introduce the innovation of using deterministic transformations to move particles effectively between target distributions with different dimensions. This approach, combined with adaptive methods, yields an extremely flexible and general algorithm for Bayesian model comparison that is suitable for use in applications where the acceptance rate in reversible jump Markov chain Monte Carlo (RJMCMC) is low. We demonstrate this approach on the well-studied problem of model comparison for mixture models, and for the novel application of inferring coalescent trees sequentially, as data arrives.</p>
+
+<h2>A pilot study of rapid benchtop sequencing of <i>Staphylococcus aureus</i> and <i>Clostridium difficile</i> for outbreak detection and surveillance.</h2>
+<p>Eyre, D. W., T. Golubchik, N. C. Gordon, R. Bowden, P. Piazza, E. M. Batty, C. L. C. Ip, D. J. Wilson, X. Didelot, L. O'Connor, R. Lay, D. Buck, A. Kearns, A. Shaw, J. Paul, M. Wilcox, P. J. Donnelly, T. E. A. Peto, A. S. Walker and D. W. Crook (2012)<br>
+<i>BMJ Open</i> <b>2</b>: e001124. (<a href="http://bmjopen.bmj.com/content/2/3/e001124.full.pdf+html">pdf</a>)
+
+
+<p><b>Objectives</b> To investigate the prospects of newly available benchtop sequencers to provide rapid whole-genome data in routine clinical practice. Next-generation sequencing has the potential to resolve uncertainties surrounding the route and timing of person-to-person transmission of healthcare-associated infection, which has been a major impediment to optimal management.
+
+<p><b>Design</b> The authors used Illumina MiSeq benchtop sequencing to undertake case studies investigating potential outbreaks of methicillin-resistant <i>Staphylococcus aureus</i> (MRSA) and <i>Clostridium difficile</i>.
+
+<p><b>Setting</b> Isolates were obtained from potential outbreaks associated with three UK hospitals.
+
+<p><b>Participants</b> Isolates were sequenced from a cluster of eight MRSA carriers and an associated bacteraemia case in an intensive care unit, another MRSA cluster of six cases and two clusters of <i>C difficile</i>. Additionally, all <i>C difficile</i> isolates from cases over 6 weeks in a single hospital were rapidly sequenced and compared with local strain sequences obtained in the preceding 3 years.
+
+<p><b>Main outcome measure</b> Whole-genome genetic relatedness of the isolates within each epidemiological cluster.
+
+<p><b>Results</b> Twenty-six MRSA and 15 <i>C difficile</i> isolates were successfully sequenced and analysed within 5 days of culture. Both MRSA clusters were identified as outbreaks, with most sequences in each cluster indistinguishable and all within three single nucleotide variants (SNVs). Epidemiologically unrelated isolates of the same spa-type were genetically distinct (>=21 SNVs). In both <i>C difficile</i> clusters, closely epidemiologically linked cases (in one case sharing the same strain type) were shown to be genetically distinct (>=144 SNVs). A reconstruction applying rapid sequencing in <i>C difficile</i> surveillance provided early outbreak detection and identified previously undetected probable community transmission.
+
+<p><b>Conclusions</b> This benchtop sequencing technology is widely generalisable to human bacterial pathogens. The findings provide several good examples of how rapid and precise sequencing could transform identification of transmission of healthcare-associated infection and therefore improve hospital infection control and patient outcomes in routine clinical practice.
+</p>
+<h2>Detection of mixed infection from bacterial whole genome sequence data allows assessment of its role in <i>Clostridium difficile</i> transmission.</h2>
+<p>Eyre, D. W., Cule, M. L., Griffiths, D., Crook, D. W., Peto, T. E. A., Walker, A. S and D. J. Wilson (2013)<br>
+<i>PLoS Computational Biology</i> <b>9</b>: e1003059 (<a href="http://www.ploscompbiol.org/article/info:doi/10.1371/journal.pcbi.1003059">pdf</a>)
+
+<p>Bacterial whole genome sequencing offers the prospect of rapid and high
+precision investigation of infectious disease outbreaks. Close genetic
+relationships between microorganisms isolated from different infected cases
+suggest transmission is a strong possibility, whereas transmission between cases
+with genetically distinct bacterial isolates can be excluded. However, undetected
+mixed infections-infection with two or more unrelated strains of the same species where
+only one is sequenced-potentially impairs exclusion of transmission with
+certainty, and may therefore limit the utility of this technique. We investigated
+the problem by developing a computationally efficient method for detecting
+mixed infection without the need for resource-intensive independent sequencing
+of multiple bacterial colonies. Given the relatively low density of single
+nucleotide polymorphisms within bacterial sequence data direct reconstruction
+of mixed infection haplotypes from current short-read sequence data is not
+consistently possible. We therefore use a two-step maximum likelihood-
+based approach, assuming each sample contains up to two infecting strains.
+We jointly estimate the proportion of the infection arising from the dominant
+and minor strains, and the sequence divergence between these strains. In
+cases where mixed infection is confirmed, the dominant and minor haplotypes
+are then matched to a database of previously sequenced local isolates. We
+demonstrate the performance of our algorithm with <i>in silico</i> and <i>in vitro</i> mixed
+infection experiments, and apply it to transmission of an important healthcare-
+associated pathogen, <i>Clostridium difficile</i>. Using hospital ward movement data in
+a previously described stochastic transmission model, 15 pairs of cases enriched
+for likely transmission events associated with mixed infection were selected. Our
+method identified four previously undetected mixed infections, and a previously
+undetected transmission event, but no direct transmission between the pairs of
+cases under investigation. These results demonstrate that mixed infections can
+be detected without additional sequencing effort, and this will be important in
+assessing the extent of cryptic transmission in our hospitals.</p>
+<h2>Diverse sources of <i>C. difficile</i> infection identified by whole genome sequencing.</h2>
+<p>Eyre, D. W., Cule, M. L., Wilson, D. J., Griffiths, D., Vaughan, A., O'Connor, L., Ip, C. L. C., Golubchik, T., Batty, E. M., Finney, J. M., Wyllie, D. H., Didelot, X., Piazza, P., Bowden, R., Dingle, K. E., Harding, R. M., Crook, D. W., Wilcox, M. H., Peto, T. E. A. and A. S. Walker (2013)<br>
+<i>New England Journal of Medicine</i> <b>369</b>: 1195-1205. (<a href="http://www.nejm.org/doi/full/10.1056/NEJMoa1216064">pdf</a>)
+
+<p><b>Background</b>
+<br>It has been thought that <i>Clostridium difficile</i> infection is transmitted predominantly within health care settings. However, endemic spread has hampered identification of precise sources of infection and the assessment of the efficacy of interventions.
+<br><b>Methods</b>
+<br>
+From September 2007 through March 2011, we performed whole-genome sequencing on isolates obtained from all symptomatic patients with <i>C. difficile</i> infection identified in health care settings or in the community in Oxfordshire, United Kingdom. We compared single-nucleotide variants (SNVs) between the isolates, using <i>C. difficile</i> evolution rates estimated on the basis of the first and last samples obtained from each of 145 patients, with 0 to 2 SNVs expected between transmitted isolates obtained less than 124 days apart, on the basis of a 95% prediction interval. We then identified plausible epidemiologic links among genetically related cases from data on hospital admissions and community location.
+<br><b>Results</b>
+<br>Of 1250 <i>C. difficile</i> cases that were evaluated, 1223 (98%) were successfully sequenced. In a comparison of 957 samples obtained from April 2008 through March 2011 with those obtained from September 2007 onward, a total of 333 isolates (35%) had no more than 2 SNVs from at least 1 earlier case, and 428 isolates (45%) had more than 10 SNVs from all previous cases. Reductions in incidence over time were similar in the two groups, a finding that suggests an effect of interventions targeting the transition from exposure to disease. Of the 333 patients with no more than 2 SNVs (consistent with transmission), 126 patients (38%) had close hospital contact with another patient, and 120 patients (36%) had no hospital or community contact with another patient. Distinct subtypes of infection continued to be identified throughout the study, which suggests a considerable reservoir of <i>C. difficile</i>.
+<br><b>Conclusions</b>
+<br>Over a 3-year period, 45% of <i>C. difficile</i> cases in Oxfordshire were genetically distinct from all previous cases. Genetically diverse sources, in addition to symptomatic patients, play a major part in <i>C. difficile</i> transmission.</p>
+<h2>Mismatch induced speciation in <i>Salmonella</i>: model and data</h2>
+
+<p>Falush, D., M. Torpdahl, X. Didelot, D. F. Conrad, D. J. Wilson and 
+M. Achtman (2006)<br>
+<i>Philosophical Transactions of the Royal Society B</i> <b>361</b>: 
+2045-2053. (<a 
+href="http://www.journals.royalsoc.ac.uk/openurl.asp?genre=article&id=doi:10.1098/rstb.2006.1925">pdf</a>)</p>
+
+<p>In bacteria, DNA sequence mismatches act as a barrier to recombination 
+between distantly related organisms and can potentially promote the 
+cohesion of species. We have performed computer simulations which show 
+that the homology dependence of recombination can cause <i>de novo</i> 
+speciation 
+in a neutrally evolving population once a critical population size has 
+been exceeded. Our model can explain the patterns of divergence and 
+genetic exchange observed in the genus <i>Salmonella</i>, without invoking 
+either 
+natural selection or geographical population subdivision. If this model 
+was validated, based on extensive sequence data, it would imply that the 
+named subspecies of <i>Salmonella</i> enterica correspond to good 
+biological 
+species, making species boundaries objective. However, multilocus sequence 
+typing data, analysed using several conventional tools, provide a 
+misleading impression of relationships within <i>S. enterica</i> 
+subspecies 
+enterica and do not provide the resolution to establish whether new 
+species are presently being formed.</p>
+<table width=100% border=0>
+  <tr>
+  <script language="javascript" type="text/javascript">
+    var nimg1;
+    var nimg2;
+    var nimg3;
+    var nimg4;
+
+    function choose(imgID) {
+      nRnd=nimg1;
+      while(nRnd==nimg1 || nRnd==nimg2 || nRnd==nimg3 || nRnd==nimg4) {
+        nRnd=Math.round(Math.random()*15)+1;
+      }
+      eval('n'+imgID+'='+nRnd);
+    }
+
+    nimg1=-1;
+    nimg2=-1;
+    nimg3=-1;
+    nimg4=-1;
+
+    choose('img1');
+    choose('img2');
+    choose('img3');
+    choose('img4');
+
+    document.write('<td width=25%><center><img src="http://www.danielwilson.me.uk/art'+nimg1+'.jpg"></td>')
+    document.write('<td width=25%><center><img src="http://www.danielwilson.me.uk/art'+nimg2+'.jpg"></td>')
+    document.write('<td width=25%><center><img src="http://www.danielwilson.me.uk/art'+nimg3+'.jpg"></td>')
+    document.write('<td width=25%><center><img src="http://www.danielwilson.me.uk/art'+nimg4+'.jpg"></td>')
+  </script>
+  <noscript>
+    <td width=25%><center><img src="http://www.danielwilson.me.uk/art3.jpg"></td>
+    <td width=25%><center><img src="http://www.danielwilson.me.uk/art10.jpg"></td>
+    <td width=25%><center><img src="http://www.danielwilson.me.uk/art15.jpg"></td>
+    <td width=25%><center><img src="http://www.danielwilson.me.uk/art13.jpg"></td>
+  </noscript>
+  </tr>
+</table>
+<h2>Spatio-temporal epidemiology of <i>Campylobacter jejuni</i> enteritis, in an area of Northwest England, 2000-2002.</h2>
+<p>Gabriel, E., Wilson, D. J., Leatherbarrow, A. J., Cheesbrough, J., Gee, S., Bolton, E., Fox, A., Fearnhead, P., Hart, C. A. and P. J. Diggle (2010)<br>
+<i>Epidemiology and Infection</i> <B>138</B>: 1384-1390. (<a href="http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=7873635">pdf</a>)</p>
+
+<p>A total of 969 isolates of <i>Campylobacter jejuni</i> originating in the Preston, Lancashire post-code district over a three-year period have been characterized using multi-locus sequence typing. Recently developed statistical methods and a genetic model are used to investigate temporal, spatial, spatio-temporal and genetic variation amongst human <i>C. jejuni</i> infections. The analysis of the data shows statistically significant seasonal variation, spatial clustering, small-scale spatio-temporal clustering and spatio-temporal interaction in the overall pattern of incidence, and spatial segregation amongst cases classified according to their most likely species-of-origin.</p>
+<h2>The distribution of bacterial doubling times in the wild</h2>
+<p>Gibson, B., Wilson, D. J., Feil, E. and Eyre-Walker,	A. (2018)<br>
+<i>Proceedings of the Royal Society B</i> <b>285</b>: 20180789.	(<a href="http://rspb.royalsocietypublishing.org/content/royprsb/285/1880/20180789.full.pdf">pdf</a> <a href="https://www.biorxiv.org/content/early/2017/11/06/214783">preprint</a>)
+
+<p>Generation time varies widely across organisms and is an important factor in the life cycle, life history and evolution of organisms. Although the doubling time (DT) has been estimated for many bacteria in the laboratory, it is nearly impossible to directly measure it in the natural environment. However, an estimate can be obtained by measuring the rate at which bacteria accumulate mutations per year in the wild and the rate at which they mutate per generation in the laboratory. If we assume the mutation rate per generation is the same in the wild and in the laboratory, and that all mutations in the wild are neutral, an assumption that we show is not very important, then an estimate of the DT can be obtained by dividing the latter by the former. We estimate the DT for five species of bacteria for which we have both an accumulation and a mutation rate estimate. We also infer the distribution of DTs across all bacteria from the distribution of the accumulation and mutation rates. Both analyses suggest that DTs for bacteria in the wild are substantially greater than those in the laboratory, that they vary by orders of magnitude between different species of bacteria and that a substantial fraction of bacteria double very slowly in the wild.</p>
+<h2>Within-host evolution of <i>Staphylococcus aureus</i> during asymptomatic carriage</h2>
+<p>Golubchik, T., Batty, E. M., Miller, R. R., Farr, H., Young, B. C., Larner-Svennson, H., Fung, R., Godwin, H., Knox, K., Votintseva, A., Everitt, R. G., Street, T., Cule, M., Ip, C. L. C., Didelot, X., Peto, T. E. A., Harding, R. M., Wilson, D. J., Crook, D. W. and R. Bowden (2013)<br>
+<i>PLoS ONE</i> <b>8</b>: e61319 (<a href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0061319">pdf</a>).
+
+<p><b>Background:</b> <i>Staphylococcus aureus</i> is a major cause of healthcare associated mortality, but like many important bacterial pathogens, it is a common constituent of the normal human body flora. Around a third of healthy adults are carriers. Recent evidence suggests that evolution of <i>S. aureus</i> during nasal carriage may be associated with progression to invasive disease. However, a more detailed understanding of within-host evolution under natural conditions is required to appreciate the evolutionary and mechanistic reasons why commensal bacteria such as <i>S. aureus</i> cause disease. Therefore we examined in detail the evolutionary dynamics of normal, asymptomatic carriage. Sequencing a total of 131 genomes across 13 singly colonized hosts using the Illumina platform, we investigated diversity, selection, population dynamics and transmission during the short-term evolution of <i>S. aureus</i>. <b>Principal Findings:</b> We characterized the processes by which the raw material for evolution is generated: micro-mutation (point mutation and small insertions/deletions), macro-mutation (large insertions/deletions) and the loss or acquisition of mobile elements (plasmids and bacteriophages). Through an analysis of synonymous, non-synonymous and intergenic mutations we discovered a fitness landscape dominated by purifying selection, with rare examples of adaptive change in genes encoding surface-anchored proteins and an enterotoxin. We found evidence for dramatic, hundred-fold fluctuations in the size of the within-host population over time, which we related to the cycle of colonization and clearance. Using a newly-developed population genetics approach to detect recent transmission among hosts, we revealed evidence for recent transmission between some of our subjects, including a husband and wife both carrying populations of methicillin-resistant <i>S. aureus</i> (MRSA). <b>Significance:</b> This investigation begins to paint a picture of the within-host evolution of an important bacterial pathogen during its prevailing natural state, asymptomatic carriage. These results also have wider significance as a benchmark for future systematic studies of evolution during invasive <i>S. aureus</i> disease.</p>
+<h2>Prediction of <i>Staphylococcus aureus</i> antimicrobial resistance by whole-genome sequencing.</h2>
+<p>Gordon, N. C, Price, J. R., Cole, K., Everitt, R., Morgan, M., Finney, J., Kearns, A. M., Pichon, B., Young, B., Wilson, D. J., Llewelyn, M. J., Paul, J., Peto, T. E. A., Crook, D. W., Walker, A. S. and T. Golubchik (2014)<br>
+<i>Journal of Clinical Microbiology</i> <b>52</b>: 1182-1191. (<a href="http://jcm.asm.org/content/early/2014/01/30/JCM.03117-13.abstract">pdf</a>)
+
+<p>Whole-genome sequencing (WGS) could potentially provide a single platform for extracting all the information required to predict an organism's phenotype. However, its ability to provide accurate predictions has not yet been demonstrated in large inde- pendent studies of specific organisms. In this study, we aimed to develop a genotypic prediction method for antimicrobial susceptibilities. The whole genomes of 501 unrelated <i>Staphylococcus aureus</i> isolates were sequenced, and the assembled genomes were interrogated using BLASTn for a panel of known resistance determinants (chromosomal mutations and genes carried on plasmids). Results were compared with phenotypic susceptibility testing for 12 commonly used antimicrobial agents (penicillin, methicillin, erythromycin, clindamycin, tetracycline, ciprofloxacin, vancomycin, trimethoprim, gentamicin, fusidic acid, rifampin, and mupirocin) performed by the routine clinical laboratory. We investigated discrepancies by repeat susceptibility testing and manual inspection of the sequences and used this information to optimize the resistance determinant panel and BLASTn algorithm. We then tested performance of the optimized tool in an independent validation set of 491 unrelated isolates, with phenotypic results obtained in duplicate by automated broth dilution (BD Phoenix) and disc diffusion. In the validation set, the overall sensitivity and specificity of the genomic prediction method were 0.97 (95% confidence interval [95% CI], 0.95 to 0.98) and 0.99 (95% CI, 0.99 to 1), respectively, compared to standard susceptibility testing methods. The very major error rate was 0.5%, and the major error rate was 0.7%. WGS was as sensitive and specific as routine antimicrobial susceptibility testing methods. WGS is a promising alternative to culture methods for resistance prediction in S. aureus and ultimately other major bacterial pathogens.</p>
+<h2>Whole genome sequencing reveals the contribution of long-term carriers in <i>Staphylococcus aureus</i> outbreak investigation.</h2>
+<p>Gordon, N. C., Pichon, B., Golubchik, T., Wilson, D. J., Paul, J., Blanc, D. S., Cole, K., Collins, J. Cortes, N., Cubbon, M., Gould, F. K., Jenks, P. J., Llewelyn, M., Nash, J. Q., Orendi, J. M., Paranthaman, K., Price, J. R., Senn, L., Thomas, H. L., Wyllie, S., Crook, D. W., Peto, T. E. A., Walker, A. S. and A. M. Kearns (2017)<br>
+<i>Journal of Clinical Microbiology</i> <b>55</b>: 2188-2197. (<a href="http://jcm.asm.org/content/55/7/2188.long">pdf</a>)
+
+<p><b>Background</b><br>
+Whole genome sequencing (WGS) makes it possible to determine the relatedness of bacterial isolates at high resolution, helping to characterise outbreaks. However, for Staphylococcus aureus, accumulation of within-host diversity during carriage could limit interpretation of sequencing data. We hypothesised the converse: that within-host diversity can be exploited to reveal the involvement of long-term carriers (LTCs) in outbreaks. 
+
+<p><b>Methods</b><br>
+We analysed WGS data from 20 historical outbreaks. Phylogenetic methods were applied to assess genetic relatedness and estimate time to most recent common ancestor (TMRCA). Findings were compared with the routine investigation results and epidemiological evidence.
+
+<p><b>Results</b><br>
+Outbreaks with epidemiological evidence for an LTC source had a mean estimated TMRCA (adjusted for outbreak duration) of 243 days (95% CI 143-343), compared with 55 days (28-81) for outbreaks lacking epidemiological evidence for an LTC (p=0.004). A threshold of 156 days predicted LTC involvement with a sensitivity of 0.875 and a specificity of 1.
+
+<p>WGS confirmed the results from conventional methods for 18 outbreaks. For 2 outbreaks, WGS identified 1 or more isolates which were genetically distinct despite sharing the outbreak PFGE pulsotype. In 6/20 outbreaks, antimicrobial susceptibility profiles differed despite only modestly increased pairwise diversity (mean 17.5 SNVs (95% CI 17.3-17.8) vs 12.7 (12.5-12.8) for isolates with identical antibiograms, p<0.0001). 
+
+<p><b>Conclusion</b><br>
+Duration-adjusted TMRCA allows the involvement of LTCs in outbreaks to be identified and could be used to decide whether screening for long-term carriage (e.g. in healthcare workers) is warranted. Requiring identical antibiograms to trigger investigation could miss important contributors to outbreaks. </p>
+<h2>Bacterial phylogenetic reconstruction from whole genomes is robust to recombination but demographic inference is not.</h2>
+<p>Hedge, J. and D. J. Wilson (2014)<br>
+<i>mBio</i> <b>5</b>: e02158-14. (<a href="http://mbio.asm.org/content/5/6/e02158-14.abstract">pdf</a>)
+
+<p>Phylogenetic inference in bacterial genomics is fundamental to understanding problems such as population history, antimicrobial resistance, and transmission dynamics. The field has been plagued by an apparent state of contradiction since the distorting effects of recombination on phylogeny were discovered more than a decade ago. Researchers persist with detailed phylogenetic analyses while simultaneously acknowledging that recombination seriously misleads inference of population dynamics and selection. Here we resolve this paradox by showing that phylogenetic tree topologies based on whole genomes robustly reconstruct the clonal frame topology but that branch lengths are badly skewed. Surprisingly, removing recombining sites can exacerbate branch length distortion caused by recombination.</p>
+<h2>Practical approaches for detecting selection in microbial genomes.</h2>
+<p>Hedge, J. and D. J. Wilson (2016)<br>
+<i>PLoS Computational Biology</i> <b>12</b>: e1004739 (<a href="http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004739">pdf</a>)
+
+<p>Microbial genome evolution is shaped by a variety of selective pressures. Understanding how these processes occur can help to address important problems in microbiology by explaining observed differences in phenotypes, including virulence and resistance to antibiotics. Greater access to whole-genome sequencing provides microbiologists with the opportunity to perform large-scale analyses of selection in novel settings, such as within individual hosts. This tutorial aims to guide researchers through the fundamentals underpinning popular methods for measuring selection in pathogens. These methods are transferable to a wide variety of organisms, and the exercises provided are designed for researchers with any level of programming experience.</p>
+<h2>The influence of mutation, recombination, population history and selection on patterns of genetic 
+diversity in <i>Neisseria meningitidis</i></h2>
+
+<p>Jolley, K. A., D. J. Wilson, P. Kriz, G. McVean and M. C. J. Maiden (2005)<br>
+<I>Molecular Biology and Evolution</I> <B>22</B>: 562-569. (<a 
+href="http://mbe.oupjournals.org/cgi/reprint/22/3/562" target="_blank">pdf</a>)</p>
+
+<p>Patterns of genetic diversity within populations of human pathogens, shaped by the ecology of 
+host-microbe interactions, contain important information about the epidemiological history of infectious 
+disease. Exploiting this information, however, requires a systematic approach that distinguishes the 
+genetic signal generated by epidemiological processes from the effects of other forces, such as 
+recombination, mutation, and population history. Here, a variety of quantitative techniques were employed 
+to investigate multilocus sequence information from isolate collections of <i>Neisseria meningitidis</i>, 
+a major 
+cause of meningitis and septicemia world wide. This allowed quantitative evaluation of alternative 
+explanations for the observed population structure. A coalescent-based approach was employed to estimate 
+the rate of mutation, the rate of recombination, and the size distribution of recombination fragments from 
+samples from disease-associated and carried meningococci obtained in the Czech Republic in 1993 and a 
+global collection of disease-associated isolates collected globally from 1937 to 1996. The parameter 
+estimates were used to reject a model in which genetic structure arose by chance in small populations, and 
+analysis of molecular variation showed that geographically restricted gene flow was unlikely to be the 
+cause of the genetic structure. The genetic differentiation between disease and carriage isolate 
+collections indicated that, whereas certain genotypes were overrepresented among the disease-isolate 
+collections (the "hyperinvasive" lineages), disease-associated and carried meningococci exhibited 
+remarkably little differentiation at the level of individual nucleotide polymorphisms. In combination, 
+these results indicated the repeated action of natural selection on meningococcal populations, possibly 
+arising from the coevolutionary dynamic of host-pathogen interactions.</p>
+
+<h2>Application of machine learning to tuberculosis drug resistance</h2>
+<p>Kouchaki, S., Yang, Y., Walker, T. M., Walker, A. S., Wilson, D. J., Peto, T. E. A., Crook, D. W., Clifton, D. A. and the CRyPTIC Consortium (2018)<br>
+<i>Bioinformatics</i>, in press. <a href="https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/bty949/5194336">pdf</a>
+
+<p>Motivation: Timely identification of Mycobacterium tuberculosis (MTB) resistance to existing drugs is vital to decrease mortality and prevent the amplification of existing antibiotic resistance. Machine learning methods have been widely applied for timely predicting resistance of MTB given a specific drug and identifying resistance markers. However, they have been not validated on a large cohort of MTB samples from multi-centers across the world in terms of resistance prediction and resistance marker identification.</p>
+
+<p>Summary: Several machine learning classifiers and linear dimension reduction techniques were developed and compared for a cohort of 13402 isolates collected from 16 countries across six continents and tested 11 drugs.</p>
+
+<p>Results: Compared to conventional molecular diagnostic test, area under curve (AUC) of the best machine learning classifier increased for all drugs especially by 23.11%, 15.22%, and 10.14% for pyrazinamide (PZA), ciprofloxacin (CIP), and ofloxacin (OFX) respectively (p < 0.01). Logistic regression (LR) and gradient tree boosting (GBT) found to perform better than other techniques. Moreover, LR/GBT with a sparse principal component analysis/non-negative matrix factorisation step compared with the classifier alone enhanced the best performance in terms of F1-score by 12.54%, 4.61%, 7.45%, and 9.58% for amikacin (AK), moxifloxacin (MOX), OFX, and capreomycin (CAP) respectively, as well increasing AUC for AK and CAP. Results provided a comprehensive comparison of various techniques and confirmed the application of machine learning for better prediction of the large diverse TB data. Furthermore, mutation ranking showed the possibility of finding new resistance/susceptible markers.
+
+<p>Availability: The source code can be found at http://www.robots.ox.ac.uk/~davidc/code.php</p>
+<h2>Predicting the virulence of MRSA from its genome sequence.</h2>
+<p>Laabei, M., Recker, M., Rudkin, J. K., Aldeljawi, M., Gulay, Z., Sloan, T. J., Williams, P., Endres, J., Bayles, K. W., Fey, P. D., Yajjala, V. K., Widhelm, T., Hawkins, E., Lewis, K., Parfett, S., Scowen, L., Peacock, S. J., Holden, M., Wilson, D. J., Read, T. D., van den Elsen, J., Priest, N. K., Feil, E. J., Hurst, L. D., Josefsson, E and R. C. Massey (2014)<br>
+<i>Genome Research</i> <b>24</b>: 839-849. (<a href="http://genome.cshlp.org/content/24/5/839">pdf</a>)
+
+<p>Microbial virulence is a complex and often multifactorial phenotype, intricately linked to a pathogen's evolutionary trajectory. Toxicity, the ability to destroy host cell membranes, and adhesion, the ability to adhere to human tissues, are the major virulence factors of many bacterial pathogens, including <i>Staphylococcus aureus</i>. Here, we assayed the toxicity and adhesiveness of 90 MRSA (methicillin resistant <i>S. aureus</i>) isolates and found that while there was remarkably little variation in adhesion, toxicity varied by over an order of magnitude between isolates, suggesting different evolutionary selection pressures acting on these two traits. We performed a genome-wide association study (GWAS) and identified a large number of loci, as well as a putative network of epistatically interacting loci, that significantly associated with toxicity. Despite this apparent complexity in toxicity regulation, a predictive model based on a set of significant single nucleotide polymorphisms (SNPs) and insertion and deletions events (indels) showed a high degree of accuracy in predicting an isolate's toxicity solely from the genetic signature at these sites. Our results thus highlight the potential of using sequence data to determine clinically relevant parameters and have further implications for understanding the microbial virulence of this opportunistic pathogen.</p>
+<h2>Evolutionary trade-offs underlie the multi-faceted virulence of <i>Staphylococcus aureus</i>.</h2>
+<p>Laabei, M., Uhlemann, A.-C., Lowy, F. D., Austin, E. D., Yokoyama, M., Ouadi, K., Feil, E., Thorpe, H. A., Williams, B., Perkins, M., Peacock, S. J., Clarke, S. R., Dordel, J., Holden, M., Votintseva, A. A., Bowden, R., Crook, D. W., Young, B. C., Wilson, D. J., Recker, M. and R. C. Massey (2015)<br>
+<i>PLoS Biology</i> <b>13</b>: e1002229. (<a href="http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002229">pdf</a>)
+
+<p>Bacterial virulence is a multifaceted trait where the interactions between pathogen and host factors affect the severity and outcome of the infection. Toxin secretion is central to the biology of many bacterial pathogens and is widely accepted as playing a crucial role in disease pathology. To understand the relationship between toxicity and bacterial virulence in greater depth, we studied two sequenced collections of the major human pathogen <i>Staphylococcus aureus</i> and found an unexpected inverse correlation between bacterial toxicity and disease severity. By applying a functional genomics approach, we identified several novel toxicity-affecting loci responsible for the wide range in toxic phenotypes observed within these collections. To understand the apparent higher propensity of low toxicity isolates to cause bacteraemia, we performed several functional assays, and our findings suggest that within-host fitness differences between high- and low-toxicity isolates in human serum is a contributing factor. As invasive infections, such as bacteraemia, limit the opportunities for onward transmission, highly toxic strains could gain an additional between-host fitness advantage, potentially contributing to the maintenance of toxicity at the population level. Our results clearly demonstrate how evolutionary trade-offs between toxicity, relative fitness, and transmissibility are critical for understanding the multifaceted nature of bacterial virulence.</p>
+
+<h2>Healthcare-associated outbreak of meticillin-resistant <i>Staphylococcus aureus</i> bacteraemia: role of a cryptic variant of an epidemic clone.</h2>
+<p>Miller, R. R., Price, J. R., Batty, E. M., Didelot, X., Wyllie, D., Golubchik, T., Crook, D. W., Paul, J., Peto, T. E. A., Wilson, D. J., Cule, M., Ip, C. L. C., Day, N. P. J., Moore, C. E., Bowden, R. and M. J. Llewelyn (2014)<br>
+<i>Journal of Hospital Infection</i> <b>86</b>: 83-89. (<a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3924019/">pdf</a>)
+
+<p><b>Background</b>: New strains of meticillin-resistant <i>Staphylococcus aureus</i> (MRSA) may be associated with changes in rates of disease or clinical presentation. Conventional typing techniques may not detect new clonal variants that underlie changes in epidemiology or clinical phenotype.</p>
+
+<p><b>Aim</b>: To investigate the role of clonal variants of MRSA in an outbreak of MRSA bacteraemia at a hospital in England.</p>
+
+<p><b>Methods</b>: Bacteraemia isolates of the major UK lineages (EMRSA-15 and -16) from before and after the outbreak were analysed by whole-genome sequencing in the context of epidemiological and clinical data. For comparison, EMRSA-15 and -16 isolates from another hospital in England were sequenced. A clonal variant of EMRSA-16 was identified at the outbreak hospital and a molecular signature test designed to distinguish variant isolates among further EMRSA-16 strains.</p>
+
+<p><b>Findings</b>: By whole-genome sequencing, EMRSA-16 isolates during the outbreak showed strikingly low genetic diversity (P < 1 10␣6, Monte Carlo test), compared with EMRSA-15 and EMRSA-16 isolates from before the outbreak or the comparator hospital, demon- strating the emergence of a clonal variant. The variant was indistinguishable from the ancestral strain by conventional typing. This clonal variant accounted for 64/72 (89%) of EMRSA-16 bacteraemia isolates at the outbreak hospital from 2006.</p>
+
+<p><b>Conclusions</b>: Evolutionary changes in epidemic MRSA strains not detected by conventional typing may be associated with changes in disease epidemiology. Rapid and affordable technologies for whole-genome sequencing are becoming available with the potential to identify and track the emergence of variants of highly clonal organisms.</p>
+<h2>Utilizing a combination of molecular and spatial tools to assess the effect of a public health intervention</h2>
+<p>Muellner, P., Marshall, J. C., Spencer, S. E. F., Noble, A. D., Shadbolt, T., Collins-Emerson, J. M., Midwinter, A. C., Carter, P. E., Pirie, R., Wilson, D. J., Campbell, D. M., Stevenson, M. A. and N. P. French (2011)<br>
+<i>Preventive Veterinary Medicine</i> <b>102</b>: 242-253.</p>
+
+<p>Until recently New Zealand had one of the highest rates of human campylobacteriosis
+reported by industrialised countries. Since the introduction of a range of control measures in
+the poultry production chain a reduction in human cases of around 50% has been observed
+nationwide. To inform risk managers a combination of spatial, temporal and molecular
+tools - including minimum spanning trees, risk surfaces, rarefaction analysis and dynamic
+source attribution modelling - was used in this study to formally evaluate the reduction
+in disease risk that occurred after the implementation of control measures in the poultry
+industry. Utilizing data from a sentinel surveillance site in the Manawatu region of New
+Zealand, our analyses demonstrated a reduction in disease risk attributable to a reduction
+in the number of poultry-associated campylobacteriosis cases. Before the implementation
+of interventions poultry-associated cases were more prevalent in urban than rural areas,
+whereas for ruminant-associated cases the reverse was evident. In addition to the overall
+reduction in prevalence, this study also showed stronger effect in urban areas where poultry
+sources were more dominant. Overall a combination of molecular and spatial tools has
+provided evidence that the interventions aimed at reducing Campylobacter contamination
+of poultry were successful in reducing poultry-associated disease and this will inform the
+development of future control strategies.</p>
+<h2>Assigning the source of human campylobacteriosis in New Zealand: A comparative genetic and epidemiological approach</h2>
+<p>Mullner, P., Spencer, S. E. F., Wilson, D. J., Jones, G., Noble, A. D., Midwinter, A. C., Collins-Emerson, J. M., Carter, P., Hathaway, S. and N. P. French (2009)<br>
+<i>Infection, Genetics and Evolution</i> <B>9</B>: 1311-1319. (<a href="http://www.sciencedirect.com/science?_ob=MImg&_imagekey=B6W8B-4X908TF-2-5&_cdi=6650&_user=5745&_orig=search&_coverDate=09%2F22%2F2009&_sk=999999999&view=c&wchp=dGLbVzz-zSkzk&md5=2f9a79bef6f00470acd1a38a784cb310&ie=/sdarticle.pdf">pdf</a>)</p>
+
+<p>Integrated surveillance of infectious multi-source diseases using a combination of epidemiology, ecology, genetics and evolution can provide a valuable risk-based approach for the control of important human pathogens. This includes a better understanding of transmission routes and the impact of human activities on the emergence of zoonoses. Until recently New Zealand had extraordinarily high and increasing rates of notified human campylobacteriosis, and our limited understanding of the source of these infections was hindering efforts to control this disease. Genetic and epidemiological modeling of a 3-year dataset comprising multilocus sequence typed isolates from human clinical cases, coupled with concurrent data on food and environmental sources, enabled us to estimate the relative importance of different sources of human disease. Our studies provided evidence that poultry was the leading cause of human campylobacteriosis in New Zealand, causing an estimated 58-76% of cases with widely varying contributions by individual poultry suppliers. These findings influenced national policy and, after the implementation of poultry industry-specific interventions, a dramatic decline in human notified cases was observed in 2008. The comparative-modeling and molecular sentinel surveillance approach proposed in this study provides new opportunities for the management of zoonotic diseases.</p>
+
+<h2>Molecular and spatial epidemiology of human campylobacteriosis - source association and genotype-related risk factors</h2>
+<p>Mullner, P., Shadbolt, T., Collins-Emerson, J. M., Midwinter, A. C., Spencer, S. E. F., Marshall, J., Carter, P. E., Campbell, D. M., Wilson, D. J., Hathaway, S., Pirie, R. and N. P. French (2009)<br>
+<i>Epidemiology and Infection</i> <B>138</B>: 1384-1390. (<a href="http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=7873635">pdf</a>)</p>
+
+<p>The epidemiology of human campylobacteriosis is complex and poorly understood. Despite being a major public health concern in many countries, the presence of multiple hosts, genotypes and transmission pathways has made it difficult to identify and quantify the determinants of human infection and disease. This has delayed the development of successful intervention programs for this disease in many countries including New Zealand, a country with a comparatively high, yet until recently poorly understood, rate of notified disease. In this study the epidemiology of <i>Campylobacter jejuni</i> was investigated at the genotype-level over a three year period between 2005 and 2008 using multi locus sequence typing. By combining epidemiological surveillance and population genetics, a dominant, internationally-rare strain of <i>C. jejuni</i> (ST - 474) was identified, and the majority of human cases (65.7 %) were found to be caused by only seven different genotypes. Source association of STs was used to identify risk factors at the genotype-level through multivariable logistic regression and a spatial model. Poultry-associated cases were more likely to be found in urban areas compared to rural areas. In particular young children in rural areas had a higher risk of infection with ruminant strains than their urban counterparts. These findings provide important information for the implementation of pathway specific control strategies.</p>
+
+		<table width="100%" border="0">
+			<tr>
+				<td><table width="100%" border="0">
+						<tr>
+                                                        <td width="12.5%"><a href="http://www.danielwilson.me.uk/index.html">Home</a></td>
+                                                        <td width="12.5%"><a href="http://blog.danielwilson.me.uk">Blog</a></td>
+							<td width="12.5%"><a href="http://www.danielwilson.me.uk/lab.html">Lab</a></td>
+							<td width="12.5%"><a href="http://www.danielwilson.me.uk/software.html">Software</a></td>
+							<td width="12.5%"><a href="http://www.danielwilson.me.uk/research.html">Research</a></td>
+							<td width="12.5%"><a href="http://www.danielwilson.me.uk/publications.html">Publications</a></td>
+							<td width="12.5%"><a href="http://www.danielwilson.me.uk/cv.html">CV</a></td>
+							<td width="12.5%"><a href="http://www.danielwilson.me.uk/contact.html">Contact</a></td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+<h2>Whole-genome sequencing shows that patient-to-patient transmission rarely accounts for acquisition of <i>Staphylococcus aureus</i> in an intensive care unit.</h2>
+<p>Price, J. R., Golubchik, T., Cole, K., Wilson, D. J., Crook, D. W., Thwaites, G. E., Bowden, R., Walker, A. S., Peto, T. E. A., Paul, J. and M. J. Llewelyn (2014)<br>
+<i>Clinical Infectious Diseases</i> <b>58</b>: 609-618. (<a href="http://cid.oxfordjournals.org/content/58/5/609">pdf</a>)
+
+<p><b>Background</b>. Strategies to prevent <i>Staphylococcus aureus</i> infection in hospitals focus on patient-to-patient transmission. We used whole-genome sequencing to investigate the role of colonized patients as the source of new <i>S. aureus</i> acquisitions, and the reliability of identifying patient-to-patient transmission using the conventional approach of spa typing and overlapping patient stay.</p>
+
+<p><b>Methods</b>. Over 14 months, all unselected patients admitted to an adult intensive care unit (ICU) were serially screened for <i>S. aureus</i>. All available isolates (n = 275) were spa typed and underwent whole-genome sequencing to investigate their relatedness at high resolution.</p>
+
+<p><b>Results</b>. <i>Staphylococcus aureus</i> was carried by 185 of 1109 patients sampled within 24 hours of ICU admission (16.7%); 59 (5.3%) patients carried methicillin-resistant <i>S. aureus</i> (MRSA). Forty-four <i>S. aureus</i> (22 MRSA) acquisitions while on ICU were detected. Isolates were available for genetic analysis from 37 acquisitions. Whole-genome sequencing indicated that 7 of these 37 (18.9%) were transmissions from other colonized patients. Conventional methods (spa typing combined with overlapping patient stay) falsely identified 3 patient-to-patient transmissions (all MRSA) and failed to detect 2 acquisitions and 4 transmissions (2 MRSA).</p>
+
+<p><b>Conclusions</b>. Only a minority of <i>S. aureus</i> acquisitions can be explained by patient-to-patient transmission. Whole-genome sequencing provides the resolution to disprove transmission events indicated by conventional methods and also to reveal otherwise unsuspected transmission events. Whole-genome sequencing should replace conventional methods for detection of nosocomial <i>S. aureus</i> transmission.</p>
+<h2>Transmission of <i>Staphylococcus aureus</i> between health-care workers, the environment, and patients in an intensive care unit: a longitudinal cohort study based on whole-genome sequencing</h2>
+Price, J. R., Cole, K., Bexley, A., Kostiou, V., Eyre, D. W., Golubchik, T., Wilson, D. J., Crook, D. W., Walker, A. S., Peto, T. E. A., Llewelyn, M. J. and J. Paul (2017)<br>
+<i>Lancet Infectious Diseases</i> <b>17</b>: 207-214. (<a href="http://www.thelancet.com/journals/laninf/article/PIIS1473-3099(16)30413-3/fulltext">pdf</a>)
+
+<p><b>Background</b><br>
+Considerable efforts are made to prevent nosocomial transmission of Staphylococcus aureus. Healthcare-workers (HCWs) have been implicated in outbreaks but lack of evidence from non-outbreak situations means that routine HCW screening and S. aureus eradication are controversial.</p>
+<p><b>Methods</b><br>
+We performed a prospective observational study to determine how often S. aureus is transmitted from HCWs or the environment to patients on an intensive care/high dependency unit (ICU/HDU) where standard infection control measures were in place. Over fourteen months we systematically sampled HCWs, the environment and patients. Whole-genome sequencing data were used to define subtypes (<=40 single nucleotide variants (SNVs)) and infer recent transmission.</p>
+<p><b>Findings</b><br>
+198 HCWs, 39 environmental locations and 1854 patients were sampled and 1819 isolates sequenced. S. aureus was detected in 29.5-39.7% HCWs at single four-weekly time-points and in 58.1% at least once. Monthly environmental sampling identified S. aureus in 7.7-50.0% of samples. During the study, 605 genetically distinct subtypes were identified (median SNV difference 273 (IQR 162-399)) at a rate of 38 (range 34-42) per month. Only 25 instances of transmission to patients were detected; seven from HCWs, two from the environment, 16 from other patients. </p>
+<p><b>Interpretation</b><br>
+In the presence of standard infection control measures HCWs infrequently act as sources of transmission to patients. S. aureus epidemiology in ICU/HDU is characterised by continuous ingress of distinct subtypes rather than transmission of genetically-related strains.</p>
+<h2>Different selective pressures shape the evolution of toll-like receptors in human and African great ape populations.</h2>
+<p>Quach, H., Wilson, D. J., Laval, G. Patin, E., Manry, J., Guibert, J., Barreiro, L. B., Nerrienet, E., Verschoor, E., Gessain, A., Przeworski, M. and L. Quintana-Murci (2013)<br>
+<i>Human Molecular Genetics</i> doi: 10.1093/hmg/ddt335 (<a href="http://hmg.oxfordjournals.org/content/early/2013/07/11/hmg.ddt335.abstract">pdf</a>)
+
+<p>The study of the genetic and selective landscape of immunity genes across primates can provide insight into the existing differences in susceptibility to infection observed between human and non-human primates. Here, we explored how selection has driven the evolution of a key family of innate immunity receptors, the Toll-like receptors (TLRs), in African great ape species. We sequenced the ten TLRs in various populations of chimpanzees and gorillas, and analysed these data jointly with a human dataset. We found that purifying selection has been more pervasive in great apes than in humans. Furthermore, in chimpanzees and gorillas, purifying selection has targeted TLRs irrespectively of whether they are endosomal or cell-surface, in contrast with humans where strong selective constraints are restricted to endosomal TLRs. These observations suggest important differences in the relative importance of TLR-mediated pathogen sensing, such as that of recognition of flagellated bacteria by TLR5, between human and great apes. Lastly, we used a population genetics-phylogenetics method that jointly analyse polymorphism and divergence data to detect fine-scale variation in selection pressures at specific codons within TLR genes. We identified different codons at different TLRs as being under positive selection in each species, highlighting that functional variation at these genes has conferred a selective advantage in immunity to infection to specific primate species. Overall, this study showed that the degree of selection driving the evolution of TLRs has largely differed between human and non-human primates, increasing our knowledge on their respective biological contribution to host defence in the natural setting.</p>
+<h2><i>Campylobacter</i> genotyping to determine the source of human infection</h2>
+<p>Sheppard, S. K., Dallas, J. F., Strachan, N. J. C., MacRae, M., McCarthy, N. D., Wilson, D. J., Gormley, F. J., Falush, D., Ogden, I. D., Maiden, M. C. J. and K. J. Forbes (2009)<br>
+<i>Clinical Infectious Diseases</i> <B>48</B>: 1072-1078. (<a href="http://www.journals.uchicago.edu/doi/pdf/10.1086/597402">pdf</a>)</p>
+
+<p><b>Background.</b> <i>Campylobacter</i> species cause a high proportion of bacterial gastroenteritis cases and are a significant burden on health care systems and economies worldwide; however, the relative contributions of the various possible sources of infection in humans are unclear.
+
+<p><b>Methods.</b> National-scale genotyping of <i>Campylobacter</i> species was used to quantify the relative importance of various possible sources of human infection. Multilocus sequence types were determined for 5674 isolates obtained from cases of human campylobacteriosis in Scotland from July 2005 through September 2006 and from 999 <i>Campylobacter</i> species isolates from 3417 contemporaneous samples from potential human infection sources. These data were supplemented with 2420 sequence types from other studies, representing isolates from a variety of sources. The clinical isolates were attributed to possible sources on the basis of their sequence types with use of 2 population genetic models, STRUCTURE and an asymmetric island model.
+
+<p><b>Results.</b> The STRUCTURE and the asymmetric island models attributed most clinical isolates to chicken meat (58% and 78% of <i>Campylobacter jejuni</i> and 40% and 56% of <i>Campylobacter coli</i> isolates, respectively), identifying it as the principal source of <i>Campylobacter</i> infection in humans. Both models attributed the majority of the remaining isolates to ruminant sources, with relatively few isolates attributed to wild bird, environment, swine, and turkey sources.
+
+<p><b>Conclusions.</b> National-scale genotyping was a practical and efficient methodology for the quantification of the contributions of different sources to human <i>Campylobacter</i> infection. Combined with the knowledge that retail chicken is routinely contaminated with <i>Campylobacter</i>, these results are consistent with the view that the largest reductions in human campylobacteriosis in industrialized countries will come from interventions that focus on the poultry industry.</p>
+<h2>Evolution of an agriculture-associated disease causing <i>Campylobacter coli</i> clade: evidence from national surveillance data in Scotland.</h2>
+<p>Sheppard, S. K., Dallas, J. F., Wilson, D. J., Strachan, N. J. C., McCarthy N. D., Jolley, K. A., Colles, F. M., Rotariu, O., Ogden, I. D., Forbes, K. J. and M. C. J. Maiden (2010)<br>
+<i>PLoS ONE</i> <B>5</B>: e15708. (<a href="http://www.plosone.org/article/info:doi/10.1371/journal.pone.0015708">pdf</a>)</p>
+
+<p>The common zoonotic pathogen <i>Campylobacter coli</i> is an important cause of bacterial gastroenteritis worldwide but its
+evolution is incompletely understood. Using multilocus sequence type (MLST) data of 7 housekeeping genes from a
+national survey of <i>Campylobacter</i> in Scotland (2005/6), and a combined population genetic-phylogenetics approach, we
+investigated the evolutionary history of <i>C. coli</i>. Genealogical reconstruction of isolates from clinical infection, farm animals
+and the environment, revealed a three-clade genetic structure. The majority of farm animal, and all disease causing
+genotypes belonged to a single clade (clade 1) which had comparatively low synonymous sequence diversity, little deep
+branching genetic structure, and a higher number of shared alleles providing evidence of recent clonal decent. Calibration
+of the rate of molecular evolution, based on within-species genetic variation, estimated a more rapid rate of evolution than
+in traditional estimates. This placed the divergence of the clades at less than 2500 years ago, consistent with the
+introduction of an agricultural niche having had an effect upon the evolution of the <i>C. coli</i> clades. Attribution of clinical
+isolate genotypes to source, using an asymmetric island model, confirmed that strains from chicken and ruminants, and not
+pigs or turkeys, are the principal source of human <i>C. coli</i> infection. Taken together these analyses are consistent with an
+evolutionary scenario describing the emergence of agriculture-associated <i>C. coli</i> lineage that is an important human
+pathogen.</p>
+<h2>Nested Russian Doll-like genetic mobility drives rapid dissemination of the carbapenem resistance gene <i>blaKPC</i></h2>
+<p>Sheppard, A., Stoesser, N., Wilson, D. J., Sebra, R., Kasarskis, A., Anson, L., Giess, A., Pankhurst, L., Vaughan, A., Grim, C., Cox, H., Yeh, A., the Modernising Medical Microbiology Informatics Group, Sifri, C., Walker, A. S., Peto, T., Crook, D. W. and A. Mathers (2016)<br>
+<i>Antimicrobial Agents and Chemotherapy</i> <b>60</b>: 3767-3778. (<a href="http://aac.asm.org/content/60/6/3767.full">pdf</a>).
+
+<p>The recent widespread emergence of carbapenem resistance in Enterobacteriaceae is a major public health concern, as carbapen- ems are a therapy of last resort against this family of common bacterial pathogens. Resistance genes can mobilize via various mechanisms, including conjugation and transposition; however, the importance of this mobility in short-term evolution, such as within nosocomial outbreaks, is unknown. Using a combination of short- and long-read whole-genome sequencing of 281 blaKPC-positive Enterobacteriaceae isolates from a single hospital over 5 years, we demonstrate rapid dissemination of this car- bapenem resistance gene to multiple species, strains, and plasmids. Mobility of blaKPC occurs at multiple nested genetic levels, with transmission of blaKPC strains between individuals, frequent transfer of blaKPC plasmids between strains/species, and fre- quent transposition of blaKPC transposon Tn4401 between plasmids. We also identify a common insertion site for Tn4401 within various Tn2-like elements, suggesting that homologous recombination between Tn2-like elements has enhanced the spread of Tn4401 between different plasmid vectors. Furthermore, while short-read sequencing has known limitations for plasmid assem- bly, various studies have attempted to overcome this by the use of reference-based methods. We also demonstrate that, as a con- sequence of the genetic mobility observed in this study, plasmid structures can be extremely dynamic, and therefore these refer- ence-based methods, as well as traditional partial typing methods, can produce very misleading conclusions. Overall, our findings demonstrate that nonclonal resistance gene dissemination can be extremely rapid, presenting significant challenges for public health surveillance and achieving effective control of antibiotic resistance.</p>
+<h2>Global genomic epidemiology of <i>Salmonella</i> Typhimurium DT104.</h2>
+<p>Leekitcharoenphon, P., Hendriksen, R. S., Le Hello, S., Weill, F. X., Baggesen, D. L., Jun, S.-R., Ussery, D. W., Lund, O., Crook, D. W., Wilson, D. J. and F. M. Aarestrup (2016)<br>
+<i>Applied and Environmental Microbiology</i>, in press (<a href="http://aem.asm.org/content/early/2016/02/15/AEM.03821-15.abstract">pdf</a>).
+
+<p>It has been 30 years since the initial emergence and subsequent rapid global spread of multidrug-resistant S. Typhimurium DT104. Nonetheless, its origin and transmission route have never been revealed. We used whole genome sequence (WGS) and temporally structured sequence analysis within a Bayesian framework to reconstruct temporal and spatial phylogenetic trees and estimate the rate of mutation and divergence time of 315 S. Typhimurium DT104 isolates sampled from 1969 to 2012 from 21 countries on six continents. DT104 was estimated to have emerged initially as antimicrobial-susceptible in &#126;1948 (95% credible interval, 1934 - 1962) and later became multidrug-resistant (MDR) DT104 in &#126;1972 (95% CI 1972 - 1988) through horizontal transfer of the 13-kb SGI1 MDR region into already SGI1-containing susceptible strains. This was followed by multiple transmission events initially from central Europe and later between several European countries. An independent transmission occurred to the United States and another to Japan and from there likely to Taiwan and Canada. An independent acquisition of resistance genes took place in Thailand in &#126;1975 (95% CI 1975-1990). In Denmark, WGS analysis provided evidence for transmission of the organism between herds of animals. Interestingly, the demographic history of Danish MDR DT104 provided evidence for the success of the program to eradicate Salmonella from pig herds in Denmark from 1996 to 2000. The results from this study refute several hypotheses on the evolution of DT104 and would suggest WGS may be useful in monitoring emerging clones and devising strategies for prevention of Salmonella infections.</p>
+<h2>Genetic variability and natural selection at the ligand domain of the Duffy binding protein in Brazilian <i>Plasmodium vivax</i> populations.</h2>
+<p>Sousa, T. N., Tarazona-Santos, E. M., Wilson, D. J., Madureira, A. P., Falcao, P. R. K., Fontes, C. J. F., Gil, L. H. S., Ferreira, M. U., Carvalho, L. H. and C. F. A. Brito (2010)<br>
+<i>Malaria Journal</i> <b>9</b>: 334. (<a href="http://www.malariajournal.com/content/pdf/1475-2875-9-334.pdf">pdf</a>)</p>
+
+<p><b>Background</b><br>
+<i>Plasmodium vivax</i> malaria is a major public health challenge in Latin America, Asia and Oceania, with 130-435 million clinical cases per year worldwide. Invasion of host blood cells by <i>P. vivax</i> mainly depends on a type I membrane protein called Duffy binding protein (PvDBP). The erythrocyte-binding motif of PvDBP is a 170 amino-acid stretch located in its cysteine-rich region II (PvDBPII), which is the most variable segment of the protein.
+
+<p><b>Methods</b><br>
+To test whether diversifying natural selection has shaped the nucleotide diversity of PvDBPII in Brazilian populations, this region was sequenced in 122 isolates from six different geographic areas. A Bayesian method was applied to test for the action of natural selection under a population genetic model that incorporates recombination. The analysis was integrated with a structural model of PvDBPII, and T- and B-cell epitopes were localized on the 3-D structure.
+
+<p><b>Results</b><br>
+The results suggest that: (i) recombination plays an important role in determining the haplotype structure of PvDBPII, and (ii) PvDBPII appears to contain neutrally evolving codons as well as codons evolving under natural selection. Diversifying selection preferentially acts on sites identified as epitopes, particularly on amino acid residues 417, 419, and 424, which show strong linkage disequilibrium.
+
+<p><b>Conclusions</b><br>
+This study shows that some polymorphisms of PvDBPII are present near the erythrocyte-binding domain and might serve to elude antibodies that inhibit cell invasion. Therefore, these polymorphisms should be taken into account when designing vaccines aimed at eliciting antibodies to inhibit erythrocyte invasion.
+<h2>Genome sequencing of an extended series of NDM-<i>Klebsiella pneumoniae</i> neonatal infections in a Nepali hospital characterizes the extent of community versus hospital-associated transmission in an endemic setting.</h2>
+<p>Stoesser, N., Giess, A., Batty, E.M., Sheppard, A.E., Walker, A.S., Wilson, D.J., Didelot, X., Bashir, A., Sebra, R., Kasarskis, A., Sthapit, B., Shakya, M., Kelly, D., Pollard, A.J., Peto, T.E., Crook, D.W., Donnelly, P., Thorson, S., Amatya, P. and S. Joshi (2014)<br>
+<i>Antimicrobial Agents and Chemotherapy</i> <b>58</b>: 7347-7357. (<a href="http://aac.asm.org/content/early/2014/09/23/AAC.03900-14.short">pdf</a>)
+
+<p><b>BACKGROUND:</b> NDM-producing Klebsiella pneumoniae represent a major clinical and infection control challenge, particularly in resource-limited settings with high rates of antimicrobial resistance. Determining whether transmission occurs at a gene, plasmid or bacterial strain level, within hospital and/or the community, has implications for monitoring and controlling spread. Whole genome sequencing (WGS) is the highest-resolution typing method available for transmission epidemiology.</p>
+
+<p><b>METHODS:</b> We sequenced carbapenem-resistant K. pneumoniae isolates from 26 individuals involved in several infection case clusters in a Nepali neonatal unit, and 68 other clinical Gram-negative isolates from a similar timeframe, using Illumina and PacBio technologies. Within-outbreak chromosomal and closed plasmid structures were generated, and used as dataset-specific references.</p>
+
+<p><b>RESULTS:</b> Three temporally separated case clusters were caused by a single NDM-K. pneumoniae strain, with a conserved set of four plasmids, one being a 304,526bp blaNDM-1-plasmid. The plasmids contained a large number of antimicrobial/heavy metal resistance and plasmid maintenance genes, which may have explained persistence. No obvious environmental/human reservoir was found. There was no evidence of transmission of outbreak plasmids to other Gram-negative clinical isolates, although blaNDM variants were present in other isolates in different genetic contexts.</p>
+
+<p><b>CONCLUSIONS:</b> WGS can effectively define complex antimicrobial resistance epidemiology. Wider sampling frames are required to contextualize outbreaks. Infection control may be effective in terminating outbreaks caused by particular strains, even in areas with widespread resistance, although this study could not demonstrate evidence supporting specific interventions. Larger, detailed studies are needed to characterize resistance genes, vectors and host strains involved in disease, to enable effective intervention.</p>
+<h2>Evolutionary history of the global emergence of the <i>Escherichia coli</i> epidemic clone ST131.</h2>
+<p>Stoesser, N., Sheppard, A. E., Pankhurst, L., De Maio, N., Moore, C. E., Sebra, R., Turner, P., Anson, L., Kasarskis, A., Batty, E. M., Kos, V., Wilson, D. J., Phetsouvanh, R., Wyllie, D., Sokurenko, E., Manges, A., Johnson, T. J., Price, L. B., Peto, T. E. A., Johnson, J. R., Didelot, X., Walker, A. S., Crook, D. W. and the Modernizing Medical Microbiology Informatics Group (2016)<br>
+<i>mBio</i> <b>7</b>: e02162-15 (<a href="http://mbio.asm.org/content/7/2/e02162-15">pdf</a>).
+
+<p><i>Escherichia coli</i> sequence type 131 (ST131) has emerged globally as the most predominant extraintestinal pathogenic lineage within this clinically important species, and its association with fluoroquinolone and extended-spectrum cephalosporin resistance impacts significantly on treatment. The evolutionary histories of this lineage, and of important antimicrobial resistance elements within it, remain unclearly defined. This study of the largest worldwide collection (n = 215) of sequenced ST131 <i>E. coli</i> isolates to date demonstrates that the clonal expansion of two previously recognized antimicrobial-resistant clades, C1/H30R and C2/H30Rx, started around 25 years ago, consistent with the widespread introduction of fluoroquinolones and extended-spectrum cephalosporins in clinical medicine. These two clades appear to have emerged in the United States, with the expansion of the C2/H30Rx clade driven by the acquisition of a blaCTX-M-15-containing IncFII-like plasmid that has subsequently undergone extensive rearrangement. Several other evolutionary processes influencing the trajectory of this drug-resistant lineage are described, including sporadic acquisitions of CTX-M resistance plasmids and chromosomal integration of blaCTX-M within subclusters followed by vertical evolution. These processes are also occurring for another family of CTX-M gene variants more recently observed among ST131, the blaCTX-M-14/14-like group. The complexity of the evolutionary history of ST131 has important implications for antimicrobial resistance surveillance, epidemiological analysis, and control of emerging clinical lineages of <i>E. coli</i>. These data also highlight the global imperative to reduce specific antibiotic selection pressures and demonstrate the important and varied roles played by plasmids and other mobile genetic elements in the perpetuation of antimicrobial resistance within lineages.</p>
+
+<p><b>IMPORTANCE</b> <i>Escherichia coli</i>, perennially a major bacterial pathogen, is becoming increasingly difficult to manage due to emerging resistance to all preferred antimicrobials. Resistance is concentrated within specific <i>E. coli</i> lineages, such as sequence type 131 (ST131). Clarification of the genetic basis for clonally associated resistance is key to devising intervention strategies. We used high-resolution genomic analysis of a large global collection of ST131 isolates to define the evolutionary history of extended-spectrum beta-lactamase production in ST131. We documented diverse contributory genetic processes, including stable chromosomal integrations of resistance genes, persistence and evolution of mobile resistance elements within sublineages, and sporadic acquisition of different resistance elements. Both global distribution and regional segregation were evident. The diversity of resistance element acquisition and propagation within ST131 indicates a need for control and surveillance strategies that target both bacterial strains and mobile genetic elements. </p>
+<h2>Evolutionary dynamics of <i>Enterococcus faecium</i> reveals complex genomic relationships between isolates with independent emergence of vancomycin resistance.</h2>
+<p>van Hal, S. J., Ip, C. L. C., Anzari, M. A., Wilson, D. J., Espedido, B., Jensen, S. O. and R. Bowden (2016)<br>
+<i>Microbial Genomics</i> doi:10.1099/mgen.0.000048. (<a href="http://mgen.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.000048">pdf</a>)
+															   		
+<p>Background: <i>Enterococcus faecium</i>, a major cause of hospital-acquired infections, remains problematic because of its propensity to acquire resistance to vancomycin, which currently is considered first-line therapy. Here, we assess the evolution and resistance acquisition dynamics of <i>E. faecium</i> in a clinical context using a series of 132 blood-stream infection isolates from a single hospital. All isolates, of which 49 (37%) were vancomycin resistant, underwent whole-genome sequencing.</p>
+
+<p>Results: <i>E. faecium</i> was found to be subject to high rates of recombination with little evidence of sequence importation from outside the local <i>E. faecium</i> population. Apart from disrupting phylogenetic reconstruction, recombination was frequent enough to invalidate MLST typing in the identification of clonal expansion and transmission events, suggesting that where available, whole-genome sequencing should be used in tracing the epidemiology of <i>E. faecium</i> nosocomial infections and establishing routes of transmission. Several forms of the Tn1549-like element-vanB gene cluster, that was exclusively responsible for vancomycin resistance, appeared and spread within the hospital during the study period. Several transposon gains and losses and instances of in situ evolution were inferred and although usually chromosomal, the resistance element was also observed on a plasmid background. There was qualitative evidence for clonal expansions of both vancomycin-resistant and vancomycin-susceptible <i>E. faecium</i> with evidence of hospital specific sub-clonal expansion.</p>
+
+<p>Conclusions: Our data are consistent with continuing evolution of this established hospital pathogen and confirm hospital vancomycin-susceptible and -resistant <i>E. faecium</i> patient transmission events, underscoring the need for careful consideration before modifying current <i>E. faecium</i> infection control strategies.</p>
+<h2>Whole-genome sequencing to delineate <i>Mycobacterium tuberculosis</i> outbreaks: a retrospective observational study</h2>
+Walker, T. M., Ip, C. L. C., Harrell, R. H., Evans, J. T., Kapatai, G., Dedicoat, M. J., Eyre, D. W., Wilson, D. J., Hawkey, P. M., Crook, D. W., Parkhill, J., Harris, D., Walker, A. S., Bowden, R., Monk, P., Smith, E. G. and T. E. A. Peto (2012)<br>
+<i>Lancet Infectious Diseases</i> doi:10.1016/S1473-3099(12)70277-3. (<a href="http://www.thelancet.com/journals/laninf/article/PIIS1473-3099%2812%2970277-3/fulltext">pdf</a>)
+
+<p><b>Background</b><br>
+Tuberculosis incidence in the UK has risen in the past decade. Disease control depends on epidemiological data, which can be difficult to obtain. Whole-genome sequencing can detect microevolution within <i>Mycobacterium tuberculosis</i> strains. We aimed to estimate the genetic diversity of related <i>M tuberculosis</i> strains in the UK Midlands and to investigate how this measurement might be used to investigate community outbreaks.</p>
+
+<p><b>Methods</b><br>
+In a retrospective observational study, we used Illumina technology to sequence <i>M tuberculosis</i> genomes from an archive of frozen cultures. We characterised isolates into four groups: cross-sectional, longitudinal, household, and community. We measured pairwise nucleotide differences within hosts and between hosts in household outbreaks and estimated the rate of change in DNA sequences. We used the findings to interpret network diagrams constructed from 11 community clusters derived from mycobacterial interspersed repetitive-unit-variable-number tandem-repeat data.</p>
+
+<p><b>Findings</b><br>
+We sequenced 390 separate isolates from 254 patients, including representatives from all five major lineages of <i>M tuberculosis</i>. The estimated rate of change in DNA sequences was 0.5 single nucleotide polymorphisms (SNPs) per genome per year (95% CI 0.3-0.7) in longitudinal isolates from 30 individuals and 25 families. Divergence is rarely higher than five SNPs in 3 years. 109 (96%) of 114 paired isolates from individuals and households differed by five or fewer SNPs. More than five SNPs separated isolates from none of 69 epidemiologically linked patients, two (15%) of 13 possibly linked patients, and 13 (17%) of 75 epidemiologically unlinked patients (three-way comparison exact p<0.0001). Genetic trees and clinical and epidemiological data suggest that super-spreaders were present in two community clusters.</p>
+
+<p><b>Interpretation</b><br>
+Whole-genome sequencing can delineate outbreaks of tuberculosis and allows inference about direction of transmission between cases. The technique could identify super-spreaders and predict the existence of undiagnosed cases, potentially leading to early treatment of infectious patients and their contacts.</p><h2>Whole-genome sequencing for prediction of <i>Mycobacterium tuberculosis</i> drug susceptibility and resistance: a retrospective cohort study.</h2>
+<p>Walker, T. M., Kohl, T. A., Omar, S. V., Hedge, J., Del Ojo Elias, C., Bradley, P., Iqbal, Z., Feuerriegel, S., Niehaus, K., Wilson, D. J., Clifton, D. A., Kapatai, G., Ip, C. L. C., Bowden, R., Drobniewski, F., Allix-B&eacute;guec, C., Gaudin, C., Parkhill, J., Diel, R., Supply, P., Crook, D. W., Smith, E. G., Walker, A. S., Ismail, N., Niemann, S., Peto, T. E. A. and the MMM Informatics Group (2015)<br>
+<i>Lancet Infectious Diseases</i> DOI: dx.doi.org/10.1016/S1473-3099(15)00062-6. (<a href="http://www.thelancet.com/pdfs/journals/laninf/PIIS1473-3099(15)00062-6.pdf">pdf</a>)
+
+<p><b>Background</b></p>
+
+<p>Diagnosing drug-resistance remains an obstacle to the elimination of tuberculosis. Phenotypic drug-susceptibility testing is slow and expensive, and commercial genotypic assays screen only common resistance-determining mutations. We used whole-genome sequencing to characterise common and rare mutations predicting drug resistance, or consistency with susceptibility, for all first-line and second-line drugs for tuberculosis.</p>
+
+<p><b>Methods</b></p>
+
+<p>Between Sept 1, 2010, and Dec 1, 2013, we sequenced a training set of 2099 <i>Mycobacterium tuberculosis</i> genomes. For 23 candidate genes identified from the drug-resistance scientific literature, we algorithmically characterised genetic mutations as not conferring resistance (benign), resistance determinants, or uncharacterised. We then assessed the ability of these characterisations to predict phenotypic drug-susceptibility testing for an independent validation set of 1552 genomes. We sought mutations under similar selection pressure to those characterised as resistance determinants outside candidate genes to account for residual phenotypic resistance.</p>
+
+<p><b>Findings</b></p>
+
+<p>We characterised 120 training-set mutations as resistance determining, and 772 as benign. With these mutations, we could predict 89.2% of the validation-set phenotypes with a mean 92.3% sensitivity (95% CI 90.7-93.7) and 98.4% specificity (98.1-98.7). 10.8% of validation-set phenotypes could not be predicted because uncharacterised mutations were present. With an in-silico comparison, characterised resistance determinants had higher sensitivity than the mutations from three line-probe assays (85.1% vs 81.6%). No additional resistance determinants were identified among mutations under selection pressure in non-candidate genes.</p>
+
+<p><b>Interpretation</b></p>
+
+<p>A broad catalogue of genetic mutations enable data from whole-genome sequencing to be used clinically to predict drug resistance, drug susceptibility, or to identify drug phenotypes that cannot yet be genetically predicted. This approach could be integrated into routine diagnostic workflows, phasing out phenotypic drug-susceptibility testing while reporting drug resistance early.</p>
+crispell_etal_2019.txt	Bi-directional transmission of Mycobacterium bovis in a multi-host system
+everitt_etal_2019.txt	Sequential Monte Carlo with transformations
+cole_etal_2019.txt	Genomes sequences of 64 type strains of the genus Staphylococcus
+young_etal_2019.txt	Panton-Valentine leukocidin is the key determinant of Staphylococcus aureus pyomyositis
+yang_etal_2019.txt	DeepAMR for predicting co-occurrent resistance of Mycobacterium tuberculosis
+wilson_2019.txt	The harmonic mean p-value for combining dependent tests
+didelot_etal_2018.txt	     Bayesian inference of ancestral dates on bacterial phylogenetic trees
+kouchaki_etal_2018.txt	Application of machine learning to tuberculosis drug resistance
+cryptic_2018.txt	Prediction of susceptibility to first-line tuberculosis drugs by DNA sequencing
+gibson_etal_2018.txt	Bacterial Doubling Times in the Wild
+demaio_etal_2018.txt	Bayesian Reconstruction of Transmission within Outbreaks using Genomic Variants
+yang_etal_2017.txt	Machine learning for classifying TB drug-resistance from DNA sequencing data
+gordon_etal_2017.txt	Whole genome sequencing for S. aureus outbreaks
+demaio_etal_2017.txt	The Bacterial Sequential Markov Coalescent
+young_etal_2017.txt	Severe infections emerge from the microbiome by adaptive evolution
+dingle_etal_2017.txt	Effects of control interventions on Clostridium difficile infection in England
+sheppard_etal_2016.txt	Nested Russian Doll-Like Genetic Mobility Drives Rapid Dissemination of the Carbapenem Resistance Gene blaKPC
+price_etal_2016.txt	Transmission of Staphylococcus aureus: a whole-genome sequencing based longitudinal cohort study
+demaio_etal_2016.txt	SCOTTI: reconstruction of transmission within outbreaks with the structured coalescent
+desilva_etal_2016.txt	Whole-genome sequencing to determine transmission of Neisseria gonorrhoeae
+das_etal_2016.txt	Natural mutations in S. aureus attenuate cytotoxicity but not virulence
+stoesser_etal_2016.txt	Evolutionary History of the Global Emergence of the Escherichia coli Epidemic Clone ST131
+shinny_etal_2016.txt	Global genomic epidemiology of Salmonella Typhimurium DT104
+hedge_wilson_2016.txt	Practical Approaches for Detecting Selection in Microbial Genomes
+earle_etal_2016.txt	Identifying lineage effects improves power in bacterial GWAS
+vanhal_etal_2016.txt	Evolutionary dynamics of Enterococcus faecium
+brown_etal_2016.txt	SimBac: simulation of whole bacterial genomes with homologous recombination
+didelot_etal_2016.txt	Within-host evolution of bacterial pathogens
+bradley_etal_2015.txt	Rapid antibiotic resistance predictions from genome sequence data
+dearlove_etal_2015.txt	Rapid host switching in generalist Campylobacter strains
+demaio_etal_2015.txt	New Routes to Phylogeography
+laabei_etal_2015.txt	Evolutionary trade-offs in Staphylococcus aureus virulence
+walker_etal_2015.txt	Predicting Mycobacterium tuberculosis drug resistance
+didelot_wilson_2015.txt	ClonalFrameML: efficient inference of recombination in whole bacterial genomes
+hedge_wilson_2014.txt	Bacterial phylogenic but not demographic inference is robust to recombination
+stoesser_etal_2014.txt	NDM-Klebsiella pneumoniae Neonatal Outbreak in a Nepal Hospital
+everitt_etal_2014.txt	Mobile Elements drive Recombination Hotspots in S. aureus Core Genome
+laabei_etal_2014.txt	Predicting the Virulence of MRSA from its Genome Sequence
+price_etal_2014.txt	Patient-to-Patient Transmission Rarely Accounts for Acquisition of S. aureus
+gordon_etal_2014.txt	Prediction of Staphylococcus aureus Antimicrobial Resistance by Whole-Genome Sequencing
+miller_etal_2014.txt	Cryptic variant of an epidemic clone of MRSA
+wong_etal_2013.txt	De novo assembly of Norovirus reveals recombinants in England 2012/13
+eyre_etal_2013b.txt	Diverse Sources of C. difficile Infection
+dearlove_wilson_2013.txt	Coalescent Inference for Infectious Disease
+eyre_etal_2013.txt	Detecting mixed infection with genome sequencing
+golubchik_etal_2013.txt	Within-host evolution of Staphylococcus aureus during asymptomatic carriage
+eyre_etal_2013b.txt	Diversity of C. difficile infection by whole genome sequencing
+batty_etal_2013.txt	RNA-Seq Approach for Whole Genome Sequencing of RNA Viruses
+quach_etal_2013.txt	Selection in Toll-like Receptors in Humans and African Great Apes
+didelot_etal_2012b.txt	Microevolution of Clostridium difficile
+walker_etal_2012.txt	Whole-genome sequencing of Mycobacterium tuberculosis outbreaks
+young_wilson_2012.txt	Evolution of Virulence during Staphylococcus aureus Nasal Carriage
+wilson_2012.txt	Insights from Genomics into Bacterial Pathogen Populations
+didelot_etal_2012.txt	Transforming Clinical Microbiology with Bacterial Genome Sequencing
+eyre_etal_2012.txt	Rapid benchtop sequencing of Staphylococcus aureus and Clostridium difficile
+young_etal_2012.txt	Staphylococcus aureus During Disease Progression
+wilson_etal_2011.txt	Natural Selection in Population and Phylogenetics
+muellner_etal_2011.txt	Molecular and Spatial Tools to Assess Public Health Intervention
+sheppard_etal_2010.txt	Evolution of a Disease Causing Campylobacter Coli Clade
+sousa_etal_2010.txt	Selection at the Duffy binding protein in Plasmodium vivax
+gabriel_etal_2010.txt	Spatio-temporal epidemiology of Campylobacter jejuni
+mullner_etal_2009b.txt	Molecular epidemiology of Campylobacter jejuni
+alon_etal_2009.txt	Crossover Patterns in Humans
+brehony_wilson_maiden_2009.txt	Meningococcal factor H-binding protein diversity
+mullner_etal_2009a.txt	Campylobacteriosis Source Attribution in New Zealand
+sheppard_etal_2009.txt	Genetic Campylobacteriosis Source Attribution
+wilson_etal_2008a.txt	Tracing the Source of Campylobacteriosis
+wilson_etal_2008b.txt	Evolution of Campylobacter jejuni
+wilson_mcvean_2006.txt	Estimating dN/dS With Recombination
+falush_etal_2006.txt	Speciation in Salmonella
+edwards_etal_2006b.txt	Purifying Selection in HIV-1 Envelope
+edwards_etal_2006a.txt	Loss of Diversity During HIV-1 Transmission
+wilson_falush_mcvean_2005.txt	Germs, Genomes and Genealogies
+wilson_falush_2005.txt	The Genetic Structure of Human Pathogens
+jolley_etal_2005.txt	Influence of Patterns of Genetic Diversity in Neisseria meningitidis
+claus_etal_2005.txt	Carried Meningococci
+yazdankhah_etal_2004.txt	Serogroups and Genotypes of Meningococci
+<h2>Insights from genomics into	bacterial pathogen populations.</h2>
+<p>D. J. Wilson (2012)<br>
+<i>PLoS Pathogens</i> <b>8</b>: e1002874. (<a href="http://www.plospathogens.org/article/info%3Adoi%2F10.1371%2Fjournal.ppat.1002874">pdf</a>)
+
+<p>Bacterial pathogens impose a heavy burden of disease on human populations worldwide. The gravest threats are posed by highly virulent respiratory pathogens, enteric pathogens, and HIV-associated infections. Tuberculosis alone is responsible for the deaths of 1.5 million people annually. Treatment options for bacterial pathogens are being steadily eroded by the evolution and spread of drug resistance. However, population-level whole genome sequencing offers new hope in the fight against pathogenic bacteria. By providing insights into bacterial evolution and disease etiology, these approaches pave the way for novel interventions and therapeutic targets. Sequencing populations of bacteria across the whole genome provides unprecedented resolution to investigate (i) within-host evolution, (ii) transmission history, and (iii) population structure. Moreover, advances in rapid benchtop sequencing herald a new era of real-time genomics in which sequencing and analysis can be deployed within hours in response to rapidly changing public health emergencies. The purpose of this review is to highlight the transformative effect of population genomics on bacteriology, and to consider the prospects for answering abiding questions such as why bacteria cause disease.</p>
+<h2>The harmonic mean <i>p</i>-value for combining dependent tests</h2>
+<p>D. J. Wilson (2019)<br>
+<i>Proceedings of the National Academy of Sciences USA</i> <b>116</b>: 1195-1200 (<a href="https://www.pnas.org/content/116/4/1195">pdf</a>)
+
+<p>Analysis of 'big data' frequently involves statistical comparison of millions of competing hypotheses to discover hidden processes underlying observed patterns of data, for example in the search for genetic determinants of disease in genome-wide association studies (GWAS). Controlling the family-wise error rate (FWER) is considered the strongest protection against false positives, but makes it difficult to reach the multiple testing-corrected significance threshold. Here I introduce the harmonic mean <i>p</i>-value (HMP) which controls the FWER while greatly improving statistical power by combining dependent tests using generalized central limit theorem. I show that the HMP effortlessly combines information to detect statistically significant signals among groups of individually nonsignificant hypotheses in examples of a human GWAS for neuroticism and a joint human-pathogen GWAS for hepatitis C viral load. The HMP simultaneously tests all ways to group hypotheses, allowing the smallest groups of hypotheses that retain significance to be sought. The power of the HMP to detect significant hypothesis groups is greater than the power of the Benjamini-Hochberg procedure to detect  significant hypotheses, even though the latter only controls the weaker false discovery rate (FDR). The HMP has broad implications for the analysis of large datasets because it enhances the potential for scientific discovery.
+</p>
+<h2>GenomegaMap: within-species genome-wide <i>d<sub>N</sub>/d<sub>S</sub></i> estimation from over 10,000 genomes</h2>
+<p>D. J. Wilson and The CRyPTIC Consortium (2019)<br>
+<i>biorxiv</i> <a href="https://doi.org/10.1101/523316">https://doi.org/10.1101/523316</a>
+
+<p>The <i>d<sub>N</sub>/d<sub>S</sub></i> ratio provides evidence of adaptation or functional constraint in protein-coding genes by quantifying the relative excess or deficit of amino acid-replacing versus silent nucleotide variation. Inexpensive sequencing promises a better understanding of parameters such as <i>d<sub>N</sub>/d<sub>S</sub></i>, but analysing very large datasets poses a major statistical challenge. Here I introduce genomegaMap for estimating within-species genome-wide variation in <i>d<sub>N</sub>/d<sub>S</sub></i>, and I apply it to 3,979 genes across 10,209 tuberculosis genomes to characterize the selection pressures shaping this global pathogen. GenomegaMap is a phylogeny-free method that addresses two major problems with existing approaches: (i) it is fast no matter how large the sample size and (ii) it is robust to recombination, which causes phylogenetic methods to report artefactual signals of adaptation. GenomegaMap uses population genetics theory to approximate the distribution of allele frequencies under general, parent-dependent mutation models. Coalescent simulations show that substitution parameters are well-estimated even when genomegaMap's simplifying assumption of independence among sites is violated. I demonstrate the ability of genomegaMap to detect genuine signatures of selection at antimicrobial resistance-conferring substitutions in <i>M. tuberculosis</i> and describe a novel signature of selection in the cold-shock DEAD-box protein A gene deaD/csdA. The genomegaMap approach helps accelerate the exploitation of big data for gaining new insights into evolution within species.
+</p>
+<h2>Tracing the source of campylobacteriosis</h2>
+<p>Wilson, D. J., E. Gabriel, A. J. H. Leatherbarrow, J. Cheesbrough, S. Gee, E. Bolton, A. Fox, P. Fearnhead, C. A. Hart and P. J. Diggle (2008)<br>
+<i>PLoS Genetics</i> <B>4</B>: e1000203. (<a href="http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1000203">pdf</a> <a href="plosgenetics.pdf">press-release</a>)</p>
+
+<p><i>Campylobacter jejuni</i> is the leading cause of bacterial gastro-enteritis in the developed world. It is thought to infect 2-3 million people a year in the US alone, at a cost to the economy in excess of US $4 billion. <i>C. jejuni</i> is a widespread zoonotic pathogen that is carried by animals farmed for meat and poultry. A connection with contaminated food is recognized, but <i>C. jejuni</i> is also commonly found in wild animals and water sources. Phylogenetic studies have suggested that genotypes pathogenic to humans bear greatest resemblance to non-livestock isolates. Moreover, seasonal variation in campylobacteriosis bears the hallmarks of water-borne disease, and certain outbreaks have been attributed to contamination of drinking water. As a result, the relative importance of these reservoirs to human disease is controversial. We use multilocus sequence typing to genotype 1,231 cases of <i>C. jejuni</i> isolated from patients in Lancashire, England. By modeling the DNA sequence evolution and zoonotic transmission of <i>C. jejuni</i> between host species and the environment, we assign human cases probabilistically to source populations. Our novel population genetics approach reveals that the vast majority (97%) of sporadic disease can be attributed to animals farmed for meat and poultry. Chicken and cattle are the principal sources of <i>C. jejuni</i> pathogenic to humans, whereas wild animal and environmental sources are responsible for just 3% of disease. Our results imply that the primary transmission route is through the food chain, and suggest that incidence could be dramatically reduced by enhanced on-farm biosecurity or preventing food-borne transmission.</p>
+<h2>Rapid evolution and the importance of recombination to the gastro-enteric pathogen <i>Campylobacter jejuni</i></h2>
+<p>Wilson, D. J., E. Gabriel, A. J. H. Leatherbarrow, J. Cheesbrough, S. Gee, E. Bolton, A. Fox, C. A. Hart, P. J. Diggle and P. Fearnhead (2009)<br>
+<i>Molecular Biology and Evolution</i> <b>26:</b> 385-397. (<a href="http://mbe.oxfordjournals.org/cgi/reprint/26/2/385">pdf</a>)</p>
+
+<p>Responsible for the majority of bacterial gastro-enteritis in the developed world, <I>Campylobacter jejuni</I> is a pervasive pathogen of humans and animals, but its evolution is obscure. In this paper we exploit contemporary genetic diversity and empirical evidence to piece together the evolutionary history of <I>C. jejuni</I> and quantify its evolutionary potential. Our combined population genetics-phylogenetics approach reveals a surprising picture. <I>C. jejuni</I> is a rapidly evolving species, subject to intense purifying selection that purges 60% of novel variation, but possessing a massive evolutionary potential. The low mutation rate is offset by a large effective population size, so that a mutation at any site can occur somewhere in the population within the space of a week. Recombination has a fundamental role, generating diversity at twice the rate of <I>de novo</I> mutation, and facilitating gene flow between <I>C. jejuni</I> and its sister species <I>C. coli</I>. We attempt to calibrate the rate of molecular evolution in <I>C. jejuni</I> based solely on within-species variation. The rates we obtain are up to 1,000 times faster than conventional estimates, placing the <I>C. jejuni</I> &#8211; <I>C. coli</I> split at the time of the Neolithic revolution. We weigh the plausibility of such recent bacterial evolution against alternative explanations and discuss the evidence required to settle the issue. </p>
+
+<h2>A population genetics-phylogenetics approach to inferring natural selection in coding sequences</h2>
+<p>Wilson, D. J., R. D. Hernandez, P. Andolfatto and M. Przeworski (2011)<br>
+<i>PLoS Genetics</i> <B>7</B>: e1002395. (<a href="http://www.plosgenetics.org/article/info:doi/10.1371/journal.pgen.1002395">pdf</a>)</p>
+
+<p>Through an analysis of polymorphism within and divergence between species, we can
+hope to learn about the distribution of selective effects of mutations in the genome,
+changes in the fitness landscape that occur over time, and the location of sites
+involved in key adaptations that distinguish modern day species. We introduce a novel
+method for the analysis of variation in selection pressures within and between species,
+spatially along the genome and temporally between lineages. We model codon
+evolution explicitly using a joint population genetics-phylogenetics approach that we
+developed for the construction of multiallelic models with mutation, selection and drift.
+Our approach has the advantage of performing direct inference on coding sequences,
+inferring ancestral states probabilistically, utilizing allele frequency information, and
+generalizing to multiple species. We use a Bayesian sliding window model for
+intragenic variation in selection coefficients that efficiently combines information across
+sites and captures spatial clustering within the genome. To demonstrate the utility of
+the method, we infer selective pressures acting in <i>Drosophila melanogaster</i> and <i>D.
+simulans</i> from polymorphism and divergence data for 100 X-linked coding regions.</p>
+<h2>The genetic structure of human pathogens</h2>
+
+<p>Wilson, D. J. and D. Falush (2005)<br>
+In <I>Encyclopedia of Genetics, Genomics, Proteomics and Bioinformatics</I> edited 
+					by L. B. Jorde, P. F. R. Little, M. J. Dunn and S. Subramaniam. 
+Wiley, New 
+					York. (<a 
+href="http://www.mrw.interscience.wiley.com/ggpb/articles/g101304/frame.html" 
+target="_blank">abstract</a>)</p>
+
+<p>Human pathogen populations are structured by processes including within-host competition, 
+host-pathogen interaction, selection on the transmission cycle, historic changes in prevalence, and 
+human migratory history. We document examples in which signatures of each process are evident and describe 
+some of the factors that lead one process to dominate over the others. Intuitively, it might be thought 
+that pathogen coevolutionary interaction is so intense that under normal circumstances we might expect 
+that the signature of historic migration is obliterated. However, while this is the case for most 
+pathogens, one pathogen, <i>Helicobacter pylori</i>, provides a signature of migrations, which seems, 
+given 
+current sequencing and analytical technologies, to be at least as informative as human genes.</p>
+<h2>Germs, genomes and genealogies</h2>
+
+<p>Wilson, D. J., D. Falush and G. McVean (2005)<br>
+<I>Trends in Ecology and Evolution</I> <B>20</B>: 39-45. (<a 
+href="http://www.sciencedirect.com/science?_ob=MImg&amp;_imagekey=B6VJ1-4DPGXJ6-1-1&amp;_cdi=6081&amp;_user=126524&amp;_orig=browse&amp;_coverDate=01%2F01%2F2005&amp;_sk=999799998&amp;view=c&amp;wchp=dGLbVlb-zSkWb&amp;md5=524e525ae9261a3235cb262a38bf0a9d&amp;ie=/sdarticle.pdf"
+						target="_blank">pdf</a>)</p>
+
+<p>Genetic diversity in pathogen species contains information about evolutionary and epidemiological 
+processes, including the origins and history of disease, the nature of the selective forces acting on 
+pathogen genes and the role of recombination in generating genetic novelty. Here, we review recent 
+developments in these fields and compare the use of population genetic, or population-model based, 
+approaches to phylogenetic, or population-model free, methodologies. We show how simple epidemiological 
+models can be related to the ancestral, or coalescent, process underlying samples from pathogen species, 
+enabling detailed inference about pathogen biology from patterns of molecular variation.</p>
+<h2>Estimating diversifying selection and functional constraint in the 
+presence of recombination</h2>
+<p>Wilson, D. J. and G. McVean (2006)<br>
+<i>Genetics</i> <B>172</B>: 1411-1425. (<a href="http://www.genetics.org/cgi/reprint/172/3/1411" 
+target="_blank">pdf</a> <a href="../software.html">software</a>)</p>
+
+<p>Models of molecular evolution that incorporate the ratio of 
+nonsynonymous to synonymous polymorphism 
+(<i>d<sub>N</sub>/d<sub>S</sub></i> 
+ratio) as a parameter can 
+be used to identify sites that are under diversifying selection or 
+functional constraint in a sample of gene sequences. However, when there 
+has been recombination in the evolutionary history of the sequences, 
+reconstructing a single phylogenetic tree is not appropriate, and 
+inference based on a single tree can give misleading results. In the 
+presence of high levels of recombination, the identification of sites 
+experiencing diversifying selection can suffer from a false-positive rate 
+as high as 90%. We present a model that uses a population genetics 
+approximation to the coalescent with recombination and use reversible-jump 
+MCMC to perform Bayesian inference on both the 
+<i>d<sub>N</sub>/d<sub>S</sub></i> 
+ratio and the 
+recombination rate, allowing each to vary along the sequence. We 
+demonstrate that the method has the power to detect variation in the 
+<i>d<sub>N</sub>/d<sub>S</sub></i> 
+ratio and the recombination rate and does not suffer from a high 
+false-positive rate. We use the method to analyze the <i>porB</i> gene of 
+<i>Neisseria meningitidis</i> and verify the inferences using prior 
+sensitivity 
+analysis and model criticism techniques.</p>
+<h2>Whole genome sequencing and de novo assembly identifies Sydney-like variant noroviruses and recombinants during the winter 2012/2013 outbreak in England.</h2>
+<p>Wong, T. H., Dearlove, B. L., Hedge, J., Giess, A. P., Piazza, P., Trebes, A., Paul, J., Smit, E., Smith, E. G., Sutton, J. K., Wilcox, M. H., Dingle, K. E., Peto, T. E., Crook, D. W., Wilson, D. J. and D. H. Wyllie (2013)<br>
+<i>Virology Journal</i> <b>10</b>: 335	(<a href="http://www.virologyj.com/content/10/1/335/abstract">pdf</a>)
+
+<h4>Background</h4>
+<p>Norovirus is the commonest cause of epidemic gastroenteritis among people of all ages.
+   Outbreaks frequently occur in hospitals and the community, costing the UK an estimated
+   [pound sign]110 m per annum. An evolutionary explanation for periodic increases in
+   norovirus cases, despite some host-specific post immunity is currently limited to
+   the identification of obvious recombinants. Our understanding could be significantly
+   enhanced by full length genome sequences for large numbers of intensively sampled
+   viruses, which would also assist control and vaccine design. Our objective is to develop
+   rapid, high-throughput, end-to-end methods yielding complete norovirus genome sequences.
+   We apply these methods to recent English outbreaks, placing them in the wider context
+   of the international norovirus epidemic of winter 2012.
+</p>
+<h4>Method</h4>
+<p>Norovirus sequences were generated from 28 unique clinical samples by Illumina RNA
+   sequencing (RNA-Seq) of total faecal RNA. A range of de novo sequence assemblers were
+   attempted. The best assembler was identified by validation against three replicate
+   samples and two norovirus qPCR negative samples, together with an additional 20 sequences
+   determined by PCR and fractional capillary sequencing. Phylogenetic methods were used
+   to reconstruct evolutionary relationships from the whole genome sequences.
+</p>
+<h4>Results</h4>
+<p>Full length norovirus genomes were generated from 23/28 samples. 5/28 partial norovirus
+   genomes were associated with low viral copy numbers. The de novo assembled sequences
+   differed from sequences determined by capillary sequencing by &lt;0.003%. Intra-host
+   nucleotide sequence diversity was rare, but detectable by mapping short sequence reads
+   onto its de novo assembled consensus. Genomes similar to the Sydney 2012 strain caused
+   78% (18/23) of cases, consistent with its previously documented association with the
+   winter 2012 global outbreak. Interestingly, phylogenetic analysis and recombination
+   detection analysis of the consensus sequences identified two related viruses as recombinants,
+   containing sequences in prior circulation to Sydney 2012 in open reading frame (ORF)
+   2.
+</p>
+<h4>Conclusion</h4>
+<p>Our approach facilitates the rapid determination of complete norovirus genomes. This
+   method provides high resolution of full norovirus genomes which, when coupled with
+   detailed epidemiology, may improve the understanding of evolution and control of this
+   important healthcare-associated pathogen.
+</p>
+<h2>Machine learning for classifying tuberculosis drug-resistance from DNA sequencing data.</h2>
+<p>Yang, Y., Niehaus, K. E., Walker, T. M., Iqbal, Z., Walker, A. S., Wilson, D. J., Peto, T. E., Crook, D. W., Smith, G. E., Zhu, T. and D. A. Clifton (2017)<br>
+<i>Bioinformatics</i> doi:10.1093/bioinformatics/btx801. (<a href="https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/btx801/4731737">pdf</a>)
+
+<p><b>Motivation</b></p>
+
+<p>Correct and rapid determination of Mycobacterium tuberculosis (MTB) resistance against available tuberculosis (TB) drugs is essential for the control and management of TB. Conventional molecular diagnostic test assumes that the presence of any well-studied single nucleotide polymorphisms is sufficient to cause resistance, which yields low sensitivity for resistance classification.</p>
+
+<p><b>Methods</b></p>
+
+<p>Given the availability of DNA sequencing data from MTB, we developed machine learning models for a cohort of 1839 UK bacterial isolates to classify MTB resistance against eight anti-TB drugs (isoniazid, rifampicin, ethambutol, pyrazinamide, ciprofloxacin, moxifloxacin, ofloxacin, streptomycin) and to classify multi-drug resistance.</p>
+
+<p><b>Results</b></p>
+
+<p>Compared to previous rules-based approach, the sensitivities from the best-performing models increased by 2-4% for isoniazid, rifampicin and ethambutol to 97% (p<0.01), respectively; for ciprofloxacin and multi-drug resistant TB, they increased to 96%. For moxifloxacin and ofloxacin, sensitivities increased by 12% and 15% from 83% and 81% based on existing known resistance alleles to 95% and 96% (p<0.01), respectively. Particularly, our models improved sensitivities compared to the previous rules-based approach by 15% and 24% to 84% and 87% for pyrazinamide and streptomycin (p<0.01), respectively. The best-performing models increase the area-under-the-ROC curve by 10% for pyrazinamide and streptomycin (p<0.01), and 4-8% for other drugs (p<0.01).</p>
+
+<p><b>Availability</b></p>
+
+<p>The details of source code are provided at <a href="http://www.robots.ox.ac.uk/davidc/code.php">http://www.robots.ox.ac.uk/davidc/code.php</a></p>
+<h2>DeepAMR for predicting co-occurrent resistance of <i>Mycobacterium tuberculosis</i></h2>
+<p>Yang, Y., Walker, T. M., Walker, A. S., Wilson, D. J., Peto, T. E. A., Crook, D. W., Shamout, F., Zhu, T., Clifton, D. A. and CRyPTIC Consortium (2019)<br>
+<i>Bioinformatics</i>, in press.
+
+<p><b>Motivation:</b> Resistance co-occurrence within first-line anti-tuberculosis (TB) drugs is a common phenomenon. Existing methods based on genetic data analysis of <i>Mycobacterium tuberculosis</i> (MTB) have been able to predict resistance of MTB to individual drugs, but have not considered the resistance co-occurrence and cannot capture the latent structure of poly-resistant TB.</p>
+<p><b>Methods:</b> We used a large cohort of TB patients from 16 countries across six continents where whole-genome sequences for each isolate and associated phenotype to anti-TB drugs were obtained using drug susceptibility testing recommended by the World Health Organization. We then proposed an end-to-end multi-task model with stacked denoising auto-encoder (DeepAMR) to learn low-dimensional latent structure and perform multi-label classification.</p>
+<p><b>Results:</b> The results showed that the DeepAMR outperformed the examined multi-label learning and conventional single-label learning models with mean sensitivity of 96%, 87%, 73%, and 96% for predicting resistance to rifampicin, ethambutol, pyrazinamide, and multi-drug resistant TB (MDR-TB), respectively, and performed better than single-label learning models with mean sensitivity of 95.6% for isoniazid. In comparison to a method that predicts resistance of an isolate when a single previously identified mutation is present, the DeepAMR improved mean sensitivity for classifying resistance to four first-line drugs and MDR-TB by up to 14%, except for ethambutol. The latent structure obtained by DeepAMR in t-distributed stochastic neighbor embedding space illustrated that there were several distinctive subtypes of cross-resistance cases in the latent space.</p>
+<p><b>Availability:</b> The details of source code are provided at <a href="http://www.robots.ox.ac.uk/~davidc/code.php">http://www.robots.ox.ac.uk/&tilde;davidc/code.php</a>
+</p>
+<h2>Distribution of Serogroups and Genotypes among Disease-Associated and Carried Isolates of Neisseria 
+meningitidis from the Czech Republic, Greece, and Norway</h2>
+
+<p>Yazdankhah, S. P., P. Kriz, G. Tzanakaki, J. Kremastinou, J. Kalmusova, M. 
+					Musilek, T. Alvedstad, K. A. Jolley, D. J. Wilson, N. D. McCarthy, 
+D. A. 
+					Caugant and M. C. J. Maiden (2004)<br>
+<I>Journal of Clinical Microbiology</I> <B>42</B>: 5146-5153. (<a 
+href="http://jcm.asm.org/cgi/reprint/42/11/5146.pdf" target="_blank">pdf</a>)</p>
+		
+<p>The distribution of serogroups and multilocus sequence types (STs) in collections of disease-associated 
+and carried meningococci from the period 1991 to 2000 in three European countries (the Czech Republic, 
+Greece, and Norway) was investigated. A total of 314 patient isolates and 353 isolates from asymptomatic 
+carriers were characterized. The frequency distributions of serogroups and clone complexes differed among 
+countries and between disease and carrier isolate collections. Highly significant differentiation was seen 
+at each housekeeping locus. A marked positive association of serogroup C with disease was evidenced. The 
+ST-11 complex was strongly positively associated with disease; associations for other clone complexes were 
+weaker. The genetic diversity of the clone complexes differed. A single ST dominated the ST-11 clone 
+complex, while the ST-41/44 complex exhibited greater levels of diversity. These data robustly 
+demonstrated differences in the distribution of meningococcal genotypes in disease and carrier isolates 
+and among countries. Further, they indicated that differences in genotype diversity and pathogenicity 
+exist between meningococcal clone complexes.</p>
+<h2>Evolutionary dynamics of <i>Staphylococcus aureus</i> during progression from carriage to disease</h2>
+<p>Young, B. C., Golubchik, T., Batty, E. M., Fung, R., Larner-Svennson, H., Votintseva, A., Miller, R. R., Godwin, H., Knox, K., Everitt, R. G., Iqbal, Z., Rimmer, A. J., Cule, M., Ip C. L. C., Didelot, X., Harding, R. M., Donnelly, P. J., Peto, T. E., Crook, D. W., Bowden, R. and D. J. Wilson (2012)<br>
+<i>Proceedings of the National Academy of Sciences USA</i> <b>109</b>: 4550-4555. (<a href="http://www.pnas.org/content/109/12/4550.full">pdf</a> <a href="http://f1000.com/14021986">F1000</a>)
+
+<p>Whole genome sequencing offers new insights into the evolution of bacterial
+pathogens and the etiology of bacterial disease. <i>Staphylococcus aureus</i> is a major
+cause of bacteria-associated mortality and invasive disease, and is carried
+asymptomatically by 27% of adults. 80% of bacteremias match the carried strain.
+However, the role of evolutionary change in the pathogen during the progression
+from carriage to disease is incompletely understood. Here we use high-throughput
+genome sequencing to discover the genetic changes that accompany the transition
+from nasal carriage to fatal bloodstream infection in an individual colonized with
+methicillin-sensitive <i>S. aureus</i> (MSSA). We found a single, cohesive population
+exhibiting a repertoire of 30 single nucleotide polymorphisms (SNPs) and four
+insertion/deletion (indel) variants. Mutations accumulated at a steady rate over a 13
+month period, except for a cluster of mutations preceding the transition to disease.
+Although bloodstream bacteria differed by just eight mutations from the original
+nasally carried bacteria, half of those mutations caused truncation of proteins,
+including a premature stop codon in an AraC-family transcriptional regulator that
+has been implicated in pathogenicity. Comparison to evolution in two asymptomatic
+carriers supported the conclusion that clusters of protein-truncating mutations are
+highly unusual. Our results demonstrate that bacterial diversity in vivo is limited
+but nonetheless detectable by whole genome sequencing, enabling the study of
+evolutionary dynamics within the host. Regulatory or structural changes that occur
+during carriage may be functionally important for pathogenesis, so identifying those
+changes is a crucial step in understanding the biological causes of invasive bacterial
+disease.</p>
+<h2>Severe infections emerge from commensal bacteria by adaptive evolution</h2>
+<p>Young, B. C., Wu, C.-H., Gordon, N. C., Cole, K., Price, J. R., Lui, E., Sheppard, A. E., Perera, S., Charlesworth, J., Golubchik, T., Iqbal, Z., Bowden, R., Massey, R. C., Paul, J., Crook, D. W., Peto, T. E. A., Walker, A. S., Llewelyn, M. J., Wyllie, D. H. and D. J. Wilson (2017)<br>
+<i>eLife</i> <b>6</b>: e30637 (<a href="https://elifesciences.org/articles/30637">pdf</a> <a href="http://biorxiv.org/content/early/2017/04/19/116681">preprint</a>)
+
+<p>Bacteria responsible for the greatest global mortality colonize the human microbiota far more frequently than they cause severe infections. Whether mutation and selection among commensal bacteria are associated with infection is unknown. We investigated de novo mutation in 1163 <i>Staphylococcus aureus</i> genomes from 105 infected patients with nose colonization. We report that 72% of infections emerged from the nose, with infecting and nose-colonizing bacteria showing parallel adaptive differences. We found 2.8-to-3.6-fold adaptive enrichments of protein-altering variants in genes responding to rsp, which regulates surface antigens and toxin production; agr, which regulates quorum-sensing, toxin production and abscess formation; and host-derived antimicrobial peptides. Adaptive mutations in pathogenesis-associated genes were 3.1-fold enriched in infecting but not nose-colonizing bacteria. None of these signatures were observed in healthy carriers nor at the species-level, suggesting infection-associated, short-term, within-host selection pressures. Our results show that signatures of spontaneous adaptive evolution are specifically associated with infection, raising new possibilities for diagnosis and treatment</p>
+<h2>Panton-Valentine leukocidin is the key determinant of <i>Staphylococcus aureus</i> pyomyositis in a bacterial genome-wide association study.</h2>
+<p>Young, B. C., Earle, S. G., Soeng, S., Sar, P., Kumar, V., Hor, S., Sar, V., Bousfield, R., Sanderson, N. D., Barker, L., Stoesser, N., Emary, K. R. W., Parry, C. M., Nickerson, E. K., Turner, P., Bowden, R., Crook, D., Wyllie, D., Day, N. P. J., Wilson, D. J. and C. E. Moore (2019)<br>
+<i>eLife</i> <b>8</b>: e42486 (<a href="https://www.biorxiv.org/content/early/2018/09/29/430538">preprint</a> <a href="https://elifesciences.org/articles/42486">pdf</a>)
+
+<p>Pyomyositis is a severe bacterial infection of skeletal muscle, commonly affecting children in tropical regions and predominantly caused by <i>Staphylococcus aureus</i>. To understand the contribution of bacterial genomic factors to pyomyositis, we conducted a genome-wide association study of <i>S. aureus</i> cultured from 101 children with pyomyositis and 417 children with asymptomatic nasal carriage attending the Angkor Hospital for Children in Cambodia. We found a strong relationship between bacterial genetic variation and pyomyositis, with estimated heritability 63.8% (95% CI 49.2-78.4%). The presence of the Panton-Valentine leukocidin (PVL) locus increased the odds of pyomyositis 130-fold (p=10-17.9). The signal of association mapped both to the PVL-coding sequence and the sequence immediately upstream. Together these regions explained >99.9% of heritability. Our results establish staphylococcal pyomyositis, like tetanus and diphtheria, as critically dependent on expression of a single toxin and demonstrate the potential for association studies to identify specific bacterial genes promoting severe human disease.</p>
+<h2>On the evolution of virulence during <i>Staphylococcus aureus</i> nasal carriage</h2>
+<p>Young, B. C. and D. J. Wilson (2012)<br>
+<i>Virulence</i> <b>3</b>: 454-456. (<a href="http://www.landesbioscience.com/journals/virulence/article/21189/">pdf</a>)
+
+<p>In a recent paper appearing in the <i>Proceedingsof the National Academy of Sciences of theUnited States of America</i>, Young and colleaguesreport the case of a persistent carrierof <i>Staphylococcus aureus</i> who went onto develop a virulent bloodstream infection(Young et al., Proc Natl Acad Sci USA 2012).By sequencing the genomes of bacteria sampledfrom the nose and bloodstream overan extended period, they pieced togetherthe evolutionary changes that accompaniedthe transition from asymptomatic carriage toinvasive disease. Among an unusual clusterof knockout mutations that coincided withthe beginning of a period of declining healthin the patient, they identified the truncationof an <i>AraC</i> family transcriptional regulator asa likely modifier of virulence, demonstratingthat genetic changes that occur in bacterialgenomes during prolonged carriage couldplay a role in pathogenesis. Here we discussthe alternative evolutionary hypotheses forthe observed excess of knockout mutationsand review the evidence in favor of a causalrole for regulatory gene dysfunction in bacterialvirulence. We consider the prospects forsystematic studies into the evolution of virulencein bacterial carriage populations.</p>

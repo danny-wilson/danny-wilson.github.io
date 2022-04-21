@@ -1,0 +1,40 @@
+<h2>CV</h2>
+
+<table>
+<tr><td>Full name <td>&nbsp;<td> Daniel John Wilson
+<tr><td>Born <td>&nbsp;<td> Manchester, 28th September 1980
+<tr><td>Nationality <td>&nbsp;<td> British
+</table>
+
+<h3>Career</h3>
+
+<table>
+  <tr><td>Jan 2010 - <td>&nbsp;<td>Leadership Fellow in Genomics, Nuffield Department of Medicine, University of Oxford
+  <tr><td>Jan 2008 - Dec 2009<td>&nbsp;<td>Post-doctoral Research Scholar, Department of Human Genetics, University of Chicago
+  <tr><td>Oct 2005 - Jan 2008 <td>&nbsp;<td>Research Associate in Genetics, Department of Mathematics and Statistics, Lancaster University
+  <tr><td>Oct 2004 - Jun 2006 <td>&nbsp;<td>Lecturer in Biology, St. John's College, Oxford
+  <tr><td>Oct 2002 - Sep 2005 <td>&nbsp;<td>D.Phil., Department of Statistics, Oxford
+  <tr><td>Oct 1999 - Jun 2002 <td>&nbsp;<td>Undergraduate, St. John's College, Oxford
+  <tr><td>Sep 1992 - Jul 1999 <td>&nbsp;<td>Urmston Grammar School, Manchester
+</table>
+
+<h3>Degrees, qualifications and awards</h3>
+
+<table>
+  <tr><td>2012<td>&nbsp;<td>Oxford Martin School Expert (open competition among Oxford faculty)
+  <tr><td>2005<td>&nbsp;<td>Doctor of Philosophy, Population genetics of meningococcal meningitis, Oxford
+  <tr><td>2004<td>&nbsp;<td>North Senior Scholar, St. John's College, Oxford
+  <tr><td>2002<td>&nbsp;<td>Bachelor of Arts, Biological Sciences, Oxford (1st class Honours)
+  <tr><td>2001<td>&nbsp;<td>Casberd Scholarship, St. John's College, Oxford
+  <tr><td>1999<td>&nbsp;<td>A Levels in Biology, Chemistry, Maths, General Studies (all grade A)
+  <tr><td>1999<td>&nbsp;<td>AS Level Music Technology (grade A)
+</table>
+
+<h3>Positions of responsibility</h3>
+
+<table>
+  <tr><td>Apr 2003 - Mar 2004<td>&nbsp;<td>President, Middle Common Room, St. John's College
+  <tr><td>Jan 2001 - Dec 2001<td>&nbsp;<td>President, Junior Common Room, St. John's College
+</table>
+
+<p>See also my <a href="contact.html">contact details</a> and <a href="publications.html">publications</a>.

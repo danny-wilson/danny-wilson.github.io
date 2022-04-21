@@ -1,0 +1,39 @@
+<h2>Evolution of the HIV-1 envelope gene is dominated by purifying 
+selection</h2>
+
+<p>Edwards, C. T. T., E. C. Holmes, O. G. Pybus, D. J. Wilson, R. P. 
+Viscidi, 
+					E. J. Abrams, R. E. Phillips and 
+A. J. Drummond (2006)<br>
+<i>Genetics</i> <B>174</B>: 1441-1453. (<a 
+href="http://www.genetics.org/cgi/content/abstract/174/3/1441" 
+target="_blank">pdf</a>)</p>
+
+<p>The evolution of the human immunodeficiency virus (HIV-1) during 
+chronic infection involves the rapid, continuous turnover of genetic 
+diversity. However, the role of natural selection, relative to random 
+genetic drift, in governing this process is unclear. We tested a 
+stochastic model of genetic drift using partial envelope sequences sampled 
+longitudinally in 28 infected children. In each case the Bayesian 
+posterior (empirical) distribution of coalescent genealogies was estimated 
+using Markov chain Monte Carlo methods. Posterior predictive simulation 
+was then used to generate a null distribution of genealogies assuming 
+neutrality, with the null and empirical distributions compared using four 
+genealogy-based summary statistics sensitive to nonneutral evolution. 
+Because both null and empirical distributions were generated within a 
+coalescent framework, we were able to explicitly account for the 
+confounding influence of demography. From the distribution of corrected 
+<i>P</i>-values across patients, we conclude that empirical genealogies 
+are more 
+asymmetric than expected if evolution is driven by mutation and genetic 
+drift only, with an excess of low-frequency polymorphisms in the 
+population. This indicates that although drift may still play an important 
+role, natural selection has a strong influence on the evolution of HIV-1 
+envelope. A negative relationship between effective population size and 
+substitution rate indicates that as the efficacy of selection increases, a 
+smaller proportion of mutations approach fixation in the population. This 
+suggests the presence of deleterious mutations. We therefore conclude that 
+intrahost HIV-1 evolution in envelope is dominated by purifying selection 
+against low-frequency deleterious mutations that do not reach 
+fixation.</p>
+

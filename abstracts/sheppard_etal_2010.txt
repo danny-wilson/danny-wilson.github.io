@@ -1,0 +1,18 @@
+<h2>Evolution of an agriculture-associated disease causing <i>Campylobacter coli</i> clade: evidence from national surveillance data in Scotland.</h2>
+<p>Sheppard, S. K., Dallas, J. F., Wilson, D. J., Strachan, N. J. C., McCarthy N. D., Jolley, K. A., Colles, F. M., Rotariu, O., Ogden, I. D., Forbes, K. J. and M. C. J. Maiden (2010)<br>
+<i>PLoS ONE</i> <B>5</B>: e15708. (<a href="http://www.plosone.org/article/info:doi/10.1371/journal.pone.0015708">pdf</a>)</p>
+
+<p>The common zoonotic pathogen <i>Campylobacter coli</i> is an important cause of bacterial gastroenteritis worldwide but its
+evolution is incompletely understood. Using multilocus sequence type (MLST) data of 7 housekeeping genes from a
+national survey of <i>Campylobacter</i> in Scotland (2005/6), and a combined population genetic-phylogenetics approach, we
+investigated the evolutionary history of <i>C. coli</i>. Genealogical reconstruction of isolates from clinical infection, farm animals
+and the environment, revealed a three-clade genetic structure. The majority of farm animal, and all disease causing
+genotypes belonged to a single clade (clade 1) which had comparatively low synonymous sequence diversity, little deep
+branching genetic structure, and a higher number of shared alleles providing evidence of recent clonal decent. Calibration
+of the rate of molecular evolution, based on within-species genetic variation, estimated a more rapid rate of evolution than
+in traditional estimates. This placed the divergence of the clades at less than 2500 years ago, consistent with the
+introduction of an agricultural niche having had an effect upon the evolution of the <i>C. coli</i> clades. Attribution of clinical
+isolate genotypes to source, using an asymmetric island model, confirmed that strains from chicken and ruminants, and not
+pigs or turkeys, are the principal source of human <i>C. coli</i> infection. Taken together these analyses are consistent with an
+evolutionary scenario describing the emergence of agriculture-associated <i>C. coli</i> lineage that is an important human
+pathogen.</p>

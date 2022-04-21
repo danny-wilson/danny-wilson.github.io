@@ -1,0 +1,15 @@
+		<h2>Publications and Preprints</h2>
+
+		If you use Public Health England infection data linked to UK Biobank by bugbank, please cite our papers:
+
+                <p>Armstrong, J., Rudkin, J. K., Allen, N., Crook, D. W., Wilson, D. J., Wyllie, D. H. and A. M. O'Connell (2020)<br>
+                <b>Dynamic linkage of COVID-19 test results between Public Health England's Second Generation Surveillance System and UK Biobank</b><br>
+                <i>Microbial Genomics</i> <b>doi</b>:10.1099/mgen.0.000397 (<a href="http://www.danielwilson.me.uk/abstracts/armstrong_etal_2020.html">abstract</a> <a href="https://doi.org/10.6084/m9.figshare.12091455">preprint</a> <a href="https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.000397">pdf</a>)
+
+		<p>Hilton, B., Wilson, D. J., O'Connell A. M., Ironmonger, D., Rudkin, J. K, Allen, N., Oliver, I. and D. Wyllie (2020)<br>
+       	      	<b>Microbial isolation in English participants in the UK Biobank cohort: comparison with the general population</b><br>
+       	      	<i>medRxiv</i> <b>doi</b>:10.1101/2020.03.18.20038281 (<a href="www.danielwilson.me.uk/abstracts/hilton_etal_2020.html">abstract</a> <a href="https://www.medrxiv.org/content/10.1101/2020.03.18.20038281v1">preprint</a>)
+
+		<h2>Papers citing bugbank</h2>
+		<script src="https://bibbase.org/show?bib=https%3A%2F%2Fraw.githubusercontent.com%2Fdanny-wilson%2Fbugbank-citing-papers%2Fmaster%2Fbibtex.bib&jsonp=1"></script>
+

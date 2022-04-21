@@ -1,0 +1,33 @@
+<table width=100% border=0>
+  <tr>
+  <script language="javascript" type="text/javascript">
+    var nimg1;
+    var nimg2;
+    var nimg3;
+    var nimg4;
+
+    function choose(imgID) {
+      nRnd=nimg1;
+      while(nRnd==nimg1 || nRnd==nimg2 || nRnd==nimg3 || nRnd==nimg4) {
+        nRnd=Math.round(Math.random()*15)+1;
+      }
+      eval('n'+imgID+'='+nRnd);
+    }
+
+    nimg1=-1;
+    nimg2=-1;
+    nimg3=-1;
+    nimg4=-1;
+
+    choose('img1');
+    choose('img2');
+    choose('img3');
+    choose('img4');
+
+    document.write('<td width=25%><center><img src="http://www.danielwilson.me.uk/art'+nimg1+'.jpg"></td>')
+    document.write('<td width=25%><center><img src="http://www.danielwilson.me.uk/art'+nimg2+'.jpg"></td>')
+    document.write('<td width=25%><center><img src="http://www.danielwilson.me.uk/art'+nimg3+'.jpg"></td>')
+    document.write('<td width=25%><center><img src="http://www.danielwilson.me.uk/art'+nimg4+'.jpg"></td>')
+  </script>
+  </tr>
+</table>

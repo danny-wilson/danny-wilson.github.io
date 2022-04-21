@@ -1,0 +1,32 @@
+		<h2>Multilocus sequence analysis of the pathogen 
+<i>Neisseria meningitidis</i></h3>
+
+<p>
+		<dd><a href="beg.pdf" target="_top">Introduction</a> 
+Abstract, 
+Acknowledgements, Table of Contents.</dd>
+		<dd><a href="ch1.pdf" target="_top">Chapter 1</a> 
+Epidemiology of 
+<i>Neisseria meningitidis</I>.</dd>
+		<dd><a href="ch2.pdf" target="_top">Chapter 2</a> 
+Population genetics 
+of 
+<i>Neisseria meningitidis</i>.</dd>
+                <dd><a href="ch3.pdf" target="_top">Chapter 3</a> Genetic 
+structuring 
+in 
+<i>Neisseria meningitidis</i>.</dd>
+                <dd><a href="ch4.pdf" target="_top">Chapter 4</a> 
+Evolutionary model of 
+immune selection.</dd>
+                <dd><a href="ch5.pdf" target="_top">Chapter 5</a> Evidence 
+for immune 
+selection in an antigen of <i>Neisseria meningitidis</i>.</dd>
+                <dd><a href="ch6.pdf" target="_top">Chapter 6</a> Further 
+developments.</dd>
+		<dd><a href="refs.pdf" target="_top">Literature 
+Cited</a></dd>
+
+</p>
+
+<p>Citable link to the Oxford University Research Archive: <a href="http://ora.ox.ac.uk/objects/uuid%3Ada523097-d805-45cc-93c6-112c8ee7b101">http://ora.ox.ac.uk/objects/uuid:da523097-d805-45cc-93c6-112c8ee7b101</a>.</p>

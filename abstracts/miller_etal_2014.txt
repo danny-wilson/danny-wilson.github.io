@@ -1,0 +1,13 @@
+<h2>Healthcare-associated outbreak of meticillin-resistant <i>Staphylococcus aureus</i> bacteraemia: role of a cryptic variant of an epidemic clone.</h2>
+<p>Miller, R. R., Price, J. R., Batty, E. M., Didelot, X., Wyllie, D., Golubchik, T., Crook, D. W., Paul, J., Peto, T. E. A., Wilson, D. J., Cule, M., Ip, C. L. C., Day, N. P. J., Moore, C. E., Bowden, R. and M. J. Llewelyn (2014)<br>
+<i>Journal of Hospital Infection</i> <b>86</b>: 83-89. (<a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3924019/">pdf</a>)
+
+<p><b>Background</b>: New strains of meticillin-resistant <i>Staphylococcus aureus</i> (MRSA) may be associated with changes in rates of disease or clinical presentation. Conventional typing techniques may not detect new clonal variants that underlie changes in epidemiology or clinical phenotype.</p>
+
+<p><b>Aim</b>: To investigate the role of clonal variants of MRSA in an outbreak of MRSA bacteraemia at a hospital in England.</p>
+
+<p><b>Methods</b>: Bacteraemia isolates of the major UK lineages (EMRSA-15 and -16) from before and after the outbreak were analysed by whole-genome sequencing in the context of epidemiological and clinical data. For comparison, EMRSA-15 and -16 isolates from another hospital in England were sequenced. A clonal variant of EMRSA-16 was identified at the outbreak hospital and a molecular signature test designed to distinguish variant isolates among further EMRSA-16 strains.</p>
+
+<p><b>Findings</b>: By whole-genome sequencing, EMRSA-16 isolates during the outbreak showed strikingly low genetic diversity (P < 1 10␣6, Monte Carlo test), compared with EMRSA-15 and EMRSA-16 isolates from before the outbreak or the comparator hospital, demon- strating the emergence of a clonal variant. The variant was indistinguishable from the ancestral strain by conventional typing. This clonal variant accounted for 64/72 (89%) of EMRSA-16 bacteraemia isolates at the outbreak hospital from 2006.</p>
+
+<p><b>Conclusions</b>: Evolutionary changes in epidemic MRSA strains not detected by conventional typing may be associated with changes in disease epidemiology. Rapid and affordable technologies for whole-genome sequencing are becoming available with the potential to identify and track the emergence of variants of highly clonal organisms.</p>

@@ -1,0 +1,81 @@
+ .class1 a:link {
+	color: #FFFFFF;
+	text-decoration: none;
+ }
+ .class1 a:visited {
+	text-decoration: none;
+	color: #FFFFFF;
+ }
+ .class1 a:hover {
+	text-decoration: none;
+	color: #FFFF00;
+ }
+ .class1 a:active {
+	text-decoration: none;
+	color: #FFFF00;
+ }
+ body{
+  margin:0px;
+  padding:0px;
+  /*120px 10px 130px 10px;*/
+ }
+ div#title, div#navigation, div#footer{
+  position:absolute;
+  left:0;
+  width:100%;
+  color:white;
+  background-color:black;
+ }
+ div#title, div#navigation{
+  overflow:auto;
+  z-index:3;
+ }
+ div#title{
+  padding:10px;
+  top:0;
+  height:70px;
+ }
+ div#navigation{
+  padding:0 10px 0 10px;
+  top:90px;
+  height:30px;
+ }
+ div#footer{
+  padding:10px;
+  bottom:0;
+  height:110px;
+ }
+ div#content{
+  position:fixed;
+  padding:0 10px 0 10px;
+  top:120px;
+  left:0;
+  bottom:130px;
+  right:0;
+  overflow:auto;
+  background-color:white;
+  color:black;
+ }
+ @media screen{
+  body>div#title{
+   position:fixed;
+  }
+  body>div#navigation{
+   position:fixed;
+  }
+  body>div#footer{
+   position:fixed;
+  }
+  body>div#content{
+   position:fixed;
+  }
+ }
+ * html body{
+  padding:120px 10px 130px 10px;
+  overflow:hidden;
+ } 
+ * html div#content{
+  height:100%;
+  width:100%;
+  overflow:auto;
+ }

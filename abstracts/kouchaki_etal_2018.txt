@@ -1,0 +1,11 @@
+<h2>Application of machine learning to tuberculosis drug resistance</h2>
+<p>Kouchaki, S., Yang, Y., Walker, T. M., Walker, A. S., Wilson, D. J., Peto, T. E. A., Crook, D. W., Clifton, D. A. and the CRyPTIC Consortium (2018)<br>
+<i>Bioinformatics</i> <b>35</b>: 2276-2282 <a href="https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/bty949/5194336">pdf</a>
+
+<p>Motivation: Timely identification of Mycobacterium tuberculosis (MTB) resistance to existing drugs is vital to decrease mortality and prevent the amplification of existing antibiotic resistance. Machine learning methods have been widely applied for timely predicting resistance of MTB given a specific drug and identifying resistance markers. However, they have been not validated on a large cohort of MTB samples from multi-centers across the world in terms of resistance prediction and resistance marker identification.</p>
+
+<p>Summary: Several machine learning classifiers and linear dimension reduction techniques were developed and compared for a cohort of 13402 isolates collected from 16 countries across six continents and tested 11 drugs.</p>
+
+<p>Results: Compared to conventional molecular diagnostic test, area under curve (AUC) of the best machine learning classifier increased for all drugs especially by 23.11%, 15.22%, and 10.14% for pyrazinamide (PZA), ciprofloxacin (CIP), and ofloxacin (OFX) respectively (p < 0.01). Logistic regression (LR) and gradient tree boosting (GBT) found to perform better than other techniques. Moreover, LR/GBT with a sparse principal component analysis/non-negative matrix factorisation step compared with the classifier alone enhanced the best performance in terms of F1-score by 12.54%, 4.61%, 7.45%, and 9.58% for amikacin (AK), moxifloxacin (MOX), OFX, and capreomycin (CAP) respectively, as well increasing AUC for AK and CAP. Results provided a comprehensive comparison of various techniques and confirmed the application of machine learning for better prediction of the large diverse TB data. Furthermore, mutation ranking showed the possibility of finding new resistance/susceptible markers.
+
+<p>Availability: The source code can be found at http://www.robots.ox.ac.uk/~davidc/code.php</p>

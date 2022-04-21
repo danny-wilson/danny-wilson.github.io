@@ -1,0 +1,45 @@
+<h2>Contact</h2>
+
+<table width=100% border=0>
+  <tr>
+    <td><B>By post</B></td>
+  </tr>
+  <tr>
+    <td>Department of Human Genetics, University of Chicago</td>
+  </tr>
+  <tr>
+    <td>920 East 58th Street</td>
+  </tr>
+  <tr>
+    <td>CLSC # 410</td>
+  </tr>
+  <tr>
+    <td>Chicago</td>
+  </tr>
+  <tr>
+    <td>Illinois 60637</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td><B>By telephone</B></td>
+  </tr>
+  <tr>
+    <td>773 834 3936</td>
+  <tr>
+  <tr>
+    <td>Internal 4-3936</td>
+  <tr>
+  <tr>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td><B>By e-mail</B></td>
+  </tr>
+  <tr>
+    <td><img src="email5.bmp"></td>
+  </tr>
+</table>
+
+<p>The international dialling code for the United States is +1.</p>

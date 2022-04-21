@@ -1,0 +1,44 @@
+		<img align="right" src="smallgraphs.jpg">
+		<h2>omegaMap Bugs and Version Information</h2>
+
+		<p>What follows is a list of changes to omegaMap source files, executables and documentation
+		that are available for download. Check you have the most up-to-date version by comparing the
+		dates of your files to those contained here.
+
+		<table>
+		<tr><th width="20%"> Date <th width="80%"> Files affected
+		<tr><th> 1st May 2008 <td> All versions of permute
+		<tr><td><td> Uncertain base calling, i.e. use of <tt>R, Y, N</tt> may be interpreted as polymorphism,
+			which adds noise to the LD statistics, and reduces the power of the test for recombination.
+			To avoid this problem, replace the entire column of the alignment with <tt>N</tt>'s when any sequence
+			in that column contains an ambiguous base call.
+		<tr><th> 30th May 2007 <td> All versions
+		<tr><td><td> Bug when using <tt>independent</tt> model for omega (or rho), with an improper prior,
+			and <tt>omegaStart</tt> (or <tt>rhoStart</tt>) is specified using a single value. Avoid this problem
+			by specifying <tt>omegaStart</tt> (or <tt>rhoStart</tt>) with a list of values of length <i>L</i>
+			codons (or <i>L</i>-1 codons). Thanks to Marcos Perez-Losada for pointing out this problem.
+		<tr><th> 19th July 2006 <td> R functions
+		<tr><td><td> Fixed a bug in some of the R functions which refused to work when <tt>rho_model = constant</tt>.
+			Thanks to JL Campos and Jose Andres for pointing it out.
+		<tr><th> 29th June 2006 <td> All versions
+		<tr><td><td> <b> Bug when using log normal prior with block models </b>(<tt>omega_model = variable, rho_model
+		= variable</tt>). No fix - awaiting new release. Do not use the log normal prior with block models.
+		<tr><th> 5th May 2006 <td> Source: omegaMap.cpp. XP: omegaMap.exe
+		<tr><td><td> Bug fix affecting the way the <tt>muStart</tt>, etc. options are read from the
+			configuration file.
+		<tr><th> 19th April 2006 <td> Documentation: documentation.doc, documentation.pdf
+		<tr><th><td> When using the <tt>improper_uniform</tt> or <tt>improper_inverse</tt> prior, you
+			need to specify the initial value of the parameters using <tt>muStart</tt>, <tt>kappaStart</tt>,
+			<tt>omegaStart</tt>, <tt>rhoStart</tt>, and/or <tt>indelStart</tt>.
+		</table>
+		<br>
+		<ul>
+			<li>
+				<a href="../omegaMap.html">Back to software</a></td>
+			<li>
+				<a href="documentation.html">Download documentation</a></td>
+			<li>
+				<a href="executables.html">Download ready-to-use executables</a></td>
+			<li>
+				<a href="sourcecode.html">Download source code</a></td>
+		</ul>

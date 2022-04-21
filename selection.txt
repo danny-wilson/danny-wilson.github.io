@@ -1,0 +1,30 @@
+<img id="me" src="art/selection200.jpg" align="right">
+<h2>Research Interests: Detecting Selection</h2>
+<p>The aim of my research is to develop an evolutionary understanding of transmission dynamics and propensity
+for virulence in bacterial pathogens. The approach is an empirical one, through genomic analysis of natural populations.
+The central themes of my research programme are (i) transmission modelling, (ii) pathogen evolution and (iii) detecting
+selection. A strong theoretical basis and a focus on statistical methods development underpin my work.</p>
+<h3>Key publications</h3>
+<small>
+	<p>Wilson, D. J., R. D. Hernandez, P. Andolfatto and M. Przeworski (2011)<br>
+	<b>A population genetics-phylogenetics approach to inferring natural selection in coding sequences.</b><br>
+	<i>PLoS Genetics</i> <b>7</b>: e1002395. (<a href="abstracts/wilson_etal_2011.html">abstract</a> <a href="http://www.plosgenetics.org/article/info:doi/10.1371/journal.pgen.1002395">pdf</a>)
+
+<!--	<p>Sousa, T. N., Tarazona-Santos, E. M., Wilson, D. J., Madureira, A. P., Falcao, P. R. K., Fontes, C. J. F., Gil, L. H. S., Ferreira, M. U., Carvalho, L. H. and C. F. A. Brito (2010)<br>
+	<b>Genetic variability and natural selection at the ligand domain of the Duffy binding protein in Brazilian <i>Plasmodium vivax</i> populations.</b><br>
+	<i>Malaria Journal</i> <b>9</b>: 334. (<a href="abstracts/sousa_etal_2010.html">abstract</a> <a href="http://www.malariajournal.com/content/pdf/1475-2875-9-334.pdf">pdf</a>)
+-->
+	<p>Brehony, C., Wilson, D. J. and M. C. J. Maiden (2009)<br>
+	<b>Variation of the factor H-binding protein of <i>Neisseria meningitidis</i>.</b><br>
+	<i>Microbiology</i> <B>155</B>: 4155-4169. (<a href="abstracts/brehony_wilson_maiden_2009.html">abstract</a> <a href="http://mic.sgmjournals.org/cgi/content/abstract/155/12/4155">pdf</a>)
+
+	<p>Wilson, D. J. and G. McVean (2006)<br>
+	<b>Estimating diversifying selection and functional constraint in the presence of recombination.</b><br>
+	<i>Genetics</i> <B>172</B>: 1411-1425. (<a href="abstracts/wilson_mcvean_2006.html">abstract</a> 
+	<a href="http://www.genetics.org/cgi/reprint/172/3/1411" target="_blank">pdf</a> <a href="software.html">software</a>)</p>
+<!--
+	<p>Edwards, C. T. T., E. C. Holmes, O. G. Pybus, D. J. Wilson, R. P. Viscidi, E. J. Abrams, R. E. Phillips and A. J. Drummond (2006)<br>
+	<b>Evolution of the HIV-1 envelope gene is dominated by purifying selection.</b><br>
+	<i>Genetics</i> <B>174</B>: 1441-1453. (<a href="abstracts/edwards_etal_2006b.html">abstract</a> <a href="http://www.genetics.org/cgi/content/abstract/174/3/1441" target="_blank">pdf</a>)</p>
+-->
+</small>

@@ -1,0 +1,15 @@
+<h2>Genetic variability and natural selection at the ligand domain of the Duffy binding protein in Brazilian <i>Plasmodium vivax</i> populations.</h2>
+<p>Sousa, T. N., Tarazona-Santos, E. M., Wilson, D. J., Madureira, A. P., Falcao, P. R. K., Fontes, C. J. F., Gil, L. H. S., Ferreira, M. U., Carvalho, L. H. and C. F. A. Brito (2010)<br>
+<i>Malaria Journal</i> <b>9</b>: 334. (<a href="http://www.malariajournal.com/content/pdf/1475-2875-9-334.pdf">pdf</a>)</p>
+
+<p><b>Background</b><br>
+<i>Plasmodium vivax</i> malaria is a major public health challenge in Latin America, Asia and Oceania, with 130-435 million clinical cases per year worldwide. Invasion of host blood cells by <i>P. vivax</i> mainly depends on a type I membrane protein called Duffy binding protein (PvDBP). The erythrocyte-binding motif of PvDBP is a 170 amino-acid stretch located in its cysteine-rich region II (PvDBPII), which is the most variable segment of the protein.
+
+<p><b>Methods</b><br>
+To test whether diversifying natural selection has shaped the nucleotide diversity of PvDBPII in Brazilian populations, this region was sequenced in 122 isolates from six different geographic areas. A Bayesian method was applied to test for the action of natural selection under a population genetic model that incorporates recombination. The analysis was integrated with a structural model of PvDBPII, and T- and B-cell epitopes were localized on the 3-D structure.
+
+<p><b>Results</b><br>
+The results suggest that: (i) recombination plays an important role in determining the haplotype structure of PvDBPII, and (ii) PvDBPII appears to contain neutrally evolving codons as well as codons evolving under natural selection. Diversifying selection preferentially acts on sites identified as epitopes, particularly on amino acid residues 417, 419, and 424, which show strong linkage disequilibrium.
+
+<p><b>Conclusions</b><br>
+This study shows that some polymorphisms of PvDBPII are present near the erythrocyte-binding domain and might serve to elude antibodies that inhibit cell invasion. Therefore, these polymorphisms should be taken into account when designing vaccines aimed at eliciting antibodies to inhibit erythrocyte invasion.

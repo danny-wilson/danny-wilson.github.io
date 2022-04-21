@@ -1,0 +1,46 @@
+<p>Profiles and research interests of my group members.</p>
+<img id="Richard" align="right" src="Richard.jpg">
+<h2>Richard Everitt</h2>
+<p>I am currently a Postdoctoral Scientist in the Nuffield Department for Clinical Medicine, working on the Modernising Medical Microbiology project funded by UKCRC.  My background is in (mostly Bayesian) statistics and machine learning, which I am currently using to investigate the evolution of pathogens through the study of full genomic data.</p>
+
+<p>I was formerly a Brunel Fellow in Statistics in the Department of Mathematics at the University of Bristol (where I also studied for my PhD under the supervision of Prof. Peter Green).  Prior to this I was a researcher at QinetiQ, specialising in target tracking, signal and image processing and classification.</p>
+
+<p>My primary research interests are in methodological work in Bayesian statistics, in both inference and modelling.  The majority of my work on inference is in Markov chain Monte Carlo, sequential Monte Carlo and approximate Bayesian computation, with my modelling interests focussing on graphical models and non-parametrics.  I have an ongoing interest in the use of computers in computational statistics.</p>
+
+<img src="emailrichard.gif">
+
+<p><i><b>Richard has recently taken up a Lectureship at the University of Reading.</b></i></p>
+
+<p><a href="http://www.maths.bris.ac.uk/~marge">Richard's website</a></p>
+
+<img id="Bethany" align="right" src="Bethany.jpg">
+<h2>Bethany Dearlove</h2>
+<p>I am a DPhil student based in the Department of Statistics at the University
+of Oxford, supervised by Dr. Daniel Wilson and Prof. Peter Donnelly.  My
+work focuses on the genomic evolution of various pathogens as part of the
+Modernising Medical Microbiology Consortium, using new technology to obtain
+genetic information in real time.  From this, the aim is to find patterns of
+evolution to further understand the spread and transmission of disease,
+particularly for three pathogens commonly acquired in hospitals.</p>
+
+<p>I previously studied at the University of Reading, where I completed both my
+MSc. in Biometry and BSc. Mathematics and Statistics.  It was here I was
+introduced to the concept of Forensic and Genetic Statistics by Dr. Karen
+Ayres, inspiring my current research interests.  My Masters project focused
+on a forensic application of statistics, investigating techniques for
+familial searching in the UK National DNA Database with missing data and low
+copy number DNA profiles.</p>
+
+<p>Whilst in Reading, I competed in synchronised swimming, and have been
+nationally ranked in Great Britain for a number of years - my best results
+coming in 2009 where I was the British silver medallist in the solo and team
+events, and was named the Reading Evening Post Sports Personality of the
+Year for Player Loyalty.  Now I am in Oxford, I am more likely to be seen
+keeping fit by running or cycling, though will still be found on poolside
+coaching and choreographing routines.</p>
+
+<img src="emailbethany.gif">
+
+<img id="Ben Umans" align="right" src="umans.jpg">
+<h2>Ben Umans</h2>
+<p>Ben joined the lab for the summer of 2012 to work on models of mutation and selection in bacteria as a Masters student in the Department of Statistics. A native of Chicago, he returned to the US in 2013 to begin a PhD in Genetics.</p>

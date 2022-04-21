@@ -1,0 +1,27 @@
+<h2>Genetic analysis of meningococci carried by children and young adults</h2>
+
+<p>Claus, H., M. C. J. Maiden, D. J. Wilson, N. D. McCarthy, K. A. Jolley, R. 
+					Urwin, F. Hessler, M. Frosch and U. Vogel (2005)<br>
+<I>Journal of Infectious Diseases</I> <B>191</B>: 1263-1271. (<a 
+href="http://www.journals.uchicago.edu/doi/abs/10.1086/428590" target="_blank">pdf</a>)</p>
+
+<p><b>Background.</b>  <i>Neisseria meningitidis</i> is a diverse commensal bacterium that occasionally 
+causes severe 
+invasive disease. The relationship between meningococcal genotype and capsular polysaccharide, the 
+principal virulence factor and vaccine component, was investigated in carried meningococci isolated from 
+8000 children and young adults in Bavaria, Germany.</p>
+
+<p><b>Methods.</b>  Of the 830 meningococci isolated (carriage rate, 10.4%) by microbiological techniques, 
+822 were 
+characterized by serogrouping, multilocus sequence typing, and genetic analysis of the capsule region. 
+Statistical and population genetic analyses were applied to these data.</p>
+
+<p><b>Results.</b>  The rapid increase in carriage rates with age of carrier, the low prevalence of 
+hyperinvasive 
+meningococci, and the relative prevalence of the 4 disease-associated serogroups were consistent with 
+earlier observations. There was no genetic structuring of the meningococcal population by age of carrier 
+or sampling location; however, there was significant geographic structuring of the meningococci isolated 
+in civil, but not military, institutions. The rate of capsule gene expression did not vary with age of 
+carrier or meningococcal genotype, except for serogroup C, for which increased expression was associated 
+with ST-11 (formerly ET-37) complex meningococci.</p>
+

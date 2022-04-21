@@ -1,0 +1,6 @@
+<h2>Draft genome sequences of 64 type strains of 50 species and 25 subspecies of the genus <i>Staphylococcus</i> Rosenbach 1884</h2>
+<p>Cole, K., Foster, D., Russell, J. E., Golubchik, T., Llewelyn, M., Wilson, D. J., Crook, D., Paul, J. and The Modernising Medical Microbiology Consortium (2019)<br>
+<i>Microbiology Resource Announcements</i> <b>8</b>: e00062-19 (<a href="https://journals.asm.org/doi/full/10.1128/MRA.00062-19">pdf</a>)
+
+<p>Members of the genus <i>Staphylococcus</i> have been isolated from humans, animals, and the environment. Accurate identification using whole-genome sequencing requires access to data derived from type strains. We provide sequence data for type strains of all species in the genus, which at the time of writing have standing in nomenclature.
+</p>

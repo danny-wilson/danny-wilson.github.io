@@ -1,0 +1,31 @@
+		<img align="right" src="me.jpg">
+		<h2>Welcome to my home page</h2>
+		<p>I have included details of my <a href="research.html#top">research interests</a>,
+			<a href="publications.html">publications</a>, <a href="cv.html">CV</a> and how
+			to <a href="contact.html">contact me</a>. As of January, I have taken up the
+			position of Leadership Fellow in Genomic Medicine at the Nuffield Department
+			of Medicine in Oxford. Until December I was a Post-doctoral Research Scholar
+			in Molly Przeworski's lab at the University of Chicago Department of Human Genetics.</p>
+		<p>My research interests centre on the application of population genetics tools to solving
+			problems in human infectious diseases. Another major interest of mine is detecting the
+			signature of natural selection within populations. My software omegaMap is
+			designed to address that problem in recombining populations, and is available
+			to download from this site.</p>
+
+<a href="http://feeds.feedburner.com/~r/DanielWilsonsBlog/~6/2"><img src="http://feeds.feedburner.com/DanielWilsonsBlog.2.gif" alt="Daniel Wilson's 
+Blog" style="border:0"></a>
+
+		<p>Prior to my appointment at the University of Chicago, I was a Research Associate
+			at Lancaster University, where I worked with Paul Fearnhead and Peter Diggle
+			on the epidemiology of human cases of Campylobacter, the primary cause of
+			bacterial food poisoning. I completed my doctorate in the population genetics
+			of meningococcal meningitis at the Peter Medawar Building for Pathogen Research
+			in Oxford, where I was supervised by Gil McVean and Martin Maiden.</p>
+		<p>Please contact me if you have any comments or questions about the website or my 
+			research.</p>
+		<h2><a href="omegaMap/permute.html"><img src="new.bmp" align="center" border="0"></a>omegaMap</h2>
+		<h3>Estimating diversifying selection and functional constraint in the presence of 
+			recombination</h3>
+		<p><a href="software.html">omegaMap</a> is a method for estimating variation in the 
+			dN/dS ratio within a gene in the presence of recombination. Click
+			<a href="software.html">here</a> to learn more and download the software.</p>

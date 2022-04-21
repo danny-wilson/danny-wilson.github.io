@@ -1,0 +1,4 @@
+m = 3
+n = 14401
+x = Q:\porB\final\allP.carriage.txt
+

@@ -1,0 +1,17 @@
+		<img align="right" src="smallgraphs.jpg">
+		<h2>omegaMap Source Code</h2>
+		<ul>
+			<li>
+				Download the <a href="omegaMap.zip">source code</a></td>
+		</ul>
+		<br>
+		<ul>
+			<li>
+				<a href="../omegaMap.html">Back to software</a></td>
+			<li>
+				<a href="documentation.html">Download documentation</a></td>
+			<li>
+				<a href="executables.html">Download executables</a><td>
+			<li>
+				<a href="versions.html">Bugs and version information</a></td>
+		</ul>

@@ -1,0 +1,38 @@
+		<img id="me" align="right" src="mewed.jpg">
+		<h2>Welcome to my home page</h2>
+
+		<p><i>For information on Bugbank, a project that aims to integrate infection data into UK Biobank, visit <a href="bugbank.html">this page</a>.</i></p>
+
+		<p>I am a <a href="http://www.wellcome.ac.uk/">Wellcome Trust</a> and <a href="http://royalsociety.org/">Royal Society</a>
+		     	funded Sir Henry Dale Fellow working in Infectious Disease Genomics at the
+			<a href="https://www.bdi.ox.ac.uk">Big Data Institute</a>, <a href="https://www.ndph.ox.ac.uk/">Nuffield Department of Population Health</a>, <a href="http://www.ox.ac.uk">University of Oxford</a>.
+			I am supported by the <a href="http://www.robertsonfoundation.org/">Robertson Foundation</a>
+			and I am a collaborator with the
+			<a href="http://www.modmedmicro.ac.uk/">Modernising Medical Microbiology</a>
+			consortium based at the John Radcliffe Hospital, Oxford. 
+			I am also involved in the interdisciplinary
+			Oxford Martin School <a href="http://www.oxfordmartin.ox.ac.uk/institutes/emerging_infections">
+			Institute for Emerging Infections</a> and Associate Member of the <a href="http://www.stats.ox.ac.uk/">Department of Statistics</a>.</p>
+
+		<p>My research interests are in the evolution of natural pathogen populations, which I study
+		      through comparative analysis of genomes within and between species. My research
+		      activity focuses on the analysis of bacterial pathogen populations, but I also
+		      work on viruses and non-pathogenic species. Motivating themes in my
+		      work are understanding the inheritance of virulence and the effects of
+		      transmission, natural selection and recombination in shaping pathogen diversity.
+		      I am investigating the evolution of pathogen populations from the
+		      colonization of individual hosts and transmission between hosts, through to the
+		      whole-species and phylogenetics levels.</p>
+
+<!--		      <p>I am an editor at <a href="http://mgen.microbiologyresearch.org"><i>Microbial Genomics</i></a>, a PubMed-listed journal covering everything in microbial genomics spanning bases to biology.</p> -->
+
+<a href="http://feeds.feedburner.com/~r/DanielWilsonsBlog/~6/2"><img src="http://feeds.feedburner.com/DanielWilsonsBlog.2.gif" alt="Daniel Wilson's 
+Blog" style="border:0"></a><!--<a href="https://beta.redcross.org.uk/appeal/manchester-emergency-fund-concert"><img id="bee" align="right" src="manchester+bee+outline.png" width="10%"></a>--><br><br>
+<a href="http://feeds.feedburner.com/~r/bugbankblog/~6/1"><img src="http://feeds.feedburner.com/bugbankblog.1.gif" alt="Bugbank News" style="border:0">
+
+		<p>You can find further details of my <a href="research.html#top">research interests</a>, <a href="lab.html">lab members</a>,
+                        <a href="publications.html">publications</a> and <a href="cv.html">CV</a> on this website.
+			Please <a href="contact.html">contact me</a> if you have any comments or questions about the website or my 
+			research. You can download my software for genomic analysis <a href="software.html">here</a>.</p>
+
+		<p>Funded by &emsp;&emsp;&emsp;&emsp;&emsp;<img id="funding-logo" align="middle" src="art/funding-logo.png"></p>

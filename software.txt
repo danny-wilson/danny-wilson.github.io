@@ -1,0 +1,50 @@
+		<p>Welcome to my software page. All programs are freely available to download.</p>
+
+		<p>The harmonic mean <i>p</i>-value procedure (<a href="http://www.danielwilson.me.uk/abstracts/wilson_2019.html">Wilson 2019</a>) can be downloaded as an <a href="https://cran.r-project.org/package=harmonicmeanp">R package</a> and a development version is available on <a href="https://github.com/danny-wilson/harmonicmeanp/tree/dev">GitHub</a>. BASTA, a method for fast and accurate phylogeography described in <a href="http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1005421">De Maio, Wu, O'Reilly and Wilson (2015)</a> can be downloaded as a <a href="https://bitbucket.org/nicofmay/basta-bayesian-structured-coalescent-approximation">package for BEAST2</a>. The coalescent methods for estimating parameters from SI, SIS and SIR epidemiological 
+		models described in <a href="abstracts/dearlove_wilson_2013.html">Dearlove and Wilson (2013)</a> 
+		can be downloaded as part of the latest version of <a href="http://code.google.com/p/beast-mcmc/">BEAST</a>. 
+		Please follow the links for all other programs below.</p>
+		<center>
+		<table>
+			<tr>
+				<td><center><a href="virulogenomics.html"><img src="virulogenomics/virulogenomics.png" align="center" border="0"></a>
+				<td><center><img src="art/horizontalspace.jpg" align="center" border="0">
+				<td><center><a href="ClonalFrameML.html"><img src="ClonalFrameML/cfml.png" align="center" border="0"></a>
+		                <td><center><img src="art/horizontalspace.jpg" align="center" border="0">
+                		<td><center><a href="gammaMap.html"><img src="gammaMap/smallgraphs.jpg" align="center" border="0"></a>
+			<tr>
+				<td><center><h2>Virulogenomics</h2>
+				<td>&nbsp;
+				<td><center><h2>ClonalFrameML</h2>
+				<td>&nbsp;
+				<td><center><h2>gammaMap</h2>
+			<tr>
+				<td>Software pipeline for genome wide association studies (GWAS) in bacteria.
+				<td>&nbsp;
+				<td>Efficient inference of recombination in bacterial genomes.
+				<td>&nbsp;
+				<td>Estimate the distribution of fitness effects and localize the signal of selection.
+			</tr>
+            <tr>
+                <td>&nbsp;<td>&nbsp;<td>&nbsp;
+            </tr>
+			<tr>
+				<td><center><a href="omegaMap.html"><img src="omegaMap/smallgraphs.jpg" align="center" border="0"></a>
+				<td><center><img src="art/horizontalspace.jpg" align="center" border="0">
+				<td><center><a href="iSource.html"><img src="iSource/smallgraphs.jpg" align="center" border="0"></a>
+				<td><center><img src="art/horizontalspace.jpg" align="center" border="0">
+				<td><center><a href="xAMOVA.html"><img src="xamova/smallgraphs.jpg" align="center" border="0"></a>
+			<tr>
+				<td><center><h2>omegaMap</h2>
+				<td>&nbsp;
+		                <td><center><h2>iSource</h2>
+                		<td>&nbsp;
+		                <td><center><h2>xAMOVA</h2>
+			<tr>
+				<td>A program for detecting natural selection in the presence of recombination.
+				<td>&nbsp;
+		                <td>Tracing the source of transmission for bacterial multi-locus sequence typing.
+  		              	<td>&nbsp;
+				<td>Analysis of molecular variance for crossed designs.
+			</tr>
+		</table>

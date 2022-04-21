@@ -1,0 +1,29 @@
+		<img align="right" src="virulogenomics/virulogenomics.png">
+		<h2>Virulogenomics</h2>
+		<p><i>Virulogenomics</i> is a Wellcome Trust and Royal Society funded research project to develop
+		statistical tools for mapping the genes that influence bacterial phenotypes - notably virulence,
+		the severity or frequency of disease.</p>
+
+		<p>Nearly one hundred years of molecular genetics has led to a detailed understanding of important
+		bacterial phenotypes, and many genes have been identified as potential virulence factors.
+		By some estimates, nearly 5% of genes in some species could be involved in virulence. Popularly,
+		a virulence factor is defined as a gene that is necessary for disease. In other words, disabling
+		that gene prevents virulence in an experimental model.</p>
+
+		<p>The aim of Virulogenomics is to identify virulence factors using a narrower definition - those
+		genes that explain observable variation in virulence in natural populations. This excludes mutations
+		induced experimentally that do not exist in natural populations, and therefore cannot explain why
+		some bacterial strains cause more disease than others.</p>
+
+		<p>Our starting point for developing tools for phenotype mapping in bacteria are the mature set of
+		methods developed for Genome Wide Association Studies (GWAS) in humans. There are several important
+		differences in the structure of bacterial populations and bacterial genomes that mean these tools
+		cannot necessarily be applied unthinkingly to bacteria. We are developing computational analysis
+		pipelines that implement a multifaceted approach to mapping bacterial phenotypes. You can download
+		our tools here.</p>
+		
+<a href="preprints.html">Preprint</a><br>
+<a href="https://github.com/sgearle/bugwas">Download R package</a><br>
+<a href="https://github.com/jessiewu/bacterialGWAS">Download bacterial GWAS pipeline</a><br>
+<a href="https://github.com/janepipistrelle/bacterial_GWAS_tutorial/blob/master/tutorial.rmd">Bacterial GWAS pipeline tutorial</a>
+

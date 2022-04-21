@@ -1,0 +1,5 @@
+		<img align="right" src="harmonicmeanp/image.jpg">
+		<h2>The <i>harmonicmeanp</i> R package</h2>
+		<p>The <i>harmonicmeanp</i> R package, available from <a href="https://cran.r-project.org/package=harmonicmeanp">CRAN</a>, implements the harmonic mean <i>p</i>-value (HMP) procedure, a method for combining <i>p</i>-values from dependent tests (Wilson, D. J. (2019) The harmonic mean <i>p</i>-value for combining dependent tests. <i>Proceedings of the National Academy of Sciences USA</i>, in press).</p>
+
+		<p>For a detailed tutorial on how to use the package <a href="harmonicmeanp/hmpTutorial.html">click here</a>.</p>

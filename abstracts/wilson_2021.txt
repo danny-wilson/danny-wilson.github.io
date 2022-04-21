@@ -1,0 +1,27 @@
+<h2>The L&eacute;vy combination test</h2>
+<p>D. J. Wilson (2021)<br>
+<i>arXiv</i> 2105.01501 (<a href="https://arxiv.org/abs/2105.01501">preprint</a>)
+
+<p>A novel class of methods for combining <i>p</i>-values to perform aggregate hypothesis 
+tests has emerged that exploit the properties of heavy-tailed Stable 
+distributions. These methods offer important practical advantages including 
+robustness to dependence and better-than-Bonferroni scaleability, and they 
+reveal theoretical connections between Bayesian and classical hypothesis tests. 
+The harmonic mean <i>p</i>-value (HMP) procedure is based on the convergence of summed 
+inverse <i>p</i>-values to the Landau distribution, while the Cauchy combination test 
+(CCT) is based on the self-similarity of summed Cauchy-transformed <i>p</i>-values. 
+The CCT has the advantage that it is analytic and exact. The HMP has the 
+advantage that it emulates a model-averaged Bayes factor, is insensitive to 
+<i>p</i>-values near 1, and offers multilevel testing via a closed testing procedure. 
+Here I investigate whether other Stable combination tests can combine these 
+benefits, and identify a new method, the L&eacute;vy combination test (LCT). The LCT 
+exploits the self-similarity of sums of L&eacute;vy random variables transformed from 
+<i>p</i>-values. Under arbitrary dependence, the LCT possesses better robustness than 
+the CCT and HMP, with two-fold worst-case inflation at small significance 
+thresholds. It controls the strong-sense familywise error rate through a 
+multilevel test uniformly more powerful than Bonferroni. Simulations show that 
+the LCT behaves like Simes' test in some respects, with power intermediate 
+between the HMP and Bonferroni. The LCT represents an interesting and 
+attractive addition to combined testing methods based on heavy-tailed 
+distributions.</p>
+

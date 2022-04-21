@@ -1,0 +1,83 @@
+		<h2>More on the permutation test for recombination</h2>
+		<p>In the absence of recombination, which is the null hypothesis for the
+		permutation test, all sites are linked. That means that adjacent sites
+		are as tightly linked to one another as distant sites are to one another.
+		Therefore, the null hypothesis predicts that there should be zero
+		correlation between physical distance and linkage disequilibrium (LD).</p>
+
+		<p>There are several ways to measure LD. Three commonly-used statistics,
+		which are used by <tt>permute</tt>, are r squared [<a href="#refs">1</a>],
+		D prime [<a href="#refs">2</a>] and G4 [<a href="#refs">3</a>, <a href="#refs">4</a>]
+		(otherwise known as the four-gamete test [<a href="#refs">5</a>]).
+		<tt>permute</tt> calculates the correlation coefficient between physical
+		distance and LD for all pairs of sites in your gene sequences. It does, however,
+		exclude sites that are more than bi-allelic, because the LD statistics are not
+		defined.</p>
+		
+		<img src="ld.bmp" align="right">
+		<p> As an example, the figure shows a plot of r squared against physical distance
+		(in base pairs) for all pairs of sites in a 480bp housekeeping gene in
+		<I>Neisseria meningitidis</I>. The observed correlation coefficient is -0.255,
+		indicating that LD decreases as physical distance increases, a pattern consistent
+		with intragenic recombination.</p>
+
+		<p>A permutation test is performed to determine whether the observed correlation
+		between physical distance and LD is significantly different from zero. For every
+		permutation (the default number is 999), the sites are randomly re-ordered
+		and the correlation coefficient is re-calculated. If <I>n</I> is the number of
+		times, out of the <I>N</I> permutations, that the correlation coefficient was
+		as large or larger (in magnitude) than that observed, then the p value is calculated
+		as</p>
+
+		<center><p><I>p</I> = (<I>n</I> + 1)/(<I>N</I> + 1)</p></center>
+
+		<p>In the example, <I>p</I> = 0.001. When <I>p</I> < 0.05 then the null hypothesis
+		of no recombination can be rejected, meaning that recombination is detectable and
+		phylogenetic-based methods should not be applied to your data.</p>
+
+		<p>There is one caveat in this permutation test. Under a second scenario, the
+		correlation between physical distance and LD would be expected to be zero if
+		recombination is sufficiently frequent that even adjacent sites are effectively
+		unlinked. Therefore, if <I>p</I> > 0.05, an alternative explanation to zero
+		recombination is that of ultra-high recombination. This does not affect the conclusion
+		that if <I>p</I> < 0.05, then there is detectable recombination and you should not
+		apply phylogenetic methods to the data.
+
+		<ul>
+			<li>
+				<a href="permute.html">Back to <I>Do I need omegaMap?</I></a></td>
+			<li>
+				<a href="executables.html">Download ready-to-use executables</a></td>
+			<li>
+				<a href="sourcecode.html">Download source code</a><td>
+			<li>
+				<a href="versions.html">Bugs and version information</a><td>
+			<li>
+				<a href="../omegaMap.html">Back to software</a></td>
+		</ul>
+
+		<h3><a name="refs">References</a></h3>
+		<small><ol>
+			<li>Hill W. G. and A. Robertson (1968)<br>
+			<B>Linkage disequilibrium in finite populations.</B><br>
+			<I>Theor. Appl. Genet.</I> 38:226-231.
+
+			<li>Lewontin, R. C. (1964)<br>
+			<B>The interaction of selection and linkage. I. Genetic considerations; heterotic models.</B><br>
+			<I>Genetics</I> 49:49-67.
+
+			<li>Meunier, J. and A. Eyre-Walker (2001)<br>
+			<B>The correlation between linkage disequilibrium and distance. Implications for
+			recombination in Hominid mitochondria.</B><br>
+			<I>Mol. Biol. Evol.</I> 18:2132-2135.
+
+			<li>McVean, G., P. Awadalla and P. Fearnhead (2002)<br>
+			<B>A coalescent-based method for detecting and estimating recombination from gene sequences.</B><br>
+			<I>Genetics</I> 160:1231-1241.
+
+			<li>Hudson, R. R. and N. L. Kaplan (1985)<br>
+			<B>Statistical properties of the number of recombination events in the history of a
+			sample of DNA sequences.</B><br>
+			<I>Genetics</I> 111:147-164.
+		</small>
+

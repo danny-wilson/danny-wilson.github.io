@@ -1,0 +1,23 @@
+		<img align="right" src="me.jpg">
+		<h2>Welcome to my home page</h2>
+		<p>I have included details of my research interests, publications, CV and how to 
+			contact me. I am currently a Research Associate in the population genetics of 
+			infectious disease at Lancaster University.</p>
+		<p>Based in the Department of Maths and Statistics, I am working with Paul 
+			Fearnhead, Gareth Roberts and Peter Diggle on the epidemiology of human cases 
+			of Campylobacter, a common bacterial infection that causes gastroenteritis. The 
+			project is funded by the Department for Environment, Food and Rural Affairs 
+			(DEFRA).</p>
+		<p>In September 2005 I completed my doctorate in the population genetics of 
+			meningitis, which was supervised by Gil McVean and Martin Maiden of the Peter 
+			Medawar Building for Pathogen Research, Oxford. Part of this research looked at 
+			detecting natural selection in gene sequences more generally, details are 
+			below.</p>
+		<p>Please contact me if you have any comments or questions about the website or my 
+			research.</p>
+		<h2><a href="omegaMap/permute.html"><img src="new.bmp" align="center" border="0"></a>omegaMap</h2>
+		<h3>Estimating diversifying selection and functional constraint in the presence of 
+			recombination</h3>
+		<p>omegaMap is a method for estimating variation in the dN/dS ratio within a gene 
+			in the presence of recombination. Click <a href="software.html">here</a> to 
+			learn more and download the software.</p>

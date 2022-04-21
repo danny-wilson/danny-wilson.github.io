@@ -1,0 +1,6 @@
+<h2>Within-host evolution of bacterial pathogens</h2>
+<p>Didelot, X., Walker, A. S., Peto, T. E., Crook, D. W. and D. J. Wilson (2016)<br>
+<i>Nature Reviews Microbiology</i> <b>14</b>: 150-162. (<a href="http://www.nature.com/nrmicro/journal/vaop/ncurrent/full/nrmicro.2015.13.html">pdf</a>).
+
+<p>Whole-genome sequencing has opened the way for investigating the dynamics and genomic evolution of bacterial pathogens during the colonization and infection of humans. The application of this technology to the longitudinal study of adaptation in an infected host - in particular, the evolution of drug resistance and host adaptation in patients who are chronically infected with opportunistic pathogens - has revealed remarkable patterns of convergent evolution, suggestive of an inherent repeatability of evolution. In this Review, we describe how these studies have advanced our understanding of the mechanisms and principles of within-host genome evolution, and we consider the consequences of findings such as a potent adaptive potential for pathogenicity. Finally, we discuss the possibility that genomics may be used in the future to predict the clinical progression of bacterial infections and to suggest the best option for treatment.</p>
+

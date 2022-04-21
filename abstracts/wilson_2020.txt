@@ -1,0 +1,25 @@
+<h2>Generalized mean <i>p</i>-values for combining dependent tests: comparison of 
+generalized central limit theorem and robust risk analysis [version 1; peer review: 2 approved]</h2>
+<p>D. J. Wilson (2020)<br>
+<i>Wellcome Open Research</i> <b>5</b>:55 (<a href="https://wellcomeopenresearch.org/articles/5-55/v1">pdf</a>)
+
+<p>The test statistics underpinning several methods for combining <i>p</i>-values are special cases 
+of generalized mean <i>p</i>-value (GMP), including the minimum (Bonferroni procedure), harmonic mean 
+and geometric mean. A key assumption influencing the practical performance of such methods 
+concerns the dependence between <i>p</i>-values. Approaches that do not require specific knowledge 
+of the dependence structure are practically convenient. Vovk and Wang derived significance 
+thresholds for GMPs under the worst-case scenario of arbitrary dependence using results from 
+Robust Risk Analysis (RRA).
+Here I calculate significance thresholds and closed testing procedures using Generalized 
+Central Limit Theorem (GCLT). GCLT formally assumes independence, but enjoys a degree of 
+robustness to dependence. The GCLT thresholds are less stringent than RRA thresholds, with the 
+disparity increasing as the exponent of the GMP <nobr>(<i>r</i>)</nobr> increases. I motivate a model of <i>p</i>-value 
+dependence based on a Wishart-Multivariate-Gamma distribution for the underlying log-likelihood 
+ratios. In simulations under this model, the RRA thresholds produced tests that were usually 
+less powerful than Bonferroni, while the GCLT thresholds produced tests more powerful than 
+Bonferroni, for all <nobr><i>r</i> > -&infin;</nobr>. Above <nobr><i>r</i> > -1/2</nobr>,  standard central limit theorem applied and the 
+GCLT thresholds no longer possessed any useful robustness to dependence.
+I consider the implications of these results in the context of various interpretations of GMPs, 
+and conclude that the GCLT-based harmonic mean <i>p</i>-value procedure and Simes' (1986) test 
+represent good compromises in power-robustness trade-off for combining dependent tests.
+</p>

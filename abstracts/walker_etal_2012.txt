@@ -1,0 +1,15 @@
+<h2>Whole-genome sequencing to delineate <i>Mycobacterium tuberculosis</i> outbreaks: a retrospective observational study</h2>
+Walker, T. M., Ip, C. L. C., Harrell, R. H., Evans, J. T., Kapatai, G., Dedicoat, M. J., Eyre, D. W., Wilson, D. J., Hawkey, P. M., Crook, D. W., Parkhill, J., Harris, D., Walker, A. S., Bowden, R., Monk, P., Smith, E. G. and T. E. A. Peto (2012)<br>
+<i>Lancet Infectious Diseases</i> doi:10.1016/S1473-3099(12)70277-3. (<a href="http://www.thelancet.com/journals/laninf/article/PIIS1473-3099%2812%2970277-3/fulltext">pdf</a>)
+
+<p><b>Background</b><br>
+Tuberculosis incidence in the UK has risen in the past decade. Disease control depends on epidemiological data, which can be difficult to obtain. Whole-genome sequencing can detect microevolution within <i>Mycobacterium tuberculosis</i> strains. We aimed to estimate the genetic diversity of related <i>M tuberculosis</i> strains in the UK Midlands and to investigate how this measurement might be used to investigate community outbreaks.</p>
+
+<p><b>Methods</b><br>
+In a retrospective observational study, we used Illumina technology to sequence <i>M tuberculosis</i> genomes from an archive of frozen cultures. We characterised isolates into four groups: cross-sectional, longitudinal, household, and community. We measured pairwise nucleotide differences within hosts and between hosts in household outbreaks and estimated the rate of change in DNA sequences. We used the findings to interpret network diagrams constructed from 11 community clusters derived from mycobacterial interspersed repetitive-unit-variable-number tandem-repeat data.</p>
+
+<p><b>Findings</b><br>
+We sequenced 390 separate isolates from 254 patients, including representatives from all five major lineages of <i>M tuberculosis</i>. The estimated rate of change in DNA sequences was 0.5 single nucleotide polymorphisms (SNPs) per genome per year (95% CI 0.3-0.7) in longitudinal isolates from 30 individuals and 25 families. Divergence is rarely higher than five SNPs in 3 years. 109 (96%) of 114 paired isolates from individuals and households differed by five or fewer SNPs. More than five SNPs separated isolates from none of 69 epidemiologically linked patients, two (15%) of 13 possibly linked patients, and 13 (17%) of 75 epidemiologically unlinked patients (three-way comparison exact p<0.0001). Genetic trees and clinical and epidemiological data suggest that super-spreaders were present in two community clusters.</p>
+
+<p><b>Interpretation</b><br>
+Whole-genome sequencing can delineate outbreaks of tuberculosis and allows inference about direction of transmission between cases. The technique could identify super-spreaders and predict the existence of undiagnosed cases, potentially leading to early treatment of infectious patients and their contacts.</p>

@@ -1,0 +1,34 @@
+<img id="me" src="art/methods200.jpg" align="right">
+<h2>Research Interests: Methods Development</h2>
+<p>The aim of my research is to develop an evolutionary understanding of transmission dynamics and propensity
+for virulence in bacterial pathogens. The approach is an empirical one, through genomic analysis of natural populations.
+The central themes of my research programme are (i) transmission modelling, (ii) pathogen evolution and (iii) detecting
+selection. A strong theoretical basis and a focus on statistical methods development underpin my work.</p>
+<h3>Key publications</h3>
+<small>
+	<p>Wilson, D. J., R. D. Hernandez, P. Andolfatto and M. Przeworski (2011)<br>
+	<b>A population genetics-phylogenetics approach to inferring natural selection in coding sequences.</b><br>
+	<i>PLoS Genetics</i> <b>7</b>: e1002395. (<a href="abstracts/wilson_etal_2011.html">abstract</a> <a href="http://www.plosgenetics.org/article/info:doi/10.1371/journal.pgen.1002395">pdf</a>)
+
+	<p>Wilson, D. J., Gabriel, E., Leatherbarrow, A. J. H., Cheesbrough, J., Gee, S., Bolton, E., Fox, A., Hart, C. A., Diggle, P. J. and P. Fearnhead (2009)<br>
+	<b>Rapid evolution and the importance of recombination to the gastro-enteric pathogen <i>Campylobacter jejuni</i>.</b><br>
+	<i>Molecular Biology and Evolution</i> <B>26</B>: 385-397. (<a href="abstracts/wilson_etal_2008b.html">abstract</a> <a href="http://mbe.oxfordjournals.org/cgi/reprint/26/2/385">pdf</a>)
+
+	<p>Fledel-Alon, A., Wilson, D. J., Broman, K., Wen, X., Ober, C., Coop, G. and M. Przeworski (2009)<br>
+	<b>Broad-scale recombination patterns underlying proper disjunction in humans.</b><br>
+	<i>PLoS Genetics</i> <B>5</B>: e1000658. (<a href="abstracts/alon_etal_2009.html">abstract</a> <a href="http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1000658">pdf</a>)
+
+	<p>Wilson, D. J., E. Gabriel, A. J. H. Leatherbarrow, J. Cheesbrough, S. Gee, E. Bolton, A. Fox, P. Fearnhead, C. A. Hart and P. J. Diggle (2008)<br>
+	<b>Tracing the source of campylobacteriosis.</b><br>
+	<i>PLoS Genetics</i> <B>4</B>: e1000203. (<a href="abstracts/wilson_etal_2008a.html">abstract</a> <a href="http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1000203">pdf</a> <a href="abstracts/plosgenetics.pdf">press-release</a>)</p>
+
+	<p>Wilson, D. J. and G. McVean (2006)<br>
+	<b>Estimating diversifying selection and functional constraint in the presence of recombination.</b><br>
+	<i>Genetics</i> <B>172</B>: 1411-1425. (<a href="abstracts/wilson_mcvean_2006.html">abstract</a> 
+	<a href="http://www.genetics.org/cgi/reprint/172/3/1411" target="_blank">pdf</a> <a href="software.html">software</a>)</p>
+<!--
+	<p>Falush, D., M. Torpdahl, X. Didelot, D. F. Conrad, D. J. Wilson and M. Achtman (2006)<br>
+	<b>Mismatch induced speciation in <i>Salmonella</i>: model and data.</b><br>
+	<i>Philosophical Transactions of the Royal Society B</i> <b>361</b>: 2045-2053. (<a href="abstracts/falush_etal_2006.html">abstract</a> <a href="http://www.journals.royalsoc.ac.uk/openurl.asp?genre=article&id=doi:10.1098/rstb.2006.1925">pdf</a>)</p>
+-->
+</small>

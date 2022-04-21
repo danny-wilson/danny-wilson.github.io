@@ -1,0 +1,14 @@
+		<table width="100%" border="0">
+			<tr>
+				<td><table width="100%" border="0">
+						<tr>
+                                                        <td width="20%"><a href="http://www.bugbank.uk/index.html">Home</a></td>
+                                                        <td width="20%"><a href="http://news.bugbank.uk">News</a></td>
+							<td width="20%"><a href="http://www.bugbank.uk/people.html">People</a></td>
+							<td width="20%"><a href="http://www.bugbank.uk/publications.html">Publications</a></td>
+							<td width="20%"><a href="http://www.bugbank.uk/contact.html">Contact</a></td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>

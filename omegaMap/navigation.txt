@@ -1,0 +1,17 @@
+		<table width="100%" border="0">
+			<tr>
+				<td><table width="100%" border="0">
+						<tr>
+                                                        <td width="12.5%"><a href="http://www.danielwilson.me.uk/index.html">Home</a></td>
+                                                        <td width="12.5%"><a href="http://blog.danielwilson.me.uk">Blog</a></td>
+							<td width="12.5%"><a href="http://www.danielwilson.me.uk/lab.html">Lab</a></td>
+							<td width="12.5%"><a href="http://www.danielwilson.me.uk/software.html">Software</a></td>
+							<td width="12.5%"><a href="http://www.danielwilson.me.uk/research.html">Research</a></td>
+							<td width="12.5%"><a href="http://www.danielwilson.me.uk/publications.html">Publications</a></td>
+							<td width="12.5%"><a href="http://www.danielwilson.me.uk/cv.html">CV</a></td>
+							<td width="12.5%"><a href="http://www.danielwilson.me.uk/contact.html">Contact</a></td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>

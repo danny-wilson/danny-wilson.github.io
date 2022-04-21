@@ -1,0 +1,52 @@
+<h2>Contact</h2>
+
+<p>Note that University post is no longer received. Do not send time-sensitive items by post.</p>
+<table width=100% border=0>
+  <tr>
+    <td><b>Acting personal assistant</b><td>&nbsp;<td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td><a href="mailto:shelley.yates@ndph.ox.ac.uk">shelley.yates@ndph.ox.ac.uk</a><td>&nbsp;<td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;<td>&nbsp;<td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td><B>By post</B><td>&nbsp;<td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>Big Data Institute, Nuffield Department of Population Health <!--, Room 605.40.25.01 --><td>&nbsp;<td>John Radcliffe Hospital, Room 7730</td>
+  </tr>
+  <tr>
+    <td>Li Ka Shing Centre for Health Information and Discovery<td>&nbsp;<td>Microbiology Department</td>
+  </tr>
+  <tr>
+    <td>Old Road Campus<td>&nbsp;<td>Headley Way</td>
+  </tr>
+  <tr>
+    <td>Oxford<td>&nbsp;<td>Oxford</td>
+  </tr>
+  <tr>
+    <td>OX3 7LF<td>&nbsp;<td>OX3 9DU</td>
+  </tr>
+  <tr>
+    <td>&nbsp;<td>&nbsp;<td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td><B>By e-mail</B><td>&nbsp;<td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td><img src="myemail.png"><td>&nbsp;<td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td><td>&nbsp;<td></td>
+  </tr>
+  <tr>
+    <td><B>By telephone</B><td>&nbsp;<td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>01865 289 443<td>&nbsp;<td>01865 220 859</td>
+  <tr>
+</table>
+
+<p>The international dialling code for the United Kingdom is +44.</p>

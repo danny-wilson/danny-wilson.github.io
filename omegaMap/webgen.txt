@@ -1,0 +1,7 @@
+abstract.txt	omegaMap Abstract
+documentation.txt	omegaMap Documentation
+executables.txt	omegaMap Executables
+morepermute.txt	omegaMap Permutation Test for Recombination
+permute.txt	omegaMap Permutation Test for Recombination
+sourcecode.txt	omegaMap Source Code
+versions.txt	omegaMap Versions

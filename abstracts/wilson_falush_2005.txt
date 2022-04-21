@@ -1,0 +1,19 @@
+<h2>The genetic structure of human pathogens</h2>
+
+<p>Wilson, D. J. and D. Falush (2005)<br>
+In <I>Encyclopedia of Genetics, Genomics, Proteomics and Bioinformatics</I> edited 
+					by L. B. Jorde, P. F. R. Little, M. J. Dunn and S. Subramaniam. 
+Wiley, New 
+					York. (<a 
+href="http://www.mrw.interscience.wiley.com/ggpb/articles/g101304/frame.html" 
+target="_blank">abstract</a>)</p>
+
+<p>Human pathogen populations are structured by processes including within-host competition, 
+host-pathogen interaction, selection on the transmission cycle, historic changes in prevalence, and 
+human migratory history. We document examples in which signatures of each process are evident and describe 
+some of the factors that lead one process to dominate over the others. Intuitively, it might be thought 
+that pathogen coevolutionary interaction is so intense that under normal circumstances we might expect 
+that the signature of historic migration is obliterated. However, while this is the case for most 
+pathogens, one pathogen, <i>Helicobacter pylori</i>, provides a signature of migrations, which seems, 
+given 
+current sequencing and analytical technologies, to be at least as informative as human genes.</p>

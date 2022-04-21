@@ -1,0 +1,4 @@
+index.txt	Bugbank Homepage
+people.txt	Bugbank People
+publications.txt	Bugbank Publications
+contact.txt	Bugbank Contact

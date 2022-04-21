@@ -1,0 +1,23 @@
+		<img align="right" src="smallgraphs.jpg">
+		<h2>omegaMap Documentation</h2>
+		<ul>
+			<li>
+				Download documentation in <a href="documentation.pdf" target="_top">pdf</a>
+			format</td>
+			<li>
+				Download documentation in <a href="documentation.doc" target="_top">Word</a>
+			format</td>
+			<li>
+				Download <a href="R-functions.txt">R functions</a></td>
+		</ul>
+		<br>
+		<ul>
+			<li>
+				<a href="../omegaMap.html">Back to software</a></td>
+			<li>
+				<a href="executables.html">Download ready-to-use executables</a></td>
+			<li>
+				<a href="sourcecode.html">Download source code</a></td>
+			<li>
+				<a href="versions.html">Bugs and version information</a></td>
+		</ul>

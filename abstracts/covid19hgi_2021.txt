@@ -1,0 +1,28 @@
+<h2>Mapping the human genetic architecture of COVID-19</h2>
+<p>The COVID-19 Host Genetics Initiative (2021)<br>
+<i>Nature</i> doi:10.1038/s41586-021-03767-x (<a 
+href="https://www.nature.com/articles/s41586-021-03767-x">pdf</a>)
+
+<p>The genetic makeup of an individual contributes to susceptibility and 
+response to viral infection. While environmental, clinical and social factors 
+play a role in exposure to SARS-CoV-2 and COVID-19 disease severity, host 
+genetics may also be important. Identifying host-specific genetic factors may 
+reveal biological mechanisms of therapeutic relevance and clarify causal 
+relationships of modifiable environmental risk factors for SARS-CoV-2 infection 
+and outcomes. We formed a global network of researchers to investigate the role 
+of human genetics in SARS-CoV-2 infection and COVID-19 severity. We describe 
+the results of three genome-wide association meta-analyses comprised of up to 
+49,562 COVID-19 patients from 46 studies across 19 countries. We reported 13 
+genome-wide significant loci that are associated with SARS-CoV-2 infection or 
+severe manifestations of COVID-19. Several of these loci correspond to 
+previously documented associations to lung or autoimmune and inflammatory 
+diseases. They also represent potentially actionable mechanisms in 
+response to infection. Mendelian Randomization analyses support a causal role 
+for smoking and body mass index for severe COVID-19 although not for type II 
+diabetes. The identification of novel host genetic factors associated with 
+COVID-19, with unprecedented speed, was made possible by the community of human 
+genetic researchers coming together to prioritize sharing of data, results, 
+resources and analytical frameworks. This working model of international 
+collaboration underscores what is possible for future genetic discoveries in 
+emerging pandemics, or indeed for any complex human disease.</p>
+

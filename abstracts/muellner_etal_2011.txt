@@ -1,0 +1,21 @@
+<h2>Utilizing a combination of molecular and spatial tools to assess the effect of a public health intervention</h2>
+<p>Muellner, P., Marshall, J. C., Spencer, S. E. F., Noble, A. D., Shadbolt, T., Collins-Emerson, J. M., Midwinter, A. C., Carter, P. E., Pirie, R., Wilson, D. J., Campbell, D. M., Stevenson, M. A. and N. P. French (2011)<br>
+<i>Preventive Veterinary Medicine</i> <b>102</b>: 242-253.</p>
+
+<p>Until recently New Zealand had one of the highest rates of human campylobacteriosis
+reported by industrialised countries. Since the introduction of a range of control measures in
+the poultry production chain a reduction in human cases of around 50% has been observed
+nationwide. To inform risk managers a combination of spatial, temporal and molecular
+tools - including minimum spanning trees, risk surfaces, rarefaction analysis and dynamic
+source attribution modelling - was used in this study to formally evaluate the reduction
+in disease risk that occurred after the implementation of control measures in the poultry
+industry. Utilizing data from a sentinel surveillance site in the Manawatu region of New
+Zealand, our analyses demonstrated a reduction in disease risk attributable to a reduction
+in the number of poultry-associated campylobacteriosis cases. Before the implementation
+of interventions poultry-associated cases were more prevalent in urban than rural areas,
+whereas for ruminant-associated cases the reverse was evident. In addition to the overall
+reduction in prevalence, this study also showed stronger effect in urban areas where poultry
+sources were more dominant. Overall a combination of molecular and spatial tools has
+provided evidence that the interventions aimed at reducing Campylobacter contamination
+of poultry were successful in reducing poultry-associated disease and this will inform the
+development of future control strategies.</p>

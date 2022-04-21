@@ -1,0 +1,42 @@
+<h2>Whole genome sequencing and de novo assembly identifies Sydney-like variant noroviruses and recombinants during the winter 2012/2013 outbreak in England.</h2>
+<p>Wong, T. H., Dearlove, B. L., Hedge, J., Giess, A. P., Piazza, P., Trebes, A., Paul, J., Smit, E., Smith, E. G., Sutton, J. K., Wilcox, M. H., Dingle, K. E., Peto, T. E., Crook, D. W., Wilson, D. J. and D. H. Wyllie (2013)<br>
+<i>Virology Journal</i> <b>10</b>: 335	(<a href="http://www.virologyj.com/content/10/1/335/abstract">pdf</a>)
+
+<h4>Background</h4>
+<p>Norovirus is the commonest cause of epidemic gastroenteritis among people of all ages.
+   Outbreaks frequently occur in hospitals and the community, costing the UK an estimated
+   [pound sign]110 m per annum. An evolutionary explanation for periodic increases in
+   norovirus cases, despite some host-specific post immunity is currently limited to
+   the identification of obvious recombinants. Our understanding could be significantly
+   enhanced by full length genome sequences for large numbers of intensively sampled
+   viruses, which would also assist control and vaccine design. Our objective is to develop
+   rapid, high-throughput, end-to-end methods yielding complete norovirus genome sequences.
+   We apply these methods to recent English outbreaks, placing them in the wider context
+   of the international norovirus epidemic of winter 2012.
+</p>
+<h4>Method</h4>
+<p>Norovirus sequences were generated from 28 unique clinical samples by Illumina RNA
+   sequencing (RNA-Seq) of total faecal RNA. A range of de novo sequence assemblers were
+   attempted. The best assembler was identified by validation against three replicate
+   samples and two norovirus qPCR negative samples, together with an additional 20 sequences
+   determined by PCR and fractional capillary sequencing. Phylogenetic methods were used
+   to reconstruct evolutionary relationships from the whole genome sequences.
+</p>
+<h4>Results</h4>
+<p>Full length norovirus genomes were generated from 23/28 samples. 5/28 partial norovirus
+   genomes were associated with low viral copy numbers. The de novo assembled sequences
+   differed from sequences determined by capillary sequencing by &lt;0.003%. Intra-host
+   nucleotide sequence diversity was rare, but detectable by mapping short sequence reads
+   onto its de novo assembled consensus. Genomes similar to the Sydney 2012 strain caused
+   78% (18/23) of cases, consistent with its previously documented association with the
+   winter 2012 global outbreak. Interestingly, phylogenetic analysis and recombination
+   detection analysis of the consensus sequences identified two related viruses as recombinants,
+   containing sequences in prior circulation to Sydney 2012 in open reading frame (ORF)
+   2.
+</p>
+<h4>Conclusion</h4>
+<p>Our approach facilitates the rapid determination of complete norovirus genomes. This
+   method provides high resolution of full norovirus genomes which, when coupled with
+   detailed epidemiology, may improve the understanding of evolution and control of this
+   important healthcare-associated pathogen.
+</p>

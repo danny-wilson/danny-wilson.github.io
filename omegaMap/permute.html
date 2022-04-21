@@ -1,0 +1,176 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+	<title>omegaMap Permutation Test for Recombination</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+	<link rel="StyleSheet" href="style.css" type="text/css" media="screen">
+	<SCRIPT LANGUAGE="JAVASCRIPT" TYPE="TEXT/JAVASCRIPT">
+	<!--
+	if(window != top) top.location.href = location.href
+	//-->
+	</SCRIPT>
+</head>
+<body>
+	<div id="title">
+		<div id="header">
+			<h1>Daniel Wilson</h1>
+		</div>
+	</div>
+	<div id="navigation" class="class1">
+				<table width="100%" border="0">
+					<tr>
+						<td><table width="100%" border="0">
+								<tr>
+		                                                        <td width="12.5%"><a href="http://www.danielwilson.me.uk/index.html">Home</a></td>
+		                                                        <td width="12.5%"><a href="http://blog.danielwilson.me.uk">Blog</a></td>
+									<td width="12.5%"><a href="http://www.danielwilson.me.uk/lab.html">Lab</a></td>
+									<td width="12.5%"><a href="http://www.danielwilson.me.uk/software.html">Software</a></td>
+									<td width="12.5%"><a href="http://www.danielwilson.me.uk/research.html">Research</a></td>
+									<td width="12.5%"><a href="http://www.danielwilson.me.uk/publications.html">Publications</a></td>
+									<td width="12.5%"><a href="http://www.danielwilson.me.uk/cv.html">CV</a></td>
+									<td width="12.5%"><a href="http://www.danielwilson.me.uk/contact.html">Contact</a></td>
+								</tr>
+							</table>
+						</td>
+					</tr>
+				</table>
+		
+	</div>
+	<div id="content">
+				<h2>Do I need omegaMap?</h2>
+				<p>Recombination in your sample of genes causes the evolutionary tree to change 
+				along the sequence. That violates the assumption of phylogenetic methods that 
+				there is a single tree for the sequence. Simulation studies [<a href="#refs">1</a>, 
+				<a href="#refs">2</a>, <a href="#refs">3</a>] have shown that can have unexpected effects 
+				on inference, and in the case of detecting positive selection, can cause false 
+				positive rates up to 90%. omegaMap is a method for estimating variation in
+				selection pressure along a sequence in the presence of recombination 
+				[<a href="#refs">4</a>].</p>
+		
+				<h3>Has there been recombination in my sequences?</h3>
+				<p>A simple permutation test can rapidly detect recombination in a set of DNA or RNA
+				sequences. The program <tt>permute</tt> gives a p value for the null hypothesis of
+				no recombination in your data. If the p value is significant (<I>p</I> < 0.05) then
+				recombination is detectable in your sequences and you should not apply phylogenetic-based
+				methods to the data. <a href="morepermute.html"> More on how <tt>permute</tt> works</a>.</p>
+				
+				To use the program, at the command line type
+		
+				<p><B><tt>permute file.txt</tt></B></p>
+		
+				<p>or</p>
+		
+				<p><B><tt>permute file.txt 999</tt></B></p>
+		
+				<p>where <tt>file.txt</tt> is the name of your FASTA format sequence file, and <tt>999</tt>
+				is the number of permutations. If omitted, the default is 999 permutations. The output
+				will look something like this:</p>
+		
+				<img align="center" src="permute.bmp">
+		
+				<h3>Download permute</h3>
+				<p><tt>permute</tt> can be downloaded as a ready-to-use executable or as source code using
+				the links below.
+		
+				<ul>
+					<li>
+						<a href="executables.html">Download ready-to-use executables</a></td>
+					<li>
+						<a href="sourcecode.html">Download source code</a><td>
+					<li>
+						<a href="versions.html">Bugs and version information</a><td>
+					<li>
+						<a href="../omegaMap.html">Back to software</a></td>
+				</ul>
+		
+				<h3><a name="refs">References</a></h3>
+				<small><ol>
+					<li>Schierup, M. H., and J. Hein (2000)<br>
+					<B>Consequences of recombination on traditional phylogenetic
+					analysis.</B><br>
+					<I>Genetics</I> 156: 879-891.
+		
+					<li>Anisimova, M., R. Nielsen and Z. Yang (2003)<br>
+					<B>Effect of recombination on the accuracy of the likelihood method for
+					detecting positive selection at amino acid sites.</B><br>
+					<I>Genetics</I> 164: 1229-1236.
+		
+					<li>Shriner, D., D. C. Nickle, M. A. Jensen and J. I. Mullins (2003)<br>
+					<B>Potential impact of recombination on sitewise approaches for detecting
+					positive natural selection.</B><br>
+					<I>Genetical Research</I> 81: 115-121.
+		
+					<li>Wilson, D. J. and G. McVean (2006)<br>
+					<B>Estimating diversifying selection and functional constraint
+					in the presence of recombination.</B><br>
+					<I>Genetics</I> 172: 1411-1425.
+				</small>
+		
+		
+	</div>
+	<div id="footer">
+		<table width=100% border=0>
+		  <tr>
+		  <script language="javascript" type="text/javascript">
+		    var nimg1;
+		    var nimg2;
+		    var nimg3;
+		    var nimg4;
+		
+		    function choose(imgID) {
+		      nRnd=nimg1;
+		      while(nRnd==nimg1 || nRnd==nimg2 || nRnd==nimg3 || nRnd==nimg4) {
+		        nRnd=Math.round(Math.random()*15)+1;
+		      }
+		      eval('n'+imgID+'='+nRnd);
+		    }
+		
+		    nimg1=-1;
+		    nimg2=-1;
+		    nimg3=-1;
+		    nimg4=-1;
+		
+		    choose('img1');
+		    choose('img2');
+		    choose('img3');
+		    choose('img4');
+		
+		    document.write('<td width=25%><center><img src="http://www.danielwilson.me.uk/art'+nimg1+'.jpg"></td>')
+		    document.write('<td width=25%><center><img src="http://www.danielwilson.me.uk/art'+nimg2+'.jpg"></td>')
+		    document.write('<td width=25%><center><img src="http://www.danielwilson.me.uk/art'+nimg3+'.jpg"></td>')
+		    document.write('<td width=25%><center><img src="http://www.danielwilson.me.uk/art'+nimg4+'.jpg"></td>')
+		  </script>
+		  <noscript>
+		    <td width=25%><center><img src="http://www.danielwilson.me.uk/art3.jpg"></td>
+		    <td width=25%><center><img src="http://www.danielwilson.me.uk/art10.jpg"></td>
+		    <td width=25%><center><img src="http://www.danielwilson.me.uk/art15.jpg"></td>
+		    <td width=25%><center><img src="http://www.danielwilson.me.uk/art13.jpg"></td>
+		  </noscript>
+		  </tr>
+		</table>
+		
+	</div>
+	<!-- Start of StatCounter Code -->
+	<script type="text/javascript" language="javascript">
+	<!-- 
+	var sc_project=1989169; 
+	var sc_invisible=1; 
+	var sc_partition=18; 
+	var sc_security="e3f4bbdd"; 
+	//-->
+	</script>
+	
+	<script type="text/javascript" language="javascript" src="http://www.statcounter.com/counter/frames.js"></script><noscript><a href="http://www.statcounter.com/" target="_blank"><img  src="http://c19.statcounter.com/counter.php?sc_project=1989169&java=0&security=e3f4bbdd&invisible=1" alt="counter" border="0"></a> </noscript>
+	<!-- End of StatCounter Code -->
+	<script type="text/javascript">
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js'
+	type='text/javascript'%3E%3C/script%3E"));
+	</script>
+	<script type="text/javascript">
+	var pageTracker = _gat._getTracker("UA-5003457-1");
+	pageTracker._initData();
+	pageTracker._trackPageview();
+	</script>
+</body>
+</html>

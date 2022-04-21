@@ -1,0 +1,17 @@
+<h2>Whole genome sequencing reveals the contribution of long-term carriers in <i>Staphylococcus aureus</i> outbreak investigation.</h2>
+<p>Gordon, N. C., Pichon, B., Golubchik, T., Wilson, D. J., Paul, J., Blanc, D. S., Cole, K., Collins, J. Cortes, N., Cubbon, M., Gould, F. K., Jenks, P. J., Llewelyn, M., Nash, J. Q., Orendi, J. M., Paranthaman, K., Price, J. R., Senn, L., Thomas, H. L., Wyllie, S., Crook, D. W., Peto, T. E. A., Walker, A. S. and A. M. Kearns (2017)<br>
+<i>Journal of Clinical Microbiology</i> <b>55</b>: 2188-2197. (<a href="http://jcm.asm.org/content/55/7/2188.long">pdf</a>)
+
+<p><b>Background</b><br>
+Whole genome sequencing (WGS) makes it possible to determine the relatedness of bacterial isolates at high resolution, helping to characterise outbreaks. However, for Staphylococcus aureus, accumulation of within-host diversity during carriage could limit interpretation of sequencing data. We hypothesised the converse: that within-host diversity can be exploited to reveal the involvement of long-term carriers (LTCs) in outbreaks. 
+
+<p><b>Methods</b><br>
+We analysed WGS data from 20 historical outbreaks. Phylogenetic methods were applied to assess genetic relatedness and estimate time to most recent common ancestor (TMRCA). Findings were compared with the routine investigation results and epidemiological evidence.
+
+<p><b>Results</b><br>
+Outbreaks with epidemiological evidence for an LTC source had a mean estimated TMRCA (adjusted for outbreak duration) of 243 days (95% CI 143-343), compared with 55 days (28-81) for outbreaks lacking epidemiological evidence for an LTC (p=0.004). A threshold of 156 days predicted LTC involvement with a sensitivity of 0.875 and a specificity of 1.
+
+<p>WGS confirmed the results from conventional methods for 18 outbreaks. For 2 outbreaks, WGS identified 1 or more isolates which were genetically distinct despite sharing the outbreak PFGE pulsotype. In 6/20 outbreaks, antimicrobial susceptibility profiles differed despite only modestly increased pairwise diversity (mean 17.5 SNVs (95% CI 17.3-17.8) vs 12.7 (12.5-12.8) for isolates with identical antibiograms, p<0.0001). 
+
+<p><b>Conclusion</b><br>
+Duration-adjusted TMRCA allows the involvement of LTCs in outbreaks to be identified and could be used to decide whether screening for long-term carriage (e.g. in healthcare workers) is warranted. Requiring identical antibiograms to trigger investigation could miss important contributors to outbreaks. </p>

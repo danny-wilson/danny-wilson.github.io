@@ -1,0 +1,17 @@
+<h2>Rapid antibiotic-resistance predictions from genome sequence data for <i>Staphylococcus aureus</i> and <i>Mycobacterium tuberculosis</i></h2>
+<p>Bradley, P., Gordon, N. C., Walker, T. M., Dunn, L., Heys, S., Huang, B., Earle, S. G., Pankhurst, L. J., Anson, L., de Cesare, M., Piazza, P., Votintseva, A. A., Golubchik, T., Wilson, D. J., Wyllie, D., Diel, R., Niemann, S., Feuerriegel, S., Kohl, T. A., Ismail, N., Omar, S. V., Smith, E. G., Buck, D., McVean, G., Walker, A. S., Peto, T. E. A., Crook, D. W. and Z. Iqbal (2015)<br>
+<i>Nature Communications</i> <b>6</b>: 10063 (<a href="http://www.nature.com/ncomms/2015/151221/ncomms10063/full/ncomms10063.html">pdf</a>).
+
+<p>Rapid and accurate detection of antibiotic resistance in pathogens is an urgent need, affecting 
+both patient care and population-scale control. Microbial genome sequencing promises much, 
+but many barriers exist to its routine deployment. Here, we address these challenges, using a de 
+Bruijn graph comparison of sample and curated knowledge-base, for detection of species and 
+minor resistant populations, and resistance-profile prediction. This is implemented in a package, 
+Mykrobe predictor, for <i>S. aureus</i> and <i>M. tuberculosis</i>, and runs in under three minutes on a 
+laptop from raw data. For <i>S. aureus</i>, we train and validate in 495/471 samples respectively, 
+finding error rates comparable to gold-standard phenotypic methods, with sensitivity/specificity 
+of 99.3%/99.5% across 12 drugs. For <i>M. tuberculosis</i>, we identify species and predict resistance 
+with specificity of 98.5% (training/validating on 1920/1609 samples). Sensitivity of 82.6% is 
+limited by current understanding of genetic mechanisms. Finally, we demonstrate feasibility of 
+an emerging single-molecule sequencing technique.</p>
+

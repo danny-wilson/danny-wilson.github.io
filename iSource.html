@@ -1,0 +1,150 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+	<title>Daniel Wilson Software - iSource</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+	<link rel="StyleSheet" href="style.css" type="text/css" media="screen">
+	<SCRIPT LANGUAGE="JAVASCRIPT" TYPE="TEXT/JAVASCRIPT">
+	<!--
+	if(window != top) top.location.href = location.href
+	//-->
+	</SCRIPT>
+</head>
+<body>
+	<div id="title">
+		<div id="header">
+			<h1>Daniel Wilson</h1>
+		</div>
+	</div>
+	<div id="navigation" class="class1">
+				<table width="100%" border="0">
+					<tr>
+						<td><table width="100%" border="0">
+								<tr>
+		                                                        <td width="10%"><a href="http://www.danielwilson.me.uk/index.html">Home</a></td>
+		                                                        <td width="10%"><a href="http://blog.danielwilson.me.uk">Blog</a></td>
+									<td width="10%"><a href="http://www.bugbank.uk">Bugbank</a></td>
+									<td width="10%"><a href="http://www.danielwilson.me.uk/lab.html">Lab</a></td>
+									<td width="10%"><a href="http://www.danielwilson.me.uk/software.html">Software</a></td>
+									<td width="10%"><a href="http://www.danielwilson.me.uk/research.html">Research</a></td>
+									<td width="10%"><a href="http://www.danielwilson.me.uk/publications.html">Publications</a></td>
+									<td width="10%"><a href="http://www.danielwilson.me.uk/cv.html">CV</a></td>
+									<td width="10%"><a href="http://www.danielwilson.me.uk/contact.html">Contact</a></td>
+								</tr>
+							</table>
+						</td>
+					</tr>
+				</table>
+		
+	</div>
+	<div id="content">
+				<img id="me" align="right" src="iSource/smallgraphs.jpg">
+				<h2>iSource</h2>
+		
+				<p>iSource is a program for source attribution (population assignment) using multi-locus
+				   genotypes with linkage disequilibrium. iSource can be used to assign
+				   sequences of unknown origin to putative source populations based on DNA sequence similarity to 
+				   a panel of reference sequences of known source. It was specifically designed with
+				   multi-locus sequence typing (MLST) in mind, but can be applied more widely.
+		
+				<p>Source attribution probabilities are calculated using a statistical model of the way the
+				   DNA sequences evolve over time. In the model, there are parameters representing the
+				   processes of mutation, DNA exchange (recombination) and migration between populations. In
+				   the case of infectious disease, migration might correspond to transmission between host
+				   populations. These processes lead to differences in gene frequencies between populations,
+				   facilitating source attribution. The model is trained by estimating the evolutionary
+				   parameters exclusively from sequences of known source, before using it to calculate source
+				   attribution probabilities for sequences of unknown origin.
+		
+				<p>iSource differs fundamentally to similar population genetic analyses, notably 
+				   <a href="http://pritch.bsd.uchicago.edu/software.html">Structure</a>, in that it approximates
+				   a specific genetical model known as the migration matrix model, a generalization of Wright's
+				   symmetric island model. By modelling linkage disequilibrium between loci in the source
+				   populations, and by estimating the relative contribution of each putatitive source population
+				   to the sequences of unknown origin, iSource improves its accuracy of source attribution. This
+				   sensitivity is particularly important in weakly differentiated populations.
+		
+				<p>To download iSource <a href="iSource/Distribute.zip">click here</a>. The zip file contains
+				<ul>
+					<li>Windows XP Executable
+					<li>Mac OS X Executable
+					<li>Source code
+					<li>Example <i>Campylobacter jejuni</i> datasets
+				</ul>
+		
+				<p>Information on how to format your data for use with iSource, running the program, and 
+				   example analyses are contained in the file README.txt. If you use iSource, or the example 
+				   datasets, please cite the following paper.
+		
+				<p>Wilson, D. J., E. Gabriel, A. J. H. Leatherbarrow, J. Cheesbrough, S. Gee, E. Bolton, A. Fox, P. Fearnhead, C. A. Hart and P. J. Diggle (2008)<br>
+			      	   	<b>Tracing the source of campylobacteriosis.</b><br>
+					<i>PLoS Genetics</i> <B>4</B>: e1000203. (<a href="abstracts/wilson_etal_2008a.html">abstract</a> <a href="http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1000203">pdf</a> <a href="abstracts/plosgenetics.pdf">press-release</a>)</p>
+		
+		
+	</div>
+	<div id="footer">
+		<table width=100% border=0>
+		  <tr>
+		  <script language="javascript" type="text/javascript">
+		    var nimg1;
+		    var nimg2;
+		    var nimg3;
+		    var nimg4;
+		
+		    function choose(imgID) {
+		      nRnd=nimg1;
+		      while(nRnd==nimg1 || nRnd==nimg2 || nRnd==nimg3 || nRnd==nimg4) {
+		        nRnd=Math.round(Math.random()*15)+1;
+		      }
+		      eval('n'+imgID+'='+nRnd);
+		    }
+		
+		    nimg1=-1;
+		    nimg2=-1;
+		    nimg3=-1;
+		    nimg4=-1;
+		
+		    choose('img1');
+		    choose('img2');
+		    choose('img3');
+		    choose('img4');
+		
+		    document.write('<td width=25%><center><img src="http://www.danielwilson.me.uk/art'+nimg1+'.jpg"></td>')
+		    document.write('<td width=25%><center><img src="http://www.danielwilson.me.uk/art'+nimg2+'.jpg"></td>')
+		    document.write('<td width=25%><center><img src="http://www.danielwilson.me.uk/art'+nimg3+'.jpg"></td>')
+		    document.write('<td width=25%><center><img src="http://www.danielwilson.me.uk/art'+nimg4+'.jpg"></td>')
+		  </script>
+		  <noscript>
+		    <td width=25%><center><img src="http://www.danielwilson.me.uk/art3.jpg"></td>
+		    <td width=25%><center><img src="http://www.danielwilson.me.uk/art10.jpg"></td>
+		    <td width=25%><center><img src="http://www.danielwilson.me.uk/art15.jpg"></td>
+		    <td width=25%><center><img src="http://www.danielwilson.me.uk/art13.jpg"></td>
+		  </noscript>
+		  </tr>
+		</table>
+		
+	</div>
+	<!-- Start of StatCounter Code -->
+	<script type="text/javascript" language="javascript">
+	<!-- 
+	var sc_project=1989169; 
+	var sc_invisible=1; 
+	var sc_partition=18; 
+	var sc_security="e3f4bbdd"; 
+	//-->
+	</script>
+	
+	<script type="text/javascript" language="javascript" src="http://www.statcounter.com/counter/frames.js"></script><noscript><a href="http://www.statcounter.com/" target="_blank"><img  src="http://c19.statcounter.com/counter.php?sc_project=1989169&java=0&security=e3f4bbdd&invisible=1" alt="counter" border="0"></a> </noscript>
+	<!-- End of StatCounter Code -->
+	<script type="text/javascript">
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js'
+	type='text/javascript'%3E%3C/script%3E"));
+	</script>
+	<script type="text/javascript">
+	var pageTracker = _gat._getTracker("UA-5003457-1");
+	pageTracker._initData();
+	pageTracker._trackPageview();
+	</script>
+</body>
+</html>

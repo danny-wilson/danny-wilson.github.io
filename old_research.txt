@@ -1,0 +1,151 @@
+		<h2><a name="top">Research</a></h2>
+
+		<p><I>Update! I have just joined the Nuffield Department of Clinical Medicine at Oxford University, as "Leadership Fellow in Genomic Medicine". A large part of my new activities will involve the <a href="http://www.modmedmicro.ac.uk/">Modernising Medical Microbiology</a> project, as part of which I will be advertising a post-doc and graduate student position. Until I update the website, visit the MMM homepage or read on for my research interests to date.</I></p>
+
+		<p>Until December I was a Post-doctoral Research Scholar in <a href="http://przeworski.uchicago.edu" target="_top">Molly
+			Przeworski's lab</a> at the <a href="http://www.uchicago.edu" target="_top">University of
+			Chicago</a> Department of <a href="http://www.genes.uchicago.edu/" target="_top">Human
+			Genetics</a>. My research interests centre on the application of population genetics tools to
+ 			solving problems in human infectious diseases. Another major interest of mine is detecting the
+			signature of natural selection within populations. My software omegaMap is designed to address
+			that problem in recombining populations, and is available to download from this site.</p>
+		<p>For more information on my research interests please see</p>
+		<ul>
+			<li>
+				<a href="#selection">omegaMap: Detecting natural selection in genes</a></td>
+			<li>
+				<a href="#campylobacter">Campylobacter source attribution and evolution</a></td>
+			<li>
+				<a href="#meningitis">Meningococcal meningitis</a></td>
+			<li>
+				<a href="#links">Links to collaborators' websites</a><td>
+			<li>
+				<a href="publications.html">Publications</a></td>
+			<li>
+				<a href="contact.html">Contact me</a></td>
+		</ul>
+		<h3><a name="selection">omegaMap: Detecting natural selection in genes</a></h3>
+		As part of my research into the evolution of the interaction of the immune 
+		system with pathogen antibodies, I have developed a new method for detecting 
+		natural selection in gene sequences in the presence of recombination. The 
+		method uses the codon model of Nielsen and Yang (1998) to estimate variation in 
+		the dN/dS ratio (the ratio of non-synonymous to synonymous mutation) along a 
+		gene. Previous methods have not allowed for recombination, which occurs 
+		frequently not just in genes from bacteria such as <I>Campylobacter</I> and <I>Neisseria 
+			meningitidis</I>, but also viruses such as HIV, protozoans such as <I>Plasmodium</I>
+		and eukaryotes including humans. When recombination is not accounted for it can 
+		elevate the false positive rate for detecting sites under positive 
+		selection.</p>
+		<p>omegaMap is a program that implements the method, and is freely available from <a href="software.html">
+				here</a>. The key publication is</p>
+		<small>
+			<p>Wilson, D. J. and G. McVean<br>
+				<B>Estimating diversifying selection and functional constraint in the presence of 
+					recombination.</B> (<a href="omegaMap/abstract.html">Abstract</a>)
+				<br>
+				Submitted to <I>Genetics</I>.
+			</p>
+		</small>
+		<h3><a name="campylobacter">Campylobacter source attribution and evolution</a></h3>
+                <p>As a Research Associate in Genetics at <a href="https://www.lancs.ac.uk/" target="_top">Lancaster 
+			University</a> Department of <a href="http://www.maths.lancs.ac.uk/" target="_top">Maths and
+			Statistics</a> my research was concerned with exploiting the
+                        information contained in patterns of DNA sequence variation to learn about the
+                        spatial epidemiology of Campylobacter in humans, a common bacterial infection
+                        that causes gastroenteritis. I worked with <a href="http://www.maths.lancs.ac.uk/~fearnhea/" target="_top">
+                        Paul Fearnhead</a>, <a href="http://www.maths.lancs.ac.uk/~gabriel/index.html" target="_top">
+                        Edith Gabriel</a> and <a href="http://www.maths.lancs.ac.uk/~diggle/" target="_top">
+                        Peter Diggle</a> in Lancaster, in collaboration with groups at <a href="http://www.liv.ac.uk/vets/" target="_top">
+                        Liverpool Vet School</a> and <a href="http://www.hpa.org.uk/hpa/contacts/contact_us_regional_labs.htm" target="_top">
+                        Manchester Royal Infirmary</a>.</p>
+                <p>The idea is that genetic variation in pathogen populations contains an (albeit
+                        corrupted) record of the evolutionary history of the species. Evolutionary
+                        models are applied to DNA sequence data (notably <a href="http://www.mlst.net" target="_top">
+                        MLST</a> in the case of bacterial pathogens) in order to extract that
+                        historical information, which can then be used to inform epidemiological
+                        studies. For Campylobacter we are specifically interested in modelling the
+                        spatial and temporal epidemiology of cases in the North of England over a
+                        period of a decade.</p>
+		<h3><a name="meningitis">Meningococcal meningitis</a></h3>
+		<p>Previously I was based at the <a href="http://www.medawar.ox.ac.uk/" target="_top">Peter 
+				Medawar Building for Pathogen Research</a> in Oxford, where I wrote my 
+			D.Phil. thesis on the population genetics of meningococcal meningitis. In 
+			Oxford I was a member of the <a href="http://mathgen.stats.ox.ac.uk/" target="_top">
+				Mathematical Genetics and Bioinformatics</a> group, and jointly supervised 
+			by <a href="http://www.stats.ox.ac.uk/~mcvean" target="_top">Gil McVean</a> and <a href="http://www.medawar.ox.ac.uk/maiden" target="_top">
+				Martin Maiden</a>.</p>
+		<p>The title of my <a href="thesis/thesis.html">D.Phil. thesis</a> was 'Multi-locus sequence analysis 
+of the 
+			pathogen <I>Neisseria meningitidis</I>'. <I>N. meningitidis</I> is the 
+			bacterium that causes meningococcal disease (meningitis and septicaemia) in 
+			humans at a rate of about 1 case per 20,000 people per year in England (see the <a href="http://www.meningitis.org" target="_top">
+				Meningitis Research Foundation</a>). Its asympotmatic carriage rate is 
+			higher - around 10% in Europe and the US. Virulence is not thought to be 
+			important in the spread and persistence of <I>N. meningitidis</I>, so recent 
+			research has concentrated more closely on studying the populations of 
+			meningococci carried asymptomatically by one in ten of us.</p>
+		<p>Our research showed that contrary to simpler ideas of the evolution of bacterial 
+			pathogens, natural selection is an important force in shaping populations of 
+			carried meningococci. The heterogeneity of different strains, or clonal 
+			complexes, of meningococci, the apparent stability of these clonal complexes 
+			over time, and the different characteristics of the clonal complexes (including 
+			genetic composition and propensity to cause disease) cannot be explained by 
+			neutral models of meningococcal evolution. Some of the key publications I have 
+			been involved in are</p>
+		<small>
+			<p>Jolley, K. A., D. J. Wilson, P. Kriz, G. McVean and M. C. J. Maiden (2005)<br>
+				<B>The influence of mutation, recombination, population history and selection on 
+					patterns of genetic diversity in <I>Neisseria meningitidis</I>.</B><br>
+				<I>Molecular Biology and Evolution</I> <B>22</B>: 562-569. (<a href="http://mbe.oupjournals.org/cgi/reprint/22/3/562">pdf</a>)</p>
+			<p>Yazdankhah, S. P., P. Kriz, G. Tzanakaki, J. Kremastinou, J. Kalmusova, M. 
+				Musilek, T. Alvedstad, K. A. Jolley, D. J. Wilson, N. D. McCarthy, D. A. 
+				Caugant and M. C. J. Maiden (2004)<br>
+				<B>Distribution of Serogroups and Genotypes among Disease-Associated and Carried 
+					Isolates of <I>Neisseria meningitidis</I> from the Czech Republic, Greece, and 
+					Norway.</B><br>
+				<I>Journal of Clinical Microbiology</I> <B>42</B>: 5146-5153. (<a href="http://jcm.asm.org/cgi/reprint/42/11/5146.pdf">pdf</a>)</p>
+			<p>Claus, H., M. C. J. Maiden, D. J. Wilson, N. D. McCarthy, K. A. Jolley, R. 
+				Urwin, F. Hessler, M. Frosch and U. Vogel (2005)<br>
+				<B>Genetic analysis of meningococci carried by children and young adults.</B><br>
+				<I>Journal of Infectious Diseases</I> <B>191</B>: 1263-1271. (<a href="http://www.journals.uchicago.edu/JID/journal/issues/v191n8/33437/33437.web.pdf">pdf</a>)</p>
+		</small>
+		<h3><a name="links">Links</a></h3>
+		<table width="100%" border="0">
+			<tr>
+				<td width="33%"><b>Lancaster</b>
+				<td width="33%"><b>Oxford</b>
+				<td width="33%"><b>Elsewhere</b>
+			<tr>
+				<td><a href="http://www.maths.lancs.ac.uk/~fearnhea/" target="_top">Paul Fearnhead</a>
+				<td><a href="http://www.stats.ox.ac.uk/~mcvean" target="_top">Gil McVean</a>
+				<td><a href="http://home.uchicago.edu/~conrad/" target="_top">Don Conrad</a>
+			<tr>
+				<td><a href="http://pagesperso-orange.fr/edith.gabriel/Edith.html" target="_top">Edith Gabriel</a>
+				<td><a href="http://www.medawar.ox.ac.uk/maiden" target="_top">Martin Maiden</a>
+				<td><a href="http://pritch.bsd.uchicago.edu/gcoop" target="_top">Graham Coop</a>
+			<tr>
+				<td><a href="http://www.maths.lancs.ac.uk/~diggle/" target="_top">Peter Diggle</a>
+				<td><a href="http://www.stats.ox.ac.uk/~spencer" target="_top">Chris Spencer</a>
+				<td><a href="http://bioinf.cs.auckland.ac.nz/index.php/dr-alexei-drummond/" target="_top">Alexei Drummond</a>
+			<tr>
+				<td><a href="http://www2.warwick.ac.uk/fac/sci/statistics/staff/academic/roberts/" target="_top">Gareth Roberts</a>
+				<td><a href="http://www.stats.ox.ac.uk/~falush/" target="_top">Daniel Falush</a>
+				<td><a href="http://pps-spud.uchicago.edu/~cbecquet/index.html" target="_top">Celine Becquet</a>
+			<tr>
+				<td>
+				<td><a href="http://www2.warwick.ac.uk/fac/sci/statistics/staff/research/didelot/" target="_top">Xavier Didelot</a>
+				<td>
+		</table>
+		<hr>
+		<ul>
+			<li>
+				<a href="#selection">Detecting natural selection in genes</a></td>
+			<li>
+				<a href="#meningitis">Meningococcal meningitis</a></td>
+			<li>
+				<a href="#links">Links to collaborators' websites</a><td>
+			<li>
+				<a href="publications.html">Publications</a></td>
+			<li>
+				<a href="contact.html">Contact me</a></td>
+		</ul>

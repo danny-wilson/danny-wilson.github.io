@@ -1,0 +1,31 @@
+		<img id="me" align="right" src="mewed.jpg">
+		<h2>Welcome to my home page</h2>
+		<p>Here you will find details of my <a href="research.html#top">research interests</a>,
+			<a href="publications.html">publications</a>, <a href="cv.html">CV</a> and how
+			to <a href="contact.html">contact me</a>. I am a research Fellow in Genomics at the
+			<a href="http://www.ndm.ox.ac.uk/home">Nuffield Department
+			of Medicine</a> in Oxford. Based at the John Radcliffe Hospital, and the
+			Wellcome Trust Centre for Human Genetics, I am a participant in the UKCRC
+			Consortium <a href="http://www.modmedmicro.ac.uk/">Modernising Medical
+			Microbiology</a>, a project that aims to harness next-generation sequencing
+			technologies to track and trace clinically important human pathogens.
+			I am also a Principal Investigator at the interdisciplinary
+			Oxford Martin School <a href="http://www.oxfordmartin.ox.ac.uk/institutes/emerging_infections">
+			Institute for Emerging Infections</a>.</p>
+
+		<p>My research interests are in the evolution of natural pathogen populations, which I understand
+		      through comparative analysis of genomes within and between species. My research
+		      activity focuses on the analysis of bacterial pathogen populations, but I also
+		      work on viruses and non-pathogenic species. Motivating themes in my
+		      work are understanding how transmission, natural selection and recombination shape the diversity of natural populations,
+		      and detecting their signature in the genome. Using genomics and disease
+		      phenotyping, I am investigating the evolution of bacterial pathogens from the
+		      colonization of individual hosts and transmission between hosts, through to the
+		      whole-species and phylogenetics levels.</p>
+
+<a href="http://feeds.feedburner.com/~r/DanielWilsonsBlog/~6/2"><img src="http://feeds.feedburner.com/DanielWilsonsBlog.2.gif" alt="Daniel Wilson's 
+Blog" style="border:0"></a>
+
+		<p>Please <a href="contact.html">contact me</a> if you have any comments or questions about the website or my 
+			research. You can download my software for genomic analysis <a href="software.html">here</a>.</p>
+

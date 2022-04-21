@@ -1,0 +1,22 @@
+<h2>Distribution of Serogroups and Genotypes among Disease-Associated and Carried Isolates of Neisseria 
+meningitidis from the Czech Republic, Greece, and Norway</h2>
+
+<p>Yazdankhah, S. P., P. Kriz, G. Tzanakaki, J. Kremastinou, J. Kalmusova, M. 
+					Musilek, T. Alvedstad, K. A. Jolley, D. J. Wilson, N. D. McCarthy, 
+D. A. 
+					Caugant and M. C. J. Maiden (2004)<br>
+<I>Journal of Clinical Microbiology</I> <B>42</B>: 5146-5153. (<a 
+href="http://jcm.asm.org/cgi/reprint/42/11/5146.pdf" target="_blank">pdf</a>)</p>
+		
+<p>The distribution of serogroups and multilocus sequence types (STs) in collections of disease-associated 
+and carried meningococci from the period 1991 to 2000 in three European countries (the Czech Republic, 
+Greece, and Norway) was investigated. A total of 314 patient isolates and 353 isolates from asymptomatic 
+carriers were characterized. The frequency distributions of serogroups and clone complexes differed among 
+countries and between disease and carrier isolate collections. Highly significant differentiation was seen 
+at each housekeeping locus. A marked positive association of serogroup C with disease was evidenced. The 
+ST-11 complex was strongly positively associated with disease; associations for other clone complexes were 
+weaker. The genetic diversity of the clone complexes differed. A single ST dominated the ST-11 clone 
+complex, while the ST-41/44 complex exhibited greater levels of diversity. These data robustly 
+demonstrated differences in the distribution of meningococcal genotypes in disease and carrier isolates 
+and among countries. Further, they indicated that differences in genotype diversity and pathogenicity 
+exist between meningococcal clone complexes.</p>

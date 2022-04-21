@@ -1,0 +1,76 @@
+    <img src="bugbank.png" align="right" width="230">
+    <h1>Bugbank</h1>
+    <p>Bugbank is a project that aims to link infection data from Public Health England to improve the study of infection in the UK Biobank cohort.</p>
+
+<!--    <h2>News</h2>
+    <a href="http://feeds.feedburner.com/~r/bugbankblog/~6/2"><img src="http://feeds.feedburner.com/bugbankblog.2.gif" alt="Bugbank Blog" style="border:0"></a>-->
+<!--    <iframe src ="https://news.bugbank.uk" width="100%" height="200">
+      <p>Your browser does not support iFrames.</p>
+    </iframe>-->
+    <h2>Background</h2>
+    <p>Infection is a major cause of poor health and early death around the 
+world. We are all exposed to infectious microbes, but what is unclear is why some 
+people succumb to infection when others do not? And why some infected people 
+become seriously unwell, when others do not? The Bugbank project is developing 
+infrastructure to help researchers address these questions. 
+
+    <p>Bugbank is a collaboration between the <a href="https://www.bdi.ox.ac.uk">Oxford Big Data Institute</a>, 
+<a href="https://www.gov.uk/government/organisations/public-health-england">Public 
+Health England</a> (PHE) and <a href="https://www.ukbiobank.ac.uk">UK Biobank</a> (UKB). 
+PHE is responsible for surveillance 
+of infections and antimicrobial resistance in England. UKB is an ongoing study 
+of common diseases in a cohort of 500,000 people aged over 40 when they were 
+recruited in 2006-2010. UKB allows researchers to study the effects of 
+lifestyle, environment and human genetics on disease.
+
+    <p>The objective of Bugbank is to link infection data from PHE to improve 
+the study of infection in the UKB cohort. We have developed a system to 
+dynamically link daily reports of infections in the PHE Microbiology database 
+with the UKB system. This linkage of systems enables the identification of 
+infections that have occurred in UKB participants.
+
+    <p>In addition to data linkage, we are piloting the feasibility of 
+retrieving microbial cultures from UKB participants through clinical diagnostic 
+labs for further microbiological and genetic analysis. This could be used to 
+fulfil the long-term Bugbank objective of performing joint human-microbe 
+studies to better understand the lifestyle, epidemiological and genetic risks 
+for common infections in a large cohort over time. 
+
+    <p>There are three phases to the Bugbank project:
+    <ol>
+    <li>Incorporate infection data from PHE (e.g. microbial species, infection 
+type, antibiotic susceptibility data) into UK Biobank to improve the 
+information available to scientists studying the UKB cohort. This linkage would 
+provide researchers with greater granularity over infection types, improving 
+the chances of finding risk factors for infection.</li>
+
+    <li>Progress from periodic (e.g. annual) linkage of PHE data and UKB, to a 
+dynamic linkage system which incorporates new infection data on a frequent 
+(up to daily) basis. This enables phase 3 and could be repurposed for rapid 
+response to Covid-19 (see below).</li>
+
+    <li>Assess the practicality of identifying and retrieving the microbial 
+cultures from infections occurring within the UKB cohort from clinical 
+diagnostic labs in England for further microbiological and 
+genetic investigation.</li>
+    </ol>
+
+    <p>The computer systems required for phases 1 and 2 have been created and 
+tested. You can read about the results of phase 1 <a href="http://www.danielwilson.me.uk/abstracts/hilton_etal_2020.html">here</a>. The data from phase 1 will become available to UKB researchers pending a PHE-UKB contractual agreement. An article summarising phase 2
+is in preparation. Retrieval and storage of the microbial samples (phase 3) has 
+started and looks promising. 
+
+    <h2>Covid-19</h2>
+    In light of the ongoing pandemic, the systems we have put in place for 
+Bugbank could be deployed to study Covid-19 infection caused by the novel coronavirus SARS-CoV-2 in near-to 
+real time. The linkage of data between PHE and UKB may enable researchers 
+around the world to look for genetic, epidemological and lifestyle risk factors 
+for severe infection. This information could provide invaluable clues as to why 
+some people develop mild symptoms while others develop life-threatening 
+disease. The repurposing of phase 2 for studying Covid-19 is ongoing, with 
+updates to follow here. 
+
+    <h2>Funding</h2>
+    Phase 1 was supported by the Public Health England Pipeline Fund. Phases 2 
+and 3 are funded by the <a href="http://www.robertsonfoundation.org">Robertson Foundation</a>. Parallel work developing data 
+analysis methods for phase 3 is funded by the <a href="https://wellcome.ac.uk">Wellcome Trust</a> and <a href="https://royalsociety.org">Royal Society</a>.

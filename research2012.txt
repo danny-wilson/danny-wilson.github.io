@@ -1,0 +1,19 @@
+<h2>My research interests</h2>
+<table width="100%">
+        <tr>
+                <td><center><b>Transmission modelling
+                <td><center><b>Pathogen evolution
+                <td><center><b>Detecting selection
+                <td><center><b>Methods development
+        </tr>
+	<tr>
+		<td><center><a href=""><img id="interests" src="art/transmission200.jpg"></a>
+		<td><center><a href=""><img id="interests" src="art/evolution200.jpg"></a>
+		<td><center><a href=""><img id="interests" src="art/selection200.jpg"></a>
+		<td><center><a href=""><img id="interests" src="art/methods200.jpg"></a>
+	</tr>
+</table>
+<p>The aim of my research is to develop an evolutionary understanding of transmission dynamics and propensity
+for virulence in bacterial pathogens. The approach is an empirical one, through genomic analysis of natural populations.
+The central themes of my research programme are (i) transmission modelling, (ii) pathogen evolution and (iii) detecting
+selection. A strong theoretical basis and a focus on statistical methods development underpin my work.</p>

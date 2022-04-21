@@ -1,0 +1,30 @@
+<h2>Estimating diversifying selection and functional constraint in the 
+presence of recombination</h2>
+<p>Wilson, D. J. and G. McVean (2006)<br>
+<i>Genetics</i> <B>172</B>: 1411-1425. (<a href="http://www.genetics.org/cgi/reprint/172/3/1411" 
+target="_blank">pdf</a> <a href="../software.html">software</a>)</p>
+
+<p>Models of molecular evolution that incorporate the ratio of 
+nonsynonymous to synonymous polymorphism 
+(<i>d<sub>N</sub>/d<sub>S</sub></i> 
+ratio) as a parameter can 
+be used to identify sites that are under diversifying selection or 
+functional constraint in a sample of gene sequences. However, when there 
+has been recombination in the evolutionary history of the sequences, 
+reconstructing a single phylogenetic tree is not appropriate, and 
+inference based on a single tree can give misleading results. In the 
+presence of high levels of recombination, the identification of sites 
+experiencing diversifying selection can suffer from a false-positive rate 
+as high as 90%. We present a model that uses a population genetics 
+approximation to the coalescent with recombination and use reversible-jump 
+MCMC to perform Bayesian inference on both the 
+<i>d<sub>N</sub>/d<sub>S</sub></i> 
+ratio and the 
+recombination rate, allowing each to vary along the sequence. We 
+demonstrate that the method has the power to detect variation in the 
+<i>d<sub>N</sub>/d<sub>S</sub></i> 
+ratio and the recombination rate and does not suffer from a high 
+false-positive rate. We use the method to analyze the <i>porB</i> gene of 
+<i>Neisseria meningitidis</i> and verify the inferences using prior 
+sensitivity 
+analysis and model criticism techniques.</p>

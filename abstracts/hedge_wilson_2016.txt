@@ -1,0 +1,5 @@
+<h2>Practical approaches for detecting selection in microbial genomes.</h2>
+<p>Hedge, J. and D. J. Wilson (2016)<br>
+<i>PLoS Computational Biology</i> <b>12</b>: e1004739 (<a href="http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004739">pdf</a>)
+
+<p>Microbial genome evolution is shaped by a variety of selective pressures. Understanding how these processes occur can help to address important problems in microbiology by explaining observed differences in phenotypes, including virulence and resistance to antibiotics. Greater access to whole-genome sequencing provides microbiologists with the opportunity to perform large-scale analyses of selection in novel settings, such as within individual hosts. This tutorial aims to guide researchers through the fundamentals underpinning popular methods for measuring selection in pathogens. These methods are transferable to a wide variety of organisms, and the exercises provided are designed for researchers with any level of programming experience.</p>

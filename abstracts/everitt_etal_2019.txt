@@ -1,0 +1,6 @@
+<h2>Sequential Monte Carlo with transformations.</h2>
+<p>Everitt, R. G., Culliford, R., Medina-Aguayo, F., D.	J. Wilson (2019)<br>
+<i>Statistics and Computing</i> <b>30</b>: 663-676 (<a href="https://arxiv.org/abs/1612.06468">preprint</a> <a href="http://link.springer.com/article/10.1007/s11222-019-09903-y">pdf</a>)
+
+<p>This paper introduces methodology for performing Bayesian inference sequentially on a sequence of posteriors on spaces of different dimensions. We show how this may be achieved through the use of sequential Monte Carlo (SMC) samplers (Del Moral et al., 2006, 2007), making use of the full flexibility of this framework in order that the method is computationally efficient. In particular, we introduce the innovation of using deterministic transformations to move particles effectively between target distributions with different dimensions. This approach, combined with adaptive methods, yields an extremely flexible and general algorithm for Bayesian model comparison that is suitable for use in applications where the acceptance rate in reversible jump Markov chain Monte Carlo (RJMCMC) is low. We demonstrate this approach on the well-studied problem of model comparison for mixture models, and for the novel application of inferring coalescent trees sequentially, as data arrives.</p>
+

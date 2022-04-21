@@ -1,0 +1,19 @@
+<h2>Machine learning for classifying tuberculosis drug-resistance from DNA sequencing data.</h2>
+<p>Yang, Y., Niehaus, K. E., Walker, T. M., Iqbal, Z., Walker, A. S., Wilson, D. J., Peto, T. E., Crook, D. W., Smith, G. E., Zhu, T. and D. A. Clifton (2017)<br>
+<i>Bioinformatics</i> doi:10.1093/bioinformatics/btx801. (<a href="https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/btx801/4731737">pdf</a>)
+
+<p><b>Motivation</b></p>
+
+<p>Correct and rapid determination of Mycobacterium tuberculosis (MTB) resistance against available tuberculosis (TB) drugs is essential for the control and management of TB. Conventional molecular diagnostic test assumes that the presence of any well-studied single nucleotide polymorphisms is sufficient to cause resistance, which yields low sensitivity for resistance classification.</p>
+
+<p><b>Methods</b></p>
+
+<p>Given the availability of DNA sequencing data from MTB, we developed machine learning models for a cohort of 1839 UK bacterial isolates to classify MTB resistance against eight anti-TB drugs (isoniazid, rifampicin, ethambutol, pyrazinamide, ciprofloxacin, moxifloxacin, ofloxacin, streptomycin) and to classify multi-drug resistance.</p>
+
+<p><b>Results</b></p>
+
+<p>Compared to previous rules-based approach, the sensitivities from the best-performing models increased by 2-4% for isoniazid, rifampicin and ethambutol to 97% (p<0.01), respectively; for ciprofloxacin and multi-drug resistant TB, they increased to 96%. For moxifloxacin and ofloxacin, sensitivities increased by 12% and 15% from 83% and 81% based on existing known resistance alleles to 95% and 96% (p<0.01), respectively. Particularly, our models improved sensitivities compared to the previous rules-based approach by 15% and 24% to 84% and 87% for pyrazinamide and streptomycin (p<0.01), respectively. The best-performing models increase the area-under-the-ROC curve by 10% for pyrazinamide and streptomycin (p<0.01), and 4-8% for other drugs (p<0.01).</p>
+
+<p><b>Availability</b></p>
+
+<p>The details of source code are provided at <a href="http://www.robots.ox.ac.uk/davidc/code.php">http://www.robots.ox.ac.uk/davidc/code.php</a></p>

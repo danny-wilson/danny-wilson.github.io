@@ -1,0 +1,27 @@
+<h2>Mismatch induced speciation in <i>Salmonella</i>: model and data</h2>
+
+<p>Falush, D., M. Torpdahl, X. Didelot, D. F. Conrad, D. J. Wilson and 
+M. Achtman (2006)<br>
+<i>Philosophical Transactions of the Royal Society B</i> <b>361</b>: 
+2045-2053. (<a 
+href="http://www.journals.royalsoc.ac.uk/openurl.asp?genre=article&id=doi:10.1098/rstb.2006.1925">pdf</a>)</p>
+
+<p>In bacteria, DNA sequence mismatches act as a barrier to recombination 
+between distantly related organisms and can potentially promote the 
+cohesion of species. We have performed computer simulations which show 
+that the homology dependence of recombination can cause <i>de novo</i> 
+speciation 
+in a neutrally evolving population once a critical population size has 
+been exceeded. Our model can explain the patterns of divergence and 
+genetic exchange observed in the genus <i>Salmonella</i>, without invoking 
+either 
+natural selection or geographical population subdivision. If this model 
+was validated, based on extensive sequence data, it would imply that the 
+named subspecies of <i>Salmonella</i> enterica correspond to good 
+biological 
+species, making species boundaries objective. However, multilocus sequence 
+typing data, analysed using several conventional tools, provide a 
+misleading impression of relationships within <i>S. enterica</i> 
+subspecies 
+enterica and do not provide the resolution to establish whether new 
+species are presently being formed.</p>

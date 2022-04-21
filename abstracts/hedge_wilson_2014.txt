@@ -1,0 +1,5 @@
+<h2>Bacterial phylogenetic reconstruction from whole genomes is robust to recombination but demographic inference is not.</h2>
+<p>Hedge, J. and D. J. Wilson (2014)<br>
+<i>mBio</i> <b>5</b>: e02158-14. (<a href="http://mbio.asm.org/content/5/6/e02158-14.abstract">pdf</a>)
+
+<p>Phylogenetic inference in bacterial genomics is fundamental to understanding problems such as population history, antimicrobial resistance, and transmission dynamics. The field has been plagued by an apparent state of contradiction since the distorting effects of recombination on phylogeny were discovered more than a decade ago. Researchers persist with detailed phylogenetic analyses while simultaneously acknowledging that recombination seriously misleads inference of population dynamics and selection. Here we resolve this paradox by showing that phylogenetic tree topologies based on whole genomes robustly reconstruct the clonal frame topology but that branch lengths are badly skewed. Surprisingly, removing recombining sites can exacerbate branch length distortion caused by recombination.</p>

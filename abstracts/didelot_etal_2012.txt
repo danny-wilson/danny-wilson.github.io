@@ -1,0 +1,5 @@
+<h2>Transforming Clinical Microbiology with Bacterial Genome Sequencing</h2>
+<p>Didelot, X.,	 Bowden,  R., Wilson, D. J., Peto, T. E. A. and D. W. Crook (2012)<br>
+<i>Nature Reviews Genetics</i> <b>13</b>: 601-612. (<a href="http://www.nature.com/nrg/journal/v13/n9/pdf/nrg3226.pdf">pdf</a>)
+
+<p>Whole-genome sequencing of bacteria has recently emerged as a cost-effective and convenient approach for addressing many microbiological questions. Here, we review the current status of clinical microbiology and how it has already begun to be transformed by using next-generation sequencing. We focus on three essential tasks: identifying the species of an isolate, testing its properties, such as resistance to antibiotics and virulence, and monitoring the emergence and spread of bacterial pathogens. We predict that the application of next-generation sequencing will soon be sufficiently fast, accurate and cheap to be used in routine clinical microbiology practice, where it could replace many complex current techniques with a single, more efficient workflow.</p>

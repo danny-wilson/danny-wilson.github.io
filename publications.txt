@@ -1,0 +1,444 @@
+		<h2>Publications and Preprints</h2>
+
+		<p>My ORCID is <a href="http://orcid.org/0000-0002-0940-3311">0000-0002-0940-3311</a>. My ResearcherID is <a href="http://www.researcherid.com/rid/C-1463-2019">C-1463-2019</a>. My Google Scholar profile is <a href="http://scholar.google.co.uk/citations?user=0FD9NekAAAAJ&hl=en">0FD9NekAAAAJ</a>.
+<!--		For manuscripts currently under review <a href="preprints.html">click here</a>-->
+		</p>
+
+		<p>Stevens, E. J., Morse, D. J., Bonini, D., Duggan, S., Brignoli, T., Recker, M., Lees, J. A., Croucher, N. J., Bentley, S., Wilson, D. J., Earle, S. G., Dixon, R., Nobbs, A., Jenkinson, H., van Opijn, T., Thibauld, D., Wilkinson, O. J., Dillingham, M. S., Carlile, S., McLoughlin, R. M. and R. C. Massey (2022)<br>
+		<b>Targeted control of pneumolysin production by a mobile genetic element in <i>Streptococcus pneumoniae</i></b><br>
+		<i>Microbial Genomics</i>, in press (<a href="http://www.danielwilson.me.uk/abstracts/stevens_etal_2022.html">abstract</a>)
+
+		<p>The COVID-19 Host Genetics Initiative (2021)<br>
+		<b>Mapping the human genetic architecture of COVID-19</b><br>
+		<i>Nature</i> <b>doi</b>: 10.1038/s41586-021-03767-x (<a href="http://www.danielwilson.me.uk/abstracts/covid19hgi_2021.html">abstract</a> <a 
+href="https://www.nature.com/articles/s41586-021-03767-x">pdf</a>)
+
+		<p>Lin, S.-K., De Maio, N., Pedergnana, V., Wu, C.-H., Th&eacute;z&eacute;, J., 
+		Wilson, D. J., Barnes, E. and M. A. Ansari (2021)<br>
+		<b>Using host genetics to infer the global spread and evolutionary history of 
+		HCV subtype 3a</b><br>
+		<i>Virus Evolution</i> <b>doi</b>: 10.1093/ve/veab065 (<a href="http://www.danielwilson.me.uk/abstracts/lin_etal_2021.html">abstract</a> <a 
+		href="https://academic.oup.com/ve/advance-article/doi/10.1093/ve/veab065/6317967
+		">pdf</a>)
+
+		<p>Earle, S. G., Lobanovska, M., Lavender, H., Tang, C., Exley, R. M., Ramos-Sevillano, E.,  Browning, D., Kostiou, V., Harrison, O. B., Bratcher, H. B., Varani, G., Tang, C. M.,  Wilson, D. J. and M. C. J. Maiden (2021)<br>
+		<b>Genome-wide association studies reveal the role of polymorphisms affecting factor H binding protein expression in host invasion by <i>Neisseria meningitidis</i></b><br>		
+		<i>PLOS Pathogens</i> <b>17</b>: e1009992 (<a href="http://www.danielwilson.me.uk/abstracts/earle_etal_2021.html">abstract</a> <a href="https://www.medrxiv.org/content/10.1101/2021.01.08.21249443v1">preprint</a> <a href="https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1009992">pdf</a>)
+
+		<p>Arning, N., Sheppard, S., Bayliss, S., Clifton, D. A. and D. J. Wilson (2021)<br>
+		<b>Machine learning to predict the source of campylobacteriosis using whole genome data</b><br>
+		<i>PLOS Genetics</i> <b>17</b>: e1009436 (<a href="http://www.danielwilson.me.uk/abstracts/arning_etal_2021.html">abstract</a> <a href="https://www.biorxiv.org/content/10.1101/2021.02.23.432443v1">preprint</a> <a href="https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1009436">pdf</a>)
+
+		<p>Young, B. C., Wu, C.-H., Charlesworth, J., Earle, S., Price, J. R., Gordon, N. C., Cole, K., Dunn, L., Liu, E., Oakley, S., Godwin, H., Fung, R., Miller, R., Knox, K., Votintseva, A., Quan, T. P., Tilley, R., Scarborough, M., Crook, D. W., Peto, T. E., Walker, A. S., Llewelyn, M. J. and D. J. Wilson (2021)<br>
+		<b>Antimicrobial resistance determinants are associated with <i>Staphylococcus aureus</i> bacteraemia and adaptation to the hospital environment: a bacterial genome-wide association study</b><br>
+		<i>Microbial Genomics</i> <b>doi</b>: 10.1099/mgen.0.000700 (<a href="http://www.danielwilson.me.uk/abstracts/young_etal_2021.html">abstract</a> <a href="https://www.medrxiv.org/content/10.1101/2021.01.13.21249734v1">preprint</a> <a href="https://doi.org/10.1099/mgen.0.000700">pdf</a>)
+
+                <p>Gill, J. L., Hedge, J., Wilson, D. J. and R. C. MacLean (2021)<br>
+                <b>Evolutionary processes driving the rise and fall of <i>Staphylococcus aureus</i> ST239, a dominant hybrid pathogen</b><br>
+                <i>mBio</i> in press. <i>bioRxiv</i> <b>doi</b>: 10.1101/2021.01.10.426095 (<a href="http://www.danielwilson.me.uk/abstracts/gill_etal_2021.html">abstract</a> <a href="https://www.biorxiv.org/content/10.1101/2021.01.10.426095v1">preprint</a>)
+
+		<p>D. J. Wilson (2021)<br>
+		<b>The L&eacute;vy combination test</b><br>
+		<i>arXiv</i> 2105.01501 (<a href="abstracts/wilson_2021.html">abstract</a> <a href="https://arxiv.org/abs/2105.01501">preprint</a>)
+
+		<p>Armstrong, J., Rudkin, J. K., Allen, N., Crook, D. W., Wilson, D. J., Wyllie, D. H. and A. M. O'Connell (2020)<br>
+		<b>Dynamic linkage of COVID-19 test results between Public Health England's Second Generation Surveillance System and UK Biobank</b><br>
+		<i>Microbial Genomics</i> <b>doi</b>: 10.1099/mgen.0.000397 (<a href="http://www.danielwilson.me.uk/abstracts/armstrong_etal_2020.html">abstract</a> <a href="https://doi.org/10.6084/m9.figshare.12091455">preprint</a> <a href="https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.000397">pdf</a>)
+
+		<p>The COVID-19 Host Genetics Initiative (2020)<br>
+		<b>The COVID-19 Host Genetics Initiative, a global initiative to elucidate the role of host genetic factors in susceptibility and severity of the SARS-CoV-2 virus pandemic</b><br>
+		<i>European Journal of Human Genetics</i> <b>28</b>: 715-718 (<a href="abstracts/covid19hgi_2020.html">abstract</a> <a href="https://www.nature.com/articles/s41431-020-0636-6">pdf</a>)
+
+		<p>The Severe Covid-19 GWAS Group [includes COVID-19 Host Genetics Initiative consortium authorship] (2020)<br>
+		<b>Genomewide Association Study of Severe Covid-19 with Respiratory Failure</b><br>
+		<i>New England Journal of Medicine</i> <b>383</b>: 1522-1534 (<a href="http://www.danielwilson.me.uk/abstracts/ellinghaus_etal_2020.html">abstract</a> <a href="https://www.nejm.org/doi/10.1056/NEJMoa2020283">pdf</a>)
+
+		<p>Pairo-Castineira, E., Clohisey, S., Klaric, L., Bretherick, A. D., Rawlik, K., and colleagues [includes COVID-19 Host Genetics Initiative consortium authorship] (2020)<br>
+		<b>Genetic mechanisms of critical illness in Covid-19</b><br>
+		<i>Nature</i> <b>doi</b>: 10.1038/s41586-020-03065-y (<a href="http://www.danielwilson.me.uk/abstracts/pairo-castineira_etal_2020.html">abstract</a> <a href="https://www.nature.com/articles/s41586-020-03065-y">pdf</a>)
+
+<p>The CRyPTIC Consortium (2021)<br>
+<b>Genome-wide association studies of global <i>Mycobacterium tuberculosis</i> resistance to thirteen antimicrobials in 10,228 genomes</b><br>
+<i>bioRxiv</i> <b>doi</b>: 10.1101/2021.09.14.460272 (<a href="https://www.biorxiv.org/content/10.1101/2021.09.14.460272">preprint</a>)
+
+<p>The CRyPTIC Consortium (2021)<br>
+<b>Epidemiological cutoff values for a 96-well broth microdilution plate for high-throughput research antibiotic susceptibility testing of <i>M. tuberculosis</i></b><br>
+<i>medRxiv</i> <b>doi</b>: 10.1101/2021.02.24.21252386 (<a href="https://www.medrxiv.org/content/10.1101/2021.02.24.21252386v3">preprint</a>)
+
+<p>The CRyPTIC Consortium (2021)<br>
+<b>Quantitative measurement of antibiotic resistance in <i>M. tuberculosis</i> reveals genetic determinants of resistance and susceptibility in a target gene approach</b><br>
+Submitted (<a href="http://www.crypticproject.org/wp-content/uploads/2021/09/CRyPTIC5-MIC-preprint.pdf">preprint</a>)
+
+<p>The CRyPTIC Consortium (2021)<br>
+<b>A generalisable approach to drug susceptibility prediction for <i>M. tuberculosis</i> using machine learning and whole-genome sequencing</b><br>
+Submitted (<a href="http://www.crypticproject.org/wp-content/uploads/2021/09/CRyPTIC6-ML-preprint.pdf">preprint</a>)
+
+<p>The CRyPTIC Consortium (2021)<br>
+<b>A data compendium of <i>Mycobacterium tuberculosis</i> antibiotic resistance</b></br>
+<i>bioRxiv</i> <b>doi</b>: 10.1101/2021.09.14.460274 (<a href="https://www.biorxiv.org/content/10.1101/2021.09.14.460274v2">preprint</a>)
+
+<p>Walker, T. M., Miotto, P., K&#246;ser, C. U., Fowler, P. W., Knaggs, J., Iqbal, Z., Hunt, M., Chindelevitch, L., Farhat, M., Cirillo, D. M., Comas, I., Posey, J., Omar, S. V., Peto, T. E. A., Suresh, A., Uplekar, S., Laurent, S., Colman, R., Nathanson, C.-M., Zignol, M., Walker, A. S., The CRyPTIC Consortium, The Seq&amp;Treat Consortium, Crook, D. W., Ismail, N. and T. C. Rodwell (2021)<br>
+<b>The 2021 WHO catalogue of <i>M. tuberculosis</i> complex mutations associated with drug resistance: A new global standard for molecular diagnostics</b><br>
+<i>SSRN</i> 3923444 (<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3923444">preprint</a>)
+
+<p>Fowler, P. W., Wright, C., Spiers, H., Zhu, T., Baeten, E. M. L., Hoosdally, S. W., Gibertoni Cruz, A. L., Roohi, A., Kouchaki, S., Walker, T. M., Peto, T. E. A., Miller, G., Lintott, C., Clifton, D., Crook, D. W., Walker, A. S., The Zooniverse Volunteer Community and The CRyPTIC Consortium (2021)<br>
+<b>BashTheBug: a crowd of volunteers reproducibly and accurately measure the minimum inhibitory concentrations of 13 antitubercular drugs from photographs of 96-well broth microdilution plates</b><br>
+<i>biorXiv</i> <b>doi</b>: 10.1101/2021.07.20.453060 (<a href="https://www.biorxiv.org/content/10.1101/2021.07.20.453060v3">preprint</a>)
+
+<p>Hunt, M., Letcher, B., Malone, K. M., Nguyen, G., Hall, M. B., Colquhoun, R. M., Lima, L., Schatz, M., Ramakrishnan, S., The CRyPTIC Consortium and Z. Iqbal (2021)<br>
+<b>Minos: variant adjudication and joint genotyping of cohorts of bacterial genomes</b><br>
+<i>bioRxiv</i> <b>doi</b>: 10.1101/2021.09.15.460475 (<a href="https://www.biorxiv.org/content/10.1101/2021.09.15.460475v1">preprint</a>)
+
+		<p>Hilton, B., Wilson, D. J., O'Connell A. M., Ironmonger, D., Rudkin, J. K, 
+Allen, N., Oliver, I. and D. Wyllie (2020)<br>
+       	      	<b>Microbial isolation in English participants in the UK Biobank cohort: comparison with the general population</b><br>
+       	      	<i>medRxiv</i> <b>doi</b>: 10.1101/2020.03.18.20038281 (<a href="abstracts/hilton_etal_2020.html">abstract</a> <a href="https://www.medrxiv.org/content/10.1101/2020.03.18.20038281v1">preprint</a>)
+
+		<p>D. J. Wilson and The CRyPTIC Consortium (2020)<br>
+		<b>GenomegaMap: within-species genome-wide <i>d<sub>N</sub>/d<sub>S</sub></i> estimation from over 10,000 genomes</b><br>
+		<i>Molecular Biology and Evolution</i> <b>doi</b>: 10.1093/molbev/msaa069 (<a href="abstracts/wilson_cryptic_2020.html">abstract</a> <a href="https://www.biorxiv.org/content/early/2019/01/17/523316">preprint</a> <a href="https://academic.oup.com/mbe/advance-article/doi/10.1093/molbev/msaa069/5804989">pdf</a>)
+
+		<p>Arning, N. and D. J. Wilson (2020)<br>
+		<b>The past, present and future of bacterial ancient DNA</b><br>
+		<i>Microbial Genomics</i> <b>doi</b>: 10.1099/mgen.0.000384 (<a href="abstracts/arning_wilson_2020.html">abstract</a> <a href="https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.000384">pdf</a>)
+
+		<p>Eyre, D. W., Laager, M., Walker, A. S., Cooper, B. S. and D. J. Wilson on behalf of the CDC Modeling Infectious Diseases in Healthcare Program (MInD-Healthcare) (2020)<br>
+		<b>Probabilistic transmission models incorporating sequencing data for healthcare-associated <i>Clostridioides difficile</i> outperform heuristic rules and identify strain-specific differences in transmission</b><br>
+		<i>PLoS Computational Biology</i> <b>17</b>: e1008417 (<a href="abstracts/eyre_etal_2020.html">abstract</a> <a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008417">pdf</a>)
+
+		<p>D. J. Wilson (2020)<br>
+		<b>Generalized mean <i>p</i>-values for combining dependent tests: comparison of 
+		generalized central limit theorem and robust risk analysis</b> [version 1; peer review: 2 approved]<br>
+		<i>Wellcome Open Research</i> <b>5</b>: 55 (<a href="abstracts/wilson_2020.html">abstract</a> <a href="https://wellcomeopenresearch.org/articles/5-55/v1">pdf</a>)
+
+		<p>Young, B. C., Earle, S. G., Soeng, S., Sar, P., Kumar, V., Hor, S., Sar, V., Bousfield, R., Sanderson, N. D., Barker, L., Stoesser, N., Emary, K. R. W., Parry, C. M., Nickerson, E. K., Turner, P., Bowden, R., Crook, D., Wyllie, D., Day, N. P. J., Wilson, D. J. and C. E. Moore (2019)<br>
+		<b>Panton-Valentine leukocidin is the key determinant of <i>Staphylococcus aureus</i> pyomyositis in a bacterial genome-wide association study.</b><br>
+		<i>eLife</i> <b>8</b>: e42486 (<a href="abstracts/young_etal_2019.html">abstract</a> <a href="https://www.biorxiv.org/content/early/2018/09/29/430538">preprint</a> <a href="https://elifesciences.org/articles/42486">pdf</a>)
+
+       		<p>D. J. Wilson (2019)<br>
+		<b>The harmonic mean <i>p</i>-value for combining dependent tests.</b><br>
+		<i>Proceedings of the National Academy of Sciences USA</i> <b>116</b>: 1195-1200. (<a href="abstracts/wilson_2019.html">abstract</a> <a href="https://www.pnas.org/content/116/4/1195">pdf</a>)
+
+		<p>D. J. Wilson (2019)<br>
+		<b>Reply to Held: When is a harmonic mean <i>p</i>-value a Bayes factor?</b><br>
+		<i>Proceedings of the National Academy of Sciences USA</i> <b>116</b>: 5857-5858. (<a href="preprints/wilson_2019b.pdf">preprint</a> <a href="https://www.pnas.org/content/early/2019/03/18/1902157116">pdf</a>)
+
+		<p>D. J. Wilson (2019)<br>
+		<b>Correction for Wilson, The harmonic mean <i>p</i>-value for combining dependent tests.</b><br>
+		<i>Proceedings of the National Academy of Sciences USA</i> <b>116</b>: 21948 (<a href="https://www.pnas.org/content/early/2019/10/02/1914128116">pdf</a>)
+
+                <p>D. J. Wilson (2019)<br>
+                <b>Reply to Goeman et al: Trade-offs in model averaging using multilevel tests.</b><br>
+                <i>Proceedings of the National Academy of Sciences USA</i> <b>116</b>: 23384-23385 (<a href="preprints/wilson_2019d.pdf">preprint</a> <a href="https://www.pnas.org/content/early/2019/10/21/1910684116">pdf</a>)
+
+		<p>Everitt, R. G., Culliford, R., Medina-Aguayo, F., D. J. Wilson (2019)<br>
+		<b>Sequential Monte Carlo with transformations.</b><br>
+		<i>Statistics and Computing</i> <b>30</b>: 663-676 (<a href="abstracts/everitt_etal_2019.html">abstract</a> <a href="https://arxiv.org/abs/1612.06468">preprint</a> <a href="http://link.springer.com/article/10.1007/s11222-019-09903-y">pdf</a>)
+
+		<p>Yang, Y., Walker, T. M., Walker, A. S., Wilson, D. J., Peto, T. E. A., Crook, D. W., Shamout, F., Zhu, T., Clifton, D. A. and CRyPTIC Consortium (2019)<br>
+		<b>DeepAMR for predicting co-occurrent resistance of <i>Mycobacterium tuberculosis</i>.</b><br>
+		<i>Bioinformatics</i> <b>35</b>: 3240-3249 (<a href="abstracts/yang_etal_2019.html">abstract</a> <a href="https://academic.oup.com/bioinformatics/article/35/18/3240/5303535">pdf</a>)
+
+		<p>Crispell, J., Benton, C. H., Balaz, D., De Maio, N., Akhmetova, A., Allen, A., Biek, R., Breadon, E. L., Dale, J., Hewinson, G., Lycett, S. J., Nunez-Garcia, J., Skuce, R. A., Trewby, H., Wilson, D. J., Zadoks, R. N., Delahay, R. J. and R. R. Kao (2019)<br>
+		<b>Combining genomics and epidemiology to analyse bi-directional transmission of <i>Mycobacterium bovis</i> in a multi-host system.</b><br>
+		<i>eLife</i> <b>8</b>: e45833 (<a href="abstracts/crispell_etal_2019.html">abstract</a> <a href="https://elifesciences.org/articles/45833">pdf</a>)
+
+		<p>Cole, K., Foster, D., Russell, J. E., Golubchik, T., Llewelyn, M., Wilson, D. J., Crook, D., Paul, J. and The Modernising Medical Microbiology Consortium (2019)<br>
+		<b>Draft genome sequences of 64 type strains of 50 species and 25 subspecies of the genus <i>Staphylococcus</i> Rosenbach 1884.</b><br>
+		<i>Microbiology Resource Announcements</i> <b>8</b>: e00062-19 (<a href="abstracts/cole_etal_2019.html">abstract</a> <a href="https://journals.asm.org/doi/full/10.1128/MRA.00062-19">pdf</a>)
+
+		<p>Didelot, X., Croucher, N., Bentley, S. and D. J. Wilson (2018)<br>
+		<b>Bayesian inference of ancestral dates on bacterial phylogenetic trees.</b><br>
+		<i>Nucleic Acids Research</i> <b>46</b>: e134. (<a href="abstracts/didelot_etal_2018.html">abstract</a> <a href="https://academic.oup.com/nar/article/46/22/e134/5089898">pdf</a>)
+
+		<p>De Maio, N., Worby, C. J., Wilson, D. J. and N. Stoesser (2018)<br>
+		<b>Bayesian reconstruction of transmission within outbreaks using genomic variants.</b><br>
+		<i>PLoS Computational Biology</i> <b>14</b>: e1006117. (<a href="abstracts/demaio_etal_2018.html">abstract</a> <a href="https://www.biorxiv.org/content/early/2017/11/08/213819">preprint</a> <a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006117">pdf</a>)
+
+		<p>Gibson, B., Wilson, D. J., Feil, E. and Eyre-Walker, A. (2018)<br>
+		<b>The distribution of bacterial doubling times in the wild.</b><br>
+		<i>Proceedings of the Royal Society B</i> <b>285</b>: 20180789. (<a href="abstracts/gibson_etal_2018.html">abstract</a> <a href="http://rspb.royalsocietypublishing.org/content/royprsb/285/1880/20180789.full.pdf">pdf</a> <a href="https://www.biorxiv.org/content/early/2017/11/06/214783">preprint</a>)
+
+		<p>The CRyPTIC Consortium and the 100,000 Genomes Project (2018)<br>
+		<b>Prediction of susceptibility to first-line tuberculosis drugs by DNA sequencing.</b><br>
+		<i>New England Journal of Medicine</i> <b>379</b>: 1403-1415 (<a href="abstracts/cryptic_2018.html">abstract</a> <a href="https://www.nejm.org/doi/10.1056/NEJMoa1800474">pdf</a>)
+
+		<p>Kouchaki, S., Yang, Y., Walker, T. M., Walker, A. S., Wilson, D. J., Peto, T. E. A., Crook, D. W., Clifton, D. A. and the CRyPTIC Consortium (2018)<br>
+		<b>Application of machine learning to tuberculosis drug resistance analysis.</b><br>
+		<i>Bioinformatics</i> <b>35</b>: 2276-2282 (<a href="abstracts/kouchaki_etal_2018.html">abstract</a> <a href="https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/bty949/5194336">pdf</a>)
+
+		<p>Young, B. C., Wu, C.-H., Gordon, N. C., Cole, K., Price, J. R., Lui, E., Sheppard, A. E., Perera, S., Charlesworth, J., Golubchik, T., Iqbal, Z., Bowden, R., Massey, R. C., Paul, J., Crook, D. W., Peto, T. E. A., Walker, A. S., Llewelyn, M. J., Wyllie, D. H. and D. J. Wilson (2017)<br>
+		<b>Severe infections emerge from commensal bacteria by adaptive evolution.</b><br>
+		<i>eLife</i> <b>6</b>: e30637. (<a href="abstracts/young_etal_2017.html">abstract</a> <a href="https://elifesciences.org/articles/30637">pdf</a> <a href="http://biorxiv.org/content/early/2017/04/19/116681">preprint</a>)
+
+		<p>De Maio, N. and D. J. Wilson (2017)<br>
+		<b>The bacterial sequential Markov coalescent.</b><br>
+		<i>Genetics</i> <b>206</b>: 333-343. (<a href="abstracts/demaio_etal_2017.html">abstract</a> <a href="http://www.genetics.org/content/early/2017/03/02/genetics.116.198796">pdf</a>)
+
+		<p>Yang, Y., Niehaus, K. E., Walker, T. M., Iqbal, Z., Walker, A. S., Wilson, D. J., Peto, T. E., Crook, D. W., Smith, G. E., Zhu, T. and D. A. Clifton (2017)<br>
+		<b>Machine learning for classifying tuberculosis drug-resistance from DNA sequencing data.</b><br>
+		<i>Bioinformatics</i> <b>34</b>: 1666-1671 (<a href="abstracts/yang_etal_2017.html">abstract</a> <a href="https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/btx801/4731737">pdf</a>)
+
+		<p>Gordon, N. C., Pichon, B., Golubchik, T., Wilson, D. J., Paul, J., Blanc, D. S., Cole, K., Collins, J. Cortes, N., Cubbon, M., Gould, F. K., Jenks, P. J., Llewelyn, M., Nash, J. Q., Orendi, J. M., Paranthaman, K., Price, J. R., Senn, L., Thomas, H. L., Wyllie, S., Crook, D. W., Peto, T. E. A., Walker, A. S. and A. M. Kearns (2017)<br>
+		<b>Whole genome sequencing reveals the contribution of long-term carriers in <i>Staphylococcus aureus</i> outbreak investigation.</b><br>
+		<i>Journal of Clinical Microbiology</i> <b>55</b>: 2188-2197. (<a href="abstracts/gordon_etal_2017.html">abstract</a> <a href="http://jcm.asm.org/content/55/7/2188.long">pdf</a>)
+
+                <p>Dingle, K. E., Didelot, X., Quan, T. P., Eyre, D. W., Stoesster, N., Golubchik, T., Harding, R. M., Wilson, D. J., Griffiths, D., Oakley, S. J., the Modernising Medical Microbiology Informatics Group, Fawley, W. N., Freeman, J., Morris, K., Martin, J., Howard, P., Gorbach, S., Goldstein, E. J. C., Citron, D. M., Hopkins, S., Hope, R., Johnson, A. P., Wilcox, M. H., Peto, T. E. A., Walker, A. S. and D. W. Crook (2017)<br>
+                <b>Effects of control interventions on <i>Clostridium difficile</i> infection in England: an observational study.</b><br>
+                <i>Lancet Infectious Diseases</i> <b>17</b>: 411-421. (<a href="abstracts/dingle_etal_2017.html">abstract</a> <a href="http://www.thelancet.com/journals/laninf/article/PIIS1473-3099(16)30514-X/fulltext">pdf</a>)
+
+                <p>Price, J. R., Cole, K., Bexley, A., Kostiou, V., Eyre, D. W., Golubchik, T., Wilson, D. J., Crook, D. W., Walker, A. S., Peto, T. E. A., Llewelyn, M. J. and J. Paul (2017)<br>
+                <b>Transmission of <i>Staphylococcus aureus</i> between health-care workers, the environment, and patients in an intensive care unit: a longitudinal cohort study based on whole-genome sequencing.</b><br>
+                <i>Lancet Infectious Diseases</i> <b>17</b>: 207-214. (<a href="abstracts/price_etal_2016.html">abstract</a> <a href="http://www.thelancet.com/journals/laninf/article/PIIS1473-3099(16)30413-3/fulltext">pdf</a>)
+
+		<p>Earle, S. G., Wu, C.-H., Charlesworth, J., Stoesser, N., Gordon, N. C., Walker, T. M., Spencer, C. C. A., Iqbal, Z., Clifton, D. A., Hopkins, K. L., Woodford, N., Smith, E. G., Ismail, N., Llewelyn, M. J., Peto, T. E., Crook, D. W., McVean, G., Walker, A. S. and D. J. Wilson (2016)<br>
+		<b>Identifying lineage effects when controlling for population structure improves power in bacterial association studies.</b><br>
+		<i>Nature Microbiology</i> <b>1</b>: 16041 (<a href="abstracts/earle_etal_2016.html">abstract</a> <a href="http://www.nature.com/articles/nmicrobiol201641">pdf</a> <a href="http://arxiv.org/abs/1510.06863">preprint</a> <a href="files/bugwas_si.pdf">supplement</a>)
+
+		<p>Das, S., Lindemann, C., Young, B. C., Muller, J., &Ouml;sterreich, B., Ternette, N., Winkler, A.-C., Paprotka, K., Reinhardt, R., F&ouml;rstner, K. U., Allen, E., Flaxman, A., Yamaguchi, Y., Rollier, C. S., Van Diemen, P., Bl&auml;ttner, S., Remmele, C. W., Selle, M., Dittrich, M., M&uuml;ller, T., Vogel, J., Ohlsen, K., Crook, D., Massey, R., Wilson, D. J., Rudel, T., Wyllie, D. H., and M. J. Fraunholz (2016)<br>
+		<b>Natural mutations in a <i>Staphylococcus aureus</i> virulence regulator attenuate cytotoxicity but permit bacteremia and abscess formation.</b><br>
+		<i>Proceedings of the National Academy of Sciences USA</i> <b>113</b>: E3101-E3110. (<a href="abstracts/das_etal_2016.html">abstract</a> <a href="http://www.pnas.org/content/early/2016/05/13/1520255113">pdf</a>)
+
+		<p>De Maio, N., Wu, C.-H. and D. J. Wilson (2016)<br>
+		<b>SCOTTI: Efficient reconstruction of transmission within outbreaks with the structured coalescent.</b><br>
+		<i>PLoS Computational Biology</i> <b>12</b>: e1005130. (<a href="abstracts/demaio_etal_2016.html">abstract</a> <a href="http://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1005130">pdf</a> <a href="http://arxiv.org/abs/1603.01994">preprint</a>)
+
+		<p>Didelot, X., Walker, A. S., Peto, T. E., Crook, D. W. and D. J. Wilson (2016)<br>
+		<b>Within-host evolution of bacterial pathogens.</b><br>
+		<i>Nature Reviews Microbiology</i> <b>14</b>: 150-162. (<a href="abstracts/didelot_etal_2016.html">abstract</a> <a href="http://www.nature.com/nrmicro/journal/vaop/ncurrent/full/nrmicro.2015.13.html">pdf</a>)
+
+		<p>Hedge, J. and D. J. Wilson (2016)<br>
+		<b>Practical approaches for detecting selection in microbial genomes.</b><br>
+		<i>PLoS Computational Biology</i> <b>12</b>: e1004739 (<a href="abstracts/hedge_wilson_2016.html">abstract</a> <a href="http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004739">pdf</a>)
+
+                <p>Dearlove, B. L., Cody, A. J., Pascoe, B., M&eacute;ric, G., Wilson, D. J. and S. K. Sheppard (2016)<br>
+                <b>Rapid host switching in generalist <i>Campylobacter</i> strains erodes the signal for tracing human infections.</b><br>
+                <i>ISME Journal</i> <b>10</b>: 721-9. (<a href="abstracts/dearlove_etal_2015.html">abstract</a> <a href="http://www.nature.com/ismej/journal/vaop/ncurrent/full/ismej2015149a.html">pdf</a>)
+
+		<p>De Silva, D., Peters, J., Cole, K., Cole, M. L., Cresswell, F., Dean, G., Dave, J., Thomas, D. R., Foster, K., Waldram, A., Wilson, D. J., Didelot, X., Grad, Y. H., Crook, D. W., Peto, T. E. A., Walker, A. S., Paul, J. and Eyre, D. W (2016)<br>
+		<b>Whole-genome sequencing to determine transmission of <i>Neisseria gonorrhoeae</i>: an observational study.</b><br>
+		<i>Lancet Infectious Diseases</i> <b>16</b>: 1295-1303. (<a href="abstracts/desilva_etal_2016.html">abstract</a> <a href="http://www.thelancet.com/journals/laninf/article/PIIS1473-3099(16)30157-8/fulltext">pdf</a>)
+
+		<p>Stoesser, N., Sheppard, A. E., Pankhurst, L., De Maio, N., Moore, C. E., Sebra, R., Turner, P., Anson, L., Kasarskis, A., Batty, E. M., Kos, V., Wilson, D. J., Phetsouvanh, R., Wyllie, D., Sokurenko, E., Manges, A., Johnson, T. J., Price, L. B., Peto, T. E. A., Johnson, J. R., Didelot, X., Walker, A. S., Crook, D. W. and the Modernizing Medical Microbiology Informatics Group (2016)<br>
+		<b>Evolutionary history of the global emergence of the <i>Escherichia coli</i> epidemic clone ST131.</b><br>
+		<i>mBio</i> <b>7</b>: e02162-15 (<a href="abstracts/stoesser_etal_2016.html">abstract</a> <a href="http://mbio.asm.org/content/7/2/e02162-15">pdf</a>).
+
+		<p>Sheppard, A., Stoesser, N., Wilson, D. J., Sebra, R., Kasarskis, A., Anson, L., Giess, A., Pankhurst, L., Vaughan, A., Grim, C., Cox, H., Yeh, A., the Modernising Medical Microbiology Informatics Group, Sifri, C., Walker, A. S., Peto, T., Crook, D. W. and A. Mathers (2016)<br>
+		<b>Nested Russian Doll-like genetic mobility drives rapid dissemination of the carbapenem resistance gene <i>blaKPC</i></b><br>
+		<i>Antimicrobial Agents and Chemotherapy</i> <b>60</b>: 3767-3778. (<a href="abstracts/sheppard_etal_2016.html">abstract</a> <a href="http://aac.asm.org/content/60/6/3767.full">pdf</a>).
+
+		<p>van Hal, S. J., Ip, C. L. C., Anzari, M. A., Wilson, D. J., Espedido, B., Jensen, S. O. and R. Bowden (2016)<br>
+		<b>Evolutionary dynamics of <i>Enterococcus faecium</i> reveals complex genomic relationships between isolates with independent emergence of vancomycin resistance.</b><br>
+		<i>Microbial Genomics</i> <b>doi</b>: 10.1099/mgen.0.000048. (<a href="abstracts/vanhal_etal_2016.html">abstract</a> <a href="http://mgen.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.000048">pdf</a>)
+
+		<p>Brown, T., Didelot, X., Wilson, D. J. and N. De Maio (2016)<br>
+		<b>SimBac: simulation of whole bacterial genomes with homologous recombination.</b><br>
+		<i>Microbial Genomics</i> <b>doi</b>: 10.1099/mgen.0.000044. (<a href="abstracts/brown_etal_2016.html">abstract</a> <a href="http://mgen.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.000044">pdf</a>)
+
+		<p>Leekitcharoenphon, P., Hendriksen, R. S., Le Hello, S., Weill, F. X., Baggesen, D. L., Jun, S.-R., Ussery, D. W., Lund, O., Crook, D. W., Wilson, D. J. and F. M. Aarestrup (2016)<br>
+		<b>Global genomic epidemiology of <i>Salmonella</i> Typhimurium DT104.</b><br>
+		<i>Applied and Environmental Microbiology</i> <b>82</b>: 2516-2526. (<a href="abstracts/shinny_etal_2016.html">abstract</a> <a href="http://aem.asm.org/content/early/2016/02/15/AEM.03821-15.abstract">pdf</a>).
+
+		<p>Laabei, M., Uhlemann, A.-C., Lowy, F. D., Austin, E. D., Yokoyama, M., Ouadi, K., Feil, E., Thorpe, H. A., Williams, B., Perkins, M., Peacock, S. J., Clarke, S. R., Dordel, J., Holden, M., Votintseva, A. A., Bowden, R., Crook, D. W., Young, B. C., Wilson, D. J., Recker, M. and R. C. Massey (2015)<br>
+		<b>Evolutionary trade-offs underlie the multi-faceted virulence of <i>Staphylococcus aureus</i>.</b><br>
+		<i>PLoS Biology</i> <b>13</b>: e1002229. (<a href="abstracts/laabei_etal_2015.html">abstract</a> <a href="http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002229">pdf</a>)
+
+		<p>De Maio, N., Wu, C.-H., O'Reilly, K. M. and D. J. Wilson (2015)<br>
+		<b>New routes to phylogeography: a Bayesian structured coalescent approximation.</b><br>
+		<i>PLoS Genetics</i> <b>11</b>: e1005421 (<a href="abstracts/demaio_etal_2015.html">abstract</a> <a href="http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1005421">pdf</a>)
+
+		<p>Didelot, X. and D. J. Wilson (2015)<br>
+		<b>ClonalFrameML: efficient inference of recombination in whole bacterial genomes.</b><br>
+		<i>PLoS Computational Biology</i> <b>11</b>: e1004041. (<a href="abstracts/didelot_wilson_2015.html">abstract</a> <a href="http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004041">pdf</a>)
+
+		<p>Bradley, P., Gordon, N. C., Walker, T. M., Dunn, L., Heys, S., Huang, B., Earle, S. G., Pankhurst, L. J., Anson, L., de Cesare, M., Piazza, P., Votintseva, A. A., Golubchik, T., Wilson, D. J., Wyllie, D., Diel, R., Niemann, S., Feuerriegel, S., Kohl, T. A., Ismail, N., Omar, S. V., Smith, E. G., Buck, D., McVean, G., Walker, A. S., Peto, T. E. A., Crook, D. W. and Z. Iqbal (2015)<br>
+		<b>Rapid antibiotic-resistance predictions from genome sequence data for <i>Staphylococcus aureus</i> and <i>Mycobacterium tuberculosis</i></b><br>
+		<i>Nature Communications</i> <b>6</b>: 10063. (<a href="abstracts/bradley_etal_2015.html">abstract</a> <a href="http://www.nature.com/ncomms/2015/151221/ncomms10063/full/ncomms10063.html">pdf</a>)
+
+		<p>Walker, T. M., Kohl, T. A., Omar, S. V., Hedge, J., Del Ojo Elias, C., Bradley, P., Iqbal, Z., Feuerriegel, S., Niehaus, K., Wilson, D. J., Clifton, D. A., Kapatai, G., Ip, C. L. C., Bowden, R., Drobniewski, F., Allix-B&eacute;guec, C., Gaudin, C., Parkhill, J., Diel, R., Supply, P., Crook, D. W., Smith, E. G., Walker, A. S., Ismail, N., Niemann, S., Peto, T. E. A. and the MMM Informatics Group (2015)<br>
+			 <b>Whole-genome sequencing for prediction of <i>Mycobacterium tuberculosis</i> drug susceptibility and resistance: a retrospective cohort study.</b><br>
+			 <i>Lancet Infectious Diseases</i> <b>15</b>: 1193-1202. (<a href="abstracts/walker_etal_2015.html">abstract</a> <a href="http://www.thelancet.com/pdfs/journals/laninf/PIIS1473-3099(15)00062-6.pdf">pdf</a>)
+
+		<p>Everitt, R. G., Didelot, X., Batty, E. M., Miller, R. R., Knox, K., Young, B. C., Bowden, R., Auton, A., Votintseva, A., Larner-Svensson, H., Charlesworth, J., Golubchik, T., Ip, C. L. C., Godwin, H., Fung, R., Peto, T. E. A., Walker, A. S., Crook, D. W. and D. J. Wilson (2014)<br>
+			 <b>Mobile elements drive recombination hotspots in the core genome of <i>Staphylococcus aureus</i>.</b><br>
+			 <i>Nature Communications</i> <b>5</b>: 3956. (<a href="abstracts/everitt_etal_2014.html">abstract</a> <a href="http://www.nature.com/ncomms/2014/140523/ncomms4956/full/ncomms4956.html">pdf</a>)
+
+		<p>Hedge, J. and D. J. Wilson (2014)<br>
+			 <b>Bacterial phylogenetic reconstruction from whole genomes is robust to recombination but demographic inference is not.</b><br>
+			 <i>mBio</i> <b>5</b>: e02158-14. (<a href="abstracts/hedge_wilson_2014.html">abstract</a> <a href="http://mbio.asm.org/content/5/6/e02158-14.abstract">pdf</a>)
+
+		<p>Laabei, M., Recker, M., Rudkin, J. K., Aldeljawi, M., Gulay, Z., Sloan, T. J., Williams, P., Endres, J., Bayles, K. W., Fey, P. D., Yajjala, V. K., Widhelm, T., Hawkins, E., Lewis, K., Parfett, S., Scowen, L., Peacock, S. J., Holden, M., Wilson, D. J., Read, T. D., van den Elsen, J., Priest, N. K., Feil, E. J., Hurst, L. D., Josefsson, E and R. C. Massey (2014)<br>
+			 <b>Predicting the virulence of MRSA from its genome sequence.</b><br>
+			 <i>Genome Research</i> <b>24</b>: 839-849. (<a href="abstracts/laabei_etal_2014.html">abstract</a> <a href="http://genome.cshlp.org/content/24/5/839">pdf</a>)
+
+		<p>Price, J. R., Golubchik, T., Wilson, D. J., Crook, D. W., Walker, A. S., Peto, T. E. A., Paul, J. and M. J. Llewelyn (2014)<br>
+			 <b>Reply to <i>Data on whole-genome sequencing is insufficient to rule out patient-to-patient transmission as a significant source of Staphylococcus aureus acquisition in an ICU</i>, Mills and Linkin.</b><br>
+			 <i>Clinical Infectious Diseases</i> <b>59</b>: 752-753. (<a href="http://cid.oxfordjournals.org/content/59/5/752.2">pdf</a>)
+
+		<p>Price, J. R., Golubchik, T., Cole, K., Wilson, D. J., Crook, D. W., Thwaites, G. E., Bowden, R., Walker, A. S., Peto, T. E. A., Paul, J. and M. J. Llewelyn (2014)<br>
+			 <b>Whole-genome sequencing shows that patient-to-patient transmission rarely accounts for acquisition of <i>Staphylococcus aureus</i> in an intensive care unit.</b><br>
+			 <i>Clinical Infectious Diseases</i> <b>58</b>: 609-618. (<a href="abstracts/price_etal_2014.html">abstract</a> <a href="http://cid.oxfordjournals.org/content/58/5/609">pdf</a>)
+
+		<p>Gordon, N. C, Price, J. R., Cole, K., Everitt, R., Morgan, M., Finney, J., Kearns, A. M., Pichon, B., Young, B., Wilson, D. J., Llewelyn, M. J., Paul, J., Peto, T. E. A., Crook, D. W., Walker, A. S. and T. Golubchik (2014)<br>
+			 <b>Prediction of <i>Staphylococcus aureus</i> antimicrobial resistance by whole-genome sequencing.</b><br>
+			 <i>Journal of Clinical Microbiology</i> <b>52</b>: 1182-1191. (<a href="abstracts/gordon_etal_2014.html">abstract</a> <a href="http://jcm.asm.org/content/early/2014/01/30/JCM.03117-13.abstract">pdf</a>)
+
+		<p>Miller, R. R., Price, J. R., Batty, E. M., Didelot, X., Wyllie, D., Golubchik, T., Crook, D. W., Paul, J., Peto, T. E. A., Wilson, D. J., Cule, M., Ip, C. L. C., Day, N. P. J., Moore, C. E., Bowden, R. and M. J. Llewelyn (2014)<br>
+			 <b>Healthcare-associated outbreak of meticillin-resistant Staphylococcus aureus bacteraemia: role of a cryptic variant of an epidemic clone.</b><br>
+			 <i>Journal of Hospital Infection</i> <b>86</b>: 83-89. (<a href="abstracts/miller_etal_2014.html">abstract</a> <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3924019/">pdf</a>)
+
+		<p>Stoesser, N., Giess, A., Batty, E.M., Sheppard, A.E., Walker, A.S., Wilson, D.J., Didelot, X., Bashir, A., Sebra, R., Kasarskis, A., Sthapit, B., Shakya, M., Kelly, D., Pollard, A.J., Peto, T.E., Crook, D.W., Donnelly, P., Thorson, S., Amatya, P. and S. Joshi (2014)<br>
+			 <b>Genome sequencing of an extended series of NDM-<i>Klebsiella pneumoniae</i> neonatal infections in a Nepali hospital characterizes the extent of community versus hospital-associated transmission in an endemic setting.</b><br>
+			 <i>Antimicrobial Agents and Chemotherapy</i> <b>58</b>: 7347-7357. (<a href="abstracts/stoesser_etal_2014.html">abstract</a> <a href="http://aac.asm.org/content/early/2014/09/23/AAC.03900-14.short">pdf</a>)
+
+		<p>Dearlove, B. L. and D. J. Wilson (2013)<br>
+				<b>Coalescent-based methods for infectious disease: a meta-analysis of hepatis C virus epidemiology.</b><br>
+				<i>Philosophical Transactions of the Royal Society B</i> <b>368</b>: 20120314. (<a href="abstracts/dearlove_wilson_2013.html">abstract</a> <a href="http://rstb.royalsocietypublishing.org/content/368/1614/20120314.full">pdf</a>)
+
+		<p>Eyre, D. W., Cule, M. L., Griffiths, D., Crook, D. W., Peto, T. E. A., Walker, A. S and D. J. Wilson (2013)<br>
+			 <b>Detection of mixed infection from bacterial whole genome sequence data
+			 allows assessment of its role in <i>Clostridium difficile</i> transmission.</b><br>
+			 <i>PLoS Computational Biology</i>  <b>9</b>: e1003059. (<a href="abstracts/eyre_etal_2013.html">abstract</a> <a href="http://www.ploscompbiol.org/article/info:doi/10.1371/journal.pcbi.1003059">pdf</a>)
+
+		<p>Golubchik, T., Batty, E. M., Miller, R. R., Farr, H., Young, B. C., Larner-Svennson, H., Fung, R., Godwin, H., Knox, K., Votintseva, A., Everitt, R. G., Street, T., Cule, M., Ip, C. L. C., Didelot, X., Peto, T. E. A., Harding, R. M., Wilson, D. J., Crook, D. W. and R. Bowden (2013)<br>
+			<b>Within-host evolution of <i>Staphylococcus aureus</i> during asymptomatic carriage.</b><br>
+			<i>PLoS ONE</i> <b>8</b>: e61319. (<a href="abstracts/golubchik_etal_2013.html">abstract</a> <a href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0061319">pdf</a> <a href="http://f1000.com/prime/718008055">F1000</a>)
+
+		<p>Eyre, D. W., Cule, M. L., Wilson, D. J., Griffiths, D., Vaughan, A., O'Connor, L., Ip, C. L. C., Golubchik, T., Batty, E. M., Finney, J. M., Wyllie, D. H., Didelot, X., Piazza, P., Bowden, R., Dingle, K. E., Harding, R. M., Crook, D. W., Wilcox, M. H., Peto, T. E. A. and A. S. Walker (2013)<br>
+			<b>Diverse sources of <i>C. difficile</i> infection identified by whole genome sequencing.</b><br>
+			<i>New England Journal of Medicine</i> <b>369</b>: 1195-1205 (<a href="abstracts/eyre_etal_2013b.html">abstract</a> <a href="http://www.nejm.org/doi/full/10.1056/NEJMoa1216064">pdf</a>)
+
+		<p>Quach, H., Wilson, D. J., Laval, G. Patin, E., Manry, J., Guibert, J., Barreiro, L. B., Nerrienet, E., Verschoor, E., Gessain, A., Przeworski, M. and L. Quintana-Murci (2013)<br>
+			<b>Different selective pressures shape the evolution of toll-like receptors in human and African great ape populations.</b><br>
+		      	<i>Human Molecular Genetics</i> <b>22</b>: 4829-4840 (<a href="abstracts/quach_etal_2013.html">abstract</a> <a href="http://hmg.oxfordjournals.org/content/early/2013/07/11/hmg.ddt335.abstract">pdf</a>)
+
+		<p>Wong, T. H., Dearlove, B. L., Hedge, J., Giess, A. P., Piazza, P., Trebes, A., Paul, J., Smit, E., Smith, E. G., Sutton, J. K., Wilcox, M. H., Dingle, K. E., Peto, T. E., Crook, D. W., Wilson, D. J. and D. H. Wyllie (2013)<br>
+			 <b>Whole genome sequencing and de novo assembly identifies Sydney-like variant noroviruses and recombinants during the winter 2012/2013 outbreak in England.</b><br>
+			 <i>Virology Journal</i> <b>10</b>: 335 (<a href="abstracts/wong_etal_2013.html">abstract</a> <a href="http://www.virologyj.com/content/10/1/335/abstract">pdf</a>)
+
+		<p>Batty, E. M., Wong, T. H. N., Trebes, A., Argoud, K., Attar, M., Buck, D., Ip, C. L. C., Golubchik, T., Cule, M., Bowden, R., Manganis, C., Klenerman, P., Barnes, E., Walker, A. S., Wyllie, D., Wilson, D. J., Dingle, K. E., Peto, T. E. A., Crook, D. W. and P. Piazza (2013)<br>
+		<b>A modified RNA-Seq approach for whole genome sequencing of RNA viruses from faecal and blood samples.</b><br>
+		<i>PLoS ONE</i> <b>8</b>: e66129 (<a href="abstracts/batty_etal_2013.html">abstract</a> <a href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0066129">pdf</a>)
+
+		<p>Young, B. C., Golubchik, T., Batty, E. M., Fung, R., Larner-Svennson, H., Votintseva, A., Miller, R. R., Godwin, H., Knox, K., Everitt, R. G., Iqbal, Z., Rimmer, A. J., Cule, M., Ip C. L. C., Didelot, X., Harding, R. M., Donnelly, P. J., Peto, T. E., Crook, D. W., Bowden, R. and D. J. Wilson (2012)<br>
+		     	 <b>Evolutionary dynamics of <i>Staphylococcus aureus</i> during progression from carriage to disease.</b><br>
+			 <i>Proceedings of the National Academy of Sciences USA</i> <b>109</b>: 4550-4555. (<a href="abstracts/young_etal_2012.html">abstract</a> <a href="http://www.pnas.org/content/109/12/4550.full">pdf</a> <a href="http://f1000.com/14021986">F1000</a>)
+
+		<p>D. J. Wilson (2012)<br>
+		      	 <b>Insights from genomics into bacterial pathogen populations.</b><br>
+			 <i>PLoS Pathogens</i> <b>8</b>: e1002874. (<a href="abstracts/wilson_2012.html">abstract</a> <a href="http://www.plospathogens.org/article/info%3Adoi%2F10.1371%2Fjournal.ppat.1002874">pdf</a>)
+
+		<p>Didelot, X., Bowden, R., Wilson, D. J., Peto, T. E. A. and D. W. Crook (2012)<br>
+			  <b>Transforming clinical microbiology with bacterial genome sequencing.</b><br>
+			  <i>Nature Reviews Genetics</i> <b>13</b>: 601-612. (<a href="abstracts/didelot_etal_2012.html">abstract</a> <a href="http://www.nature.com/nrg/journal/v13/n9/pdf/nrg3226.pdf">pdf</a>)
+
+		<p>Young, B. C. and D. J. Wilson (2012)<br>
+				<b>On the evolution of virulence during <i>Staphylococcus aureus</i> nasal carriage.</b><br>
+				<i>Virulence</i> <b>3</b>: 454-456. (<a href="abstracts/young_wilson_2012.html">abstract</a> <a href="http://www.landesbioscience.com/journals/virulence/article/21189/">pdf</a>)
+
+		<p>Eyre, D. W., T. Golubchik, N. C. Gordon, R. Bowden, P. Piazza, E. M. Batty, C. L. C. Ip, D. J. Wilson, X. Didelot, L. O'Connor, R. Lay, D. Buck, A. Kearns, A. Shaw, J. Paul, M. Wilcox, P. J. Donnelly, T. E. A. Peto, A. S. Walker and D. W. Crook (2012)<br>
+			   <b>A pilot study of rapid benchtop sequencing of <i>Staphylococcus aureus</i> and <i>Clostridium difficile</i> for outbreak detection and surveillance.</b><br>
+			   <i>BMJ Open</i> <b>2</b>: e001124. (<a href="abstracts/eyre_etal_2012.html">abstract</a> <a href="http://bmjopen.bmj.com/content/2/3/e001124.full.pdf+html">pdf</a>)
+
+		<p>Walker, T. M., Ip, C. L. C., Harrell, R. H., Evans, J. T., Kapatai, G., Dedicoat, M. J., Eyre, D. W., Wilson, D. J., Hawkey, P. M., Crook, D. W., Parkhill, J., Harris, D., Walker, A. S., Bowden, R., Monk, P., Smith, E. G. and T. E. A. Peto (2012)<br>
+				<b>Whole-genome sequencing to delineate <i>Mycobacterium tuberculosis</i> outbreaks: a retrospective observational study.</b><br>
+				<i>Lancet Infectious Diseases</i> doi:10.1016/S1473-3099(12)70277-3. (<a href="abstracts/walker_etal_2012.html">abstract</a> <a href="http://www.thelancet.com/journals/laninf/article/PIIS1473-3099%2812%2970277-3/fulltext">pdf</a>)
+
+		<p>Didelot, X., Eyre, D. W., Cule, M., Ip, C. L. C., Ansari, A., Griffiths, D., Vaughan, A., O'Connor, L., Golubchik, T., Batty, E. M., Piazza, P., Wilson, D. J., Bowden, R., Donnelly, P. J., Dingle, K. E., Wilcox, M., Walker, A. S., Crook, D. W., Peto, T. E. A. and R. M. Harding (2012)<br>
+			    	<b>Microevolutionary analysis of <i>Clostridium difficile</i> genomes to investigate transmission.</b><br>
+				<i>Genome Biology</i> <b>13</b>: R118. (<a href="abstracts/didelot_etal_2012b.html">abstract</a> <a href="http://genomebiology.com/2012/13/12/R118/abstract">pdf</a>)
+
+		<p>Wilson, D. J., R. D. Hernandez, P. Andolfatto and M. Przeworski (2011)<br>
+			   <b>A population genetics-phylogenetics approach to inferring natural selection in coding sequences.</b><br>
+			   <i>PLoS Genetics</i> <b>7</b>: e1002395. (<a href="abstracts/wilson_etal_2011.html">abstract</a> <a href="http://www.plosgenetics.org/article/info:doi/10.1371/journal.pgen.1002395">pdf</a> <a href="http://f1000.com/13492992">F1000</a>)
+
+		<p>Muellner, P., Marshall, J. C., Spencer, S. E. F., Noble, A. D., Shadbolt, T., Collins-Emerson, J. M., Midwinter, A. C., Carter, P. E., Pirie, R., Wilson, D. J., Campbell, D. M., Stevenson, M. A. and N. P. French (2011)<br>
+			     <b>Utilizing a combination of molecular and spatial tools to assess the effect of a public health intervention.</b><br>
+			     <i>Preventive Veterinary Medicine</i> <b>102</b>: 242-253. (<a href="abstracts/muellner_etal_2011.html">abstract</a> <a href="http://www.sciencedirect.com/science/article/pii/S0167587711002376">pdf</a>)
+	      	<p>Sheppard, S. K., Dallas, J. F., Wilson, D. J., Strachan, N. J. C., McCarthy N. D., Jolley, K. A., Colles, F. M., Rotariu, O., Ogden, I. D., Forbes, K. J. and M. C. J. Maiden (2010)<br>
+		 	  <b>Evolution of an agriculture-associated disease causing <i>Campylobacter coli</i> clade: evidence from national surveillance data in Scotland.</b><br>
+			  <i>PLoS ONE</i> <B>5</B>: e15708. (<a href="abstracts/sheppard_etal_2010.html">abstract</a> <a href="http://www.plosone.org/article/info:doi/10.1371/journal.pone.0015708">pdf</a>)
+
+		<p>Sousa, T. N., Tarazona-Santos, E. M., Wilson, D. J., Madureira, A. P., Falcao, P. R. K., Fontes, C. J. F., Gil, L. H. S., Ferreira, M. U., Carvalho, L. H. and C. F. A. Brito (2010)<br>
+			  <b>Genetic variability and natural selection at the ligand domain of the Duffy binding protein in Brazilian <i>Plasmodium vivax</i> populations.</b><br>
+			  <i>Malaria Journal</i> <b>9</b>: 334. (<a href="abstracts/sousa_etal_2010.html">abstract</a> <a href="http://www.malariajournal.com/content/pdf/1475-2875-9-334.pdf">pdf</a>)
+
+		<p>Gabriel, E., Wilson, D. J., Leatherbarrow, A. J., Cheesbrough, J., Gee, S., Bolton, E., Fox, A., Fearnhead, P., Hart, C. A. and P. J. Diggle (2010)<br>
+			  <b>Spatio-temporal epidemiology of <i>Campylobacter jejuni</i> enteritis, in an area of Northwest England, 2000-2002.</b><br>
+			  <i>Epidemiology and Infection</i> <B>138</B>: 1384-1390. (<a href="abstracts/gabriel_etal_2010.html">abstract</a> <a href="http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=7873635">pdf</a>)
+
+		<p>Mullner, P., Shadbolt, T., Collins-Emerson, J. M., Midwinter, A. C., Spencer, S. E. F., Marshall, J., Carter, P. E., Campbell, D. M., Wilson, D. J., Hathaway, S., Pirie, R. and N. P. French (2010)<br>
+			    <b>Molecular and spatial epidemiology of human campylobacteriosis - source association and genotype-related risk factors.</b><br>
+			    <i>Epidemiology and Infection</i> <B>138</B>: 1372-1383. (<a href="abstracts/mullner_etal_2009b.html">abstract</a> <a href="http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=7873590">pdf</a>)
+
+		<p>Fledel-Alon, A., Wilson, D. J., Broman, K., Wen, X., Ober, C., Coop, G. and M. Przeworski (2009)<br>
+			<b>Broad-scale recombination patterns underlying proper disjunction in humans.</b><br>
+			<i>PLoS Genetics</i> <B>5</B>: e1000658. (<a href="abstracts/alon_etal_2009.html">abstract</a> <a href="http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1000658">pdf</a>)
+
+		<p>Brehony, C., Wilson, D. J. and M. C. J. Maiden (2009)<br>
+			<b>Variation of the factor H-binding protein of <i>Neisseria meningitidis</i>.</b><br>
+			<i>Microbiology</i> <B>155</B>: 4155-4169. (<a href="abstracts/brehony_wilson_maiden_2009.html">abstract</a> <a href="http://mic.sgmjournals.org/cgi/content/abstract/155/12/4155">pdf</a>)
+
+		<p>Mullner, P., Spencer, S. E. F., Wilson, D. J., Jones, G., Noble, A. D., Midwinter, A. C., Collins-Emerson, J. M., Carter, P., Hathaway, S. and N. P. French (2009)<br>
+			    <b>Assigning the source of human campylobacteriosis in New Zealand: a comparative genetic and epidemiological approach.</b><br>
+			    <i>Infection, Genetics and Evolution</i> <B>9</B>: 1311-1319. (<a href="abstracts/mullner_etal_2009a.html">abstract</a> <a href="http://www.sciencedirect.com/science?_ob=MImg&_imagekey=B6W8B-4X908TF-2-5&_cdi=6650&_user=5745&_orig=search&_coverDate=09%2F22%2F2009&_sk=999999999&view=c&wchp=dGLbVzz-zSkzk&md5=2f9a79bef6f00470acd1a38a784cb310&ie=/sdarticle.pdf">pdf</a>)
+
+		<p>Wilson, D. J., Gabriel, E., Leatherbarrow, A. J. H., Cheesbrough, J., Gee, S., Bolton, E., Fox, A., Hart, C. A., Diggle, P. J. and P. Fearnhead (2009)<br>
+			   <b>Rapid evolution and the importance of recombination to the gastro-enteric pathogen <i>Campylobacter jejuni</i>.</b><br>
+			   <i>Molecular Biology and Evolution</i> <B>26</B>: 385-397. (<a href="abstracts/wilson_etal_2008b.html">abstract</a> <a href="http://mbe.oxfordjournals.org/cgi/reprint/26/2/385">pdf</a> <a href="http://www.f1000biology.com/article/id/1158735">F1000</a>)
+
+                <p>Sheppard, S. K., Dallas, J. F., Strachan, N. J. C., MacRae, M., McCarthy, N. D., Wilson, D. J., Gormley, F. J., Falush, D., Ogden, I. D., Maiden, M. C. J. and K. J. Forbes (2009)<br>
+                           <b><i>Campylobacter</i> genotyping to determine the source of human infection.</b><br>
+                           <i>Clinical Infectious Diseases</i> <B>48</B>: 1072-1078. (<a href="abstracts/sheppard_etal_2009.html">abstract</a> <a href="http://www.journals.uchicago.edu/doi/pdf/10.1086/597402">pdf</a>)
+
+		<p>Wilson, D. J., E. Gabriel, A. J. H. Leatherbarrow, J. Cheesbrough, S. Gee, E. Bolton, A. Fox, P. Fearnhead, C. A. Hart and P. J. Diggle (2008)<br>
+			<b>Tracing the source of campylobacteriosis.</b><br>
+			<i>PLoS Genetics</i> <B>4</B>: e1000203. (<a href="abstracts/wilson_etal_2008a.html">abstract</a> <a href="http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1000203">pdf</a> <a href="abstracts/plosgenetics.pdf">press-release</a>)</p>
+		<p>Wilson, D. J. and G. McVean (2006)<br>
+			<b>Estimating diversifying selection and functional constraint in the presence of 
+				recombination.</b><br>
+			<i>Genetics</i> <B>172</B>: 1411-1425. (<a href="abstracts/wilson_mcvean_2006.html">abstract</a> 
+<a href="http://www.genetics.org/cgi/reprint/172/3/1411" target="_blank">pdf</a>
+			<a href="software.html">software</a>)</p>
+		<p>Falush, D., M. Torpdahl, X. Didelot, D. F. Conrad, D. J. Wilson and M. Achtman (2006)<br>
+			<b>Mismatch induced speciation in <i>Salmonella</i>: model and data.</b><br>
+			<i>Philosophical Transactions of the Royal Society B</i> <b>361</b>: 2045-2053. (<a href="abstracts/falush_etal_2006.html">abstract</a> <a href="http://www.journals.royalsoc.ac.uk/openurl.asp?genre=article&id=doi:10.1098/rstb.2006.1925">pdf</a>)</p>
+		<p>Edwards, C. T. T., E. C. Holmes, O. G. Pybus, D. J. Wilson, R. P. Viscidi, 
+			E. J. Abrams, R. E. Phillips and A. J. Drummond (2006)<br>
+			<b>Evolution of the HIV-1 envelope gene is dominated by purifying selection.</b><br>
+			<i>Genetics</i> <B>174</B>: 1441-1453. (<a href="abstracts/edwards_etal_2006b.html">abstract</a> <a href="http://www.genetics.org/cgi/content/abstract/174/3/1441" target="_blank">pdf</a>)</p>
+		<p>Edwards, C. T. T., E. C. Holmes, D. J. Wilson, R. P. Viscidi, E. J. Abrams, R. 
+			E. Phillips and A. J. Drummond (2006)<br>
+			<b>Population genetic estimation of the loss of genetic diversity during horizontal 
+				transmission of HIV-1.</b><br>
+			<i>BMC Evolutionary Biology</i> <B>6</B>: 28. (<a href="abstracts/edwards_etal_2006a.html">abstract</a> <a href="http://www.biomedcentral.com/content/pdf/1471-2148-6-28.pdf" target="_blank">pdf</a>)</p>
+		<p>Wilson, D. J., D. Falush and G. McVean (2005)<br>
+			<B>Germs, genomes and genealogies.</B><br>
+			<I>Trends in Ecology and Evolution</I> <B>20</B>: 39-45. (<a href="abstracts/wilson_falush_mcvean_2005.html">abstract</a> <a href="http://www.sciencedirect.com/science?_ob=MImg&amp;_imagekey=B6VJ1-4DPGXJ6-1-1&amp;_cdi=6081&amp;_user=126524&amp;_orig=browse&amp;_coverDate=01%2F01%2F2005&amp;_sk=999799998&amp;view=c&amp;wchp=dGLbVlb-zSkWb&amp;md5=524e525ae9261a3235cb262a38bf0a9d&amp;ie=/sdarticle.pdf"
+				target="_blank">pdf</a>)</p>
+		<p>Wilson, D. J. and D. Falush (2005)<br>
+			<b>The genetic structure of human pathogens.</b><br>
+			In <I>Encyclopedia of Genetics, Genomics, Proteomics and Bioinformatics</I> edited 
+			by L. B. Jorde, P. F. R. Little, M. J. Dunn and S. Subramaniam. Wiley, New 
+			York. (<a href="abstracts/wilson_falush_2005.html">abstract</a>)</p>
+		<p>Jolley, K. A., D. J. Wilson, P. Kriz, G. McVean and M. C. J. Maiden (2005)<br>
+			<B>The influence of mutation, recombination, population history and selection on 
+				patterns of genetic diversity in <I>Neisseria meningitidis</I>.</B><br>
+			<I>Molecular Biology and Evolution</I> <B>22</B>: 562-569. (<a href="abstracts/jolley_etal_2005.html">abstract</a> <a href="http://mbe.oupjournals.org/cgi/reprint/22/3/562" target="_blank">pdf</a>)</p>
+		<p>Claus, H., M. C. J. Maiden, D. J. Wilson, N. D. McCarthy, K. A. Jolley, R. 
+			Urwin, F. Hessler, M. Frosch and U. Vogel (2005)<br>
+			<B>Genetic analysis of meningococci carried by children and young adults.</B><br>
+			<I>Journal of Infectious Diseases</I> <B>191</B>: 1263-1271. (<a href="abstracts/claus_etal_2005.html">abstract</a> <a href="http://www.journals.uchicago.edu/doi/abs/10.1086/428590"
+				target="_blank">pdf</a>)</p>
+		<p>Yazdankhah, S. P., P. Kriz, G. Tzanakaki, J. Kremastinou, J. Kalmusova, M. 
+			Musilek, T. Alvedstad, K. A. Jolley, D. J. Wilson, N. D. McCarthy, D. A. 
+			Caugant and M. C. J. Maiden (2004)<br>
+			<B>Distribution of Serogroups and Genotypes among Disease-Associated and Carried 
+				Isolates of <I>Neisseria meningitidis</I> from the Czech Republic, Greece, and 
+				Norway.</B><br>
+			<I>Journal of Clinical Microbiology</I> <B>42</B>: 5146-5153. (<a href="abstracts/yazdankhah_etal_2004.html">abstract</a> <a href="http://jcm.asm.org/cgi/reprint/42/11/5146.pdf" target="_blank">pdf</a>)</p>
+
+               <h2>Thesis</h2>
+                <p>Wilson, D. J. (2005)<br>
+                        <b>Multilocus sequence analysis of the pathogen <i>Neisseria meningitidis</i>.</b><br>
+                        <a href="thesis/thesis.html">View website</a></p>

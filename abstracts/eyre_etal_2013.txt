@@ -1,0 +1,33 @@
+<h2>Detection of mixed infection from bacterial whole genome sequence data allows assessment of its role in <i>Clostridium difficile</i> transmission.</h2>
+<p>Eyre, D. W., Cule, M. L., Griffiths, D., Crook, D. W., Peto, T. E. A., Walker, A. S and D. J. Wilson (2013)<br>
+<i>PLoS Computational Biology</i> <b>9</b>: e1003059 (<a href="http://www.ploscompbiol.org/article/info:doi/10.1371/journal.pcbi.1003059">pdf</a>)
+
+<p>Bacterial whole genome sequencing offers the prospect of rapid and high
+precision investigation of infectious disease outbreaks. Close genetic
+relationships between microorganisms isolated from different infected cases
+suggest transmission is a strong possibility, whereas transmission between cases
+with genetically distinct bacterial isolates can be excluded. However, undetected
+mixed infections-infection with two or more unrelated strains of the same species where
+only one is sequenced-potentially impairs exclusion of transmission with
+certainty, and may therefore limit the utility of this technique. We investigated
+the problem by developing a computationally efficient method for detecting
+mixed infection without the need for resource-intensive independent sequencing
+of multiple bacterial colonies. Given the relatively low density of single
+nucleotide polymorphisms within bacterial sequence data direct reconstruction
+of mixed infection haplotypes from current short-read sequence data is not
+consistently possible. We therefore use a two-step maximum likelihood-
+based approach, assuming each sample contains up to two infecting strains.
+We jointly estimate the proportion of the infection arising from the dominant
+and minor strains, and the sequence divergence between these strains. In
+cases where mixed infection is confirmed, the dominant and minor haplotypes
+are then matched to a database of previously sequenced local isolates. We
+demonstrate the performance of our algorithm with <i>in silico</i> and <i>in vitro</i> mixed
+infection experiments, and apply it to transmission of an important healthcare-
+associated pathogen, <i>Clostridium difficile</i>. Using hospital ward movement data in
+a previously described stochastic transmission model, 15 pairs of cases enriched
+for likely transmission events associated with mixed infection were selected. Our
+method identified four previously undetected mixed infections, and a previously
+undetected transmission event, but no direct transmission between the pairs of
+cases under investigation. These results demonstrate that mixed infections can
+be detected without additional sequencing effort, and this will be important in
+assessing the extent of cryptic transmission in our hospitals.</p>

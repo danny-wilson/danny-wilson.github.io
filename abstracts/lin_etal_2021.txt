@@ -1,0 +1,28 @@
+<h2>Using host genetics to infer the global spread and evolutionary history of 
+HCV subtype 3a</h2>
+<p>Lin, S.-K., De Maio, N., Pedergnana, V., Wu, C.-H., Th&eacute;z&eacute;, J., 
+Wilson, D. J., Barnes, E. and M. A. Ansari (2021)<br>
+<i>Virus Evolution</i> doi:10.1093/ve/veab065 (<a 
+href="https://academic.oup.com/ve/advance-article/doi/10.1093/ve/veab065/6317967">pdf</a>)
+
+<p>Studies have shown that HCV subtype 3a is likely to have been circulating in 
+South Asia before its global spread. However, the time and route of this 
+dissemination remain unclear. For the first time, we generated host and virus 
+genome-wide data for more than 500 patients infected with HCV subtype 3a from 
+the UK, North America, Australia and New Zealand. We used the host genomic data 
+to infer the ancestry of the patients and used this information to investigate 
+the epidemic history of HCV subtype 3a. We observed that viruses from hosts of 
+South Asian ancestry clustered together near the root of the tree, irrespective 
+of the sampling country and that they were more diverse than viruses from other 
+host ancestries. We hypothesized that South Asian hosts are more likely to have 
+been infected in South Asia and used the inferred host ancestries to 
+distinguish between location where the infection was acquired and where the 
+sample was taken. Next, we inferred that three independent transmission events 
+resulted in the spread of the virus from South Asia to the UK, North America 
+and Oceania. This initial spread happened during or soon after the end of World 
+War II. This was subsequently followed by many independent transmissions 
+between the UK, North America and Oceania. Using both host and virus genomic 
+information can be highly informative in studying the virus epidemic history, 
+especially in the context of chronic infections where migration histories need 
+to be accounted for.</p>
+

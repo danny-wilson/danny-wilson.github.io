@@ -1,0 +1,24 @@
+		<img id="me" align="right" src="xamova/smallgraphs.jpg">
+		<h2>xAMOVA</h2>
+
+		<p>xAMOVA is a program that extends the AMOVA (analysis of molecular variance, Excoffier et al 1992) to crossed designs where there are two factors (i.e. a two-way AMOVA). Components of variance are estimated for each factor, and simulation-based significance tests are performed for each factor individually and the model as a whole.</p>
+
+		<p>To download xAMOVA <a href="xamova/Distribute.zip">click here</a>. The zip file contains
+		<ul>
+			<li>Windows XP Executable
+			<li>Mac OS X Executable
+			<li>Source code
+			<li>Example dataset
+		</ul>
+
+		<p>Information on how to format your data for use with xAMOVA, running the program, and 
+		   example analyses are contained in the file README.txt. A publication for the methodology in xAMOVA
+		   is being prepared with collaborators in France and Japan. In the meantime there are details in Chapter 3 of
+		   my <a href="thesis/thesis.html">thesis</a>. The original AMOVA reference is</p>
+
+		<p>Excoffier, L., P. E. Smouse and J. M. Quattro (1992)<br>
+	      	   	<b>Analysis of molecular variance inferred from metric distances among DNA haplotypes: application to human mitochondrial DNA restriction data.</b><br>
+			<i>Genetics</i> <B>131</B>: 479-491. (<a href="http://www.genetics.org/content/131/2/479.full.pdf+html">pdf</a>)</p>
+
+		<p>Example screen shot:</p>
+		<img id="screenshot" align="center" src="xamova/screenshot.jpg">

@@ -1,0 +1,245 @@
+<p>Profiles and research interests of my group members.</p>
+<h2>Current members</h2>
+
+<img id="Sarah Earle" align="right" src="mugshots/Sarah-Earle.jpg">
+<h3>Dr Sarah Earle</h3>
+<p>Sarah is a postdoctoral scientist based at the Big Data Institute, University 
+of Oxford, supervised by Dr Daniel Wilson. Her work exploits whole-genome sequencing data of 
+bacterial pathogens to carry out whole-genome association studies, with the aim of discovering genes 
+and genetic variants associated with differential virulence, whilst controlling for confounding factors 
+such as population structure within models.</p>
+
+<p>She previously studied at the University of Oxford where she completed her D.Phil. funded by an NDM Prize
+Studentship and before that a BA in Biological Sciences. She undertook her undergraduate research project 
+within the research group of Prof. Martin 
+Maiden, working on the application of ribosomal multilocus sequence typing for <i>Staphylococcus aureus</i>.</p>
+
+<img src="emails/emailsarahearle.png">
+
+<img id="Nicolas Arning" align="right" src="mugshots/Nicolas-Arning.png">
+<h3>Nicolas Arning</h3>
+<p>Nick is a DPhil candidate with the Interdisciplinary Biosciences Doctoral Training Partnership doing a rotation at the Wilson lab. The rotation is focused on using different Machine learning techniques in order to attribute sources to <i>Campylobacter jejuni</i> sequencing samples or genomes.</p>
+
+<p>Nick has received a MSc from the Westfaelische-Wilhelms Universitaet (WWU) working on comparative genomics within Blattodea. He has additionaly studied at the University of British Columbia reconstructing ancestral sequences within the nitroreductase superfamily. He received his BSc also from the WWU during which he also studied  at the University of Sheffield. His BSc project was developing a pipeline for the analysis of de novo genes.</p>
+
+<img src="emails/emailnicolasarning.png">
+
+<img id="Justine Rudkin" align="right" src="mugshots/Justine-Rudkin.jpg">
+<h3>Dr Justine Rudkin</h3>
+<p>Justine is a postdoctoral researcher in the Nuffield Department of Population Health, based at the John Radcliffe Hospital, Oxford.</p>
+
+<p>After receiving a BSc in Tropical Disease Biology from the University of Liverpool, she completed her PhD at the University of Bath, studying the interplay between antimicrobial resistance and virulence in Staphylococcus aureus. She followed this up with postdoctoral positions at the National University of Ireland, Galway, and University College Cork, Ireland. After a 2-year Irish Research Council funded fellowship at University College Cork studying the impact of niche adaptation on the virulence of food-borne pathogens, she moved back to the UK in October 2018 to join the Wilson lab.</p>
+
+<p>Using transcriptomic and proteomic approaches, her research will focus on within-host evolution of S. aureus to determine how the commensal to pathogenic switch occurs, and its impact on virulence and host-pathogen interactions.</p>
+
+<img src="emails/emailjustinerudkin.png">
+
+<img id="Steven Lin" align="right" src="mugshots/Steven-Lin.jpg">
+<h3>Steven Lin</h3>
+<p>Steven Lin is a former research assistant and joined the group in November 2017. He previously graduated with an MSc in Bioinformatics and Theoretical Systems Biology from Imperial College London.</p>
+
+<p>He was working as a member of the STOP HCV consortium under the supervision of Prof. Daniel Wilson and Prof. Ellie Barnes. His work focuses on genome-wide association studies into the development of cirrhosis in hepatitis C infected patients. The project integrated host and virus genetic data together with epidemiological records into the analysis.<p>
+
+<img src="emails/emailstevenlin.png">
+
+<img id="Jacob Armstrong" align="right" src="mugshots/Jacob-Armstrong.png">
+<h3>Jacob Armstrong</h3>
+<p>Jacob is a Data Scientist and originally joined the group in August 2018. He is now a member of the Health Data Sciences Doctoral Training Centre at the Big Data Institute, pursuing his doctorate. He previously worked as the lead data developer at a financial analytics company in London, and before this completed his undergraduate degree in Mathematics at the University of Oxford.</p>
+
+<p>He has developed a record linkage system between health records maintained by Public Health England and UK Biobank. Utilising this will help study the genetic basis of infection risk from both a human and microbial perspective.</p>
+
+<p>When not exploring datasets he can usually be found in the local judo or jiu-jitsu club. He plays the guitar on his nights off.</p>
+
+<img id="Joshua Thomas" align="right" src="mugshots/Joshua-Thomas.jpg">
+<h3>Joshua Thomas</h3>
+<p>Josh is a <i>D.Phil.</i> candidate based in the Department of Zoology, supervised by Prof. Ashleigh Griffin, 
+Dr. Melanie Ghoul, and Dr. Daniel Wilson. His work focuses on understanding the role of antimicrobial 
+production by <i>Staphylococcus aureus</i> in the human nasal cavity, particularly from an ecological and 
+evolutionary perspective.</p>  
+ 
+<p>Josh previously received a <i>B.A.</i> in Biological Sciences also from the University of Oxford. His 
+undergraduate research project focused on plant cooperation and the function of a candidate cooperative gene (GA5).</p>
+
+<img id="Kevin Cole" align="right" src="mugshots/Kevin-Cole.jpg">
+<h3>Kevin Cole</h3>
+<p>Kevin is studying for a <i>Ph.D.</i> at the Open University under the supervision of Martin Llewelyn, John Paul
+and Daniel Wilson. The focus of his research is the genome evolution of <i>Staphylococcus epidermidis</i>.</p
+
+<p>Previously Kevin worked for the Brighton and Sussex University Hospitals NHS Trust. He has a long-standing
+interest in the genomics and evolution of microbes, in particular staphylococcal species.</p>
+
+<img id="David Shaw" align="right" src="mugshots/David-Shaw.png">
+<h3>David Shaw</h3>
+<p>David is studying for a <i>D.Phil.</i> at the Big Data Institute, Nuffield Department of Population Health, with
+Angela Brueggemann and Daniel Wilson. He is clinically trained as an anaesthetist and deferred his studies in 2020 to
+serve on the front line in Ireland during the COVID-19 pandemic.</p>
+
+<p>The focus of David's studies is microbial genomics, in particular traits of biomedical importance in streptococci.</p>
+
+<h2>Former members</h2>
+
+<img id="Clara Grazian" align="right" src="mugshots/Clara-Grazian.jpg">
+<h3>Dr Clara Grazian</h3>
+<p>Clara is a former Postdoctoral Scientist who joined the group in January 2017, after completing a double PhD in Applied Mathematics and Statistics in Universit&eacute; Paris-Dauphine and Sapienza Universit&eacute; di Roma, where she studied methods to perform Bayesian inference for complicated models, such as dependence and mixture models.</p>
+
+<p>She was involved in studying the mechanisms of development of drug resistance in <i>Mycobacterium tuberculosis</i>, by using genome-wide association studies. In her work, she tries to use both frequentist and Bayesian methodologies to work with large datasets.</p>
+
+<img id="Bernadette Young" align="right" src="mugshots/Bernadette-Young.png">
+<h3>Dr Bernadette Young</h3>
+<p>Bernadette is a former Wellcome Trust Clinical Research Fellow, based in the Oxford University
+Hospitals NHS Trust and undertaking a DPhil in the Nuffield Department of Medicine at
+the University of Oxford, supervised by Dr Daniel Wilson and Prof. Derrick Crook.
+Her work focuses on using whole genome sequencing to understand the genetic basis for
+variations in virulence seen in the bacterium <i>Staphylococcus aureus</i>. This organism is
+frequently part of the normal human flora, particularly in the nose, but it can also cause
+life-threatening invasive infection.</p>
+
+<p>Bernadette trained as a medical doctor at the University of Melbourne, Australia,
+completing her MBBS(Hons) as well as a BA (literary studies). She continued her clinical
+training in the UK, and is undertaking specialist training in Infectious Diseases.</p>
+
+<p>She now lives in Oxford, and can be found playing the ukulele on nights off.</p>
+
+<img src="emails/emailbernadetteyoung.png">
+
+<img id="Nicola De Maio" align="right" src="mugshots/Nicola-de-Maio.jpg">
+<h3>Dr Nicola De Maio</h3>
+<p>Nicola is a former James Martin Fellow at the Oxford Martin School Institute for Emerging
+Infections, working on the Curing Chronic Viral Infections project.
+He studied Mathematics at the University of Pisa (BSc and MSc).
+He is interested in the development and application of models of sequence evolution.</p>
+
+<p>During his PhD studies, Nicola focused on Empirical Codon Models, positive selection
+tests, and population genetics-phylogenetic models, in the face of genome-wide data
+availability. He also collaborated on the development of statistical methods for
+pooled data, and the modelling of life history traits.</p>
+
+<p>In his research in Oxford, Nicola focused on viral evolution. in particular,
+he investigates the effects of viral recombination on phylogenetic, demographic, and
+epidemiological analysis.</p>
+
+<p>He plays basketball, soccer, and water polo. He is now at the <a href="https://www.ebi.ac.uk/about/people/nicola-de-maio">EBI</a> in Hinxton.</p>
+<!--<img src="emails/emailnicolademaio.png">-->
+
+<img id="Melissa Ward" align="right" src="mugshots/Melissa-Ward.jpg">
+<h3>Dr Melissa Ward</h3>
+<p>Melissa Ward is a former Sir Henry Wellcome Postdoctoral Fellow, funded by the Wellcome Trust.  She is
+working between the University of Oxford, the University of Edinburgh, the International Livestock
+Research Institute Nairobi and the Harvard School of Public Health.</p>
+
+<p>Her work involves using pathogen genetic sequence data to understand patterns of disease
+transmission, with a focus on the spread of MRSA within the Scottish healthcare system and the
+spread of <i>E. coli</i> between humans and livestock in low income areas of Nairobi, Kenya.</p>
+
+<p>During her PhD at the University of Edinburgh, Melissa studied the evolution of viruses such as HIV,
+influenza and Japanese Encephalitis.  Prior to this, she completed an undergraduate degree in
+Mathematics at the University of Oxford.</p>
+
+<!--<img src="emails/emailmelissaward.png">-->
+
+<img id="Jessie Wu" align="right" src="mugshots/Jessie-Wu.png">
+<h3>Dr Jessie Wu</h3>
+<p>Jessie is a former postdoctoral scientist based in the Nuffield Department of Medicine at the University of Oxford.
+Her work focuses on developing statistical methods to investigate the genetic basis of virulence in natural
+populations of bacterial pathogens.</p>
+
+<p>During her PhD at the University of Auckland, she focused on Bayesian
+approaches to model uncertainty in phylogenetics.</p>
+
+<h3>Dr Claudia Lindemann</h3>
+<img id="Claudia Lindemann" align="right" src="mugshots/Claudia-Lindemann.png">
+<p>Claudia is a former DPhil student in the Vactrain project (www.vactrain.eu) at the Jenner Institute
+in Oxford. Under the supervision of Dr David Wyllie and Dr Daniel Wilson, she is working on
+<i>Stapylococcus aureus</i> vaccine development, using RNA sequencing to discover new antigens for
+potential vaccines and understand bacterial pathogenesis within the host.</p>
+
+<p>Previously she did her Masters at the University of M&uuml;nster in Pharmaceutical science, studying
+surface expression systems of heterologous proteins and a Bachelor's degree in Chemical Biology at
+the TU Dortmund.</p>
+
+<p>In her spare time Claudia enjoys rowing, (latin) dance and theatre (watching as well as getting
+engaged herself).</p>
+
+<h3>Dr Jessica Hedge</h3>
+<img id="Jessica Hedge" align="right" src="mugshots/Jessica-Hedge.jpg">
+<p>Jess is a former postdoctoral scientist working within the Nuffield Department of Medicine at the University 
+of Oxford. She is interested in the evolutionary dynamics of measurably evolving pathogens and uses 
+phylogenetic methods to explore a variety of evolutionary processes, including the origin and evolution 
+of different norovirus lineages and the emergence of drug resistance in <i>Mycobacterium tuberculosis</i>. Her 
+work also focuses on the effects of recombination on the reconstruction of the evolutionary history of 
+bacterial populations.</p>
+
+<p>During her PhD at the University of Edinburgh supervised by Prof. Andrew Rambaut, she used Bayesian 
+phylogenetic methods to characterise the evolution and molecular epidemiology of the 2009 influenza A 
+H1N1 pandemic.</p>
+
+<h3>Dr Jane Charlesworth</h3>
+<img id="Jane Charlesworth" align="right" src="mugshots/Jane-Charlesworth.png">
+<p>Jane is a former postdoc working on the MMM project, specialising in applying population genetics methods 
+to bacterial datasets. She did a degree in genetics at the University of Edinburgh followed by a PhD 
+in bacterial population genetics at the University of Sussex, with Adam Eyre-Walker. At the time of 
+her PhD research, there were only six complete genomes for E. coli and Salmonella, so she is quite 
+excited about the potential of next generation sequencing to reveal the finer details of bacterial 
+population structure. Jane is particularly interested in detecting loci that have been under selection 
+during both long and short-term bacterial evolution.</p>
+
+<p>Aside from research, Jane is interested in education and was recently awarded a fellowship from the 
+Software Sustainability Institute to develop materials to encourage biology students to engage with computing.</p>
+
+<p>In her spare time Jane plays roller derby, writes novels, teaches children to code and cruises the 
+canals on a narrowboat.</p>
+<br>
+
+<img id="Richard Everitt" align="right" src="mugshots/Richard.jpg">
+<h3>Dr Richard Everitt</h3>
+<p>Rich is a former Postdoctoral Scientist in the Nuffield Department for Clinical 
+Medicine, working on the Modernising Medical Microbiology project funded by UKCRC.
+His background is in (mostly Bayesian) statistics and machine learning, which he used
+to investigate the evolution of pathogens through the study of full genomic data.</p>
+
+<p>He was formerly a Brunel Fellow in Statistics in the Department of Mathematics at the 
+University of Bristol (where he also studied for his PhD under the supervision of Prof. 
+Peter Green).  Prior to this he was a researcher at QinetiQ, specialising in target tracking, 
+signal and image processing and classification.</p>
+
+<p>Richard's primary research interests are in methodological work in Bayesian statistics, 
+in both inference and modelling.  The majority of his work on inference is in Markov chain 
+Monte Carlo, sequential Monte Carlo and approximate Bayesian computation, with his modelling 
+interests focussing on graphical models and non-parametrics.  He has an ongoing interest in 
+the use of computers in computational statistics.</p>
+
+<p>On leaving the group, Richard took up a Lectureship at the University of Reading. You can
+visit his website <a href="http://www.maths.bris.ac.uk/~marge">here</a>.</p>
+
+<img id="Bethany Dearlove" align="right" src="mugshots/Bethany.jpg">
+<h3>Dr Bethany Dearlove</h3>
+<p>Bethany is a former DPhil student based in the Nuffield Department of Medicine at the University
+of Oxford, supervised by Dr Daniel Wilson and Prof. Peter Donnelly.  Her
+work was focussing on the genomic evolution of various pathogens as part of the
+Modernising Medical Microbiology Consortium, using new technology to obtain
+genetic information in real time.  From this, the aim was to find patterns of
+evolution to further understand the spread and transmission of disease,
+particularly for three pathogens commonly acquired in hospitals.</p>
+
+<p>She previously studied at the University of Reading, where she completed both her
+MSc. in Biometry and BSc. Mathematics and Statistics.  It was here she was
+introduced to the concept of Forensic and Genetic Statistics by Dr. Karen
+Ayres, inspiring her current research interests.  Bethany's Masters project focused
+on a forensic application of statistics, investigating techniques for
+familial searching in the UK National DNA Database with missing data and low
+copy number DNA profiles.</p>
+
+<p>Whilst in Reading, she competed in synchronised swimming, and has been
+nationally ranked in Great Britain for a number of years - her best results
+coming in 2009 where she was the British silver medallist in the solo and team
+events, and was named the Reading Evening Post Sports Personality of the
+Year for Player Loyalty.  In Oxford, she was more likely to be seen
+keeping fit by running or cycling, though still to be found on poolside
+coaching and choreographing routines.</p>
+
+<img id="Ben Umans" align="right" src="mugshots/umans.jpg">
+<h3>Ben Umans</h3>
+<p>Ben joined the lab for the summer of 2012 to work on models of mutation and selection in
+ bacteria as a Masters student in the Department of Statistics. A native of Chicago, he
+returned to the US in 2013 to begin a PhD in Genetics.</p>
+

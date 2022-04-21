@@ -1,0 +1,22 @@
+bugbank.txt	Daniel Wilson Research - Bugbank
+harmonicmeanp.txt	Daniel Wilson Software - harmonicmeanp
+contact.txt	Daniel Wilson Contact Details
+cv.txt	Daniel Wilson CV
+index.txt	Daniel Wilson Homepage
+notfound.txt	Daniel Wilson - Page Not Found
+publications.txt	Daniel Wilson Publications
+research.txt	Daniel Wilson Research Interests
+software.txt	Daniel Wilson Software
+omegaMap.txt	Daniel Wilson Software - omegaMap
+iSource.txt	Daniel Wilson Software - iSource
+lab.txt	Daniel Wilson Lab
+gammaMap.txt	Daniel Wilson Software - gammaMap
+xAMOVA.txt	Daniel Wilson Software - xAMOVA
+research2012.txt	Daniel Wilson Research Interests
+transmission.txt	Daniel Wilson Research Interests - Transmission
+evolution.txt	Daniel Wilson Research Interests - Pathogen Evolution
+selection.txt	Daniel Wilson Research Interests - Detecting Selection
+methods.txt	Daniel Wilson Research Interests - Methods Development
+virulogenomics.txt	Virulogenomics - Genotype-Phenotype Mapping in Bacteria
+preprints.txt	Daniel Wilson Preprints
+ClonalFrameML.txt	ClonalFrameML

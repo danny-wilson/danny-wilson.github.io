@@ -1,0 +1,5 @@
+<h2>Spatio-temporal epidemiology of <i>Campylobacter jejuni</i> enteritis, in an area of Northwest England, 2000-2002.</h2>
+<p>Gabriel, E., Wilson, D. J., Leatherbarrow, A. J., Cheesbrough, J., Gee, S., Bolton, E., Fox, A., Fearnhead, P., Hart, C. A. and P. J. Diggle (2010)<br>
+<i>Epidemiology and Infection</i> <B>138</B>: 1384-1390. (<a href="http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=7873635">pdf</a>)</p>
+
+<p>A total of 969 isolates of <i>Campylobacter jejuni</i> originating in the Preston, Lancashire post-code district over a three-year period have been characterized using multi-locus sequence typing. Recently developed statistical methods and a genetic model are used to investigate temporal, spatial, spatio-temporal and genetic variation amongst human <i>C. jejuni</i> infections. The analysis of the data shows statistically significant seasonal variation, spatial clustering, small-scale spatio-temporal clustering and spatio-temporal interaction in the overall pattern of incidence, and spatial segregation amongst cases classified according to their most likely species-of-origin.</p>

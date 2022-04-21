@@ -1,0 +1,19 @@
+<h2>A population genetics-phylogenetics approach to inferring natural selection in coding sequences</h2>
+<p>Wilson, D. J., R. D. Hernandez, P. Andolfatto and M. Przeworski (2011)<br>
+<i>PLoS Genetics</i> <B>7</B>: e1002395. (<a href="http://www.plosgenetics.org/article/info:doi/10.1371/journal.pgen.1002395">pdf</a>)</p>
+
+<p>Through an analysis of polymorphism within and divergence between species, we can
+hope to learn about the distribution of selective effects of mutations in the genome,
+changes in the fitness landscape that occur over time, and the location of sites
+involved in key adaptations that distinguish modern day species. We introduce a novel
+method for the analysis of variation in selection pressures within and between species,
+spatially along the genome and temporally between lineages. We model codon
+evolution explicitly using a joint population genetics-phylogenetics approach that we
+developed for the construction of multiallelic models with mutation, selection and drift.
+Our approach has the advantage of performing direct inference on coding sequences,
+inferring ancestral states probabilistically, utilizing allele frequency information, and
+generalizing to multiple species. We use a Bayesian sliding window model for
+intragenic variation in selection coefficients that efficiently combines information across
+sites and captures spatial clustering within the genome. To demonstrate the utility of
+the method, we infer selective pressures acting in <i>Drosophila melanogaster</i> and <i>D.
+simulans</i> from polymorphism and divergence data for 100 X-linked coding regions.</p>

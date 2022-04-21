@@ -1,0 +1,94 @@
+stevens_etal_2022.txt	Targeted pneumolysin control by a mobile genetic element in Streptococcus pneumoniae
+covid19hgi_2021.txt	Mapping the human genetic architecture of COVID-19
+lin_etal_2021.txt	Host genetics to infer the global spread and evolutionary history of HCV subtype 3a
+wilson_2021.txt	The Levy combination test
+arning_etal_2021.txt	Machine learning to predict the source of campylobacteriosis using whole genome data
+earle_etal_2021.txt	Polymorphisms in factor H binding protein influence invasiveness of Neisseria meningitidis
+young_etal_2021.txt	Antimicrobial resistance determinants are associated with Staphylococcus aureus bacteraemia
+gill_etal_2021.txt	Rise and fall of Staphylococcus aureus ST239, a dominant hybrid pathogen
+pairo-castineira_etal_2020.txt	 Genetic mechanisms of critical illness in Covid-19
+ellinghaus_etal_2020.txt	 Genomewide Association Study of Severe Covid-19 with Respiratory Failure
+eyre_etal_2020.txt	Probabilistic transmission models outperform heuristic rules and identify strain-specific differences
+covid19hgi_2020.txt	The COVID-19 Host Genetics Initiative
+arning_wilson_2020.txt	The past, present and future of bacterial ancient DNA
+armstrong_etal_2020.txt	Dynamic linkage of PHE's Second Generation Surveillance System to UK Biobank
+wilson_2020.txt	Generalized mean p-values for combining dependent tests
+hilton_etal_2020.txt	Microbial isolation in English participants in the UK Biobank cohort
+wilson_cryptic_2020.txt	GenomegaMap: within-species genome-wide dN/dS estimation from over 10,000 genomes
+crispell_etal_2019.txt	Bi-directional transmission of Mycobacterium bovis in a multi-host system
+everitt_etal_2019.txt	Sequential Monte Carlo with transformations
+cole_etal_2019.txt	Genomes sequences of 64 type strains of the genus Staphylococcus
+young_etal_2019.txt	Panton-Valentine leukocidin is the key determinant of Staphylococcus aureus pyomyositis
+yang_etal_2019.txt	DeepAMR for predicting co-occurrent resistance of Mycobacterium tuberculosis
+wilson_2019.txt	The harmonic mean p-value for combining dependent tests
+didelot_etal_2018.txt	     Bayesian inference of ancestral dates on bacterial phylogenetic trees
+kouchaki_etal_2018.txt	Application of machine learning to tuberculosis drug resistance
+cryptic_2018.txt	Prediction of susceptibility to first-line tuberculosis drugs by DNA sequencing
+gibson_etal_2018.txt	Bacterial Doubling Times in the Wild
+demaio_etal_2018.txt	Bayesian Reconstruction of Transmission within Outbreaks using Genomic Variants
+yang_etal_2017.txt	Machine learning for classifying TB drug-resistance from DNA sequencing data
+gordon_etal_2017.txt	Whole genome sequencing for S. aureus outbreaks
+demaio_etal_2017.txt	The Bacterial Sequential Markov Coalescent
+young_etal_2017.txt	Severe infections emerge from the microbiome by adaptive evolution
+dingle_etal_2017.txt	Effects of control interventions on Clostridium difficile infection in England
+sheppard_etal_2016.txt	Nested Russian Doll-Like Genetic Mobility Drives Rapid Dissemination of the Carbapenem Resistance Gene blaKPC
+price_etal_2016.txt	Transmission of Staphylococcus aureus: a whole-genome sequencing based longitudinal cohort study
+demaio_etal_2016.txt	SCOTTI: reconstruction of transmission within outbreaks with the structured coalescent
+desilva_etal_2016.txt	Whole-genome sequencing to determine transmission of Neisseria gonorrhoeae
+das_etal_2016.txt	Natural mutations in S. aureus attenuate cytotoxicity but not virulence
+stoesser_etal_2016.txt	Evolutionary History of the Global Emergence of the Escherichia coli Epidemic Clone ST131
+shinny_etal_2016.txt	Global genomic epidemiology of Salmonella Typhimurium DT104
+hedge_wilson_2016.txt	Practical Approaches for Detecting Selection in Microbial Genomes
+earle_etal_2016.txt	Identifying lineage effects improves power in bacterial GWAS
+vanhal_etal_2016.txt	Evolutionary dynamics of Enterococcus faecium
+brown_etal_2016.txt	SimBac: simulation of whole bacterial genomes with homologous recombination
+didelot_etal_2016.txt	Within-host evolution of bacterial pathogens
+bradley_etal_2015.txt	Rapid antibiotic resistance predictions from genome sequence data
+dearlove_etal_2015.txt	Rapid host switching in generalist Campylobacter strains
+demaio_etal_2015.txt	New Routes to Phylogeography
+laabei_etal_2015.txt	Evolutionary trade-offs in Staphylococcus aureus virulence
+walker_etal_2015.txt	Predicting Mycobacterium tuberculosis drug resistance
+didelot_wilson_2015.txt	ClonalFrameML: efficient inference of recombination in whole bacterial genomes
+hedge_wilson_2014.txt	Bacterial phylogenic but not demographic inference is robust to recombination
+stoesser_etal_2014.txt	NDM-Klebsiella pneumoniae Neonatal Outbreak in a Nepal Hospital
+everitt_etal_2014.txt	Mobile Elements drive Recombination Hotspots in S. aureus Core Genome
+laabei_etal_2014.txt	Predicting the Virulence of MRSA from its Genome Sequence
+price_etal_2014.txt	Patient-to-Patient Transmission Rarely Accounts for Acquisition of S. aureus
+gordon_etal_2014.txt	Prediction of Staphylococcus aureus Antimicrobial Resistance by Whole-Genome Sequencing
+miller_etal_2014.txt	Cryptic variant of an epidemic clone of MRSA
+wong_etal_2013.txt	De novo assembly of Norovirus reveals recombinants in England 2012/13
+eyre_etal_2013b.txt	Diverse Sources of C. difficile Infection
+dearlove_wilson_2013.txt	Coalescent Inference for Infectious Disease
+eyre_etal_2013.txt	Detecting mixed infection with genome sequencing
+golubchik_etal_2013.txt	Within-host evolution of Staphylococcus aureus during asymptomatic carriage
+eyre_etal_2013b.txt	Diversity of C. difficile infection by whole genome sequencing
+batty_etal_2013.txt	RNA-Seq Approach for Whole Genome Sequencing of RNA Viruses
+quach_etal_2013.txt	Selection in Toll-like Receptors in Humans and African Great Apes
+didelot_etal_2012b.txt	Microevolution of Clostridium difficile
+walker_etal_2012.txt	Whole-genome sequencing of Mycobacterium tuberculosis outbreaks
+young_wilson_2012.txt	Evolution of Virulence during Staphylococcus aureus Nasal Carriage
+wilson_2012.txt	Insights from Genomics into Bacterial Pathogen Populations
+didelot_etal_2012.txt	Transforming Clinical Microbiology with Bacterial Genome Sequencing
+eyre_etal_2012.txt	Rapid benchtop sequencing of Staphylococcus aureus and Clostridium difficile
+young_etal_2012.txt	Staphylococcus aureus During Disease Progression
+wilson_etal_2011.txt	Natural Selection in Population and Phylogenetics
+muellner_etal_2011.txt	Molecular and Spatial Tools to Assess Public Health Intervention
+sheppard_etal_2010.txt	Evolution of a Disease Causing Campylobacter Coli Clade
+sousa_etal_2010.txt	Selection at the Duffy binding protein in Plasmodium vivax
+gabriel_etal_2010.txt	Spatio-temporal epidemiology of Campylobacter jejuni
+mullner_etal_2009b.txt	Molecular epidemiology of Campylobacter jejuni
+alon_etal_2009.txt	Crossover Patterns in Humans
+brehony_wilson_maiden_2009.txt	Meningococcal factor H-binding protein diversity
+mullner_etal_2009a.txt	Campylobacteriosis Source Attribution in New Zealand
+sheppard_etal_2009.txt	Genetic Campylobacteriosis Source Attribution
+wilson_etal_2008a.txt	Tracing the Source of Campylobacteriosis
+wilson_etal_2008b.txt	Evolution of Campylobacter jejuni
+wilson_mcvean_2006.txt	Estimating dN/dS With Recombination
+falush_etal_2006.txt	Speciation in Salmonella
+edwards_etal_2006b.txt	Purifying Selection in HIV-1 Envelope
+edwards_etal_2006a.txt	Loss of Diversity During HIV-1 Transmission
+wilson_falush_mcvean_2005.txt	Germs, Genomes and Genealogies
+wilson_falush_2005.txt	The Genetic Structure of Human Pathogens
+jolley_etal_2005.txt	Influence of Patterns of Genetic Diversity in Neisseria meningitidis
+claus_etal_2005.txt	Carried Meningococci
+yazdankhah_etal_2004.txt	Serogroups and Genotypes of Meningococci
