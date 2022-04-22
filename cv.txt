@@ -6,13 +6,13 @@
   <tr><td>Jan 2021 - <td>&nbsp;<td>Director of Studies in Data Science, <a href="https://www.conted.ox.ac.uk">Department for Continuing Education</a> and Fellow of <a href="https://www.stx.ox.ac.uk">St. Cross College</a>, Oxford
   <tr><td>Apr 2018 - <td>&nbsp;<td>Robertson Fellow, <a href="https://www.bdi.ox.ac.uk">Big Data Institute</a>, <a href="https://www.ndph.ox.ac.uk">Nuffield Department of Population Health</a>, University of Oxford
   <tr><td>Oct 2013 - Jan 2021<td>&nbsp;<td>Wellcome Trust and Royal Society <a href="https://wellcome.ac.uk/what-we-do/directories/sir-henry-dale-fellowships-people-funded">Sir Henry Dale Fellow</a>
-  <tr><td>Jan 2010 - Mar 2018<td>&nbsp;<td>Research Fellow, <a href="http://www.expmedndm.ox.ac.uk/home">Nuffield Department of Medicine</a>, University of Oxford
+  <tr><td>Jan 2010 - Mar 2018<td>&nbsp;<td>Research Fellow, <a href="https://www.expmedndm.ox.ac.uk/homepage">Nuffield Department of Medicine</a>, University of Oxford
   <tr><td>Jan 2008 - Dec 2009<td>&nbsp;<td>Post-doctoral Research Scholar, <a href="https://genes.uchicago.edu/">Department of Human Genetics</a>, University of Chicago
-  <tr><td>Oct 2005 - Jan 2008 <td>&nbsp;<td>Research Associate in Genetics, <a href="http://www.lancaster.ac.uk/maths/research/">Department of Mathematics and Statistics</a>, Lancaster University
-  <tr><td>Oct 2002 - Sep 2005 <td>&nbsp;<td>Graduate student, <a href="http://www.stats.ox.ac.uk">Department of Statistics</a>, University of Oxford
-  <tr><td>Oct 1999 - Jun 2002 <td>&nbsp;<td>Undergraduate in <a href="http://www.biology.ox.ac.uk/">Biological Sciences</a>, <a href="http://www.sjc.ox.ac.uk">St. John's College</a>, Oxford
-  <tr><td>Sep 1992 - Jul 1999 <td>&nbsp;<td><a href="http://www.urmstongrammar.org.uk/">Urmston Grammar School</a>, Manchester
-  <tr><td>Sep 1988 - Jul 1992 <td>&nbsp;<td><a href="http://www.acrehall.trafford.sch.uk/">Wellacre Junior School</a>, Manchester
+  <tr><td>Oct 2005 - Jan 2008 <td>&nbsp;<td>Research Associate in Genetics, <a href="https://www.lancaster.ac.uk/maths/research/">Department of Mathematics and Statistics</a>, Lancaster University
+  <tr><td>Oct 2002 - Sep 2005 <td>&nbsp;<td>Graduate student, <a href="https://www.stats.ox.ac.uk">Department of Statistics</a>, University of Oxford
+  <tr><td>Oct 1999 - Jun 2002 <td>&nbsp;<td>Undergraduate in <a href="https://www.biology.ox.ac.uk/">Biological Sciences</a>, <a href="https://www.sjc.ox.ac.uk">St. John's College</a>, Oxford
+  <tr><td>Sep 1992 - Jul 1999 <td>&nbsp;<td><a href="https://www.urmstongrammar.org.uk/">Urmston Grammar School</a>, Manchester
+  <tr><td>Sep 1988 - Jul 1992 <td>&nbsp;<td><a href="https://www.acrehall.trafford.sch.uk/">Wellacre Junior School</a>, Manchester
 </table>
 
 <h3>Degrees, qualifications and awards</h3>
