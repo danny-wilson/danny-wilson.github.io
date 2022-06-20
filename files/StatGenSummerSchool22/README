@@ -4,7 +4,7 @@ Type the following:
 
 cd ~ && wget https://raw.githubusercontent.com/danny-wilson/danny-wilson.github.io/main/files/StatGenSummerSchool22/amr_copypaste.ipynb && wget https://raw.githubusercontent.com/danny-wilson/danny-wilson.github.io/main/files/StatGenSummerSchool22/init.sh
 
-From the JupyterHub menu, selectio File-->Open from Path...
+From the JupyterHub menu, select File-->Open from Path...
 
 Enter:
 
