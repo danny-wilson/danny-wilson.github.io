@@ -14,7 +14,7 @@ wget --quiet https://git.ecdf.ed.ac.uk/hbecher/2206-osgss/-/raw/main/saur.tar &&
 
 # Download the phenotypes
 echo 'Downloading antimicrobial resistance phenotypes for 992 S. aureus genomes ...'
-wget --quiet --no-check-certificate 'https://docs.google.com/uc?export=download&id=1ki-ebZgbONlKRJjnBP1G1RRg_IJGJsSD' -O pheno.tar && tar -xf pheno.tar && rm pheno.tar
+wget --quiet https://git.ecdf.ed.ac.uk/hbecher/2206-osgss/-/raw/main/pheno.tar -O pheno.tar && tar -xf pheno.tar && rm pheno.tar
 
 # Customize the prompt
 echo 'PS1="\[\e]0;\u@Singularity: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@Singularity\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ "' >> ~/.bashrc
