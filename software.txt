@@ -13,13 +13,13 @@
 		                <td><center><img src="art/horizontalspace.jpg" align="center" border="0">
                 		<td><center><a href="gammaMap.html"><img src="gammaMap/smallgraphs.jpg" align="center" border="0"></a>
 			<tr>
-				<td><center><h2>Virulogenomics</h2>
+				<td><center><h2>Bacterial GWAS</h2>
 				<td>&nbsp;
 				<td><center><h2>ClonalFrameML</h2>
 				<td>&nbsp;
 				<td><center><h2>gammaMap</h2>
 			<tr>
-				<td>Software pipeline for genome wide association studies (GWAS) in bacteria.
+				<td>Software pipelines for genome wide association studies (GWAS) in bacteria.
 				<td>&nbsp;
 				<td>Efficient inference of recombination in bacterial genomes.
 				<td>&nbsp;

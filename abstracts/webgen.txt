@@ -1,5 +1,6 @@
 cryptic_gwas_2022.txt	Genome-wide association studies of global M. tuberculosis resistance to 13 antimicrobials
 cryptic_data_2022.txt	A data compendium of 12,289 M. tuberculosis isolates with quantitative resistance phenotypes
+walker_etal_2022.txt	The 2021 WHO catalogue of Mycobacterium tuberculosis complex mutations associated with drug resistance
 cryptic_ecof_2022.txt	Epidemiological cutoff values for antibiotic susceptibility testing of M. tuberculosis
 muloi_etal_2022.txt	Population genomics of E. coli in livestock-keeping households across a rapidly developing urban landscape
 kousathanas_etal_2022.txt	Whole genome sequencing reveals host factors underlying critical Covid-19
