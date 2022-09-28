@@ -1,3 +1,4 @@
+giulieri_etal_2022.txt	Niche-specific genome degradation and convergent evolution shaping S. aureus during severe infections
 cryptic_gwas_2022.txt	Genome-wide association studies of global M. tuberculosis resistance to 13 antimicrobials
 cryptic_data_2022.txt	A data compendium of 12,289 M. tuberculosis isolates with quantitative resistance phenotypes
 walker_etal_2022.txt	The 2021 WHO catalogue of Mycobacterium tuberculosis complex mutations associated with drug resistance
