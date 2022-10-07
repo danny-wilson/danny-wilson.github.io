@@ -71,7 +71,7 @@ serve on the front line in Ireland during the COVID-19 pandemic.</p>
 <h3>Pramod Errolla</h3>
 <p>Pramod joined the group as a Bioinformatician in May 2022, based at the Big Data Institute, Nuffield Department of Population Health, Oxford.</p>
 
-<p>After receiving an MSc in Applied Bioinformatics from Cranfield Univer sity, he worked for General Bioinformatics Ltd as a Bioinformatics Consultant. He followed this up with a Bioinformatician position at the Leeds Cancer Centre (LTHT - NHS Trust). Pramod is interested in genome-wide association studies and RNAseq-based studies of differential gene expression in bacterial pathogens.</p>
+<p>After receiving an MSc in Applied Bioinformatics from Cranfield University, he worked for General Bioinformatics Ltd as a Bioinformatics Consultant. He followed this up with a Bioinformatician position at the Leeds Cancer Centre (LTHT - NHS Trust). Pramod is interested in genome-wide association studies and RNAseq-based studies of differential gene expression in bacterial pathogens.</p>
 
 <img src="emails/emailpramoderrolla.png">
 
