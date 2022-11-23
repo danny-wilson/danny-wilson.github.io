@@ -18,7 +18,6 @@ wget --quiet $DATA/pheno.tar -O pheno.tar && tar -xf pheno.tar && rm pheno.tar
 
 # Customize the prompt
 echo 'PS1="\[\e]0;\u@Singularity: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@Singularity\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ "' >> ~/.bashrc
-echo 'Done !'
 
 # Custom directory for scripts, to fix a bug in plotManhattanbowtie.Rscript
 mkdir -p ~/Wednesday/amr/scripts
@@ -41,3 +40,6 @@ sed -i 's/BX571856.1/R00000022 BX571856.1/g' ~/Wednesday/amr/R00000022.fa
 
 # Update the pipeline software file
 sed 's$scriptpath\t/usr/local/bin$scriptpath\t/home/jovyan/Wednesday/amr/scripts$g' /usr/share/kmer_pipeline/example/pipeline_software_location.txt > ~/Wednesday/amr/pipeline_software_location.txt
+
+# Signal finished
+echo 'Done !'
