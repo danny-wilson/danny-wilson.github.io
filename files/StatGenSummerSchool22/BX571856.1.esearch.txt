@@ -1,7 +1,7 @@
 <ENTREZ_DIRECT>
   <Db>nucleotide</Db>
-  <WebEnv>MCID_6384603a34e8f146b415fae5</WebEnv>
+  <WebEnv>MCID_63846c89f3d1624c7e162cda</WebEnv>
   <QueryKey>1</QueryKey>
-  <Count>5</Count>
+  <Count>1</Count>
   <Step>1</Step>
 </ENTREZ_DIRECT>
