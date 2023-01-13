@@ -1,37 +1,9 @@
-<h2>Microbial isolation in English participants in the UK Biobank cohort: 
-comparison with the general population</h2>
-<p>Hilton, B., Wilson, D. J., O'Connell A. M., Ironmonger, D., Rudkin, J. K, 
-Allen, N., Oliver, I. and D. Wyllie (2020)<br>
-<i>medRxiv</i> <b>doi</b>:10.1101/2020.03.18.20038281 (<a href="https://www.medrxiv.org/content/10.1101/2020.03.18.20038281v1">preprint</a>)
+<h2>Laboratory diagnosed microbial infection in English UK Biobank participants in comparison to the general population</h2>
+<p>Hilton, B., Wilson, D. J., O'Connell A. M., Ironmonger, D., Rudkin, J. K., 
+Allen, N., Oliver, I. and D. H. Wyllie (2023)<br>
+<i>Scientific Reports</i> <b>13</b>:496 (<a href="https://www.nature.com/articles/s41598-022-20635-4.pdf">pdf</a> <a href="https://www.medrxiv.org/content/10.1101/2020.03.18.20038281v1">preprint</a>)
 
-<p><b>Background</b>: Our understanding of the genetic and environmental risk 
-factors for serious bacterial infectious disease in ageing populations remains 
-incomplete. Utilising the UK Biobank (UKB), a prospective cohort study of 
-500,000 men and women aged 40-69 years at recruitment (2006-2010), could help 
-address this.</p>
-
-<p><b>Objectives</b>: To assess the feasibility of linking an England-wide 
-dataset of microbiological isolations to UK Biobank participants, and to 
-characterise microbial isolation from UK Biobank participants.</p>
-
-<p><b>Methods</b>: 
-Positive microbiological isolations from patients in England, as recorded in 
-the Public Health England Second Generation Surveillance System (SGSS), were 
-linked to UK Biobank participants using pseudonymised identifiers.</p>
-
-<p><b>Results</b>: By 
-January 2015, the ascertainment of laboratory reports from UK Biobank 
-participants by SGSS was estimated at 98%. 4.5% of English UK Biobank 
-participants had a positive microbiological isolate in 2015; Escherichia coli, 
-other Enterobacteriaceae and Staphylococcus aureus were the most common 
-isolates. Half the UKB isolates were obtained from 12 microbiology 
-laboratories, and 70% from 21 laboratories. Incidence rate ratios for microbial isolation, which is indicative of serious infection, from the UK Biobank cohort 
-relative to the comparably aged general population ranged from 0.6 to 1 for 
-different organisms, compatible with the previously described healthy 
-participant bias in UKB. </p>
-
-<p><b>Conclusions</b>: Data on microbial isolations can be 
-linked to UKB participants from January 2015 onwards. This linked data would 
-offer new opportunities for research into infectious disease in older 
-individuals.
-</p>
+<p>Understanding the genetic and environmental risk factors for serious bacterial infections in ageing populations remains incomplete. Utilising the UK Biobank (UKB), a prospective cohort study
+of 500,000 adults aged 40-69 years at recruitment (2006-2010), can help address this. Partial implementation of such a system helped groups around the world make rapid progress understanding risk factors for SARS‐CoV‐2 infection and COVID‐19, with insights appearing as early as May 2020.
+In principle, such approaches could also to be used for bacterial isolations. Here we report feasibility testing of linking an England‐wide dataset of microbial reporting to UKB participants, to enable characterisation of microbial infections within the UKB Cohort. These records pertain mainly to bacterial isolations; SARS‐CoV‐2 isolations were not included. Microbiological infections occurring
+in patients in England, as recorded in the Public Health England second generation surveillance system (SGSS), were linked to UKB participants using pseudonymised identifiers. By January 2015, ascertainment of laboratory reports from UKB participants by SGSS was estimated at 98&percnt;. 4.5&percnt; of English UKB participants had a positive microbiological isolate in 2015. Half of UKB isolates came from 12 laboratories, and 70&percnt; from 21 laboratories. Incidence rate ratios for microbial isolation, which is indicative of serious infection, from the UKB cohort relative to the comparably aged general population ranged from 0.6 to 1, compatible with the previously described healthy participant bias in UKB. Data on microbial isolations can be linked to UKB participants from January 2015 onwards. This linked data would offer new opportunities for research into the role of bacterial agents on health and disease in middle to‐old age.</p>

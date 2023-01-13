@@ -1,3 +1,4 @@
+covid19hgi_2022.txt	A first update on mapping the human genetic architecture of COVID-19
 giulieri_etal_2022.txt	Niche-specific genome degradation and convergent evolution shaping S. aureus during severe infections
 cryptic_gwas_2022.txt	Genome-wide association studies of global M. tuberculosis resistance to 13 antimicrobials
 cryptic_data_2022.txt	A data compendium of 12,289 M. tuberculosis isolates with quantitative resistance phenotypes

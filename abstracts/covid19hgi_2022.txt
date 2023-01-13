@@ -1,0 +1,5 @@
+<h2>A first update on mapping the human genetic architecture of COVID-19</h2>
+<p>COVID-19 Host Genetics Initiative (2022)<br>
+<i>Nature</i> <b>608</b>:E1-E10 (<a href="https://www.nature.com/articles/s41586-022-04826-7">pdf</a>)
+
+<p>The COVID-19 pandemic continues to pose a major public health threat, especially in countries with low vaccination rates. To better understand the biological underpinnings of SARS-CoV-2 infection and COVID-19 severity, we formed the COVID-19 Host Genetics Initiative. Here we present a genome-wide association study meta-analysis of up to 125,584 cases and over 2.5 million control individuals across 60 studies from 25 countries, adding 11 genome-wide significant loci compared with those previously identified. Genes at new loci, including <i>SFTPD</i>, <i>MUC5B</i> and <i>ACE2</i>, reveal compelling insights regarding disease susceptibility and severity.</p>
