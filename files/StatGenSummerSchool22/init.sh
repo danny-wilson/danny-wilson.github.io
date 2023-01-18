@@ -34,10 +34,10 @@ sh -c "$(wget -q ftp://ftp.ncbi.nlm.nih.gov/entrez/entrezdirect/install-edirect.
 # Download the S. aureus reference genome and genbank annotation
 cd ~/Wednesday/amr
 wget https://raw.githubusercontent.com/danny-wilson/danny-wilson.github.io/main/files/StatGenSummerSchool22/BX571856.1.esearch.txt
-#~/edirect/esearch -db nucleotide -query "BX571856.1" | ~/edirect/efetch -format fasta > ~/Wednesday/amr/R00000022.fa
-#~/edirect/esearch -db nucleotide -query "BX571856.1" | ~/edirect/efetch -format gb > ~/Wednesday/amr/R00000022.gbk
-cat BX571856.1.esearch.txt | ~/edirect/efetch -format fasta > ~/Wednesday/amr/R00000022.fa
-cat BX571856.1.esearch.txt | ~/edirect/efetch -format gb > ~/Wednesday/amr/R00000022.gbk
+~/edirect/esearch -db nucleotide -query "BX571856.1" | ~/edirect/efetch -format fasta > ~/Wednesday/amr/R00000022.fa
+~/edirect/esearch -db nucleotide -query "BX571856.1" | ~/edirect/efetch -format gb > ~/Wednesday/amr/R00000022.gbk
+#cat BX571856.1.esearch.txt | ~/edirect/efetch -format fasta > ~/Wednesday/amr/R00000022.fa
+#cat BX571856.1.esearch.txt | ~/edirect/efetch -format gb > ~/Wednesday/amr/R00000022.gbk
 
 # Rename the FASTA file to that used in the precomputed steps
 sed -i 's/BX571856.1/R00000022 BX571856.1/g' ~/Wednesday/amr/R00000022.fa
