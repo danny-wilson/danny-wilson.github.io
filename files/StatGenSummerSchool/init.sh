@@ -29,11 +29,11 @@ chmod +x ~/BacterialGWAS/amr/scripts/plotManhattanbowtie.Rscript
 
 # Download the S. aureus reference genome and genbank annotation
 cd ~/BacterialGWAS/amr
-wget -O ~/Wednesday/amr/R00000022.fa.gz https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/013/425/GCF_000013425.1_ASM1342v1/GCF_000013425.1_ASM1342v1_genomic.fna.gz && gunzip ~/Wednesday/amr/R00000022.fa.gz
-wget -O ~/Wednesday/amr/R00000022.gbk.gz https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/013/425/GCF_000013425.1_ASM1342v1/GCF_000013425.1_ASM1342v1_genomic.gbff.gz && gunzip ~/Wednesday/amr/R00000022.gbk.gz
+wget -O ~/BacterialGWAS/amr/R00000022.fa.gz https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/013/425/GCF_000013425.1_ASM1342v1/GCF_000013425.1_ASM1342v1_genomic.fna.gz && gunzip ~/BacterialGWAS/amr/R00000022.fa.gz
+wget -O ~/BacterialGWAS/amr/R00000022.gbk.gz https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/013/425/GCF_000013425.1_ASM1342v1/GCF_000013425.1_ASM1342v1_genomic.gbff.gz && gunzip ~/BacterialGWAS/amr/R00000022.gbk.gz
 
 # Rename the FASTA file to that used in the precomputed steps
-sed -i 's/NC_007795.1/R00000022 NC_007795.1/g' ~/Wednesday/amr/R00000022.fa
+sed -i 's/NC_007795.1/R00000022 NC_007795.1/g' ~/BacterialGWAS/amr/R00000022.fa
 
 # Update the pipeline software file
 sed 's$scriptpath\t/usr/local/bin$scriptpath\t/home/jovyan/BacterialGWAS/amr/scripts$g' /usr/share/kmer_pipeline/example/pipeline_software_location.txt > ~/BacterialGWAS/amr/pipeline_software_location.txt
