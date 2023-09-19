@@ -1,0 +1,5 @@
+<h2>A second update on mapping the human genetic architecture of COVID-19</h2>
+<p>COVID-19 Host Genetics Initiative (2023)<br>
+<i>Nature</i> <b>621</b>:E7-E26 (<a href="https://www.nature.com/articles/s41586-023-06355-3">pdf</a>)
+
+<p>Investigating the role of host genetic factors in COVID-19 severity and susceptibility can inform our understanding of the underlying biological mechanisms that influence adverse outcomes and drug development. Here we present a second updated genome-wide association study (GWAS) on COVID-19 severity and infection susceptibility to SARS-CoV-2 from the COVID-19 Host Genetic Initiative (data release 7). We performed a meta-analysis of up to 219,692 cases and over 3 million controls, identifying 51 distinct genome-wide significant loci—adding 28 loci from the previous data release2. The increased number of candidate genes at the identified loci helped to map three major biological pathways that are involved in susceptibility and severity: viral entry, airway defence in mucus and type I interferon.</p>
