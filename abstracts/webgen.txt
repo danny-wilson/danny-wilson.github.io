@@ -1,3 +1,4 @@
+antonaru_etal_2023.txt	Common loss of far-red light photoacclimation in cyanobacteria from hot and cold deserts
 covid19hgi_2023.txt	A second update on mapping the human genetic architecture of COVID-19
 covid19hgi_2022.txt	A first update on mapping the human genetic architecture of COVID-19
 giulieri_etal_2022.txt	Niche-specific genome degradation and convergent evolution shaping S. aureus during severe infections
