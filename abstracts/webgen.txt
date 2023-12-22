@@ -1,3 +1,5 @@
+arning_etal_2024.txt	Identifying direct risk factors in UK Biobank with Doublethink
+fryer_etal_2024.txt	Doublethink: simultaneous Bayesian-frequentist model-averaged hypothesis testing
 antonaru_etal_2023.txt	Common loss of far-red light photoacclimation in cyanobacteria from hot and cold deserts
 covid19hgi_2023.txt	A second update on mapping the human genetic architecture of COVID-19
 covid19hgi_2022.txt	A first update on mapping the human genetic architecture of COVID-19

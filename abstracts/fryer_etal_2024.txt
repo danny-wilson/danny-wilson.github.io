@@ -1,0 +1,9 @@
+<h2>Doublethink: simultaneous Bayesian-frequentist model-averaged hypothesis testing</h2>
+<p>Fryer, H. R., Arning, N. and D. J. Wilson (2024)<br>
+<i>In preparation</i>
+
+<p>Bayesian model-averaged hypothesis testing is an important technique in regression because it addresses the problem that the evidence one variable directly affects an outcome often depends on which other variables are included in the model. This problem is caused by confounding and mediation, and is pervasive in big data settings with thousands of variables. However, model-averaging is under-utilized in fields, like epidemiology, where classical statistical approaches dominate. 
+
+Here we show that simultaneous Bayesian and frequentist model-averaged hypothesis testing is possible in large samples, for a family of priors. We show that Bayesian model-averaged regression is a closed testing procedure, and use the theory of regular variation to derive interchangeable posterior odds and $p$-values that jointly control the Bayesian false discovery rate (FDR), the frequentist type I error rate, and the frequentist familywise error rate (FWER). These results arise from an asymptotic chi-squared distribution for the model-averaged deviance, under the null hypothesis.
+
+We call the approach `Doublethink'. In a related manuscript \citep{arning2024identifying}, we apply it to discovering direct risk factors for COVID-19 hospitalization in UK Biobank, and we discuss its broader implications for bridging the differences between Bayesian and frequentist hypothesis testing.</p>
