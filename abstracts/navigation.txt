@@ -4,7 +4,6 @@
 						<tr>
                                                         <td width="10%"><a href="https://www.danielwilson.me.uk/index.html">Home</a></td>
                                                         <td width="10%"><a href="https://blog.danielwilson.me.uk">Blog</a></td>
-							<td width="10%"><a href="https://www.bugbank.uk">Bugbank</a></td>
 							<td width="10%"><a href="https://www.danielwilson.me.uk/lab.html">Lab</a></td>
 							<td width="10%"><a href="https://www.danielwilson.me.uk/software.html">Software</a></td>
 							<td width="10%"><a href="https://www.danielwilson.me.uk/research.html">Research</a></td>

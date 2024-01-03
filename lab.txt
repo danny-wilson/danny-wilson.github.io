@@ -1,16 +1,6 @@
 <p>Profiles and research interests of my group members.</p>
 <h2>Current members</h2>
 
-<img id="Justine Rudkin" align="right" src="https://users.ox.ac.uk/~sjoh1120/files/mugshots/Justine-Rudkin.jpg">
-<h3>Dr Justine Rudkin</h3>
-<p>Justine is a postdoctoral researcher in the Nuffield Department of Population Health, based at the John Radcliffe Hospital, Oxford.</p>
-
-<p>After receiving a BSc in Tropical Disease Biology from the University of Liverpool, she completed her PhD at the University of Bath, studying the interplay between antimicrobial resistance and virulence in Staphylococcus aureus. She followed this up with postdoctoral positions at the National University of Ireland, Galway, and University College Cork, Ireland. After a 2-year Irish Research Council funded fellowship at University College Cork studying the impact of niche adaptation on the virulence of food-borne pathogens, she moved back to the UK in October 2018 to join the Wilson lab.</p>
-
-<p>Using transcriptomic and proteomic approaches, her research will focus on within-host evolution of S. aureus to determine how the commensal to pathogenic switch occurs, and its impact on virulence and host-pathogen interactions.</p>
-
-<img src="emails/emailjustinerudkin.png">
-
 <img id="Jacob Armstrong" align="right" src="https://users.ox.ac.uk/~sjoh1120/files/mugshots/Jacob-Armstrong.png">
 <h3>Jacob Armstrong</h3>
 <p>Jacob is a Data Scientist and originally joined the group in August 2018. He is now a member of the Health Data Sciences Doctoral Training Centre at the Big Data Institute, pursuing his doctorate. He previously worked as the lead data developer at a financial analytics company in London, and before this completed his undergraduate degree in Mathematics at the University of Oxford.</p>
@@ -73,6 +63,14 @@ serve on the front line in Ireland during the COVID-19 pandemic.</p>
 
 <h2>Former members</h2>
 
+<img id="Justine Rudkin" align="right" src="https://users.ox.ac.uk/~sjoh1120/files/mugshots/Justine-Rudkin.jpg">
+<h3>Dr Justine Rudkin</h3>
+<p>Justine is a former postdoctoral researcher in the Nuffield Department of Population Health, based at the John Radcliffe Hospital, Oxford. She is now a lecturer at the University of Glasgow.</p>
+
+<p>After receiving a BSc in Tropical Disease Biology from the University of Liverpool, she completed her PhD at the University of Bath, studying the interplay between antimicrobial resistance and virulence in Staphylococcus aureus. She followed this up with postdoctoral positions at the National University of Ireland, Galway, and University College Cork, Ireland. After a 2-year Irish Research Council funded fellowship at University College Cork studying the impact of niche adaptation on the virulence of food-borne pathogens, she moved back to the UK in October 2018 to join the Wilson lab.</p>
+
+<p>Using transcriptomic and proteomic approaches, her research focused on within-host evolution of S. aureus to determine how the commensal to pathogenic switch occurs, and its impact on virulence and host-pathogen interactions.</p>
+
 <img id="Steven Lin" align="right" src="https://users.ox.ac.uk/~sjoh1120/files/mugshots/Steven-Lin.jpg">
 <h3>Steven Lin</h3>
 <p>Steven Lin is a former research assistant and joined the group in November 2017. He previously graduated with an MSc in Bioinformatics and Theoretical Systems Biology from Imperial College London.</p>
@@ -87,20 +85,20 @@ serve on the front line in Ireland during the COVID-19 pandemic.</p>
 
 <img id="Kasia Parfitt" align="right" src="https://users.ox.ac.uk/~sjoh1120/files/mugshots/Kasia-Parfitt.jpg">
 <h3>Kasia Parfitt</h3>
-<p>Kasia is a Research Assistant working in the Nuffield Department of Population Health at Oxford's John Radcliffe Hospital. She is researching alongside Justine Rudkin on the switch of <i>S. aureus</i> from commensal to pathogen, joining the group in mid-2022.</p>
+<p>Kasia was a Research Assistant working in the Nuffield Department of Population Health at Oxford's John Radcliffe Hospital. She is researching alongside Justine Rudkin on the switch of <i>S. aureus</i> from commensal to pathogen, joining the group in mid-2022.</p>
 
-<p>She holds a BSc and MSc in Microbiology and has recently finished her PhD studying Burkholderia multivorans population biology, using next generation sequencing approaches, at Cardiff University.</p>
+<p>She holds a BSc and MSc in Microbiology and had recently finished her PhD studying Burkholderia multivorans population biology, using next generation sequencing approaches, at Cardiff University.</p>
 
 <img id="Alejandra Vergara-Lope" align="right" src="https://users.ox.ac.uk/~sjoh1120/files/mugshots/Alejandra-Vergara.png">
 <h3>Dr Alejandra Vergara-Lope</h3>
-<p>Alejandra is a postdoctoral scientist based at the Big Data Institute, University of Oxford, supervised by Dr Daniel Wilson. Her work involves developing computationally tractable inference based on composite likelihood of common population genetics models under the coalescent theory. The project integrates pathogen genetic sequence data to understand patterns of disease transmission.</p>
+<p>Alejandra was a postdoctoral scientist based at the Big Data Institute, University of Oxford, supervised by Dr Daniel Wilson. Her work involved developing computationally tractable inference based on composite likelihood of common population genetics models under the coalescent theory. The project integrated pathogen genetic sequence data to understand patterns of disease transmission.</p>
 
 <p>Alejandra did an integrated PhD in Next Generation Computational Modelling with the Centre for Doctoral Training at the University of Southampton funded by Engineering and Physical Sciences Research Council (EPSRC), UK and The National Council Science and Technology (CONACyT), Mexico. Alejandra undertook her research project within the genomic informatics group under the supervision of Professor Andrew Collins and Dr Reuben Pengelly, working on the application of mathematical tools for analysis of genome function, linkage disequilibrium structure and disease gene prediction.</p>
 
 <img id="Joshua Thomas" align="right" src="https://users.ox.ac.uk/~sjoh1120/files/mugshots/Joshua-Thomas.jpg">
 <h3>Joshua Thomas</h3>
-<p>Josh is a <i>D.Phil.</i> candidate based in the Department of Zoology, supervised by Prof. Ashleigh Griffin, 
-Dr. Melanie Ghoul, and Dr. Daniel Wilson. His work focuses on understanding the role of antimicrobial 
+<p>Josh is a former <i>D.Phil.</i> student based in the Department of Zoology, supervised by Prof. Ashleigh Griffin, 
+Dr. Melanie Ghoul, and Dr. Daniel Wilson. His work focused on understanding the role of antimicrobial 
 production by <i>Staphylococcus aureus</i> in the human nasal cavity, particularly from an ecological and 
 evolutionary perspective.</p>  
  

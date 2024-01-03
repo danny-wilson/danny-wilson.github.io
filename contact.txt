@@ -2,10 +2,10 @@
 
 <table width=100% border=0>
   <tr>
-    <td><b>Acting personal assistant</b><td>&nbsp;<td>&nbsp;</td>
+    <td><b>Personal assistant</b><td>&nbsp;<td>&nbsp;</td>
   </tr>
   <tr>
-    <td><a href="mailto:shelley.yates@ndph.ox.ac.uk">shelley.yates@ndph.ox.ac.uk</a><td>&nbsp;<td>&nbsp;</td>
+    <td><a href="mailto:Luiza.Scurtu@ndph.ox.ac.uk">Luiza.Scurtu@ndph.ox.ac.uk</a><td>&nbsp;<td>&nbsp;</td>
   </tr>
   <tr>
     <td>&nbsp;<td>&nbsp;<td>&nbsp;</td>
