@@ -1,4 +1,4 @@
-		<img id="me" align="right" src="mewed.jpg">
+		<img id="me" align="right" src="https://users.ox.ac.uk/~sjoh1120/files/mugshots/mebdi.jpg">
 		<h2>Welcome to my home page</h2>
 
 <!--		<p><i>For information on Bugbank, a project that aims to integrate infection data into UK Biobank, visit <a href="bugbank.html">this page</a>.</i></p> -->
