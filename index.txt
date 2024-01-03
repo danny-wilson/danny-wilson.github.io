@@ -7,20 +7,17 @@
 		I hold a Robertson Fellowship at the 
 		<a href="https://www.bdi.ox.ac.uk">Big Data Institute</a>, part of <a href="https://www.ndph.ox.ac.uk/"
 		>Oxford Population Health</a>, and serve as Director of Studies in Data Science at the 
-		Department for Continuing Education.
-		My research is supported by the <a href="https://www.wellcome.ac.uk/">Wellcome Trust</a> and 
+		<a href="https://www.conted.ox.ac.uk">Department for Continuing Education</a>.
+		My research is supported by the 
 		<a href="https://www.robertsonfoundation.org/">Robertson Foundation</a>.
 		I am a collaborator with the
 		<a href="http://www.modmedmicro.ac.uk/">Modernising Medical Microbiology</a>
 		consortium based at the John Radcliffe Hospital, Oxford, and Associate Member of the 
 		<a href="https://www.stats.ox.ac.uk/">Department of Statistics</a>.</p>
 
-		<p>My research interests are in the genetic risk of infectious disease and the
-		      evolution of pathogen populations, which I study
-		      through comparative genome analysis. I develop new tools for data analysis, and help facilitate infection research through collaborative projects. My research
-		      activity focuses on the analysis of bacterial diseases and populations, but I also
-		      work on viruses and non-pathogenic microorganisms. Motivating themes in my
-		      work are understanding the inheritance of virulence and susceptibility and the effects of
+		<p>My research interests are in data science, infectious disease and pathogen genomics. I develop new tools for data analysis, and help facilitate infection research through collaborative projects. My research
+		      activity has focused on the analysis of bacterial diseases and populations. Motivating themes in my
+		      work are understanding genetic and non-genetic risk factors for infection, and the effects of
 		      transmission, natural selection and recombination in shaping pathogen diversity.
 		      I have investigated the evolution of pathogen populations from the
 		      colonization of individual hosts and transmission between hosts, through to the
