@@ -1,0 +1,11 @@
+<h2>Machine learning the source of Campylobacter infection in the United States of America</h2>
+<p>Pascoe, B., Futcher, G., Pensar, J., Bayliss, S.C., Mourkas, E., Calland, J.K., Hitchings, M.D., Joseph, L.A., Lane, C.G., Greenlee, T., Arning, N., Wilson, D. J., Jolley, K., Corander, J., Maiden, M. C. J., Parker, C. T., Cooper, K. K., Rose, E. B., Hiett, K., Bruce, B. B. and S. K. Sheppard (2023)<br>
+<i>SSRN</i> <b>doi</b>: 10.2139/ssrn.4671846 (<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4671846">preprint</a>)
+
+<p>Background: Combined pathogen genomic surveillance and bioinformatic analyses has the potential to inform public health risk and targeted interventions. In this study, we analyse the two most common pathogenic Campylobacter species in human gastrointestinal infection. These enteric bacteria are ubiquitous in the gut of birds and mammals and commonly infect humans via consumption of contaminated food. Rising incidence and antimicrobial resistance (AMR) are a major global concern and there is an urgent need to identify quantify the routes to human infection.</p>
+
+<p>Methods: As part of routine US national surveillance (2009-2019), 8,856 Campylobacter isolate genomes were sequenced from human infections and 16,703 from potential host sources. Targeting genetic variation associated with host adaptation, we used machine learning and probabilistic models to attribute the source of human infections and estimate the relative importance of different disease reservoirs.</p>
+
+<p>Findings: Poultry was identified as the primary source of human infection, responsible for an estimated 68% of cases. Most of the remaining clinical isolates were attributed to cattle (28%), with only a small contribution from wild bird (3%) and pork sources (1%). There was also evidence of an increase in multidrug resistance, particularly fluoroquinolone and aminoglycoside resistance, among isolates attributed to chickens.</p>
+
+<p>Interpretation: National-scale surveillance and quantification of the relative contribution of infection sources can guide policy. Our study suggests that the greatest reductions in human campylobacteriosis in the US will come from interventions that focus on poultry, which may also reduce the spread of AMR.</p>
