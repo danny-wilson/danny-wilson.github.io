@@ -42,10 +42,6 @@ a:active {
   background-color:black;
   /*120px 10px 130px 10px;*/
  }
- div {
-  display: block;
-  position: relative;
- }
  div#title, div#header, div#navigation, div#footer{
   position:relative;
   width:100%;
