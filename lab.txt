@@ -45,11 +45,15 @@ serve on the front line in Ireland during the COVID-19 pandemic.</p>
 
 <img src="emails/emailjeffchen.png" height="20">
 
+<div>
+
 <img id="Isobel Guthrie" align="right" src="https://users.ox.ac.uk/~sjoh1120/files/mugshots/Isobel-Guthrie.png">
 <h3>Isobel Guthrie</h3>
 <p>Isobel Guthrie is a DPhil student who joined the group in 2023. She graduated from the University of St Andrews in 2022 with a BSc (Hons) in Biology, before joining the Genomic Medicine and Statistics DPhil programme. Her project focuses on the phylodynamics of SARS-CoV-2, examining how the background genetic diversity of SARS-CoV-2 affects inferences of transmission and selection.</p>
 
 <img src="emails/emailisobelguthrie.png" height="20">
+
+</div>
 
 <img id="Hugh White" align="right" src="https://users.ox.ac.uk/~sjoh1120/files/mugshots/Hugh-White.jpg">
 <h3>Dr Hugh White</h3>
