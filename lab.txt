@@ -52,7 +52,7 @@ serve on the front line in Ireland during the COVID-19 pandemic.</p>
 <img src="emails/emailisobelguthrie.png" height="20">
 
 <img id="Hugh White" align="right" src="https://users.ox.ac.uk/~sjoh1120/files/mugshots/Hugh-White.jpg">
-<h3>Hugh White</h3>
+<h3>Dr Hugh White</h3>
 <p>Hugh is a postdoctoral researcher based primarily in the John Radcliffe Hospital, Oxford in the Nuffield Department of Population Health.</p>
  
 <p>Starting his academic career with a BSc in Zoology, Hugh continued his studies with an MSc in Evolutionary and Behavioural Ecology, before specialising in bacterial ecology during his PhD funded by the BBSRC SWBio doctoral training partnership. His doctoral research aimed to identify the primary processes involved in the maintenance of distinct bacterial clades, focussing on the importance of key ecological traits in maintaining clade distinctiveness.</p>
@@ -62,7 +62,7 @@ serve on the front line in Ireland during the COVID-19 pandemic.</p>
 <img src="emails/emailhughwhite.png" height="20">
 
 <img id="Shing Zhan" align="right" src="https://users.ox.ac.uk/~sjoh1120/files/mugshots/Shing-Zhan.jpg">
-<h3>Shing Zhan</h3>
+<h3>Dr Shing Zhan</h3>
 <p>Shing is an incoming NDPH Intermediate Fellow based at the Big Data Institute. With a diverse background in evolutionary biology, ecology, and molecular diagnostics, he is focusing on understanding the emergence of antimicrobial resistance and virulence in bacterial pathogens. His long-term goal is to contribute to the evidence base for informing antibiotic stewardship and infection control practices. To this end, he is working with Prof. Daniel Wilson and Prof. Jerome Kelleher (NDM) to develop and apply novel computational methodologies to extract epidemiological insights from large-scale bacterial genomic datasets. Before joining Oxford, he co-launched a startup in Canada in infectious disease diagnostics and concurrently completed his PhD in bioinformatics at the University of British Columbia (Canada) with Prof. Sarah P. Otto.</p>
 
 <img src="emails/emailshingzhan.png" height="20">
@@ -78,19 +78,19 @@ serve on the front line in Ireland during the COVID-19 pandemic.</p>
 <p>Using transcriptomic and proteomic approaches, her research focused on within-host evolution of S. aureus to determine how the commensal to pathogenic switch occurs, and its impact on virulence and host-pathogen interactions.</p>
 
 <img id="Steven Lin" align="right" src="https://users.ox.ac.uk/~sjoh1120/files/mugshots/Steven-Lin.jpg">
-<h3>Steven Lin</h3>
+<h3>Dr Steven Lin</h3>
 <p>Steven Lin is a former research assistant and joined the group in November 2017. He previously graduated with an MSc in Bioinformatics and Theoretical Systems Biology from Imperial College London.</p>
 
 <p>He was working as a member of the STOP HCV consortium under the supervision of Prof. Daniel Wilson and Prof. Ellie Barnes. His work focuses on genome-wide association studies into the development of cirrhosis in hepatitis C infected patients. The project integrated host and virus genetic data together with epidemiological records into the analysis.<p>
 
 <img id="Nicolas Arning" align="right" src="https://users.ox.ac.uk/~sjoh1120/files/mugshots/Nicolas-Arning.png">
-<h3>Nicolas Arning</h3>
+<h3>Dr Nicolas Arning</h3>
 <p>Nick completed his DPhil with the Interdisciplinary Biosciences Doctoral Training Partnership and the Wilson lab. His work focused on using different Machine learning techniques in order to attribute sources to <i>Campylobacter jejuni</i> sequencing samples or genomes, and analysis of risk factors for COVID-19 in UK Biobank.</p>
 
 <p>Nick received a MSc from the Westfaelische-Wilhelms Universitaet (WWU) working on comparative genomics within Blattodea. He additionaly studied at the University of British Columbia reconstructing ancestral sequences within the nitroreductase superfamily. He received his BSc also from the WWU during which he also studied  at the University of Sheffield. His BSc project was developing a pipeline for the analysis of de novo genes.</p>
 
 <img id="Kasia Parfitt" align="right" src="https://users.ox.ac.uk/~sjoh1120/files/mugshots/Kasia-Parfitt.jpg">
-<h3>Kasia Parfitt</h3>
+<h3>Dr Kasia Parfitt</h3>
 <p>Kasia was a Research Assistant working in the Nuffield Department of Population Health at Oxford's John Radcliffe Hospital. She is researching alongside Justine Rudkin on the switch of <i>S. aureus</i> from commensal to pathogen, joining the group in mid-2022.</p>
 
 <p>She holds a BSc and MSc in Microbiology and had recently finished her PhD studying Burkholderia multivorans population biology, using next generation sequencing approaches, at Cardiff University.</p>
@@ -102,7 +102,7 @@ serve on the front line in Ireland during the COVID-19 pandemic.</p>
 <p>Alejandra did an integrated PhD in Next Generation Computational Modelling with the Centre for Doctoral Training at the University of Southampton funded by Engineering and Physical Sciences Research Council (EPSRC), UK and The National Council Science and Technology (CONACyT), Mexico. Alejandra undertook her research project within the genomic informatics group under the supervision of Professor Andrew Collins and Dr Reuben Pengelly, working on the application of mathematical tools for analysis of genome function, linkage disequilibrium structure and disease gene prediction.</p>
 
 <img id="Joshua Thomas" align="right" src="https://users.ox.ac.uk/~sjoh1120/files/mugshots/Joshua-Thomas.jpg">
-<h3>Joshua Thomas</h3>
+<h3>Dr Joshua Thomas</h3>
 <p>Josh is a former <i>D.Phil.</i> student based in the Department of Zoology, supervised by Prof. Ashleigh Griffin, 
 Dr. Melanie Ghoul, and Dr. Daniel Wilson. His work focused on understanding the role of antimicrobial 
 production by <i>Staphylococcus aureus</i> in the human nasal cavity, particularly from an ecological and 
