@@ -1,0 +1,5 @@
+<h2>Minos: variant adjudication and joint genotyping of cohorts of bacterial genomes</h2>
+<p>Hunt, M., Letcher, B., Malone, K. M., Nguyen, G., Hall, M. B., and colleagues [includes CRyPTIC consortium authorship] (2022)<br>
+<i>Genome Biology</i> <b>23</b>: 147 (<a href="https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02714-x">pdf</a> <a href="https://www.biorxiv.org/content/10.1101/2021.09.15.460475v1">preprint</a>)
+
+<p>There are many short-read variant-calling tools, with different strengths and weaknesses. We present a tool, Minos, which combines outputs from arbitrary variant callers, increasing recall without loss of precision. We benchmark on 62 samples from three bacterial species and an outbreak of 385 <i>Mycobacterium tuberculosis</i> samples. Minos also enables joint genotyping; we demonstrate on a large (N=13k) <i>M. tuberculosis</i> cohort, building a map of non-synonymous SNPs and indels in a region where all such variants are assumed to cause rifampicin resistance. We quantify the correlation with phenotypic resistance and then replicate in a second cohort (N=10k).</p>

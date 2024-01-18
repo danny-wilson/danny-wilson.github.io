@@ -1,3 +1,7 @@
+cryptic_bash_2022.txt	BashTheBug volunteers reproducibly measure minimum inhibitory concentrations of 13 drugs from photographs
+cryptic_minos_2022.txt	Minos: variant adjudication and joint genotyping of cohorts of bacterial genomes
+cryptic_target_gene_2024.txt	Mycobacterium tuberculosis genetic determinants of resistance in a target gene approach
+sonnenkalb_etal_2023.txt	Bedaquiline and clofazimine resistance in Mycobacterium tuberculosis
 pascoe_etal_2024.txt	Machine learning the source of Campylobacter infection in the USA
 arning_etal_2024.txt	Identifying direct risk factors in UK Biobank with Doublethink
 fryer_etal_2024.txt	Doublethink: simultaneous Bayesian-frequentist model-averaged hypothesis testing

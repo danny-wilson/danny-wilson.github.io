@@ -4,6 +4,10 @@
 <!--		For manuscripts currently under review <a href="preprints.html">click here</a>-->
 		</p>
 
+		<p>The CRyPTIC Consortium (2024)<br>
+		<b>Quantitative measurement of antibiotic resistance in <i>Mycobacterium tuberculosis</i> reveals genetic determinants of resistance and susceptibility in a target gene approach</b><br>
+		<i>Nature Communications</i> <b>15</b>: 488 (<a href="abstracts/cryptic_target_gene_2024.html">abstract</a> <a href="https://www.nature.com/articles/s41467-023-44325-5">pdf</a> <a href="http://www.crypticproject.org/wp-content/uploads/2021/09/CRyPTIC5-MIC-preprint.pdf">preprint</a>)
+
 		<p>Arning, N., Fryer, H. R. and D. J. Wilson (2024)<br>
 		<b>Identifying direct risk factors in UK Biobank with simultaneous Bayesian-frequentist model-averaged hypothesis testing using Doublethink</b><br>
 		<i>medRxiv</i> <b>doi</b>: 10.1101/2024.01.01.24300687 (<a href="abstracts/arning_etal_2024.html">abstract</a> <a href="https://www.medrxiv.org/content/10.1101/2024.01.01.24300687v1">preprint</a>)
@@ -28,6 +32,10 @@ Allen, N., Oliver, I. and D. H. Wyllie (2023)<br>
 		<p>Antonaru, L. A., Selinger, V. M., Jung, P., Di Stefano, G., Sanderson, N. D., Barker, L., Wilson, D. J., Büdel, B., Canniffe, D. P., Billi, D. and D. J. Nürnberg (2023)<br>
 		<b>Common loss of far-red light photoacclimation in cyanobacteria from hot and cold deserts: a case study in the <i>Chroococcidiopsidales</i></b><br>
 		<i>ISME Communications</i> <b>3</b>: 113 (<a href="abstracts/antonaru_etal_2023.txt">abstract</a> <a href="https://www.nature.com/articles/s43705-023-00319-4">pdf</a>)
+
+		<p>Sonnenkalb, L., Carter, J. J., Spitaleri, A., Iqbal, Z., Hunt, M., and colleagues [includes CRyPTIC consortium authorship] (2023)<br>
+		<b>Bedaquiline and clofazimine resistance in Mycobacterium tuberculosis: an in-vitro and in-silico data analysis</b><br>
+		<i>Lancet Microbe</i> <b>4</b>:E358-E368 (<a href="abstracts/sonnenkalb_etal_2023.html">abstract</a> <a href="https://www.thelancet.com/journals/lanmic/article/PIIS2666-5247(23)00002-2">pdf</a>)
 
 		<p>The CRyPTIC Consortium (2022)<br>
 		<b>Genome-wide association studies of global <i>Mycobacterium tuberculosis</i> resistance to 13 antimicrobials in 10,228 genomes identify new resistance mechanisms</b><br>
@@ -64,6 +72,14 @@ Allen, N., Oliver, I. and D. H. Wyllie (2023)<br>
 		<p>Muloi, D. M., Wee, B. A., McClean, D. M. H., Ward, M. J., Pankhurst, L., Phan, H., Ivens, A. C., Kivali, V., Kiyong'a, A., Ndinda, C., Gitahi, N., Ouko, T., Hassell, J. M., Imboma, T., Akoko, J., Murungi, M. K., Njoroge, S. M., Muinde, P., Nakamura, Y., Alumasa, L., Furmaga, E., Kaitho, T., &Ouml;hgren, E. M., Amanya, F., Ogendo, A., Wilson, D. J., Bettridge, J. M., Kiiru, J., Kyobutungi, C., Tacoli, C., Kang’ethe, E. K., Davila, J. D., Kariuki, S., Robinson, T. P., Rushton, J., Woolhouse, M. E. J. and E. M. F&egrave;vre (2022)<br>
 		<b>Population genomics of <i>Escherichia coli</i> in livestock-keeping households across a rapidly developing urban landscape</b><br>
 		<i>Nature Microbiology</i> <b>7</b>: 581-589 (<a href="abstracts/muloi_etal_2022.html">abstract</a> <a href="https://www.nature.com/articles/s41564-022-01079-y">pdf</a>)
+
+		<p>Hunt, M., Letcher, B., Malone, K. M., Nguyen, G., Hall, M. B., and colleagues [includes CRyPTIC consortium authorship] (2022)<br>
+		<b>Minos: variant adjudication and joint genotyping of cohorts of bacterial genomes</b><br>
+		<i>Genome Biology</i> <b>23</b>: 147 (<a href="abstracts/cryptic_minos_2022.html">abstract</a> <a href="https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02714-x">pdf</a> <a href="https://www.biorxiv.org/content/10.1101/2021.09.15.460475v1">preprint</a>)
+
+		<p>Fowler, P. W., Wright, C., Spiers, H., Zhu, T., Baeten, E. M. L., and colleagues [includes CRyPTIC consortium authorship] (2022)<br>
+		<b>A crowd of BashTheBug volunteers reproducibly and accurately measure the minimum inhibitory concentrations of 13 antitubercular drugs from photographs of 96-well broth microdilution plates</b><br>
+		<i>eLife</i> <b>11</b>: e75046 (<a href="abstracts/cryptic_bash_2022.html">abstract</a> <a href="https://elifesciences.org/articles/75046">pdf</a> <a href="https://www.biorxiv.org/content/10.1101/2021.07.20.453060v3">preprint</a>)
 
 		<p>The COVID-19 Host Genetics Initiative (2021)<br>
 		<b>Mapping the human genetic architecture of COVID-19</b><br>
@@ -115,20 +131,8 @@ href="https://www.nature.com/articles/s41586-021-03767-x">pdf</a>)
 		<i>Nature</i> <b>doi</b>: 10.1038/s41586-020-03065-y (<a href="abstracts/pairo-castineira_etal_2020.html">abstract</a> <a href="https://www.nature.com/articles/s41586-020-03065-y">pdf</a>)
 
 <p>The CRyPTIC Consortium (2021)<br>
-<b>Quantitative measurement of antibiotic resistance in <i>M. tuberculosis</i> reveals genetic determinants of resistance and susceptibility in a target gene approach</b><br>
-Submitted (<a href="http://www.crypticproject.org/wp-content/uploads/2021/09/CRyPTIC5-MIC-preprint.pdf">preprint</a>)
-
-<p>The CRyPTIC Consortium (2021)<br>
 <b>A generalisable approach to drug susceptibility prediction for <i>M. tuberculosis</i> using machine learning and whole-genome sequencing</b><br>
 Submitted (<a href="http://www.crypticproject.org/wp-content/uploads/2021/09/CRyPTIC6-ML-preprint.pdf">preprint</a>)
-
-<p>Fowler, P. W., Wright, C., Spiers, H., Zhu, T., Baeten, E. M. L., Hoosdally, S. W., Gibertoni Cruz, A. L., Roohi, A., Kouchaki, S., Walker, T. M., Peto, T. E. A., Miller, G., Lintott, C., Clifton, D., Crook, D. W., Walker, A. S., The Zooniverse Volunteer Community and The CRyPTIC Consortium (2021)<br>
-<b>BashTheBug: a crowd of volunteers reproducibly and accurately measure the minimum inhibitory concentrations of 13 antitubercular drugs from photographs of 96-well broth microdilution plates</b><br>
-<i>biorXiv</i> <b>doi</b>: 10.1101/2021.07.20.453060 (<a href="https://www.biorxiv.org/content/10.1101/2021.07.20.453060v3">preprint</a>)
-
-<p>Hunt, M., Letcher, B., Malone, K. M., Nguyen, G., Hall, M. B., Colquhoun, R. M., Lima, L., Schatz, M., Ramakrishnan, S., The CRyPTIC Consortium and Z. Iqbal (2021)<br>
-<b>Minos: variant adjudication and joint genotyping of cohorts of bacterial genomes</b><br>
-<i>bioRxiv</i> <b>doi</b>: 10.1101/2021.09.15.460475 (<a href="https://www.biorxiv.org/content/10.1101/2021.09.15.460475v1">preprint</a>)
 
 		<p>D. J. Wilson and The CRyPTIC Consortium (2020)<br>
 		<b>GenomegaMap: within-species genome-wide <i>d<sub>N</sub>/d<sub>S</sub></i> estimation from over 10,000 genomes</b><br>
