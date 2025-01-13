@@ -1,6 +1,6 @@
-<h2>Machine learning the source of Campylobacter infection in the United States of America</h2>
-<p>Pascoe, B., Futcher, G., Pensar, J., Bayliss, S.C., Mourkas, E., Calland, J.K., Hitchings, M.D., Joseph, L.A., Lane, C.G., Greenlee, T., Arning, N., Wilson, D. J., Jolley, K., Corander, J., Maiden, M. C. J., Parker, C. T., Cooper, K. K., Rose, E. B., Hiett, K., Bruce, B. B. and S. K. Sheppard (2023)<br>
-<i>SSRN</i> <b>doi</b>: 10.2139/ssrn.4671846 (<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4671846">preprint</a>)
+<h2>Machine learning to attribute the source of <i>Campylobacter infections</i> in the United States: A retrospective analysis of national surveillance data</h2>
+<p>Pascoe, B., Futcher, G., Pensar, J., Bayliss, S.C., Mourkas, E., Calland, J.K., Hitchings, M.D., Joseph, L.A., Lane, C.G., Greenlee, T., Arning, N., Wilson, D. J., Jolley, K., Corander, J., Maiden, M. C. J., Parker, C. T., Cooper, K. K., Rose, E. B., Hiett, K., Bruce, B. B. and S. K. Sheppard (2024)<br>
+<i>Journal of Infection</i> <b>89</b>: 106265 (<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4671846">preprint</a> <a href="https://www.sciencedirect.com/science/article/pii/S0163445324001993">pdf</a>)
 
 <p>Background: Combined pathogen genomic surveillance and bioinformatic analyses has the potential to inform public health risk and targeted interventions. In this study, we analyse the two most common pathogenic Campylobacter species in human gastrointestinal infection. These enteric bacteria are ubiquitous in the gut of birds and mammals and commonly infect humans via consumption of contaminated food. Rising incidence and antimicrobial resistance (AMR) are a major global concern and there is an urgent need to identify quantify the routes to human infection.</p>
 

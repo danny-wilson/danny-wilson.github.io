@@ -1,0 +1,20 @@
+<h2>Independent repeated mutations within the alphaviruses Ross River virus and Barmah Forest virus indicates convergent evolution and past positive selection in ancestral populations despite ongoing purifying selection</h2>
+<p>Pyke, A. T., Wilson, D. J., Michie, A., Mackenzie, J. S., Imrie, A., Cameron, J., Doggett, S. L., Haniotis, J., Herrero, L. J., Caly, L., Lynch, S. E., Mee, P. T., Madzokere, E. T., Ramirez, A. L., Paramitha, D., Hobson-Peters, J., Smith, D. W., Weir, R., Sullivan, M., Druce, J., Melville, L., Robson, J., Gibb, R., Van Den Hurk, A. F. and S. Duchene (2024)</br>
+<i>Virus Evolution</i> <b>10</b>: veae080 (<a href="https://academic.oup.com/ve/article/10/1/veae080/7756716">pdf</a>)
+
+<p>Ross River virus (RRV) and Barmah Forest virus (BFV) are arthritogenic arthropod-borne viruses (arboviruses) 
+    that exhibit generalist host associations and share distributions in Australia and Papua New Guinea (PNG). 
+    Using stochastic mapping and discrete-trait phylogenetic analyses, we profiled the independent evolution of RRV and 
+    BFV signature mutations. Analysis of 186 RRV and 88 BFV genomes demonstrated their viral evolution trajectories have 
+    involved repeated selection of mutations, particularly in the nonstructural protein 1 (nsP1) and envelope 3 (E3) genes 
+    suggesting convergent evolution. Convergent mutations in the nsP1 genes of RRV (residues 248 and 441) and BFV (residues 
+    297 and 447) may be involved with catalytic enzyme mechanisms and host membrane interactions during viral RNA replication 
+    and capping. Convergent E3 mutations (RRV site 59 and BFV site 57) may be associated with enzymatic furin activity and 
+    cleavage of E3 from protein precursors assisting viral maturation and infectivity. Given their requirement to replicate 
+    in disparate insect and vertebrate hosts, convergent evolution in RRV and BFV may represent a dynamic link between their 
+    requirement to selectively ‘fine-tune’ intracellular host interactions and viral replicative enzymatic processes. Despite 
+    evidence of evolutionary convergence, selection pressure analyses did not reveal any RRV or BFV amino acid sites under 
+    strong positive selection and only weak positive selection for nonstructural protein sites. These findings may indicate 
+    that their alphavirus ancestors were subject to positive selection events which predisposed ongoing pervasive convergent 
+    evolution, and this largely supports continued purifying selection in RRV and BFV populations during their replication in 
+    mosquito and vertebrate hosts.</p>
