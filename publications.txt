@@ -22,7 +22,7 @@
 
 		<p>The CRyPTIC Consortium (2024)<br>
 		<b>Quantitative drug susceptibility testing for <i>Mycobacterium tuberculosis</i> using unassembled sequencing data and machine learning</b><br>
-		<i>PLOS Genetics</i> <b>20</b>: e1012260 (<a href="abstracts/cryptic_ml_2024.html">abstract</a> <a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012260">pdf</a>)
+		<i>PLOS Computational Biology</i> <b>20</b>: e1012260 (<a href="abstracts/cryptic_ml_2024.html">abstract</a> <a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012260">pdf</a>)
 
 		<p>Pascoe, B., Futcher, G., Pensar, J., Bayliss, S.C., Mourkas, E., Calland, J.K., Hitchings, M.D., Joseph, L.A., Lane, C.G., Greenlee, T., Arning, N., Wilson, D. J., Jolley, K., Corander, J., Maiden, M. C. J., Parker, C. T., Cooper, K. K., Rose, E. B., Hiett, K., Bruce, B. B. and S. K. Sheppard (2024)<br>
 		<b>Machine learning to attribute the source of <i>Campylobacter infections</i> in the United States: A retrospective analysis of national surveillance data</b><br>
