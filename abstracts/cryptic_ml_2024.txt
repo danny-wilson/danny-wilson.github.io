@@ -1,0 +1,19 @@
+<h2>Quantitative drug susceptibility testing for <i>Mycobacterium tuberculosis</i> using unassembled sequencing data and machine learning</h2>
+<p>The CRyPTIC Consortium (2024)<br>
+<i>PLOS Genetics</i> <b>20</b>: e1012260 (<a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012260">pdf</a>)
+
+<p>There remains a clinical need for better approaches to rapid drug susceptibility testing in view of the increasing burden of multidrug 
+    resistant tuberculosis. Binary susceptibility phenotypes only capture changes in minimum inhibitory concentration when these cross the 
+    critical concentration, even though other changes may be clinically relevant. We developed a machine learning system to predict minimum 
+    inhibitory concentration from unassembled whole-genome sequencing data for 13 anti-tuberculosis drugs. We trained, validated and tested 
+    the system on 10,859 isolates from the CRyPTIC dataset. Essential agreement rates (predicted MIC within one doubling dilution of observed 
+    MIC) were above 92% for first-line drugs, 91% for fluoroquinolones and aminoglycosides, and 90% for new and repurposed drugs, albeit with 
+    a significant drop in performance for the very few phenotypically resistant isolates in the latter group. To further validate the model 
+    in the absence of external MIC datasets, we predicted MIC and converted values to binary for an external set of 15,239 isolates with 
+    binary phenotypes, and compare their performance against a previously validated mutation catalogue, the expected performance of existing 
+    molecular assays, and World Health Organization Target Product Profiles. The sensitivity of the model on the external dataset was greater 
+    than 90% for all drugs except ethionamide, clofazimine and linezolid. Specificity was greater than 95% for all drugs except ethambutol, 
+    ethionamide, bedaquiline, delamanid and clofazimine. The proposed system can provide quantitative susceptibility phenotyping to help guide 
+    antimicrobial therapy, although further data collection and validation are required before machine learning can be used clinically for all 
+    drugs.</p>
+    
