@@ -1,4 +1,5 @@
 lees_etal_2025.txt	Multiple introductions of Staphylococcus capitis to the neonatal intensive care unit drive bloodstream infections
+cryptic_ml_2024.txt	Quantitative drug susceptibility testing for tuberculosis using unassembled sequencing data and machine learning
 pyke_etal_2024.txt	Convergent evolution and past positive selection in the alphaviruses Ross River virus and Barmah Forest virus
 cryptic_bash_2022.txt	BashTheBug volunteers reproducibly measure minimum inhibitory concentrations of 13 drugs from photographs
 cryptic_minos_2022.txt	Minos: variant adjudication and joint genotyping of cohorts of bacterial genomes
