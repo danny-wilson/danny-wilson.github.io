@@ -1,7 +1,7 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html>
 <head>
-	<title>Identifying direct risk factors in UK Biobank with Doublethink</title>
+	<title>Quantitative drug susceptibility testing for tuberculosis using unassembled sequencing data and machine learning</title>
 	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 	<link rel="StyleSheet" href="style.css" type="text/css" media="screen">
 	<SCRIPT LANGUAGE="JAVASCRIPT" TYPE="TEXT/JAVASCRIPT">
@@ -37,26 +37,25 @@
 		
 	</div>
 	<div id="content">
-		<h2>Identifying direct risk factors in UK Biobank with simultaneous Bayesian-frequentist model-averaged hypothesis testing using Doublethink</h2>
-		<p>Arning, N., Fryer, H. R. and D. J. Wilson (2025)<br>
-		<i>medRxiv</i> <b>doi</b>: 10.1101/2024.01.01.24300687 (<a href="https://www.medrxiv.org/content/10.1101/2024.01.01.24300687v2">preprint</a>)
+		<h2>Quantitative drug susceptibility testing for <i>Mycobacterium tuberculosis</i> using unassembled sequencing data and machine learning</h2>
+		<p>The CRyPTIC Consortium (2024)<br>
+		<i>PLOS Computational Biology</i> <b>20</b>: e1012260 (<a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012260">pdf</a>)
 		
-		<p>Big data approaches to discovering non-genetic risk factors have lagged behind genome-wide association studies that routinely uncover novel genetic 
-		    risk factors for diverse diseases. Instead, epidemiology typically focuses on candidate risk factors. Since modern biobanks contain thousands of 
-		    potential risk factors, candidate approaches may introduce bias, inadequately control for multiple testing, and overlook important signals. 
-		    Doublethink, a novel model-averaged hypothesis testing approach, offers a solution that simultaneously controls the Bayesian false discovery rate 
-		    (FDR) and frequentist familywise error rate (FWER) while accounting for uncertainty in variable selection. Here we investigate direct risk factors 
-		    for COVID-19 hospitalization from among 1,912 variables in 201,917 UK Biobank participants by implementing a Doublethink-based exposome-wide 
-		    association study using Markov Chain Monte Carlo. Focusing on the 2020 outbreak, we find nine individual variables and six groups of variables 
-		    exposome-wide significant at 9% FDR and 0.05% FWER. We identify significant direct effects among relatively overlooked risk factors including 
-		    psychiatric disorders, dementia and prior infection, which we evaluate in relation to studies of other populations. We detect significant direct 
-		    effects among some commonly reported risk factors like age, sex and obesity, but not others like diabetes, cardiovascular disease, hypertension, 
-		    which may be mediated instead through variables representing general comorbidity. Doublethink produces interchangeable posterior odds and p-values 
-		    for individual variables and arbitrary groups, facilitating flexible and powerful post-hoc hypothesis testing. We discuss the potential for impact 
-		    and limitations of joint Bayesian-frequentist hypothesis testing, including the benefits of an agnostic exposome-wide approach to discovery.</p>
-		
-		<p>See also <a href="fryer_etal_2024.html">Fryer, Arning and Wilson (2025)</a>.</p>
-		
+		<p>There remains a clinical need for better approaches to rapid drug susceptibility testing in view of the increasing burden of multidrug 
+		    resistant tuberculosis. Binary susceptibility phenotypes only capture changes in minimum inhibitory concentration when these cross the 
+		    critical concentration, even though other changes may be clinically relevant. We developed a machine learning system to predict minimum 
+		    inhibitory concentration from unassembled whole-genome sequencing data for 13 anti-tuberculosis drugs. We trained, validated and tested 
+		    the system on 10,859 isolates from the CRyPTIC dataset. Essential agreement rates (predicted MIC within one doubling dilution of observed 
+		    MIC) were above 92% for first-line drugs, 91% for fluoroquinolones and aminoglycosides, and 90% for new and repurposed drugs, albeit with 
+		    a significant drop in performance for the very few phenotypically resistant isolates in the latter group. To further validate the model 
+		    in the absence of external MIC datasets, we predicted MIC and converted values to binary for an external set of 15,239 isolates with 
+		    binary phenotypes, and compare their performance against a previously validated mutation catalogue, the expected performance of existing 
+		    molecular assays, and World Health Organization Target Product Profiles. The sensitivity of the model on the external dataset was greater 
+		    than 90% for all drugs except ethionamide, clofazimine and linezolid. Specificity was greater than 95% for all drugs except ethambutol, 
+		    ethionamide, bedaquiline, delamanid and clofazimine. The proposed system can provide quantitative susceptibility phenotyping to help guide 
+		    antimicrobial therapy, although further data collection and validation are required before machine learning can be used clinically for all 
+		    drugs.</p>
+		    
 	</div>
 	<div id="footer">
 		<table width=100% border=0>

@@ -38,16 +38,22 @@
 	</div>
 	<div id="content">
 		<h2>Doublethink: simultaneous Bayesian-frequentist model-averaged hypothesis testing</h2>
-		<p>Fryer, H. R., Arning, N. and D. J. Wilson (2023)<br>
+		<p>Fryer, H. R., Arning, N. and D. J. Wilson (2025)<br>
 		<i>arXiv</i> <b>doi</b>: 10.48550/arXiv.2312.17566 (<a href="https://arxiv.org/abs/2312.17566">preprint</a>)
 		
-		<p>Bayesian model-averaged hypothesis testing is an important technique in regression because it addresses the problem that the evidence one variable directly affects an outcome often depends on which other variables are included in the model. This problem is caused by confounding and mediation, and is pervasive in big data settings with thousands of variables. However, model-averaging is under-utilized in fields, like epidemiology, where classical statistical approaches dominate. 
+		<p>Establishing the frequentist properties of Bayesian approaches widens their appeal and offers new understanding. In hypothesis testing, 
+		    Bayesian model averaging addresses the problem that conclusions are sensitive to variable selection. But Bayesian false discovery rate 
+		    (FDR) guarantees are sensitive to subjective prior assumptions. Here we show that Bayesian model-averaged hypothesis testing is a closed 
+		    testing procedure that controls the frequentist familywise error rate (FWER) in the strong sense. To quantify the FWER, we use the theory 
+		    of regular variation and likelihood asymptotics to derive a chi-squared tail approximation for the model-averaged posterior odds. 
+		    Convergence is pointwise as the sample size grows and, in a simplified setting subject to a minimum effect size assumption, uniform. 
+		    The 'Doublethink' method computes simultaneous posterior odds and asymptotic $p$-values for model-averaged hypothesis testing. We explore 
+		    Doublethink through a Mendelian randomization study and simulations, comparing to approaches like LASSO, stepwise regression, the 
+		    Benjamini-Hochberg procedure, the harmonic mean <i>p</i>-value and $e$-values. We consider the limitations of the approach, including 
+		    finite-sample inflation, and mitigations, like testing groups of correlated variables. We discuss the benefits of Doublethink, including 
+		    post-hoc variable selection, and its wider implications for the theory and practice of hypothesis testing.</p>
 		
-		Here we show that simultaneous Bayesian and frequentist model-averaged hypothesis testing is possible in large samples, for a family of priors. We show that Bayesian model-averaged regression is a closed testing procedure, and use the theory of regular variation to derive interchangeable posterior odds and <i>p</i>-values that jointly control the Bayesian false discovery rate (FDR), the frequentist type I error rate, and the frequentist familywise error rate (FWER). These results arise from an asymptotic chi-squared distribution for the model-averaged deviance, under the null hypothesis.
-		
-		We call the approach 'Doublethink'. In a related manuscript (Arning, Fryer and Wilson 2024), we apply it to discovering direct risk factors for COVID-19 hospitalization in UK Biobank, and we discuss its broader implications for bridging the differences between Bayesian and frequentist hypothesis testing.</p>
-		
-		<p>See also <a href="arning_etal_2024.html">Arning, Fryer and Wilson (2024)</a>.</p>
+		<p>See also <a href="arning_etal_2024.html">Arning, Fryer and Wilson (2025)</a>.</p>
 		
 	</div>
 	<div id="footer">
