@@ -18,7 +18,7 @@
 
 		<p>Sheppard, S. K., Arning, N., Eyre, D. W. and D. J. Wilson (2025)<br>
 		<b>Machine learning and statistical inference in microbial population genomics</b><br>
-		<i>Genome Biology</i> <i>in press</i> (<a href="abstracts/sheppard_etal_2025.html"> abstract</a>)
+		<i>Genome Biology</i>, in press (<a href="abstracts/sheppard_etal_2025.html"> abstract</a>)
 
 		<p>Lees, E. A., Gentry, J., Webster, H., Sanderson, N., Eyre, D., Wilson, D., Lipworth, S., Crook, D., Wong, T. H. N., Mark, A., Jeffery, K., Paulus, S. and B. C. Young (2025)<br>
 		<b>Multiple introductions of NRCS-A <i>Staphylococcus capitis</i> to the neonatal intensive care unit drive neonatal bloodstream infections: a case-control and environmental genomic survey</b><br>

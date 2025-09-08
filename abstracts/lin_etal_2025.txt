@@ -1,0 +1,28 @@
+<h2>Assessing the value of linking public health microbiology data to the UK Biobank</h2>
+<p>Lin, S.-K., Armstrong, J., Chong, A. Y., Butler-Laporte, G., Allen, N. E., 
+Mentzer, A. J., Wyllie, D. H. and D. J. Wilson (2025)<br>
+<i>medRxiv</i> <b>doi</b>: 10.1101/2025.07.01.25330627 (<a href="https://www.medrxiv.org/content/10.1101/2025.07.01.25330627v1">preprint</a>)
+
+<p>Infection is important both as a cause of communicable diseases and as an 
+exposure predisposing to non-communicable diseases. Investigating disease risk 
+is a major research focus in large cohorts like UK Biobank. Linking cohorts to 
+electronic health records, like the UK Health Security Agency's Second 
+Generation Surveillance System (SGSS), can enhance infection research. SGSS 
+collects infection data from &tilde;200 microbiology laboratories across England, 
+supporting surveillance, outbreak detection, and antimicrobial resistance 
+monitoring.</p>
+
+<p>We previously described algorithms linking SGSS to UK Biobank and 
+demonstrated their utility during the COVID-19 pandemic. Here, we assess the 
+value of SGSS for infection research by comparing it to Hospital Episode 
+Statistics (HES), a centralized clinical dataset on hospital admissions already 
+available in UK Biobank. Genome-wide association studies (GWAS) were used to 
+evaluate the performance of SGSS microbiological diagnoses versus HES 
+diagnostic codes for identifying infection outcomes.</p>
+
+<p>SGSS contained substantially more infection records than HES by participant 
+(82,888 vs 18,054), particularly for bacteria (excepting Helicobacter pylori 
+and Mycobacterium tuberculosis). SGSS yielded more GWAS hits (31 vs 12) 
+encompassing more pathogens (12 vs 8). Our findings demonstrate the high 
+scientific added-value of SGSS above and beyond that of HES, supporting its 
+integration in UK Biobank for future infection research.</p>

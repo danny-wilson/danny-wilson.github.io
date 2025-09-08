@@ -1,3 +1,5 @@
+lin_etal_2025.txt	Assessing the value of linking public health microbiology data to the UK Biobank
+sheppard_etal_2025.txt	Machine learning and statistical inference in microbial population genomics
 lees_etal_2025.txt	Multiple introductions of Staphylococcus capitis to the neonatal intensive care unit drive bloodstream infections
 cryptic_ml_2024.txt	Quantitative drug susceptibility testing for tuberculosis using unassembled sequencing data and machine learning
 pyke_etal_2024.txt	Convergent evolution and past positive selection in the alphaviruses Ross River virus and Barmah Forest virus

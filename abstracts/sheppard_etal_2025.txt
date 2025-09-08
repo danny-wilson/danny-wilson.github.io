@@ -1,0 +1,15 @@
+<h2>Machine learning and statistical inference in microbial population genomics</h2>
+<p>Sheppard, S. K., Arning, N., Eyre, D. W. and D. J. Wilson (2025)<br>
+<i>Genome Biology</i>, in press
+
+<p>The availability of large genome datasets has changed the microbiology 
+research landscape. Analysing such data requires computationally demanding 
+analyses and new approaches have come from different data analysis 
+philosophies. Machine learning and statistical inference have overlapping 
+knowledge discovery aims and approaches. However, machine learning focuses on 
+optimizing prediction, whereas statistical inference focuses on understanding 
+the processes relating variables. In this review, we outline the different 
+aspirations, precepts, and resulting methodologies, with examples from 
+microbial genomics. Emphasizing complementarity, we argue that the combination 
+and synthesis of machine learning and statistics has potential for pathogen 
+research in the big data era.</p>
