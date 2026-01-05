@@ -1,3 +1,4 @@
+arning_etal_2026.txt	Identifying direct risk factors in UK Biobank via Doublethink
 lin_etal_2025.txt	Assessing the value of linking public health microbiology data to the UK Biobank
 sheppard_etal_2025.txt	Machine learning and statistical inference in microbial population genomics
 lees_etal_2025.txt	Multiple introductions of Staphylococcus capitis to the neonatal intensive care unit drive bloodstream infections
@@ -8,7 +9,6 @@ cryptic_minos_2022.txt	Minos: variant adjudication and joint genotyping of cohor
 cryptic_target_gene_2024.txt	Mycobacterium tuberculosis genetic determinants of resistance in a target gene approach
 sonnenkalb_etal_2023.txt	Bedaquiline and clofazimine resistance in Mycobacterium tuberculosis
 pascoe_etal_2024.txt	Machine learning the source of Campylobacter infection in the USA
-arning_etal_2024.txt	Identifying direct risk factors in UK Biobank with Doublethink
 fryer_etal_2024.txt	Doublethink: simultaneous Bayesian-frequentist model-averaged hypothesis testing
 antonaru_etal_2023.txt	Common loss of far-red light photoacclimation in cyanobacteria from hot and cold deserts
 covid19hgi_2023.txt	A second update on mapping the human genetic architecture of COVID-19
