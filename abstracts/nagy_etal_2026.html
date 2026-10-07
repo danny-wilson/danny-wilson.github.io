@@ -1,7 +1,7 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html>
 <head>
-	<title>Coalescent Inference for Infectious Disease</title>
+	<title>Optimising sampling frames for genomic surveillance of E. coli and Klebsiella spp. bloodstream infections</title>
 	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 	<link rel="StyleSheet" href="style.css" type="text/css" media="screen">
 	<SCRIPT LANGUAGE="JAVASCRIPT" TYPE="TEXT/JAVASCRIPT">
@@ -37,23 +37,19 @@
 		
 	</div>
 	<div id="content">
-		<h2>Coalescent-based methods for infectious disease: a meta-analysis of hepatitis C virus epidemiology</h2>
-		<p>Dearlove, B. L. and D. J. Wilson (2013)<br>
-		<i>Philosophical Transactions of the Royal Society B</i> <b>368</b>: 20120314. (<a href="https://doi.org/10.1098/rstb.2012.0314">pdf</a> <a href="http://code.google.com/p/beast-mcmc/">BEAST</a>)
-				      
-		<p>Genetic analysis of pathogen genomes is a powerful approach to investigating the population dynamics and
-		epidemic history of infectious diseases. However, the theoretical underpinnings of the most widely used,
-		coalescent methods have been questioned, casting doubt on their interpretation. The aim of this paper is to
-		develop robust population genetic inference for compartmental models in epidemiology. Using a general
-		approach based on the theory of metapopulations, we derive coalescent models under SI, SIS and SIR
-		dynamics. We show that exponential and logistic growth models are equivalent to SI and SIS models
-		respectively when co-infection is negligible. Implementing SI, SIS and SIR models in BEAST, we conduct a
-		meta-analysis of hepatitis C epidemics, and show that we can directly estimate the basic reproductive number
-		(<i>R</i><sub>0</sub>) and prevalence under SIR dynamics. We find that differences in genetic diversity between epidemics
-		can be explained by differences in underlying epidemiology (age of the epidemic and local population
-		density) and viral subtype. Model comparison reveals SIR dynamics in three globally restricted epidemics,
-		but most are better fit by the simpler SI dynamics. In summary, metapopulation models provide a general and
-		practical framework for integrating epidemiology and population genetics for the purposes of joint inference.</p>
+		<h2>How much is enough? Optimising sampling frames for genomic surveillance of <i>Escherichia coli</i> and <i>Klebsiella spp.</i> bloodstream infections - a retrospective study</h2>
+		<p>Nagy, D., The NEKSUS Consortium, Hopkins, S., Crook, D., Walker, A. S., Robotham, J., Hopkins, K. L., Ledda, A., Wilson, D. J., Williams, D., Hope, R., Brown, C. S., Stoesser, N. and S. Lipworth(2026)<br>
+		<i>medRxiv</i> <b>doi</b>: 10.64898/2026.09.28.26364154 (<a href="https://www.medrxiv.org/content/10.64898/2026.09.28.26364154v1">preprint</a>)
+		
+		<p><b>Background</b> Optimising sampling frames for genomic surveillance of E. coli and Klebsiella may support interventions to mitigate bloodstream infections (BSIs), but approaches to estimating sample size and how these relate to bacterial population diversity at multiple genetic levels (strain/plasmid/antimicrobial resistance genes [ARGs]) are lacking.</p>
+		
+		<p><b>Methods</b> Using systematically collected, regionally-stratified, whole genome sequencing data from a 6-month genomic survey of English E. coli / Klebsiella BSI isolates (n=1,939; NEKSUS), we used Bayesian approaches to estimate the sample sizes required to capture genetic diversity at strain-(MLST, fastBAPS clusters), plasmid- and ARG-levels, using two diversity measures: ‘coverage’ (i.e. proportion of the bacterial population/plasmids/ARGs represented by features observed in the sample), and the number/proportion of unique features observed at varying surveillance sample sizes. Our method is available as a user-friendly R Shiny application, EpiSENTRY (&lt;https://01a0c3dd-90d2-e597-58a5-51391a468387.share.connect.posit.cloud/&gt;).</p>
+		
+		<p><b>Findings</b> Randomly sampling 1,400 E. coli / Klebsiella BSI isolates each achieved ≥80% coverage of bacterial lineages and ARGs (i.e. capture features constituting ≥80% of the population) at 95% certainty, but captured lower proportions of unique features (28% MLSTs, 59% fastBAPS clusters, 19% plasmid subcommunities, and 57% ARGs for E. coli; 49%, 87%, 50% and 83% for Klebsiella , respectively). Sample sizes required for 80% coverage of E. coli plasmid populations were higher than MLSTs (1,928[95% CrI:1,837–2,025] vs 1,351[1,230–1,472]), while for Klebsiella , estimates were lower for plasmids (1,115[1,052–1,181] vs 1,422[1,331–1,515] for MLSTs). Lower sample sizes adequately captured 80% coverage of fastBAPS clusters and ARGs (649[575 – 727] and 27[23–30], respectively, for E. coli ; 113[84–145] and 83[72-96] for Klebsiella ), due to feature-specific frequency distributions. Klebsiella BSIs were more diverse than E. coli , with sampling 10.9% vs 3.2% of total annual BSIs in England needed to reach 80% MLST coverage. Plasmid populations and Klebsiella MLSTs were region-specific, emphasising the need for regionally-representative sampling.</p>
+		
+		<p><b>Interpretation</b> Bayesian analysis facilitates estimates of context-specific genomic surveillance sample sizes. Cost-effective targets for coverage require further optimisation.</p>
+		
+		<p><b>Funding</b> National Institute for Health and Social Care Research (NIHR) Health Protection Research Unit in Healthcare Associated Infections and Antimicrobial Resistance (NIHR207397); UKHSA and NIHR Oxford Biomedical Research Centre (BRC); UKHSA PhD Funding Competition; Robertson Fellowship; cloud compute infrastructure for this work was donated by Oracle Corporation Infrastructure.</p>
 		
 	</div>
 	<div id="footer">

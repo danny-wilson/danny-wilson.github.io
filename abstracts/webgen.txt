@@ -1,3 +1,4 @@
+nagy_etal_2026.txt	Optimising sampling frames for genomic surveillance of E. coli and Klebsiella spp. bloodstream infections
 arning_etal_2026.txt	Identifying direct risk factors in UK Biobank via Doublethink
 lin_etal_2025.txt	Assessing the value of linking public health microbiology data to the UK Biobank
 sheppard_etal_2025.txt	Machine learning and statistical inference in microbial population genomics

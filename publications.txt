@@ -10,6 +10,10 @@
 		<a href="https://www.medrxiv.org/content/10.1101/2024.01.01.24300687v2">preprint</a>
 		<a href="https://www.pnas.org/doi/full/10.1073/pnas.2514138122">pdf</a>)
 
+		<p>Nagy, D., The NEKSUS Consortium, Hopkins, S., Crook, D., Walker, A. S., Robotham, J., Hopkins, K. L., Ledda, A., Wilson, D. J., Williams, D., Hope, R., Brown, C. S., Stoesser, N. and S. Lipworth(2026)<br>
+		<b>How much is enough? Optimising sampling frames for genomic surveillance of <i>Escherichia coli</i> and <i>Klebsiella spp.</i> bloodstream infections - a retrospective study</b><br>
+		<i>medRxiv</i> <b>doi</b>: 10.64898/2026.09.28.26364154 (<a href="abstracts/nagy_etal_2026.html">abstract</a> <a href="https://www.medrxiv.org/content/10.64898/2026.09.28.26364154v1">preprint</a>)
+
 		<p>Fryer, H. R., Arning, N. and D. J. Wilson (2025)<br>
 		<b>Doublethink: simultaneous Bayesian-frequentist model-averaged hypothesis testing</b><br>
 		<i>arXiv</i> <b>doi</b>: 10.48550/arXiv.2312.17566 (<a href="abstracts/fryer_etal_2024.html">abstract</a> <a href="https://arxiv.org/abs/2312.17566">preprint</a>)
