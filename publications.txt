@@ -350,7 +350,7 @@ href="https://www.nature.com/articles/s41586-021-03767-x">pdf</a>)
 
 		<p>Dearlove, B. L. and D. J. Wilson (2013)<br>
 				<b>Coalescent-based methods for infectious disease: a meta-analysis of hepatis C virus epidemiology.</b><br>
-				<i>Philosophical Transactions of the Royal Society B</i> <b>368</b>: 20120314. (<a href="abstracts/dearlove_wilson_2013.html">abstract</a> <a href="http://rstb.royalsocietypublishing.org/content/368/1614/20120314.full">pdf</a>)
+				<i>Philosophical Transactions of the Royal Society B</i> <b>368</b>: 20120314. (<a href="abstracts/dearlove_wilson_2013.html">abstract</a> <a href="https://doi.org/10.1098/rstb.2012.0314">pdf</a>)
 
 		<p>Eyre, D. W., Cule, M. L., Griffiths, D., Crook, D. W., Peto, T. E. A., Walker, A. S and D. J. Wilson (2013)<br>
 			 <b>Detection of mixed infection from bacterial whole genome sequence data
